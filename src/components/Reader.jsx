@@ -1,13 +1,20 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { getShabad } from '../database/db.client';
 import { Loader2 } from 'lucide-react';
 
-export default function Reader({ baniId, baniTitle, settings }) {
+export default function Reader({ baniId, settings }) {
   const [lines, setLines] = useState([]);
   const [loading, setLoading] = useState(true);
+  const [prevBaniId, setPrevBaniId] = useState(null);
+  const [prevBaniLength, setPrevBaniLength] = useState(null);
+
+  if (baniId !== prevBaniId || settings.baniLength !== prevBaniLength) {
+    setPrevBaniId(baniId);
+    setPrevBaniLength(settings.baniLength);
+    setLoading(true);
+  }
 
   useEffect(() => {
-    setLoading(true);
     getShabad(baniId, settings.baniLength)
       .then((data) => {
         setLines(data);
@@ -84,7 +91,7 @@ export default function Reader({ baniId, baniTitle, settings }) {
         case 'IPA': return json.ipa;
         default: return null;
       }
-    } catch (e) {
+    } catch {
       return null;
     }
   };
@@ -99,7 +106,7 @@ export default function Reader({ baniId, baniTitle, settings }) {
         case 'SPANISH': return json.es?.bdb || json.es?.sn || null;
         default: return null;
       }
-    } catch (e) {
+    } catch {
       return null;
     }
   };

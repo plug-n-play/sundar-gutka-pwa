@@ -1,14 +1,19 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { getBaniList } from '../database/db.client';
-import { Search, Info, Loader2 } from 'lucide-react';
+import { Search, Loader2 } from 'lucide-react';
 
 export default function BaniList({ onSelectBani, languageSetting }) {
   const [banis, setBanis] = useState([]);
   const [loading, setLoading] = useState(true);
   const [searchQuery, setSearchQuery] = useState('');
+  const [prevLanguageSetting, setPrevLanguageSetting] = useState(null);
+
+  if (languageSetting !== prevLanguageSetting) {
+    setPrevLanguageSetting(languageSetting);
+    setLoading(true);
+  }
 
   useEffect(() => {
-    setLoading(true);
     getBaniList(languageSetting)
       .then((list) => {
         setBanis(list);
