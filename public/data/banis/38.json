@@ -1,0 +1,3622 @@
+[
+  {
+    "ID": 9216,
+    "Seq": 1,
+    "header": 1,
+    "Paragraph": 1,
+    "Gurmukhi": "<> siqgur pRswid]",
+    "Visraam": {
+      "sttm2": [],
+      "sttm": [],
+      "igurbani": []
+    },
+    "Transliterations": {
+      "en": "ikOankaar satigur prasaadh||",
+      "hi": "ੴ सतिगुर प्रसादि॥",
+      "ipa": "ɪk oəŋkɑɾ sət̪ɪGʊr pɹəsɑd̪ɪ.",
+      "ur": "اک اونکار ستگر پرساد۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "One Universal Creator God. By The Grace Of The True Guru:",
+        "ms": "",
+        "ssk": "One Universal Creator God. By The Grace Of The True Guru:"
+      },
+      "pu": {
+        "ss": "",
+        "ft": "",
+        "bdb": "",
+        "ms": ""
+      },
+      "puu": {
+        "ss": "",
+        "ft": "",
+        "bdb": "",
+        "ms": ""
+      },
+      "es": {
+        "sn": "Un Dios Creador Universal, por la Gracia del Verdadero Guru."
+      },
+      "hi": {
+        "ss": "",
+        "sts": "वह अद्वितीय परब्रहा जिसका वाचक ओम् है, केवल एक (ऑकार-स्वरूप) है, गुरु की कृपा से प्राप्त होता है।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9217,
+    "Seq": 2,
+    "header": 2,
+    "Paragraph": 2,
+    "Gurmukhi": "rwg mwlw ]",
+    "Visraam": {
+      "sttm": [],
+      "igurbani": [],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "raag maalaa ||",
+      "hi": "राग माला ॥",
+      "ipa": "rɑG mɑlɑ.",
+      "ur": "راگ مالا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Raag Maalaa:",
+        "ms": "",
+        "ssk": "Raag Maalaa:"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "es": {
+        "sn": "Rag Mala"
+      },
+      "hi": {
+        "ss": "",
+        "sts": "राग माला ॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9218,
+    "Seq": 3,
+    "header": 0,
+    "Paragraph": 3,
+    "Gurmukhi": "rwg eyk sMig pMc brMgn ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "raag ek sa(n)g pa(n)ch bara(n)gan ||",
+      "hi": "राग एक संगि पंच बरंगन ॥",
+      "ipa": "rɑG eek səŋG pəŋt͡ʃ bərəŋGən.",
+      "ur": "راگ اےک سںگ پںچ برںگن ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Each Raga has five wives,",
+        "ms": "",
+        "ssk": "Each Raga has five wives,"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "es": {
+        "sn": "Cada Raga tiene cinco esposas y ocho hijos, "
+      },
+      "hi": {
+        "ss": "भैरव राग की पाँच रागनियाँ। भैरवी। बिलावली। पुंनिआ। बंगली और असलेखी।",
+        "sts": "एक राग के संग उसकी पाँच रागिनियाँ हैं,"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9219,
+    "Seq": 4,
+    "header": 0,
+    "Paragraph": 3,
+    "Gurmukhi": "sMig Alwpih AwTau nµdn ]",
+    "Visraam": {
+      "sttm2": [],
+      "sttm": [],
+      "igurbani": []
+    },
+    "Transliterations": {
+      "en": "sa(n)g alaapeh aaThau na(n)dhan ||",
+      "hi": "संगि अलापहि आठउ नंदन ॥",
+      "ipa": "səŋG əlɑpəh əɑʈʰo nəⁿd̪ən.",
+      "ur": "سںگ الاپه آٹھا نµدن ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "and eight sons, who emit distinctive notes.",
+        "ms": "",
+        "ssk": "and eight sons, who emit distinctive notes."
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "es": {
+        "sn": "quienes emiten notas distintas."
+      },
+      "hi": {
+        "ss": "",
+        "sts": "राग के आठ पुत्र भी साथ ही गाते हैं।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9220,
+    "Seq": 5,
+    "header": 0,
+    "Paragraph": 3,
+    "Gurmukhi": "pRQm rwg BYrau vY krhI ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 2,
+          "t": "y"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 2,
+          "t": "y"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "pratham raag bhairau vai karahee ||",
+      "hi": "प्रथम राग भैरउ वै करही ॥",
+      "ipa": "pɹət̪ʰəm rɑG ɓæro ʋæ kərəhi.",
+      "ur": "پرتھم راگ بھَےرا وَے کرهیِ ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "In the first place is Raag Bhairao.",
+        "ms": "",
+        "ssk": "In the first place is Raag Bhairao."
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "es": {
+        "sn": "En primer lugar está Rag Bhairo. "
+      },
+      "hi": {
+        "ss": "",
+        "sts": "रागी संगीतकार प्रथम राग भैरब को मानते हैं,"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9221,
+    "Seq": 6,
+    "header": 0,
+    "Paragraph": 3,
+    "Gurmukhi": "pMc rwgnI sMig aucrhI ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 2,
+          "t": "y"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 2,
+          "t": "y"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "pa(n)ch raaganee sa(n)g ucharahee ||",
+      "hi": "पंच रागनी संगि उचरही ॥",
+      "ipa": "pəŋt͡ʃ rɑGəni səŋG oʊt͡ʃərəhi.",
+      "ur": "پںچ راگنیِ سںگ اُچرهیِ ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "It is accompanied by the voices of its five Raaginis:",
+        "ms": "",
+        "ssk": "It is accompanied by the voices of its five Raaginis:"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "es": {
+        "sn": "La cuál está acompañada por las voces de sus cinco Raguinis."
+      },
+      "hi": {
+        "ss": "",
+        "sts": "जिसके संग पाँच रागिनियाँ भी गाती हैं।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9222,
+    "Seq": 7,
+    "header": 0,
+    "Paragraph": 3,
+    "Gurmukhi": "pRQm BYrvI iblwvlI ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 1,
+          "t": "y"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 1,
+          "t": "y"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "pratham bhairavee bilaavalee ||",
+      "hi": "प्रथम भैरवी बिलावली ॥",
+      "ipa": "pɹət̪ʰəm ɓærəʋi bɪlɑʋəli.",
+      "ur": "پرتھم بھَےرویِ بلاولیِ ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "First come Bhairavee, and Bilaavalee;",
+        "ms": "",
+        "ssk": "First come Bhairavee, and Bilaavalee;"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "es": {
+        "sn": "Primero viene Bhairavi y Bilavali, "
+      },
+      "hi": {
+        "ss": "",
+        "sts": "राग भैरब की पहली नारी भैरवी, तदन्तर बिलावली,"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9223,
+    "Seq": 8,
+    "header": 0,
+    "Paragraph": 3,
+    "Gurmukhi": "puMinAwkI gwvih bMglI ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "pu(n)niaakee gaaveh ba(n)galee ||",
+      "hi": "पुँनिआकी गावहि बंगली ॥",
+      "ipa": "pʊŋnɪəɑki Gɑʋəh bəŋGəli.",
+      "ur": "پُنّآکیِ گاوه بںگلیِ ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "then the songs of Punni-aakee and Bangalee;",
+        "ms": "",
+        "ssk": "then the songs of Punni-aakee and Bangalee;"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "es": {
+        "sn": "después los cantos de Puni-aki y Bangali "
+      },
+      "hi": {
+        "ss": "",
+        "sts": "पुण्या और बंगली गाती है,"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9224,
+    "Seq": 9,
+    "header": 0,
+    "Paragraph": 3,
+    "Gurmukhi": "puin AslyKI kI BeI bwrI ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "pun asalekhee kee bhiee baaree ||",
+      "hi": "पुनि असलेखी की भई बारी ॥",
+      "ipa": "pʊn əsəlekʰi ki ɓei bɑri.",
+      "ur": "پُن اسلےکھیِ کیِ بھای باریِ ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "and then Asalaykhee.",
+        "ms": "",
+        "ssk": "and then Asalaykhee."
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "es": {
+        "sn": "y después Asalayki, "
+      },
+      "hi": {
+        "ss": "",
+        "sts": "फिर असलेखी की गाने की बारी आती है।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9225,
+    "Seq": 10,
+    "header": 0,
+    "Paragraph": 3,
+    "Gurmukhi": "ey BYrau kI pwcau nwrI ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "e bhairau kee paachau naaree ||",
+      "hi": "ए भैरउ की पाचउ नारी ॥",
+      "ipa": "ee ɓæro ki pɑt͡ʃo nɑri.",
+      "ur": "اے بھَےرا کیِ پاچا ناریِ ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "These are the five consorts of Bhairao.",
+        "ms": "",
+        "ssk": "These are the five consorts of Bhairao."
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "es": {
+        "sn": "estos son los cinco consortes de Bhairo."
+      },
+      "hi": {
+        "ss": "",
+        "sts": "यह राग भैरब की पाँच स्त्रियाँ हैं।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9226,
+    "Seq": 11,
+    "header": 0,
+    "Paragraph": 3,
+    "Gurmukhi": "pMcm hrK idswK sunwvih ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "pa(n)cham harakh dhisaakh sunaaveh ||",
+      "hi": "पंचम हरख दिसाख सुनावहि ॥",
+      "ipa": "pəŋt͡ʃəm hərəkʰ d̪ɪsɑkʰ sʊnɑʋəh.",
+      "ur": "پںچم هرکھ دساکھ سُناوه ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "The sounds of Pancham, Harakh and Disaakh;",
+        "ms": "",
+        "ssk": "The sounds of Pancham, Harakh and Disaakh;"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "es": {
+        "sn": "Los sonidos de Pancham, Jarakj y Disakj; "
+      },
+      "hi": {
+        "ss": "भैरव राग के आठ पुत्र। पंचम। हरख। दिसाख। बंगालम। मधु। माधव। ललत। बिलावल।",
+        "sts": "इसके पुत्र पंचम, हर्ष, दिसाख, बंगालम,"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9227,
+    "Seq": 12,
+    "header": 0,
+    "Paragraph": 3,
+    "Gurmukhi": "bMgwlm mDu mwDv gwvih ]1]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "ba(n)gaalam madh maadhav gaaveh ||1||",
+      "hi": "बंगालम मधु माधव गावहि ॥१॥",
+      "ipa": "bəŋGɑləm mət̪ mɑt̪əʋ Gɑʋəh.1.",
+      "ur": "بںگالم مدھ مادھو گاوه ۔۔۱۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "the songs of Bangaalam, Madh and Maadhav. ||1||",
+        "ms": "",
+        "ssk": "the songs of Bangaalam, Madh and Maadhav. ||1||"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "es": {
+        "sn": "los cantos de Bangalam, Madj y Madjab. (1)"
+      },
+      "hi": {
+        "ss": "",
+        "sts": "मधु, माधव भी अपना गान सुनाते हैं।॥१॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9228,
+    "Seq": 13,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "llq iblwvl gwvhI ApunI ApunI BWiq ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "lalat bilaaval gaavahee apunee apunee bhaa(n)t ||",
+      "hi": "ललत बिलावल गावही अपुनी अपुनी भाँति ॥",
+      "ipa": "lələt̪ bɪlɑʋəl Gɑʋəhi əpʊni əpʊni ɓɑⁿət̪.",
+      "ur": "للت بلاول گاوهیِ اپنیِ اپنیِ بھاںت ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Lalat and Bilaaval - each gives out its own melody.",
+        "ms": "",
+        "ssk": "Lalat and Bilaaval - each gives out its own melody."
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "es": {
+        "sn": "Lalat y Bilaval, cada una da su propia melodía, "
+      },
+      "hi": {
+        "ss": "",
+        "sts": "साथ ही साथ ललित एवं बिलावल भी अपने तरीके से गाते हैं।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9229,
+    "Seq": 14,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "Ast puqR BYrv ky gwvih gwien pwqR ]1]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "asaT putr bhairav ke gaaveh gain paatr ||1||",
+      "hi": "असट पुत्र भैरव के गावहि गाइन पात्र ॥१॥",
+      "ipa": "əsəʈ pʊt̪ɹ ɓærəʋ ke Gɑʋəh Gɑeɪn pɑt̪ɹ.1.",
+      "ur": "اسٹ پُتر بھَےرو کے گاوه گاان پاتر ۔۔۱۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "when these eight sons of Bhairao are sung by accomplished musicians. ||1||",
+        "ms": "",
+        "ssk": "when these eight sons of Bhairao are sung by accomplished musicians. ||1||"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "es": {
+        "sn": "cuando estos ocho hijos de Bhairo, son cantados por músicos preparados."
+      },
+      "hi": {
+        "ss": "",
+        "sts": "इस राग भैरब के आठ पुत्रों का गायक गान करते हैं।॥१॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9230,
+    "Seq": 15,
+    "header": 0,
+    "Paragraph": 5,
+    "Gurmukhi": "duqIAw mwlkausk Awlwpih ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "dhuteeaa maalakausak aalaapeh ||",
+      "hi": "दुतीआ मालकउसक आलापहि ॥",
+      "ipa": "d̪ʊt̪iəɑ mɑləkoʊsək əɑlɑpəh.",
+      "ur": "دُتیِآ مالکاسک آلاپه ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "In the second family is Maalakausak,",
+        "ms": "",
+        "ssk": "In the second family is Maalakausak,"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "es": {
+        "sn": "En la segunda familia está Malakusak, "
+      },
+      "hi": {
+        "ss": "राग मालकौंस की पाँच रागनियाँ। गौंडकरी। देवगंधारी। गंधारी। सीहुती। धनासरी।",
+        "sts": "दूसरा राग मालकींस गाया जाता है,"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9231,
+    "Seq": 16,
+    "header": 0,
+    "Paragraph": 5,
+    "Gurmukhi": "sMig rwgnI pwcau Qwpih ]",
+    "Visraam": {
+      "sttm": [],
+      "igurbani": [],
+      "sttm2": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "sa(n)g raaganee paachau thaapeh ||",
+      "hi": "संगि रागनी पाचउ थापहि ॥",
+      "ipa": "səŋG rɑGəni pɑt͡ʃo t̪ʰɑpəh.",
+      "ur": "سںگ راگنیِ پاچا تھاپه ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "who brings his five Raaginis:",
+        "ms": "",
+        "ssk": "who brings his five Raaginis:"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "es": {
+        "sn": "quien trae a sus cinco Raguinas, "
+      },
+      "hi": {
+        "ss": "",
+        "sts": "जिसके संग पाँच रागिनियाँ भी शामिल हैं।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9232,
+    "Seq": 17,
+    "header": 0,
+    "Paragraph": 5,
+    "Gurmukhi": "goNfkrI Aru dyvgMDwrI ]",
+    "Visraam": {
+      "sttm2": [],
+      "sttm": [],
+      "igurbani": []
+    },
+    "Transliterations": {
+      "en": "go(n)ddakaree ar dhevaga(n)dhaaree ||",
+      "hi": "गोंडकरी अरु देवगंधारी ॥",
+      "ipa": "Gɔⁿɖəkəri ər d̪eʋəGəŋt̪ɑri.",
+      "ur": "گوںڈکریِ ار دےوگںدھاریِ ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Gondakaree and Dayv Gandhaaree,",
+        "ms": "",
+        "ssk": "Gondakaree and Dayv Gandhaaree,"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "es": {
+        "sn": "Gongakari y Dev Gandhari, las voces de Gandhari"
+      },
+      "hi": {
+        "ss": "",
+        "sts": "गोंडकी, देवगंधारी,"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9233,
+    "Seq": 18,
+    "header": 0,
+    "Paragraph": 5,
+    "Gurmukhi": "gMDwrI sIhuqI aucwrI ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "ga(n)dhaaree seehutee uchaaree ||",
+      "hi": "गंधारी सीहुती उचारी ॥",
+      "ipa": "Gəŋt̪ɑri sihʊt̪i oʊt͡ʃɑri.",
+      "ur": "گںدھاریِ سیِهُتیِ اُچاریِ ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "the voices of Gandhaaree and Seehutee,",
+        "ms": "",
+        "ssk": "the voices of Gandhaaree and Seehutee,"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "es": {
+        "sn": " y Sijuti"
+      },
+      "hi": {
+        "ss": "",
+        "sts": "गान्धारी, सीहुति और"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9234,
+    "Seq": 19,
+    "header": 0,
+    "Paragraph": 5,
+    "Gurmukhi": "DnwsrI ey pwcau gweI ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "dhanaasaree e paachau gaiee ||",
+      "hi": "धनासरी ए पाचउ गाई ॥",
+      "ipa": "t̪ənɑsəri ee pɑt͡ʃo Gɑei.",
+      "ur": "دھناسریِ اے پاچا گاای ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "and the fifth song of Dhanaasaree.",
+        "ms": "",
+        "ssk": "and the fifth song of Dhanaasaree."
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "es": {
+        "sn": " y la quinta voz de Dhanasari, "
+      },
+      "hi": {
+        "ss": "",
+        "sts": "धनासरी- इन पाँचों को गाया जाता है।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9235,
+    "Seq": 20,
+    "header": 0,
+    "Paragraph": 5,
+    "Gurmukhi": "mwl rwg kausk sMig lweI ]",
+    "Visraam": {
+      "sttm2": [],
+      "sttm": [],
+      "igurbani": []
+    },
+    "Transliterations": {
+      "en": "maal raag kausak sa(n)g laiee ||",
+      "hi": "माल राग कउसक संगि लाई ॥",
+      "ipa": "mɑl rɑG koʊsək səŋG lɑei.",
+      "ur": "مال راگ کاسک سںگ لاای ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "This chain of Maalakausak brings along :",
+        "ms": "",
+        "ssk": "This chain of Maalakausak brings along :"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "es": {
+        "sn": "la cadena de Malakusak"
+      },
+      "hi": {
+        "ss": "",
+        "sts": "ये राग मालकौंस के साथ ही हैं।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9236,
+    "Seq": 21,
+    "header": 0,
+    "Paragraph": 5,
+    "Gurmukhi": "mwrU msqAMg myvwrw ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "maaroo masata(n)g mevaaraa ||",
+      "hi": "मारू मसतअंग मेवारा ॥",
+      "ipa": "mɑru məsət̪əŋG meʋɑrɑ.",
+      "ur": "مارُو مستاںگ مےوارا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Maaroo, Masta-ang and Mayvaaraa,"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "es": {
+        "sn": " trae consigo a Maru, Masta-ang y Mevara, "
+      },
+      "hi": {
+        "ss": "",
+        "sts": "मारू, मस्तअंग, मेवारा,"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9237,
+    "Seq": 22,
+    "header": 0,
+    "Paragraph": 5,
+    "Gurmukhi": "pRblcMf kausk auBwrw ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "prabalacha(n)dd kausak ubhaaraa ||",
+      "hi": "प्रबलचंड कउसक उभारा ॥",
+      "ipa": "pɹəbələt͡ʃəŋɖ koʊsək oʊɓɑrɑ.",
+      "ur": "پربلچںڈ کاسک اُبھارا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Prabal, Chandakausak,",
+        "ms": "",
+        "ssk": "Prabal, Chandakausak,"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "es": {
+        "sn": "Praval y Chandakaosak,"
+      },
+      "hi": {
+        "ss": "",
+        "sts": "प्रबलचंड, कौसक, उभारा,"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9238,
+    "Seq": 23,
+    "header": 0,
+    "Paragraph": 5,
+    "Gurmukhi": "KauKt Aau Baurwnd gwey ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "khaukhaT aau bhauraanadh gaae ||",
+      "hi": "खउखट अउ भउरानद गाए ॥",
+      "ipa": "kʰoʊkʰəʈ əo ɓoʊrɑnəd̪ Gɑee.",
+      "ur": "کھاکھٹ اا بھاراند گااے ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Khau, Khat and Bauraanad singing.",
+        "ms": "",
+        "ssk": "Khau, Khat and Bauraanad singing."
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "es": {
+        "sn": " Kjao, Kjat y Baoranad, cantando. "
+      },
+      "hi": {
+        "ss": "",
+        "sts": "खौखट और भौरानद गाए जाते हैं।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9239,
+    "Seq": 24,
+    "header": 0,
+    "Paragraph": 5,
+    "Gurmukhi": "Ast mwlkausk sMig lwey ]1]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "asaT maalakausak sa(n)g laae ||1||",
+      "hi": "असट मालकउसक संगि लाए ॥१॥",
+      "ipa": "əsəʈ mɑləkoʊsək səŋG lɑee.1.",
+      "ur": "اسٹ مالکاسک سںگ لااے ۔۔۱۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "These are the eight sons of Maalakausak. ||1||",
+        "ms": "",
+        "ssk": "These are the eight sons of Maalakausak. ||1||"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "es": {
+        "sn": "Estos son los ocho hijos de Malakusak. (1)"
+      },
+      "hi": {
+        "ss": "",
+        "sts": "ये आठों ही राग मालकौसक के साथ सुर के साथ सुर मिलाकर लगे हुए हैं।॥१॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9240,
+    "Seq": 25,
+    "header": 0,
+    "Paragraph": 6,
+    "Gurmukhi": "puin AwieAau ihMfolu pMc nwir sMig Ast suq ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "pun aaiaau hi(n)ddol pa(n)ch naar sa(n)g asaT sut ||",
+      "hi": "पुनि आइअउ हिंडोलु पंच नारि संगि असट सुत ॥",
+      "ipa": "pʊn əɑɪo hɪŋɖɔl pəŋt͡ʃ nɑr səŋG əsəʈ sʊt̪.",
+      "ur": "پُن آااا هںڈول پںچ نار سںگ اسٹ سُت ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Then comes Hindol with his five wives and eight sons;",
+        "ms": "",
+        "ssk": "Then comes Hindol with his five wives and eight sons;"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "es": {
+        "sn": "Luego viene Jindol, con sus cinco esposas y ocho hijos, "
+      },
+      "hi": {
+        "ss": "",
+        "sts": "फिर राग हिंडोल पाँच रागिनियों एवं आठ पुत्रों के साथ आता है।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9241,
+    "Seq": 26,
+    "header": 0,
+    "Paragraph": 6,
+    "Gurmukhi": "auTih qwn klol gwien qwr imlwvhI ]1]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "auTheh taan kalol gain taar milaavahee ||1||",
+      "hi": "उठहि तान कलोल गाइन तार मिलावही ॥१॥",
+      "ipa": "oʊʈʰəh t̪ɑn kəlɔl Gɑeɪn t̪ɑr mɪlɑʋəhi.1.",
+      "ur": "اُٹھه تان کلول گاان تار ملاوهیِ ۔۔۱۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "it rises in waves when the sweet-voiced chorus sings. ||1||",
+        "ms": "",
+        "ssk": "it rises in waves when the sweet-voiced chorus sings. ||1||"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "es": {
+        "sn": "se eleva en voces cuando las dulces voces del coro cantan. (1)"
+      },
+      "hi": {
+        "ss": "",
+        "sts": "यह तान उठाकर किल्लोल करता स्वर मिलाकर गान करता है॥१॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9242,
+    "Seq": 27,
+    "header": 0,
+    "Paragraph": 7,
+    "Gurmukhi": "qylµgI dyvkrI AweI ]",
+    "Visraam": {
+      "sttm2": [],
+      "sttm": [],
+      "igurbani": []
+    },
+    "Transliterations": {
+      "en": "tela(n)gee dhevakaree aaiee ||",
+      "hi": "तेलंगी देवकरी आई ॥",
+      "ipa": "t̪eləⁿGi d̪eʋəkəri əɑei.",
+      "ur": "تےلµگیِ دےوکریِ آای ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "There come Taylangee and Darvakaree;",
+        "ms": "",
+        "ssk": "There come Taylangee and Darvakaree;"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "es": {
+        "sn": "Ahí viene Teylangui y Darvakari, "
+      },
+      "hi": {
+        "ss": "हिंडोल की रागनियाँ। तेलंगी। देवकरी। बसंती। संदूर। सहस अहीरी।",
+        "sts": "इसकी पत्नी तेलंगी, देवकरी,"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9243,
+    "Seq": 28,
+    "header": 0,
+    "Paragraph": 7,
+    "Gurmukhi": "bsMqI sMdUr suhweI ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "basa(n)tee sa(n)dhoor suhaiee ||",
+      "hi": "बसंती संदूर सुहाई ॥",
+      "ipa": "bəsəŋt̪i səŋd̪ur sʊhɑei.",
+      "ur": "بسںتیِ سںدُور سُهاای ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Basantee and Sandoor follow;",
+        "ms": "",
+        "ssk": "Basantee and Sandoor follow;"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "es": {
+        "sn": "Basanti y Sandur siguen, "
+      },
+      "hi": {
+        "ss": "",
+        "sts": "बसंती, सुन्दर संदूर और"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9244,
+    "Seq": 29,
+    "header": 0,
+    "Paragraph": 7,
+    "Gurmukhi": "srs AhIrI lY Bwrjw ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "saras aheeree lai bhaarajaa ||",
+      "hi": "सरस अहीरी लै भारजा ॥",
+      "ipa": "sərəs əhiri læ ɓɑrəd͡ʒɑ.",
+      "ur": "سرس اهیِریِ لَے بھارجا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "then Aheeree, the finest of women.",
+        "ms": "",
+        "ssk": "then Aheeree, the finest of women."
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "es": {
+        "sn": "después Ajiri, las más finas damas. "
+      },
+      "hi": {
+        "ss": "",
+        "sts": "सरस अहीरी भी आती है।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9245,
+    "Seq": 30,
+    "header": 0,
+    "Paragraph": 7,
+    "Gurmukhi": "sMig lweI pWcau Awrjw ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "sa(n)g laiee paa(n)chau aarajaa ||",
+      "hi": "संगि लाई पाँचउ आरजा ॥",
+      "ipa": "səŋG lɑei pɑⁿət͡ʃo əɑrəd͡ʒɑ.",
+      "ur": "سںگ لاای پاںچا آرجا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "These five wives come together.",
+        "ms": "",
+        "ssk": "These five wives come together."
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "es": {
+        "sn": "Estas cinco esposas vienen juntas, "
+      },
+      "hi": {
+        "ss": "",
+        "sts": "ये पाँचों अपने पति के संग ही रहती हैं।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9246,
+    "Seq": 31,
+    "header": 0,
+    "Paragraph": 7,
+    "Gurmukhi": "surmwnµd Bwskr Awey ]",
+    "Visraam": {
+      "sttm2": [],
+      "sttm": [],
+      "igurbani": []
+    },
+    "Transliterations": {
+      "en": "suramaana(n)dh bhaasakar aae ||",
+      "hi": "सुरमानंद भासकर आए ॥",
+      "ipa": "sʊrəmɑnəⁿd̪ ɓɑsəkər əɑee.",
+      "ur": "سُرمانµد بھاسکر آاے ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "The sons: Surmaanand and Bhaaskar come,",
+        "ms": "",
+        "ssk": "The sons: Surmaanand and Bhaaskar come,"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "es": {
+        "sn": "los hijos, Surmanand y Bhaskar, "
+      },
+      "hi": {
+        "ss": "हिंडोल के पुत्र। सुरमानंद। भास्कर। चंद्र बिम्ब। मंगलन। सरस बान। बिनोदा। बसंत। कमोदा।",
+        "sts": "सुरमानंद, भास्कर,"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9247,
+    "Seq": 32,
+    "header": 0,
+    "Paragraph": 7,
+    "Gurmukhi": "cMdRibMb mMgln suhwey ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "cha(n)dhrabi(n)b ma(n)galan suhaae ||",
+      "hi": "चंद्रबिंब मंगलन सुहाए ॥",
+      "ipa": "t͡ʃəŋd̪ɹəbɪŋb məŋGələn sʊhɑee.",
+      "ur": "چںدربںب مںگلن سُهااے ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Chandrabinb and Mangalan follow.",
+        "ms": "",
+        "ssk": "Chandrabinb and Mangalan follow."
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "es": {
+        "sn": "Chandrabinb y Mangalan le siguen."
+      },
+      "hi": {
+        "ss": "",
+        "sts": "चंद्रबिंब, मंगलन शोभा सहित आते हैं।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9248,
+    "Seq": 33,
+    "header": 0,
+    "Paragraph": 7,
+    "Gurmukhi": "srsbwn Aau Awih ibnodw ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "sarasabaan aau aaeh binodhaa ||",
+      "hi": "सरसबान अउ आहि बिनोदा ॥",
+      "ipa": "sərəsəbɑn əo əɑh bɪnɔd̪ɑ.",
+      "ur": "سرسبان اا آه بنودا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Sarasbaan and Binodaa then come,",
+        "ms": "",
+        "ssk": "Sarasbaan and Binodaa then come,"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "es": {
+        "sn": " Después vienen Sarasban y Binoda "
+      },
+      "hi": {
+        "ss": "",
+        "sts": "सरसवान, विनोद,"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9249,
+    "Seq": 34,
+    "header": 0,
+    "Paragraph": 7,
+    "Gurmukhi": "gwvih srs bsMq kmodw ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "gaaveh saras basa(n)t kamodhaa ||",
+      "hi": "गावहि सरस बसंत कमोदा ॥",
+      "ipa": "Gɑʋəh sərəs bəsəŋt̪ kəmɔd̪ɑ.",
+      "ur": "گاوه سرس بسںت کمودا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "and the thrilling songs of Basant and Kamodaa.",
+        "ms": "",
+        "ssk": "and the thrilling songs of Basant and Kamodaa."
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "es": {
+        "sn": "y los emocionantes cantos de Basant y Kamoda. "
+      },
+      "hi": {
+        "ss": "",
+        "sts": "बसंत, कमोद भी साथ ही गाते हैं।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9250,
+    "Seq": 35,
+    "header": 0,
+    "Paragraph": 7,
+    "Gurmukhi": "Ast puqR mY khy svwrI ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "asaT putr mai kahe savaaree ||",
+      "hi": "असट पुत्र मै कहे सवारी ॥",
+      "ipa": "əsəʈ pʊt̪ɹ mæ kəhe səʋɑri.",
+      "ur": "اسٹ پُتر مَے کهے سواریِ ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "These are the eight sons I have listed.",
+        "ms": "",
+        "ssk": "These are the eight sons I have listed."
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "es": {
+        "sn": "Estos son los ocho cantos que he enlistado "
+      },
+      "hi": {
+        "ss": "",
+        "sts": "इस तरह आठ पुत्रों के साथ हिंडोल सवारी करता है और"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9251,
+    "Seq": 36,
+    "header": 0,
+    "Paragraph": 7,
+    "Gurmukhi": "puin AweI dIpk kI bwrI ]1]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "pun aaiee dheepak kee baaree ||1||",
+      "hi": "पुनि आई दीपक की बारी ॥१॥",
+      "ipa": "pʊn əɑei d̪ipək ki bɑri.1.",
+      "ur": "پُن آای دیِپک کیِ باریِ ۔۔۱۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Then comes the turn of Deepak. ||1||",
+        "ms": "",
+        "ssk": "Then comes the turn of Deepak. ||1||"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "es": {
+        "sn": "y después le llega el turno a Dipak. (1)"
+      },
+      "hi": {
+        "ss": "दीपक राग की रागनियाँ। कछेली। पटमंजरी। टोडी। कामोदी। गूजरी।",
+        "sts": "फिर दीपक की बारी आती है॥१॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9252,
+    "Seq": 37,
+    "header": 0,
+    "Paragraph": 8,
+    "Gurmukhi": "kCylI ptmMjrI tofI khI Alwip ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "kachhelee paTama(n)jaree Toddee kahee alaap ||",
+      "hi": "कछेली पटमंजरी टोडी कही अलापि ॥",
+      "ipa": "kəɕeli pəʈəməŋd͡ʒəri ʈɔɖi kəhi əlɑp.",
+      "ur": "کچھےلیِ پٹمںجریِ ٹوڈیِ کهیِ الاپ ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Kachhaylee, Patamanjaree and Todee are sung;",
+        "ms": "",
+        "ssk": "Kachhaylee, Patamanjaree and Todee are sung;"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "es": {
+        "sn": "Kacely, Patamanyari y Todi son entonados; "
+      },
+      "hi": {
+        "ss": "",
+        "sts": "कछेली, पटमंजरी, टोडी गाती है और"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9253,
+    "Seq": 38,
+    "header": 0,
+    "Paragraph": 8,
+    "Gurmukhi": "kwmodI Aau gUjrI sMig dIpk ky Qwip ]1]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 2,
+          "t": "v"
+        },
+        {
+          "p": 5,
+          "t": "y"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 2,
+          "t": "v"
+        },
+        {
+          "p": 5,
+          "t": "y"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "kaamodhee aau goojaree sa(n)g dheepak ke thaap ||1||",
+      "hi": "कामोदी अउ गूजरी संगि दीपक के थापि ॥१॥",
+      "ipa": "kɑmɔd̪i əo Gud͡ʒəri səŋG d̪ipək ke t̪ʰɑp.1.",
+      "ur": "کامودیِ اا گُوجریِ سںگ دیِپک کے تھاپ ۔۔۱۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Kaamodee and Goojaree accompany Deepak. ||1||",
+        "ms": "",
+        "ssk": "Kaamodee and Goojaree accompany Deepak. ||1||"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "es": {
+        "sn": "Kamodi y Guyari, acompañan a Dipak. (1)"
+      },
+      "hi": {
+        "ss": "",
+        "sts": "कामोदी एवं गूजरी साथ ही दीपक के संग रागिनियाँ मौजूद हैं॥१॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9254,
+    "Seq": 39,
+    "header": 0,
+    "Paragraph": 9,
+    "Gurmukhi": "kwlµkw kuMql Aau rwmw ]",
+    "Visraam": {
+      "sttm2": [],
+      "sttm": [],
+      "igurbani": []
+    },
+    "Transliterations": {
+      "en": "kaala(n)kaa ku(n)tal aau raamaa ||",
+      "hi": "कालंका कुँतल अउ रामा ॥",
+      "ipa": "kɑləⁿkɑ kʊŋt̪əl əo rɑmɑ.",
+      "ur": "کالµکا کُںتل اا راما ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Kaalankaa, Kuntal and Raamaa,",
+        "ms": "",
+        "ssk": "Kaalankaa, Kuntal and Raamaa,"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "es": {
+        "sn": "Kalanka, Kuntal y Raama; "
+      },
+      "hi": {
+        "ss": "राग दीपक के आठ पुत्र। कालंका। कुंतल। रामा। कमल कुसम। चंपक। गउरा। कानड़ा। कलाना।",
+        "sts": "कालंका, कुंतल, रामा,"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9255,
+    "Seq": 40,
+    "header": 0,
+    "Paragraph": 9,
+    "Gurmukhi": "kmlkusm cMpk ky nwmw ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "kamalakusam cha(n)pak ke naamaa ||",
+      "hi": "कमलकुसम चंपक के नामा ॥",
+      "ipa": "kəmələkʊsəm t͡ʃəŋpək ke nɑmɑ.",
+      "ur": "کملکسم چمپک کے ناما ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Kamalakusam and Champak are their names;",
+        "ms": "",
+        "ssk": "Kamalakusam and Champak are their names;"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "es": {
+        "sn": "los nombres de Kamalakusam y Champak; "
+      },
+      "hi": {
+        "ss": "",
+        "sts": "कमल-कुसुम, चंपक,"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9256,
+    "Seq": 41,
+    "header": 0,
+    "Paragraph": 9,
+    "Gurmukhi": "gaurw Aau kwnrw kl´wnw ]",
+    "Visraam": {
+      "sttm2": [],
+      "sttm": [],
+      "igurbani": []
+    },
+    "Transliterations": {
+      "en": "gauraa aau kaanaraa kalayeaanaa ||",
+      "hi": "गउरा अउ कानरा कल्याना ॥",
+      "ipa": "Goʊrɑ əo kɑnərɑ kələjɑnɑ.",
+      "ur": "گارا اا کانرا کلےانا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Gauraa, Kaanaraa and Kaylaanaa;",
+        "ms": "",
+        "ssk": "Gauraa, Kaanaraa and Kaylaanaa;"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "es": {
+        "sn": "Gaura Kanara y Kaylana, "
+      },
+      "hi": {
+        "ss": "",
+        "sts": "गौरा, कानड़ा एवं कल्याण"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9257,
+    "Seq": 42,
+    "header": 0,
+    "Paragraph": 9,
+    "Gurmukhi": "Ast puqR dIpk ky jwnw ]1]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "asaT putr dheepak ke jaanaa ||1||",
+      "hi": "असट पुत्र दीपक के जाना ॥१॥",
+      "ipa": "əsəʈ pʊt̪ɹ d̪ipək ke d͡ʒɑnɑ.1.",
+      "ur": "اسٹ پُتر دیِپک کے جانا ۔۔۱۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "these are the eight sons of Deepak. ||1||",
+        "ms": "",
+        "ssk": "these are the eight sons of Deepak. ||1||"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "es": {
+        "sn": "estos son los ocho hijos de Dipak. (1)"
+      },
+      "hi": {
+        "ss": "",
+        "sts": "नामक दीपक राग के आठ पुत्र माने जाते हैं।॥१॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9258,
+    "Seq": 43,
+    "header": 0,
+    "Paragraph": 10,
+    "Gurmukhi": "sB imil isrIrwg vY gwvih ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "sabh mil sireeraag vai gaaveh ||",
+      "hi": "सभ मिलि सिरीराग वै गावहि ॥",
+      "ipa": "səɓ mɪl sɪrirɑG ʋæ Gɑʋəh.",
+      "ur": "سبھ مل سریِراگ وَے گاوه ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "All join together and sing Siree Raag,",
+        "ms": "",
+        "ssk": "All join together and sing Siree Raag,"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "es": {
+        "sn": "Todos se juntan y cantan Siri Rag, "
+      },
+      "hi": {
+        "ss": "सिरी राग की पाँच रागनियाँ। बैरारी। करनाटी। गवरी। आसावरी। सिंधवी।",
+        "sts": "रार्गी, विद्वान, गायक सब मिलकर सिरी राग गाते हैं और"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9259,
+    "Seq": 44,
+    "header": 0,
+    "Paragraph": 10,
+    "Gurmukhi": "pWcau sMig brMgn lwvih ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "paa(n)chau sa(n)g bara(n)gan laaveh ||",
+      "hi": "पाँचउ संगि बरंगन लावहि ॥",
+      "ipa": "pɑⁿət͡ʃo səŋG bərəŋGən lɑʋəh.",
+      "ur": "پاںچا سںگ برںگن لاوه ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "which is accompanied by its five wives.:",
+        "ms": "",
+        "ssk": "which is accompanied by its five wives.:"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "es": {
+        "sn": "quien está acompañado por sus cinco esposas, "
+      },
+      "hi": {
+        "ss": "",
+        "sts": "साथ ही पाँच रागिनियों को भी शामिल करते हैं।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9260,
+    "Seq": 45,
+    "header": 0,
+    "Paragraph": 10,
+    "Gurmukhi": "bYrwrI krnwtI DrI ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "bairaaree karanaaTee dharee ||",
+      "hi": "बैरारी करनाटी धरी ॥",
+      "ipa": "bærɑri kərənɑʈi t̪əri.",
+      "ur": "بَےراریِ کرناٹیِ دھریِ ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Bairaaree and Karnaatee,",
+        "ms": "",
+        "ssk": "Bairaaree and Karnaatee,"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "es": {
+        "sn": "Berari, Karnati, "
+      },
+      "hi": {
+        "ss": "",
+        "sts": "बैराड़ी, करनाटी,"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9261,
+    "Seq": 46,
+    "header": 0,
+    "Paragraph": 10,
+    "Gurmukhi": "gvrI gwvih AwswvrI ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "gavaree gaaveh aasaavaree ||",
+      "hi": "गवरी गावहि आसावरी ॥",
+      "ipa": "Gəʋəri Gɑʋəh əɑsɑʋəri.",
+      "ur": "گوریِ گاوه آساوریِ ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "the songs of Gawree and Aasaavaree;",
+        "ms": "",
+        "ssk": "the songs of Gawree and Aasaavaree;"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "es": {
+        "sn": "los cantos de Gawri y Asavari "
+      },
+      "hi": {
+        "ss": "",
+        "sts": "गवरी, आसावरी को वे गाते हैं और"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9262,
+    "Seq": 47,
+    "header": 0,
+    "Paragraph": 10,
+    "Gurmukhi": "iqh pwCY isMDvI AlwpI ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "teh paachhai si(n)dhavee alaapee ||",
+      "hi": "तिह पाछै सिंधवी अलापी ॥",
+      "ipa": "t̪ɪh pɑɕæ sɪŋt̪əʋi əlɑpi.",
+      "ur": "تِه پاچھَے سںدھویِ الاپیِ ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "then follows Sindhavee.",
+        "ms": "",
+        "ssk": "then follows Sindhavee."
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "es": {
+        "sn": "y después sigue Sindhavi, "
+      },
+      "hi": {
+        "ss": "",
+        "sts": "साथ सिंधर्वी का गान होता है।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9263,
+    "Seq": 48,
+    "header": 0,
+    "Paragraph": 10,
+    "Gurmukhi": "isrIrwg isau pWcau QwpI ]1]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "sireeraag siau paa(n)chau thaapee ||1||",
+      "hi": "सिरीराग सिउ पाँचउ थापी ॥१॥",
+      "ipa": "sɪrirɑG sɪo pɑⁿət͡ʃo t̪ʰɑpi.1.",
+      "ur": "سِریِراگ سا پاںچا تھاپیِ ۔۔۱۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "These are the five wives of Siree Raag. ||1||",
+        "ms": "",
+        "ssk": "These are the five wives of Siree Raag. ||1||"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "es": {
+        "sn": "éstas son las cinco esposas de Siri Rag. (1)"
+      },
+      "hi": {
+        "ss": "",
+        "sts": "ये पाँचों रागिनियाँ सिरी राग के साथ विद्यमान हैं।॥ १॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9264,
+    "Seq": 49,
+    "header": 0,
+    "Paragraph": 11,
+    "Gurmukhi": "swlU swrg swgrw Aaur goNf gMBIr ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "saaloo saarag saagaraa aaur go(n)dd ga(n)bheer ||",
+      "hi": "सालू सारग सागरा अउर गोंड गंभीर ॥",
+      "ipa": "sɑlu sɑrəG sɑGərɑ əoʊr Gɔⁿɖ Gəŋɓir.",
+      "ur": "سالُو سارگ ساگرا اار گوںڈ گںبھیِر ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Saaloo, Saarang, Saagaraa, Gond and Gambheer",
+        "ms": "",
+        "ssk": "Saaloo, Saarang, Saagaraa, Gond and Gambheer"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "es": {
+        "sn": "Salu, Sarang, Sagara, Gond y Gambhir. "
+      },
+      "hi": {
+        "ss": "श्री राग के आठ पुत्र। सालू। सारग। सागरा। गौंड। गंभीर। गुंड। कुंभ। हमीर।",
+        "sts": "सालू, सारग, सागर, गोंड, गंभीर,"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9265,
+    "Seq": 50,
+    "header": 0,
+    "Paragraph": 11,
+    "Gurmukhi": "Ast puqR sRIrwg ky guMf kuMB hmIr ]1]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 3,
+          "t": "v"
+        },
+        {
+          "p": 1,
+          "t": "y"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 3,
+          "t": "v"
+        },
+        {
+          "p": 1,
+          "t": "y"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "asaT putr sreeraag ke gu(n)dd ku(n)bh hameer ||1||",
+      "hi": "असट पुत्र स्रीराग के गुँड कुँभ हमीर ॥१॥",
+      "ipa": "əsəʈ pʊt̪ɹ sɹirɑG ke Gʊŋɖ kʊŋɓ həmir.1.",
+      "ur": "اسٹ پُتر سریِراگ کے گُںڈ کُںبھ همیِر ۔۔۱۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "- the eight sons of Siree Raag include Gund, Kumb and Hameer. ||1||",
+        "ms": "",
+        "ssk": "- the eight sons of Siree Raag include Gund, Kumb and Hameer. ||1||"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "es": {
+        "sn": "Los ocho hijos de Siri Rag incluyen a Gung, Kumb y Jamir. (1)"
+      },
+      "hi": {
+        "ss": "",
+        "sts": "गुंड, कुंभ तथा हमीर- ये श्री राग के आठ पुत्र हैं।॥ १॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9266,
+    "Seq": 51,
+    "header": 0,
+    "Paragraph": 12,
+    "Gurmukhi": "Kstm myG rwg vY gwvih ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "khasaTam megh raag vai gaaveh ||",
+      "hi": "खसटम मेघ राग वै गावहि ॥",
+      "ipa": "kʰəsəʈəm meGʰə̀ rɑG ʋæ Gɑʋəh.",
+      "ur": "کھسٹم مےگھ راگ وَے گاوه ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "In the sixth place, Maygh Raag is sung,",
+        "ms": "",
+        "ssk": "In the sixth place, Maygh Raag is sung,"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "es": {
+        "sn": "En sexto lugar, Mellh Rag, "
+      },
+      "hi": {
+        "ss": "मेघ राग की रागनियाँ। सोरठ। गोंड। मलारी। आसा। सूहउ।",
+        "sts": "संगीतकार, रागी, गीतकार छठवाँ राग मेघ गायन करते हैं।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9267,
+    "Seq": 52,
+    "header": 0,
+    "Paragraph": 12,
+    "Gurmukhi": "pWcau sMig brMgn lwvih ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "paa(n)chau sa(n)g bara(n)gan laaveh ||",
+      "hi": "पाँचउ संगि बरंगन लावहि ॥",
+      "ipa": "pɑⁿət͡ʃo səŋG bərəŋGən lɑʋəh.",
+      "ur": "پاںچا سںگ برںگن لاوه ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "with its five wives in accompaniment:",
+        "ms": "",
+        "ssk": "with its five wives in accompaniment:"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "es": {
+        "sn": "es cantada, con sus cinco esposas en acompañamiento, "
+      },
+      "hi": {
+        "ss": "",
+        "sts": "इसके साथ ही पाँच रागिनियों को भी शामिल करते हैं।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9268,
+    "Seq": 53,
+    "header": 0,
+    "Paragraph": 12,
+    "Gurmukhi": "soriT goNf mlwrI DunI ]",
+    "Visraam": {
+      "sttm2": [],
+      "sttm": [],
+      "igurbani": []
+    },
+    "Transliterations": {
+      "en": "soraTh go(n)dd malaaree dhunee ||",
+      "hi": "सोरठि गोंड मलारी धुनी ॥",
+      "ipa": "sɔrəʈʰ Gɔⁿɖ məlɑri t̪ʊni.",
+      "ur": "سورٹھ گوںڈ ملاریِ دھُنیِ ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Sorat'h, Gond, and the melody of Malaaree;",
+        "ms": "",
+        "ssk": "Sorat'h, Gond, and the melody of Malaaree;"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "es": {
+        "sn": "Sorad, Gond y la melodía de Malari "
+      },
+      "hi": {
+        "ss": "",
+        "sts": "इसकी रागिनी सोरठ, गोंड, मलारी की ध्वनि होती है,"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9269,
+    "Seq": 54,
+    "header": 0,
+    "Paragraph": 12,
+    "Gurmukhi": "puin gwvih Awsw gun gunI ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "pun gaaveh aasaa gun gunee ||",
+      "hi": "पुनि गावहि आसा गुन गुनी ॥",
+      "ipa": "pʊn Gɑʋəh əɑsɑ Gʊn Gʊni.",
+      "ur": "پُن گاوه آسا گُن گُنیِ ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "then the harmonies of Aasaa are sung.",
+        "ms": "",
+        "ssk": "then the harmonies of Aasaa are sung."
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "es": {
+        "sn": "y después las armonías de Assa son entonadas "
+      },
+      "hi": {
+        "ss": "",
+        "sts": "फिर आसा को मधुर स्वर में गाया जाता है।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9270,
+    "Seq": 55,
+    "header": 0,
+    "Paragraph": 12,
+    "Gurmukhi": "aUcY suir sUhau puin kInI ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "uoochai sur soohau pun keenee ||",
+      "hi": "ऊचै सुरि सूहउ पुनि कीनी ॥",
+      "ipa": "out͡ʃæ sʊr suho pʊn kini.",
+      "ur": "اُوچَے سُر سُوها پُن کیٍنیِ ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "And finally comes the high tone Soohau.",
+        "ms": "",
+        "ssk": "And finally comes the high tone Soohau."
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "es": {
+        "sn": "y finalmente viene el tono alto de Sujo, "
+      },
+      "hi": {
+        "ss": "",
+        "sts": "उच्च स्वर में सूही का गान होता है।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9271,
+    "Seq": 56,
+    "header": 0,
+    "Paragraph": 12,
+    "Gurmukhi": "myG rwg isau pWcau cInI ]1]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "megh raag siau paa(n)chau cheenee ||1||",
+      "hi": "मेघ राग सिउ पाँचउ चीनी ॥१॥",
+      "ipa": "meGʰə̀ rɑG sɪo pɑⁿət͡ʃo t͡ʃini.1.",
+      "ur": "مےگھ راگ سا پاںچا چیٍنیِ ۔۔۱۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "These are the five with Maygh Raag. ||1||",
+        "ms": "",
+        "ssk": "These are the five with Maygh Raag. ||1||"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "es": {
+        "sn": "que son los cinco que están con Mellh Rag, (1)"
+      },
+      "hi": {
+        "ss": "",
+        "sts": "इस तरह मेघ राग के साथ पाँच रागिनियाँ हैं॥१॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9272,
+    "Seq": 57,
+    "header": 0,
+    "Paragraph": 13,
+    "Gurmukhi": "bYrwDr gjDr kydwrw ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "bairaadhar gajadhar kedhaaraa ||",
+      "hi": "बैराधर गजधर केदारा ॥",
+      "ipa": "bærɑt̪ər Gəd͡ʒət̪ər ked̪ɑrɑ.",
+      "ur": "بَےرادھر گجدھر کےدارا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Bairaadhar, Gajadhar, Kaydaaraa,",
+        "ms": "",
+        "ssk": "Bairaadhar, Gajadhar, Kaydaaraa,"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "es": {
+        "sn": "Beradhar, Gayadhar, Kedara, "
+      },
+      "hi": {
+        "ss": "मेघ राग के आठ पुत्रों के नाम। बैराधर। गजधर। केदारा। जबलीधर। नट। जलधारा। संकर। सिआमा।",
+        "sts": "वैराधर, गजधर, केदारा,"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9273,
+    "Seq": 58,
+    "header": 0,
+    "Paragraph": 13,
+    "Gurmukhi": "jblIDr nt Aau jlDwrw ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "jabaleedhar naT aau jaladhaaraa ||",
+      "hi": "जबलीधर नट अउ जलधारा ॥",
+      "ipa": "d͡ʒəbəlit̪ər nəʈ əo d͡ʒələt̪ɑrɑ.",
+      "ur": "جبلیِدھر نٹ اا جلدھارا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Jabaleedhar, Nat and Jaladhaaraa.",
+        "ms": "",
+        "ssk": "Jabaleedhar, Nat and Jaladhaaraa."
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "es": {
+        "sn": "Yabalidhar, Nat y Yaladhara, "
+      },
+      "hi": {
+        "ss": "",
+        "sts": "जवलीधर, नट, जलधारा,"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9274,
+    "Seq": 59,
+    "header": 0,
+    "Paragraph": 13,
+    "Gurmukhi": "puin gwvih sMkr Aau isAwmw ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "pun gaaveh sa(n)kar aau siaamaa ||",
+      "hi": "पुनि गावहि संकर अउ सिआमा ॥",
+      "ipa": "pʊn Gɑʋəh səŋkər əo sɪəɑmɑ.",
+      "ur": "پُن گاوه سںکر اا سآما ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Then come the songs of Shankar and Shi-aamaa.",
+        "ms": "",
+        "ssk": "Then come the songs of Shankar and Shi-aamaa."
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "es": {
+        "sn": " después los cantos de Shankar y Shi-ama."
+      },
+      "hi": {
+        "ss": "",
+        "sts": "शंकर और श्यामा भी गाए जाते हैं।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9275,
+    "Seq": 60,
+    "header": 0,
+    "Paragraph": 13,
+    "Gurmukhi": "myG rwg puqRn ky nwmw ]1]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "megh raag putran ke naamaa ||1||",
+      "hi": "मेघ राग पुत्रन के नामा ॥१॥",
+      "ipa": "meGʰə̀ rɑG pʊt̪ɹən ke nɑmɑ.1.",
+      "ur": "مےگھ راگ پُترن کے ناما ۔۔۱۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "These are the names of the sons of Maygh Raag. ||1||",
+        "ms": "",
+        "ssk": "These are the names of the sons of Maygh Raag. ||1||"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "es": {
+        "sn": "Estos son los nombres de los hijos de Mellh Rag. (1)"
+      },
+      "hi": {
+        "ss": "",
+        "sts": "ये मेघ राग के पुत्रों के नाम हैं॥१॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9276,
+    "Seq": 61,
+    "header": 0,
+    "Paragraph": 14,
+    "Gurmukhi": "Kst rwg auin gwey sMig rwgnI qIs ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "khasaT raag un gaae sa(n)g raaganee tees ||",
+      "hi": "खसट राग उनि गाए संगि रागनी तीस ॥",
+      "ipa": "kʰəsəʈ rɑG oʊn Gɑee səŋG rɑGəni t̪is.",
+      "ur": "کھسٹ راگ اُن گااے سںگ راگنیِ تیِس ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "So all together, they sing the six Raagas and the thirty Raaginis,",
+        "ms": "",
+        "ssk": "So all together, they sing the six Raagas and the thirty Raaginis,"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "es": {
+        "sn": "Juntos todos entonan las seis Ragas y las treinta Raguinas,"
+      },
+      "hi": {
+        "ss": "कुल रागनियाँ - 30 हरेक राग के आठ पुत्र।",
+        "sts": "इस तरह गायकों ने छः रागों का गान किया है, जिनके साथ तीस रागिनियाँ हैं।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9277,
+    "Seq": 62,
+    "header": 0,
+    "Paragraph": 14,
+    "Gurmukhi": "sBY puqR rwgMn ky ATwrh ds bIs ]1]1]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "sabhai putr raaga(n)n ke aThaareh dhas bees ||1||1||",
+      "hi": "सभै पुत्र रागंन के अठारह दस बीस ॥१॥१॥",
+      "ipa": "səɓæ pʊt̪ɹ rɑGəŋn ke əʈʰɑrəh d̪əs bis.1.1.",
+      "ur": "سبھَے پُتر راگنّ کے اٹھاره دس بیِس ۔۔۱۔۔۱۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "and all the forty-eight sons of the Raagas. ||1||1||",
+        "ms": "",
+        "ssk": "and all the forty-eight sons of the Raagas. ||1||1||"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": ""
+      },
+      "es": {
+        "sn": "con los cuarenta y cuatro hijos de las Ragas. (1-1)"
+      },
+      "hi": {
+        "ss": "छे रागों के कुल पुत्र- 48सारा जोड़- 6+30+48। 84",
+        "sts": "इन सभी रागों के अठारह+दस+ बीस = अड़तालीस पुत्र हैं, सबका जोड़ छः राग, पाँच रागिनियाँ, अड़तालीस पुत्र ६+ ३० + ४६ कुल चौरासी हैं॥१॥१"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  }
+]

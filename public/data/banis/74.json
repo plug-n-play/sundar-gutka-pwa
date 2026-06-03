@@ -1,0 +1,4359 @@
+[
+  {
+    "ID": 23111,
+    "Seq": 10,
+    "header": 1,
+    "Paragraph": 1,
+    "Gurmukhi": "<> siqgur pRswid ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "ikOankaar satigur prasaadh ||",
+      "hi": "ੴ सतिगुर प्रसादि ॥",
+      "ipa": "ɪk oəŋkɑɾ sət̪ɪGʊr pɹəsɑd̪.",
+      "ur": "اک اونکار ستگر پرساد ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "One Universal Creator God. By The Grace Of The True Guru:",
+        "ms": "There is but One God. By the True Guru's grace, He is obtained.",
+        "ssk": "One Universal Creator God. By The Grace Of The True Guru:"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": "vwihgurU kyvl iek hY[ scy gurW dI dieAw duAwrw, auh pwieAw jWdw hY["
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": "ਵਾਹਿਗੁਰੂ ਕੇਵਲ ਇਕ ਹੈ। ਸਚੇ ਗੁਰਾਂ ਦੀ ਦਇਆ ਦੁਆਰਾ, ਉਹ ਪਾਇਆ ਜਾਂਦਾ ਹੈ।"
+      },
+      "es": {
+        "sn": "Un Creador Universal, por la Gracia del Verdadero Guru"
+      },
+      "hi": {
+        "ss": "",
+        "sts": "ੴ सतिगुर प्रसादि ॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": "above"
+  },
+  {
+    "ID": 23112,
+    "Seq": 20,
+    "header": 2,
+    "Paragraph": 2,
+    "Gurmukhi": "rwgu mlwr bwxI Bgq nwmdyv jIau kI]",
+    "Visraam": {
+      "sttm2": [],
+      "sttm": [],
+      "igurbani": []
+    },
+    "Transliterations": {
+      "en": "raag malaar baanee bhagat naamadhev jeeau kee||",
+      "hi": "रागु मलार बाणी भगत नामदेव जीउ की॥",
+      "ipa": "rɑG məlɑr bɑɳi ɓəGət̪ nɑməd̪eʋ d͡ʒio ki.",
+      "ur": "راگ ملار باݨیِ بھگت نامدےو جیِا کیِ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Raag Malaar, The Word Of The Devotee Naam Dayv Jee:",
+        "ms": "Rag Malar. Hymns of reverend. Saint Nam Dev.",
+        "ssk": "Raag Malaar, The Word Of The Devotee Naam Dayv Jee:"
+      },
+      "pu": {
+        "ss": "",
+        "ft": "",
+        "bdb": "",
+        "ms": "rwgu mlwr[ Sbd pUjX[ sMq nwm dyv["
+      },
+      "puu": {
+        "ss": "",
+        "ft": "",
+        "bdb": "",
+        "ms": "ਰਾਗੁ ਮਲਾਰ। ਸ਼ਬਦ ਪੂਜਯ। ਸੰਤ ਨਾਮ ਦੇਵ।"
+      },
+      "es": {
+        "sn": "Rag Malhar, Palabras del Devoto Nam Dev Yi."
+      },
+      "hi": {
+        "ss": "",
+        "sts": "रागु मलार बाणी भगत नामदेव जीउ की ॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 23113,
+    "Seq": 30,
+    "header": 1,
+    "Paragraph": 3,
+    "Gurmukhi": "<> siqgur pRswid ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "ikOankaar satigur prasaadh ||",
+      "hi": "ੴ सतिगुर प्रसादि ॥",
+      "ipa": "ɪk oəŋkɑɾ sət̪ɪGʊr pɹəsɑd̪.",
+      "ur": "اک اونکار ستگر پرساد ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "One Universal Creator God. By The Grace Of The True Guru:",
+        "ms": "There is but One God. By the True Guru's grace, He is obtained.",
+        "ssk": "One Universal Creator God. By The Grace Of The True Guru:"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": "vwihgurU kyvl iek hY[ scy gurW dI dieAw duAwrw, auh pwieAw jWdw hY["
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": "ਵਾਹਿਗੁਰੂ ਕੇਵਲ ਇਕ ਹੈ। ਸਚੇ ਗੁਰਾਂ ਦੀ ਦਇਆ ਦੁਆਰਾ, ਉਹ ਪਾਇਆ ਜਾਂਦਾ ਹੈ।"
+      },
+      "es": {
+        "sn": "Un Creador Universal, por la Gracia del Verdadero Guru"
+      },
+      "hi": {
+        "ss": "",
+        "sts": "ੴ सतिगुर प्रसादि ॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": "current"
+  },
+  {
+    "ID": 23114,
+    "Seq": 40,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "syvIly gopwl rwie Akul inrMjn ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "seveele gopaal rai akul nira(n)jan ||",
+      "hi": "सेवीले गोपाल राइ अकुल निरंजन ॥",
+      "ipa": "seʋile Gɔpɑl rɑeɪ əkʊl nɪrəŋd͡ʒən.",
+      "ur": "سےویِلے گوپال راا اکل نرںجن ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Serve the King, the Sovereign Lord of the World. He has no ancestry; He is immaculate and pure.",
+        "ms": "Serve thou thy Lord, thy king, who is Unlineal and Immaculate.",
+        "ssk": "Serve the King, the Sovereign Lord of the World. He has no ancestry; He is immaculate and pure."
+      },
+      "pu": {
+        "ss": "mYN qW aus pRBU dw ismrn kIqw hY, jo swrI isRStI dw r`iKAk hY, ijs dI koeI ^ws kul nhIN hY, ijs au~qy mwieAw Awpxw pRBwv nhIN pw skdI Aqy (",
+        "ft": "hy BweI! Akl inMrjn gopwl rwie kw syvnw krIey]",
+        "bdb": "mYN qW aus pRBU dw ismrn kIqw hY, jo swrI isRStI dw r`iKAk hY, ijs dI koeI ^ws kul nhIN hY, ijs au~qy mwieAw Awpxw pRBwv nhIN pw skdI Aqy (",
+        "ms": "qUM Awpxy pRBU pwiqSwh dI syvw kr, jo kul-rihq Aqy pwvn piv`qr hY["
+      },
+      "puu": {
+        "ss": "ਮੈਂ ਤਾਂ ਉਸ ਪ੍ਰਭੂ ਦਾ ਸਿਮਰਨ ਕੀਤਾ ਹੈ, ਜੋ ਸਾਰੀ ਸ੍ਰਿਸ਼ਟੀ ਦਾ ਰੱਖਿਅਕ ਹੈ, ਜਿਸ ਦੀ ਕੋਈ ਖ਼ਾਸ ਕੁਲ ਨਹੀਂ ਹੈ, ਜਿਸ ਉੱਤੇ ਮਾਇਆ ਆਪਣਾ ਪ੍ਰਭਾਵ ਨਹੀਂ ਪਾ ਸਕਦੀ ਅਤੇ (",
+        "ft": "ਹੇ ਭਾਈ! ਅਕਲ ਨਿੰਰਜਨ ਗੋਪਾਲ ਰਾਇ ਕਾ ਸੇਵਨਾ ਕਰੀਏ॥",
+        "bdb": "ਮੈਂ ਤਾਂ ਉਸ ਪ੍ਰਭੂ ਦਾ ਸਿਮਰਨ ਕੀਤਾ ਹੈ, ਜੋ ਸਾਰੀ ਸ੍ਰਿਸ਼ਟੀ ਦਾ ਰੱਖਿਅਕ ਹੈ, ਜਿਸ ਦੀ ਕੋਈ ਖ਼ਾਸ ਕੁਲ ਨਹੀਂ ਹੈ, ਜਿਸ ਉੱਤੇ ਮਾਇਆ ਆਪਣਾ ਪ੍ਰਭਾਵ ਨਹੀਂ ਪਾ ਸਕਦੀ ਅਤੇ (",
+        "ms": "ਤੂੰ ਆਪਣੇ ਪ੍ਰਭੂ ਪਾਤਿਸ਼ਾਹ ਦੀ ਸੇਵਾ ਕਰ, ਜੋ ਕੁਲ-ਰਹਿਤ ਅਤੇ ਪਾਵਨ ਪਵਿੱਤਰ ਹੈ।"
+      },
+      "es": {
+        "sn": "Sirve al Rey, al Soberano Señor del Mundo. Él no tiene ancestros, es Inmaculado y Puro. "
+      },
+      "hi": {
+        "ss": "मैंने तो उस प्रभू का सिमरन किया है। जो सारी सृष्टि का रक्षक है। जिसकी कोई खास कुल नहीं है। जिस पर माया अपना प्रभाव नहीं डाल सकती और",
+        "sts": "सृष्टि पालक, कुलातीत, माया की कालिमा से रहित प्रभु की उपासना करो।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 23115,
+    "Seq": 50,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "Bgiq dwnu dIjY jwcih sMq jn ]1] rhwau ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "bhagat dhaan dheejai jaacheh sa(n)t jan ||1|| rahaau ||",
+      "hi": "भगति दानु दीजै जाचहि संत जन ॥१॥ रहाउ ॥",
+      "ipa": "ɓəGət̪ d̪ɑn d̪id͡ʒæ d͡ʒɑt͡ʃəh səŋt̪ d͡ʒən.1. rəhɑo.",
+      "ur": "بھگت دان دیِجَے جاچه سںت جن ۔۔۱۔۔ رهاا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Please bless me with the gift of devotion, which the humble Saints beg for. ||1||Pause||",
+        "ms": "Bless Thou me with the gift of Thy meditation for which the saintly persons beg Thee, O Lord. Pause.",
+        "ssk": "Please bless me with the gift of devotion, which the humble Saints beg for. ||1||Pause||"
+      },
+      "pu": {
+        "ss": "(ijs dy dr qy) swry Bgq mMgdy hn (Aqy AwKdy hn ik hy dwqw! Aswƒ) AwpxI BgqI dI dwiq b^S [1[rhwau[",
+        "ft": "jb sMq jn mWgqy hYN qb iqn ko BgqI dwn dyqw hY; vw ijs ko sMq jn mWgqy hYN, so BgqI dwn myry ko dIjIey]1] rhwau ]ÇpRSn: vhu kYsw hY?Çau`qR:",
+        "bdb": "(ijs dy dr qy) swry Bgq mMgdy hn (Aqy AwKdy hn ik hy dwqw! Aswƒ) AwpxI BgqI dI dwiq b^S [1[rhwau[",
+        "ms": "qUM mYƒ Awpxy ismrn dI dwq prdwn kr, ijs dI swDU purS qyry kolo Xwcnw krdy hn, hy suAwmI! Tihrwau["
+      },
+      "puu": {
+        "ss": "(ਜਿਸ ਦੇ ਦਰ ਤੇ) ਸਾਰੇ ਭਗਤ ਮੰਗਦੇ ਹਨ (ਅਤੇ ਆਖਦੇ ਹਨ ਕਿ ਹੇ ਦਾਤਾ! ਅਸਾਨੂੰ) ਆਪਣੀ ਭਗਤੀ ਦੀ ਦਾਤਿ ਬਖ਼ਸ਼ ।੧।ਰਹਾਉ।",
+        "ft": "ਜਬ ਸੰਤ ਜਨ ਮਾਂਗਤੇ ਹੈਂ ਤਬ ਤਿਨ ਕੋ ਭਗਤੀ ਦਾਨ ਦੇਤਾ ਹੈ; ਵਾ ਜਿਸ ਕੋ ਸੰਤ ਜਨ ਮਾਂਗਤੇ ਹੈਂ, ਸੋ ਭਗਤੀ ਦਾਨ ਮੇਰੇ ਕੋ ਦੀਜੀਏ॥੧॥ ਰਹਾਉ ॥☬ਪ੍ਰਸ਼ਨ: ਵਹੁ ਕੈਸਾ ਹੈ?☬ਉੱਤ੍ਰ:",
+        "bdb": "(ਜਿਸ ਦੇ ਦਰ ਤੇ) ਸਾਰੇ ਭਗਤ ਮੰਗਦੇ ਹਨ (ਅਤੇ ਆਖਦੇ ਹਨ ਕਿ ਹੇ ਦਾਤਾ! ਅਸਾਨੂੰ) ਆਪਣੀ ਭਗਤੀ ਦੀ ਦਾਤਿ ਬਖ਼ਸ਼ ।੧।ਰਹਾਉ।",
+        "ms": "ਤੂੰ ਮੈਨੂੰ ਆਪਣੇ ਸਿਮਰਨ ਦੀ ਦਾਤ ਪਰਦਾਨ ਕਰ, ਜਿਸ ਦੀ ਸਾਧੂ ਪੁਰਸ਼ ਤੇਰੇ ਕੋਲੋ ਯਾਚਨਾ ਕਰਦੇ ਹਨ, ਹੇ ਸੁਆਮੀ! ਠਹਿਰਾਉ।"
+      },
+      "es": {
+        "sn": "Bendíceme por favor con ese Regalo de Devoción que los Humildes Santos piden y añoran. (1-Pausa)"
+      },
+      "hi": {
+        "ss": "(जिस के दर पर) सारे भगत मँगते हैं (और कहते हैं कि हे दाता ! हमें) अपनी भक्ति की दाति बख्श। 1। रहाउ।",
+        "sts": "भक्तजन भक्ति का दान चाहते हैं, हे भक्तवत्सल ! अपनी भक्ति दीजिए॥१॥॥ रहाउ ॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 23116,
+    "Seq": 60,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "jW cY Gir idg idsY srwiecw bYkuMT Bvn icqRswlw spq lok swmwin pUrIAly ]",
+    "Visraam": {
+      "sttm": [],
+      "igurbani": [],
+      "sttm2": [
+        {
+          "p": 5,
+          "t": "v"
+        },
+        {
+          "p": 8,
+          "t": "v"
+        },
+        {
+          "p": 10,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "jaa(n) chai ghar dhig dhisai saraichaa baiku(n)Th bhavan chitrasaalaa sapat lok saamaan pooreeale ||",
+      "hi": "जाँ चै घरि दिग दिसै सराइचा बैकुँठ भवन चित्रसाला सपत लोक सामानि पूरीअले ॥",
+      "ipa": "d͡ʒɑⁿ t͡ʃæ Gʰər d̪ɪG d̪ɪsæ sərɑeɪt͡ʃɑ bækʊŋʈʰ ɓəʋən t͡ʃɪt̪ɹəsɑlɑ səpət̪ lɔk sɑmɑn puriəle.",
+      "ur": "جاں چَے گھر دگ دسَے سرااچا بَےکںٹھ بھون چترسالا سپت لوک سامان پُوریِالے ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "His Home is the pavilion seen in all directions; His ornamental heavenly realms fill the seven worlds alike.",
+        "ms": "Such is the Lord in whose home is seen the pavilion made of all the directions, who has ornamental celestial mansion and who is fully filling the seven worlds alike.",
+        "ssk": "His Home is the pavilion seen in all directions; His ornamental heavenly realms fill the seven worlds alike."
+      },
+      "pu": {
+        "ss": "auh prmwqmw (mwno) iek bVw v`fw rwjw hY (ijs dw ieqnw v`fw SwmIAwnw hY ik) ieh cwry idSW (aus SwmIAwny dI mwno) knwq hY, ",
+        "ft": "(jW cY) ijs ky Gr ivKy (idg) idgpwl hsqI (srwiecw) iknwqW ky qwnxy vwly hYN, idSw AOru bidSw knwqW hYN, punh icqRq kIqI hUeI (swlw) jgw bYkuMT Gr hY, Bwv sB sy auqm lok hY[ spq lokoN myN smwnÎsqw kr pUrn ho rhw hY; vw swq lok smwn purIAW hYN]",
+        "bdb": "auh prmwqmw (mwno) iek bVw v`fw rwjw hY (ijs dw ieqnw v`fw SwmIAwnw hY ik) ieh cwry idSW (aus SwmIAwny dI mwno) knwq hY, ",
+        "ms": "AYho jyhw hY suAwmI, ijs dy gRih iv`c swrIAW qrPW dw bixAw hoieAw qMbU idsdw hY, ijs dw icqRkwrI kIqw hoieAw svrgI mMdr hY Aqy jo s`qW hI sMswr ƒ iek swr prIpUrn kr irhw hY["
+      },
+      "puu": {
+        "ss": "ਉਹ ਪਰਮਾਤਮਾ (ਮਾਨੋ) ਇਕ ਬੜਾ ਵੱਡਾ ਰਾਜਾ ਹੈ (ਜਿਸ ਦਾ ਇਤਨਾ ਵੱਡਾ ਸ਼ਾਮੀਆਨਾ ਹੈ ਕਿ) ਇਹ ਚਾਰੇ ਦਿਸ਼ਾਂ (ਉਸ ਸ਼ਾਮੀਆਨੇ ਦੀ ਮਾਨੋ) ਕਨਾਤ ਹੈ, ",
+        "ft": "(ਜਾਂ ਚੈ) ਜਿਸ ਕੇ ਘਰ ਵਿਖੇ (ਦਿਗ) ਦਿਗਪਾਲ ਹਸਤੀ (ਸਰਾਇਚਾ) ਕਿਨਾਤਾਂ ਕੇ ਤਾਨਣੇ ਵਾਲੇ ਹੈਂ, ਦਿਸ਼ਾ ਔਰੁ ਬਦਿਸ਼ਾ ਕਨਾਤਾਂ ਹੈਂ, ਪੁਨਹ ਚਿਤ੍ਰਤ ਕੀਤੀ ਹੂਈ (ਸਾਲਾ) ਜਗਾ ਬੈਕੁੰਠ ਘਰ ਹੈ, ਭਾਵ ਸਭ ਸੇ ਉਤਮ ਲੋਕ ਹੈ। ਸਪਤ ਲੋਕੋਂ ਮੇਂ ਸਮਾਨ੍ਯਸਤਾ ਕਰ ਪੂਰਨ ਹੋ ਰਹਾ ਹੈ; ਵਾ ਸਾਤ ਲੋਕ ਸਮਾਨ ਪੁਰੀਆਂ ਹੈਂ॥",
+        "bdb": "ਉਹ ਪਰਮਾਤਮਾ (ਮਾਨੋ) ਇਕ ਬੜਾ ਵੱਡਾ ਰਾਜਾ ਹੈ (ਜਿਸ ਦਾ ਇਤਨਾ ਵੱਡਾ ਸ਼ਾਮੀਆਨਾ ਹੈ ਕਿ) ਇਹ ਚਾਰੇ ਦਿਸ਼ਾਂ (ਉਸ ਸ਼ਾਮੀਆਨੇ ਦੀ ਮਾਨੋ) ਕਨਾਤ ਹੈ, ",
+        "ms": "ਐਹੋ ਜੇਹਾ ਹੈ ਸੁਆਮੀ, ਜਿਸ ਦੇ ਗ੍ਰਹਿ ਵਿੱਚ ਸਾਰੀਆਂ ਤਰਫਾਂ ਦਾ ਬਣਿਆ ਹੋਇਆ ਤੰਬੂ ਦਿਸਦਾ ਹੈ, ਜਿਸ ਦਾ ਚਿਤ੍ਰਕਾਰੀ ਕੀਤਾ ਹੋਇਆ ਸਵਰਗੀ ਮੰਦਰ ਹੈ ਅਤੇ ਜੋ ਸੱਤਾਂ ਹੀ ਸੰਸਾਰ ਨੂੰ ਇਕ ਸਾਰ ਪਰੀਪੂਰਨ ਕਰ ਰਿਹਾ ਹੈ।"
+      },
+      "es": {
+        "sn": "Su Hogar es un Pabellón que se ve desde todas direcciones. Su Ornamento Celestial llena de igual forma los siete mundos,"
+      },
+      "hi": {
+        "ss": "(जिसका इतना बड़ा शामियाना है कि) यह चारों दिशाएं (उस शामियाने की मानो) कनातें हैं। (राजाओं के राज-महलों में तस्वीर घर होते हैं। परमात्मा एक ऐसा राजा है कि) सारा बैकुंठ उसका (जैसे) तस्वीर-घर है। और सारे ही जगत में उसका हुकम एक-सार चल रहा है।",
+        "sts": "उसके घर में दस दिशाओं का शामियाना फैला हुआ है, समूचा वैकुण्ठ उसकी चित्रशाला है और वह समूचे विश्व में समान रूप से व्याप्त है।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 23117,
+    "Seq": 70,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "jW cY Gir liCmI kuAwrI cMdu sUrju dIvVy kauqku kwlu bpuVw kotvwlu su krw isrI ]",
+    "Visraam": {
+      "sttm": [],
+      "igurbani": [],
+      "sttm2": [
+        {
+          "p": 7,
+          "t": "v"
+        },
+        {
+          "p": 10,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "jaa(n) chai ghar lachhimee kuaaree cha(n)dh sooraj dheevaRe kautak kaal bapuRaa koTavaalu su karaa siree ||",
+      "hi": "जाँ चै घरि लछिमी कुआरी चंदु सूरजु दीवड़े कउतकु कालु बपुड़ा कोटवालु सु करा सिरी ॥",
+      "ipa": "d͡ʒɑⁿ t͡ʃæ Gʰər ləɕɪmi kʊəɑri t͡ʃəŋd̪ surəd͡ʒ d̪iʋəɽe koʊt̪ək kɑl bəpʊɽɑ kɔʈəʋɑl s kərɑ sɪri.",
+      "ur": "جاں چَے گھر لچھِمیِ کُآریِ چںد سُورج دیِوڑے کاتک کال بپڑا کوٹوال سُ کرا سریِ ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "In His Home, the virgin Lakshmi dwells. The moon and the sun are His two lamps; the wretched Messenger of Death stages his dramas, and levies taxes on all.",
+        "ms": "In whose home abides the virgin goddess of wealth. The moon and the sun are His two lamps, the poor death, which exhibits wondrous plays and which levies tax on all, is His police-official.",
+        "ssk": "In His Home, the virgin Lakshmi dwells. The moon and the sun are His two lamps; the wretched Messenger of Death stages his dramas, and levies taxes on all."
+      },
+      "pu": {
+        "ss": "(rwijAW dy rwj-mhlW ivc qsvIr-Gr huMdy hn, prmwqmw iek AYsw rwjw hY ik) swrw bYkuMT aus dw (mwno) qsvIr-Gr hY",
+        "ft": "punh ijs ky Gr myN lCmI kuAwrI hY, Bwv AsMg purKu hY; vw dUjw Bwv sMqwn nw hony qy kMnÎW rUp hY, ies vwsqy kuAwrI khI hY[ cMdRmw Ar sUrj dIvy hYN AOr (bpuVw) bycwrw kOqkI jo kwl hY, so kuqvwl hY[ ijs kw sB ky isroN pr kr hY]",
+        "bdb": "(rwijAW dy rwj-mhlW ivc qsvIr-Gr huMdy hn, prmwqmw iek AYsw rwjw hY ik) swrw bYkuMT aus dw (mwno) qsvIr-Gr hY",
+        "ms": "ijs dy Dwm AMdr AxivAwhI dolq dI dyvI vsdI hY[ cMdrmw Aqy AwPqwb aus dy do dIvy hn[ grIb mOq, ijhVI Ascrj KyfW ivKwldI hY Aqy jo swirAW ƒ msUl lwauNdI hY, aus dI pulIs APsr hY["
+      },
+      "puu": {
+        "ss": "(ਰਾਜਿਆਂ ਦੇ ਰਾਜ-ਮਹਲਾਂ ਵਿਚ ਤਸਵੀਰ-ਘਰ ਹੁੰਦੇ ਹਨ, ਪਰਮਾਤਮਾ ਇਕ ਐਸਾ ਰਾਜਾ ਹੈ ਕਿ) ਸਾਰਾ ਬੈਕੁੰਠ ਉਸ ਦਾ (ਮਾਨੋ) ਤਸਵੀਰ-ਘਰ ਹੈ",
+        "ft": "ਪੁਨਹ ਜਿਸ ਕੇ ਘਰ ਮੇਂ ਲਛਮੀ ਕੁਆਰੀ ਹੈ, ਭਾਵ ਅਸੰਗ ਪੁਰਖੁ ਹੈ; ਵਾ ਦੂਜਾ ਭਾਵ ਸੰਤਾਨ ਨਾ ਹੋਨੇ ਤੇ ਕੰਨ੍ਯਾਂ ਰੂਪ ਹੈ, ਇਸ ਵਾਸਤੇ ਕੁਆਰੀ ਕਹੀ ਹੈ। ਚੰਦ੍ਰਮਾ ਅਰ ਸੂਰਜ ਦੀਵੇ ਹੈਂ ਔਰ (ਬਪੁੜਾ) ਬੇਚਾਰਾ ਕੌਤਕੀ ਜੋ ਕਾਲ ਹੈ, ਸੋ ਕੁਤਵਾਲ ਹੈ। ਜਿਸ ਕਾ ਸਭ ਕੇ ਸਿਰੋਂ ਪਰ ਕਰ ਹੈ॥",
+        "bdb": "(ਰਾਜਿਆਂ ਦੇ ਰਾਜ-ਮਹਲਾਂ ਵਿਚ ਤਸਵੀਰ-ਘਰ ਹੁੰਦੇ ਹਨ, ਪਰਮਾਤਮਾ ਇਕ ਐਸਾ ਰਾਜਾ ਹੈ ਕਿ) ਸਾਰਾ ਬੈਕੁੰਠ ਉਸ ਦਾ (ਮਾਨੋ) ਤਸਵੀਰ-ਘਰ ਹੈ",
+        "ms": "ਜਿਸ ਦੇ ਧਾਮ ਅੰਦਰ ਅਣਵਿਆਹੀ ਦੋਲਤ ਦੀ ਦੇਵੀ ਵਸਦੀ ਹੈ। ਚੰਦਰਮਾ ਅਤੇ ਆਫਤਾਬ ਉਸ ਦੇ ਦੋ ਦੀਵੇ ਹਨ। ਗਰੀਬ ਮੌਤ, ਜਿਹੜੀ ਅਸਚਰਜ ਖੇਡਾਂ ਵਿਖਾਲਦੀ ਹੈ ਅਤੇ ਜੋ ਸਾਰਿਆਂ ਨੂੰ ਮਸੂਲ ਲਾਉਂਦੀ ਹੈ, ਉਸ ਦੀ ਪੁਲੀਸ ਅਫਸਰ ਹੈ।"
+      },
+      "es": {
+        "sn": " ahí la diosa Lakshmi habita y el desgraciado mensajero de la muerte establece sus dramas y cobra los impuestos. "
+      },
+      "hi": {
+        "ss": "(राजाओं की रानियों का जोबन तो चार दिनों का होता है। परमात्मा एक ऐसा राजा है) जिसके महल में लक्ष्मी है। जो सदा जवान रहती है (जिसका जोबन कभी नाश होने वाला नहीं)। ये चाँद-सूर्य (उसके महल के। मानो) छोटे से दीपक हैं। जिस काल का हाला हरेक जीव के सिर पर है (जिस काल का हाला हरेक जीव को भरना पड़ता है। जिस काल से जगत का हरेक जीव थर-थर काँपता है) और जो काल (इस जगत-रूप शहर के सिर पर) कोतवाल है। वह काल बेचारा (उस परमात्मा के घर में। जैसे। एक) खिलौना है",
+        "sts": "उसके घर में नवयुवती लक्ष्मी रह रही है, चाँद और सूर्य संसार को रोशनी देने वाले दीपक हैं। काल रूपी कोतवाल जिससे सब लोग डरते हैं, वह बेचारा उसके सामने कुछ भी नहीं।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 23118,
+    "Seq": 80,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "su AYsw rwjw sRI nrhrI ]1]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "s aaisaa raajaa sree naraharee ||1||",
+      "hi": "सु ऐसा राजा स्री नरहरी ॥१॥",
+      "ipa": "s æsɑ rɑd͡ʒɑ sɹi nərəhəri.1.",
+      "ur": "سُ اَےسا راجا سریِ نرهریِ ۔۔۱۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Such is my Sovereign Lord King, the Supreme Lord of all. ||1||",
+        "ms": "Such is that venerable Man lion Emperor.",
+        "ssk": "Such is my Sovereign Lord King, the Supreme Lord of all. ||1||"
+      },
+      "pu": {
+        "ss": "(rwijAW dIAW rwxIAW dw jobn qW cwr idn dw huMdw hY, prmwqmw iek AYsw rwjw hY) ",
+        "ft": "so AYsw sRI nr isMG rUp rwjw hY]1]",
+        "bdb": "(rwijAW dIAW rwxIAW dw jobn qW cwr idn dw huMdw hY, prmwqmw iek AYsw rwjw hY) ",
+        "ms": "AYho jyhw hY auh pUjX mnUS-Syr srUp pwiqSwh["
+      },
+      "puu": {
+        "ss": "(ਰਾਜਿਆਂ ਦੀਆਂ ਰਾਣੀਆਂ ਦਾ ਜੋਬਨ ਤਾਂ ਚਾਰ ਦਿਨ ਦਾ ਹੁੰਦਾ ਹੈ, ਪਰਮਾਤਮਾ ਇਕ ਐਸਾ ਰਾਜਾ ਹੈ) ",
+        "ft": "ਸੋ ਐਸਾ ਸ੍ਰੀ ਨਰ ਸਿੰਘ ਰੂਪ ਰਾਜਾ ਹੈ॥੧॥",
+        "bdb": "(ਰਾਜਿਆਂ ਦੀਆਂ ਰਾਣੀਆਂ ਦਾ ਜੋਬਨ ਤਾਂ ਚਾਰ ਦਿਨ ਦਾ ਹੁੰਦਾ ਹੈ, ਪਰਮਾਤਮਾ ਇਕ ਐਸਾ ਰਾਜਾ ਹੈ) ",
+        "ms": "ਐਹੋ ਜੇਹਾ ਹੈ ਉਹ ਪੂਜਯ ਮਨੂਸ਼-ਸ਼ੇਰ ਸਰੂਪ ਪਾਤਿਸ਼ਾਹ।"
+      },
+      "es": {
+        "sn": "Tal es mi Rey y Señor Soberano, el Señor Supremo. (1)"
+      },
+      "hi": {
+        "ss": "वह परमात्मा (मानो) एक बहुत बड़ा राजा है । 1।",
+        "sts": "सो समूचे विश्व का राजा श्रीहरि पूज्य एवं वंदनीय है॥१॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 23119,
+    "Seq": 90,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "jW cY Gir kulwlu bRhmw cqur muKu fWvVw ijin ibsÍ sMswru rwcIly ]",
+    "Visraam": {
+      "sttm": [],
+      "igurbani": [],
+      "sttm2": [
+        {
+          "p": 4,
+          "t": "v"
+        },
+        {
+          "p": 7,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "jaa(n) chai ghar kulaal brahamaa chatur mukh ddaa(n)vaRaa jin bisavai sa(n)saar raacheele ||",
+      "hi": "जाँ चै घरि कुलालु ब्रहमा चतुर मुखु डाँवड़ा जिनि बिस्व संसारु राचीले ॥",
+      "ipa": "d͡ʒɑⁿ t͡ʃæ Gʰər kʊlɑl bɹəhəmɑ t͡ʃət̪ʊr mʊkʰ ɖɑⁿəʋəɽɑ d͡ʒɪn bɪsʋ səŋsɑr rɑt͡ʃile.",
+      "ur": "جاں چَے گھر کُلال برهما چتر مُکھ ڈاںوڑا جنِ بسو سںسار راچیِلے ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "In His House, the four-faced Brahma, the cosmic potter lives. He created the entire universe.",
+        "ms": "In whose mansion is the four-faced Brahma, the fashioning potter, Who has created the whole world.",
+        "ssk": "In His House, the four-faced Brahma, the cosmic potter lives. He created the entire universe."
+      },
+      "pu": {
+        "ss": "dy mhl ivc l`CmI hY, jo sdw juAwn rihMdI hY (ijs dw jobn kdy nws hox vwlw nhIN), ieh cMd sUrj (aus dy mhl dy, mwno) in`ky ijhy dIvy hn,",
+        "ft": "ijs ky Gr myN bRhmw cqurmuKI (kulwlu) Gumwr (fWvVw) faul; vw GV ky ijs ny sMpUrn isRs†I ko rcw hY]",
+        "bdb": "dy mhl ivc l`CmI hY, jo sdw juAwn rihMdI hY (ijs dw jobn kdy nws hox vwlw nhIN), ieh cMd sUrj (aus dy mhl dy, mwno) in`ky ijhy dIvy hn,",
+        "ms": "ijs dy mMdr iv`c hY GwVq GVn vwlw Gumwr, cwr-mUMhW vwlw bRhmw, ijsny swrw jhwn ricAw hY["
+      },
+      "puu": {
+        "ss": "ਦੇ ਮਹਲ ਵਿਚ ਲੱਛਮੀ ਹੈ, ਜੋ ਸਦਾ ਜੁਆਨ ਰਹਿੰਦੀ ਹੈ (ਜਿਸ ਦਾ ਜੋਬਨ ਕਦੇ ਨਾਸ ਹੋਣ ਵਾਲਾ ਨਹੀਂ), ਇਹ ਚੰਦ ਸੂਰਜ (ਉਸ ਦੇ ਮਹਲ ਦੇ, ਮਾਨੋ) ਨਿੱਕੇ ਜਿਹੇ ਦੀਵੇ ਹਨ,",
+        "ft": "ਜਿਸ ਕੇ ਘਰ ਮੇਂ ਬ੍ਰਹਮਾ ਚਤੁਰਮੁਖੀ (ਕੁਲਾਲੁ) ਘੁਮਾਰ (ਡਾਂਵੜਾ) ਡਉਲ; ਵਾ ਘੜ ਕੇ ਜਿਸ ਨੇ ਸੰਪੂਰਨ ਸ੍ਰਿਸ੍ਟੀ ਕੋ ਰਚਾ ਹੈ॥",
+        "bdb": "ਦੇ ਮਹਲ ਵਿਚ ਲੱਛਮੀ ਹੈ, ਜੋ ਸਦਾ ਜੁਆਨ ਰਹਿੰਦੀ ਹੈ (ਜਿਸ ਦਾ ਜੋਬਨ ਕਦੇ ਨਾਸ ਹੋਣ ਵਾਲਾ ਨਹੀਂ), ਇਹ ਚੰਦ ਸੂਰਜ (ਉਸ ਦੇ ਮਹਲ ਦੇ, ਮਾਨੋ) ਨਿੱਕੇ ਜਿਹੇ ਦੀਵੇ ਹਨ,",
+        "ms": "ਜਿਸ ਦੇ ਮੰਦਰ ਵਿੱਚ ਹੈ ਘਾੜਤ ਘੜਨ ਵਾਲਾ ਘੁਮਾਰ, ਚਾਰ-ਮੂੰਹਾਂ ਵਾਲਾ ਬ੍ਰਹਮਾ, ਜਿਸਨੇ ਸਾਰਾ ਜਹਾਨ ਰਚਿਆ ਹੈ।"
+      },
+      "es": {
+        "sn": "En Su Hogar el Brahma de cuatro caras, el alfarero cósmico habita. Él creó el Universo entero y Su Causa, "
+      },
+      "hi": {
+        "ss": "(कि लोगों के ख्याल के अनुसार) जिस ब्रहमा ने सारा संसार पैदा किया है। चार मुँहों वाला वह ब्रहमा भी उसके घर में बर्तन घड़ने वाला एक कुम्हार ही है (भाव। उस परमात्मा के सामने लोगों का जाना-माना ब्रहमा भी इतनी ही हस्ती रखता है जितनी कि किसी गाँव के चौधरी के सामने गाँव का गरीब कुम्हार)।",
+        "sts": "उसके घर में चार मुखों वाला ब्रह्मा रूपी सर्जक है, जो पूरे विश्व एवं लोगों को बनाने वाला है।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 23120,
+    "Seq": 100,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "jW kY Gir eIsru bwvlw jgq gurU qq swrKw igAwnu BwKIly ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 4,
+          "t": "v"
+        },
+        {
+          "p": 2,
+          "t": "y"
+        },
+        {
+          "p": 8,
+          "t": "y"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 4,
+          "t": "v"
+        },
+        {
+          "p": 2,
+          "t": "y"
+        },
+        {
+          "p": 8,
+          "t": "y"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 4,
+          "t": "v"
+        },
+        {
+          "p": 8,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "jaa(n) kai ghar ieesar baavalaa jagat guroo tat saarakhaa giaan bhaakheele ||",
+      "hi": "जाँ कै घरि ईसरु बावला जगत गुरू तत सारखा गिआनु भाखीले ॥",
+      "ipa": "d͡ʒɑⁿ kæ Gʰər eisər bɑʋəlɑ d͡ʒəGət̪ Gʊru t̪ət̪ sɑrəkʰɑ Gɪəɑn ɓɑkʰile.",
+      "ur": "جاں کَے گھر ایسر باولا جگت گُرُو تت سارکھا گآن بھاکھیِلے ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "In His House, the insane Shiva, the Guru of the World, lives; he imparts spiritual wisdom to explain the essence of reality.",
+        "ms": "In whose home is the crazy Shiva, the world-teacher, who utters the true Divine knowledge.",
+        "ssk": "In His House, the insane Shiva, the Guru of the World, lives; he imparts spiritual wisdom to expain the essence of reality."
+      },
+      "pu": {
+        "ss": null,
+        "ft": "ijs ky Gr myN isvjI bwvlw jgq kw (gurU) pUjÎ AOr (qq) ibsƒ swrKw iqs ko gÎwn khIqw hY; vw (qq) swr rUp (Kw) Akws vq bÎwpk bRhm iqs kw gÎwn eIsÍr ko khIqw hY]",
+        "bdb": "",
+        "ms": "ijs dy Dwm iv`c bYrw mhwdyv, sMswr dw muriSd, jo s`cw bRhm vIcwr aucwrn krdw hY["
+      },
+      "puu": {
+        "ss": null,
+        "ft": "ਜਿਸ ਕੇ ਘਰ ਮੇਂ ਸਿਵਜੀ ਬਾਵਲਾ ਜਗਤ ਕਾ (ਗੁਰੂ) ਪੂਜ੍ਯ ਔਰ (ਤਤ) ਬਿਸਨੂੰ ਸਾਰਖਾ ਤਿਸ ਕੋ ਗ੍ਯਾਨ ਕਹੀਤਾ ਹੈ; ਵਾ (ਤਤ) ਸਾਰ ਰੂਪ (ਖਾ) ਅਕਾਸ ਵਤ ਬ੍ਯਾਪਕ ਬ੍ਰਹਮ ਤਿਸ ਕਾ ਗ੍ਯਾਨ ਈਸ੍ਵਰ ਕੋ ਕਹੀਤਾ ਹੈ॥",
+        "bdb": null,
+        "ms": "ਜਿਸ ਦੇ ਧਾਮ ਵਿੱਚ ਬੈਰਾ ਮਹਾਦੇਵ, ਸੰਸਾਰ ਦਾ ਮੁਰਸ਼ਿਦ, ਜੋ ਸੱਚਾ ਬ੍ਰਹਮ ਵੀਚਾਰ ਉਚਾਰਨ ਕਰਦਾ ਹੈ।"
+      },
+      "es": {
+        "sn": "y ahí, el insano Shiva, el Guru del Mundo vive; Él Imparte la Sabiduría Espiritual expandiendo la Esencia de la Realidad;"
+      },
+      "hi": {
+        "ss": "(इन लोगों की नजरों में तो) शिव जी जगत का गुरू (है)। जिसने (जगत के जीवों के लिए) असल समझने-योग्य उपदेश सुनाया है (भाव। जो सारे जीवों को मौत का संदेशा पहुँचाता है। जो सब जीवों का नाश-कर्ता माना जा रहा है)। ये शिव जी (सृष्टि के मालिक) उस परमात्मा के घर में (जैसे) एक बावला सा मसखरा है।",
+        "sts": "उसके घर में जगदगुरु शिवशंकर है, जो मौत का ज्ञान देता है।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 23121,
+    "Seq": 110,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "pwpu puMnu jW cY fWgIAw duAwrY icqR gupqu lyKIAw ]",
+    "Visraam": {
+      "sttm": [],
+      "igurbani": [],
+      "sttm2": [
+        {
+          "p": 5,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "paap pu(n)n jaa(n) chai ddaa(n)geeaa dhuaarai chitr gupat lekheeaa ||",
+      "hi": "पापु पुँनु जाँ चै डाँगीआ दुआरै चित्र गुपतु लेखीआ ॥",
+      "ipa": "pɑp pʊŋn d͡ʒɑⁿ t͡ʃæ ɖɑⁿəGiəɑ d̪ʊəɑræ t͡ʃɪt̪ɹ Gʊpət̪ lekʰiəɑ.",
+      "ur": "پاپ پُنّ جاں چَے ڈاںگیِآ دُآرَے چتر گُپت لےکھیِآ ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Sin and virtue are the standard-bearers at His Door; Chitr and Gupt are the recording angels of the conscious and subconscious.",
+        "ms": "At whose gate evil and good are mace-bearers and Chitar and Gupat, the scribes.",
+        "ssk": "Sin and virtue are the standard-bearers at His Door; Chitr and Gupt are the recording angels of the conscious and subconscious."
+      },
+      "pu": {
+        "ss": null,
+        "ft": "pwp Aru puMn eyh donoN ijs ky dÍwry pr (fWgIAw) cobdwr hYN AOr icqR gupq ijs kw (lyKIAw) ilKxy vwlw munsI hY]",
+        "bdb": null,
+        "ms": "ijs dy bUhy auqy bdI Aqy nykI cybdwr hn Aqy icqr qy gup, ilKwrI["
+      },
+      "puu": {
+        "ss": null,
+        "ft": "ਪਾਪ ਅਰੁ ਪੁੰਨ ਏਹ ਦੋਨੋਂ ਜਿਸ ਕੇ ਦ੍ਵਾਰੇ ਪਰ (ਡਾਂਗੀਆ) ਚੋਬਦਾਰ ਹੈਂ ਔਰ ਚਿਤ੍ਰ ਗੁਪਤ ਜਿਸ ਕਾ (ਲੇਖੀਆ) ਲਿਖਣੇ ਵਾਲਾ ਮੁਨਸੀ ਹੈ॥",
+        "bdb": null,
+        "ms": "ਜਿਸ ਦੇ ਬੂਹੇ ਉਤੇ ਬਦੀ ਅਤੇ ਨੇਕੀ ਚੇਬਦਾਰ ਹਨ ਅਤੇ ਚਿਤਰ ਤੇ ਗੁਪ, ਲਿਖਾਰੀ।"
+      },
+      "es": {
+        "sn": "El error y la Virtud están al lado de Su Puerta; Chitr y Gupt son los ángeles que graban la conciencia en el subconsciente; "
+      },
+      "hi": {
+        "ss": "(राजाओं के राज-महलों के दरवाजों पर चौबदार खड़े होते हैं। जो राजाओं की हजूरी में जाने वालों को रोकते व आज्ञा देते हैं। घट-घट में बसने वाले राजन-प्रभू ने ऐसा नियम बनाया है कि हरेक जीव का किया) अच्छा या बुरा काम उस प्रभू के महल के दर पर चौबदार है (भाव। हरेक जीव के अंदर हृदय-घर में प्रभू बस रहा है। पर जीव के अपने किए अच्छे-बुरे काम ही उस प्रभू से दूरी बना देते हैं)। जिस चित्रगुप्त का सहम हरेक जीव को लगा हुआ है। (वह) चित्रगुप्त उसके घर में एक मुनीम (जितनी हस्ती रखता) है।",
+        "sts": "उसके द्वार में पाप-पुण्य कर्मों का हिसाब करने वाला छोटा-सा मुनीम चित्रगुप्त भी बैठा हुआ है और"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 23122,
+    "Seq": 120,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "Drm rwie prulI pRiqhwru ]",
+    "Visraam": {
+      "sttm": [],
+      "igurbani": [],
+      "sttm2": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "dharam rai parulee pratihaar ||",
+      "hi": "धरम राइ परुली प्रतिहारु ॥",
+      "ipa": "t̪ərəm rɑeɪ pərʊli pɹət̪ɪhɑr.",
+      "ur": "دھرم راا پرلیِ پرتهار ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "The Righteous Judge of Dharma, the Lord of Destruction, is the door-man.",
+        "ms": "The Righteous judge, the Lord of deluge, is His door-man.",
+        "ssk": "The Righteous Judge of Dharma, the Lord of Destruction, is the door-man."
+      },
+      "pu": {
+        "ss": null,
+        "ft": "Drmrwie pRlo krny vwlw ArQwq mwrny vwlw (pRiqhwru) Kq pqR ilAwny iljwny vwlw icTI rsWn hY]",
+        "bdb": null,
+        "ms": "prlok dw suAwmI, Drmrwj aus dw duAwrpwl hY["
+      },
+      "puu": {
+        "ss": null,
+        "ft": "ਧਰਮਰਾਇ ਪ੍ਰਲੋ ਕਰਨੇ ਵਾਲਾ ਅਰਥਾਤ ਮਾਰਨੇ ਵਾਲਾ (ਪ੍ਰਤਿਹਾਰੁ) ਖਤ ਪਤ੍ਰ ਲਿਆਨੇ ਲਿਜਾਨੇ ਵਾਲਾ ਚਿਠੀ ਰਸਾਂਨ ਹੈ॥",
+        "bdb": null,
+        "ms": "ਪਰਲੋਕ ਦਾ ਸੁਆਮੀ, ਧਰਮਰਾਜ ਉਸ ਦਾ ਦੁਆਰਪਾਲ ਹੈ।"
+      },
+      "es": {
+        "sn": "Dharma es el Juez de la Rectitud, el Señor de la Destrucción, el Portero. "
+      },
+      "hi": {
+        "ss": "(लोगों के हिसाब से) पर्लय लाने वाला धर्मराज उस प्रभू के महल का एक (मामूली सा) दरबान है",
+        "sts": "मौत लाने वाला यमराज रूपी दरबान भी है।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 23123,
+    "Seq": 130,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "suo AYsw rwjw sRI gopwlu ]2]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "suo aaisaa raajaa sree gopaal ||2||",
+      "hi": "सुो ऐसा राजा स्री गोपालु ॥२॥",
+      "ipa": "sʊɔ æsɑ rɑd͡ʒɑ sɹi Gɔpɑl.2.",
+      "ur": "سُو اَےسا راجا سریِ گوپال ۔۔۲۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Such is the Supreme Sovereign Lord of the World. ||2||",
+        "ms": "Such a sovereign is that Reverend cherisher of the world.",
+        "ssk": "Such is the Supreme Sovereign Lord of the World. ||2||"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "so AYsw rwjw sRI gopwl hY]2]",
+        "bdb": null,
+        "ms": "AYho jyhw sulqwn hY auh pujnIX jgq dI pwlxw-posxw krnhwr["
+      },
+      "puu": {
+        "ss": null,
+        "ft": "ਸੋ ਐਸਾ ਰਾਜਾ ਸ੍ਰੀ ਗੋਪਾਲ ਹੈ॥੨॥",
+        "bdb": null,
+        "ms": "ਐਹੋ ਜੇਹਾ ਸੁਲਤਾਨ ਹੈ ਉਹ ਪੁਜਨੀਯ ਜਗਤ ਦੀ ਪਾਲਣਾ-ਪੋਸਣਾ ਕਰਨਹਾਰ।"
+      },
+      "es": {
+        "sn": "Tal es el Soberano Supremo, el Señor del Mundo. (2)"
+      },
+      "hi": {
+        "ss": "सृष्टि का मालिक वह परमात्मा एक ऐसा राजा है। 2।",
+        "sts": "संसार का पालनहार ऐसा राजा ही बड़ा है, पूजनीय है॥२॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 23124,
+    "Seq": 140,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "jW cY Gir gx gMDrb irKI bpuVy FwFIAw gwvMq AwCY ]",
+    "Visraam": {
+      "sttm": [],
+      "igurbani": [],
+      "sttm2": [
+        {
+          "p": 4,
+          "t": "v"
+        },
+        {
+          "p": 6,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "jaa(n) chai ghar gan ga(n)dharab rikhee bapuRe ddaaddeeaa gaava(n)t aachhai ||",
+      "hi": "जाँ चै घरि गण गंधरब रिखी बपुड़े ढाढीआ गावंत आछै ॥",
+      "ipa": "d͡ʒɑⁿ t͡ʃæ Gʰər Gəɳ Gəŋt̪ərəb rɪkʰi bəpʊɽe ʈɑʈiəɑ Gɑʋəŋt̪ əɑɕæ.",
+      "ur": "جاں چَے گھر گݨ گںدھرب رکھیِ بپڑے ڈھاڈھیِآ گاوںت آچھَے ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "In His Home are the heavenly heralds, celestial singers, Rishis and poor minstrels, who sing so sweetly.",
+        "ms": "Within whose Home are the heavenly heralds, celestial singers, the sages, and the poor minstrels, who sing sweetly.",
+        "ssk": "In His Home are the heavenly heralds, celestial singers, Rishis and poor minstrels, who sing so sweetly."
+      },
+      "pu": {
+        "ss": null,
+        "ft": "ijs ky Gr myN gx gMDrb Ar irKI bycwry FwFI ijs ko gwvqy hUey (AwCY) soBqy hYN; vw hCy hCy gIq gwvqy hYN]",
+        "bdb": null,
+        "ms": "ijs dy gRih AMdr hn ielwhI eylcI, svrgy gv`eIey, irSI Aqy grIb kIrqnIey, jo imTws nwl gwauNdy hn["
+      },
+      "puu": {
+        "ss": null,
+        "ft": "ਜਿਸ ਕੇ ਘਰ ਮੇਂ ਗਣ ਗੰਧਰਬ ਅਰ ਰਿਖੀ ਬੇਚਾਰੇ ਢਾਢੀ ਜਿਸ ਕੋ ਗਾਵਤੇ ਹੂਏ (ਆਛੈ) ਸੋਭਤੇ ਹੈਂ; ਵਾ ਹਛੇ ਹਛੇ ਗੀਤ ਗਾਵਤੇ ਹੈਂ॥",
+        "bdb": null,
+        "ms": "ਜਿਸ ਦੇ ਗ੍ਰਹਿ ਅੰਦਰ ਹਨ ਇਲਾਹੀ ਏਲਚੀ, ਸਵਰਗੇ ਗਵੱਈਏ, ਰਿਸ਼ੀ ਅਤੇ ਗਰੀਬ ਕੀਰਤਨੀਏ, ਜੋ ਮਿਠਾਸ ਨਾਲ ਗਾਉਂਦੇ ਹਨ।"
+      },
+      "es": {
+        "sn": "En Su Hogar están los Heraldos y los Cantores Celestiales. "
+      },
+      "hi": {
+        "ss": "जिसके दर पर (शिव जी के) गण-देवताओं के रागी और सारे ऋषी - ये बेचारे ढाढी (बन के उसकी सिफतों की वारें) गाते हैं।",
+        "sts": "उस घर पर गण-गंधर्व, ऋषि एवं वादक ईश्वर का यश गा रहे हैं।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 23125,
+    "Seq": 150,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "srb swsqR bhu rUpIAw AngrUAw AwKwVw mMflIk bol bolih kwCy ]",
+    "Visraam": {
+      "sttm": [],
+      "igurbani": [],
+      "sttm2": [
+        {
+          "p": 3,
+          "t": "v"
+        },
+        {
+          "p": 5,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "sarab saasatr bahu roopeeaa anagarooaa aakhaaRaa ma(n)ddaleek bol boleh kaachhe ||",
+      "hi": "सरब सासत्र बहु रूपीआ अनगरूआ आखाड़ा मंडलीक बोल बोलहि काछे ॥",
+      "ipa": "sərəb sɑsət̪ɹ bəh rupiəɑ ənəGəruəɑ əɑkʰɑɽɑ məŋɖəlik bɔl bɔləh kɑɕe.",
+      "ur": "سرب ساستر بهُ رُوپیِآ انگرُوآ آکھاڑا مںڈلیِک بول بوله کاچھے ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "All the Shaastras take various forms in His theater, singing beautiful songs.",
+        "ms": "All the Shastras are His actors; stupendous is His arena. The sovereigns utter beauteous songs in his praise.",
+        "ssk": "All the Shaastras take various forms in His theater, singing beautiful songs."
+      },
+      "pu": {
+        "ss": null,
+        "ft": "srb swsqR (bhu rUpIAw) sÍWgI hY, Bwv swsqR bhuq mqoN ko kQn krqy hYN[ bhuq pRkwr (AngrUAw) v`fw AKwVw sMswr hY[ (mMflIk) rwjy ArQwq lokpwl (kwCY) kCy hUey ArQwq quly hUey vw suMdr bol kr ausqqI krqy hYN]",
+        "bdb": null,
+        "ms": "swry Swsqr aus dy nt hn, bhuq v`fw hY aus dw AKwVw! mhwrwjy aus dI mihmw AMdr suMdr gIq aucwrn krdy hn["
+      },
+      "puu": {
+        "ss": null,
+        "ft": "ਸਰਬ ਸਾਸਤ੍ਰ (ਬਹੁ ਰੂਪੀਆ) ਸ੍ਵਾਂਗੀ ਹੈ, ਭਾਵ ਸਾਸਤ੍ਰ ਬਹੁਤ ਮਤੋਂ ਕੋ ਕਥਨ ਕਰਤੇ ਹੈਂ। ਬਹੁਤ ਪ੍ਰਕਾਰ (ਅਨਗਰੂਆ) ਵੱਡਾ ਅਖਾੜਾ ਸੰਸਾਰ ਹੈ। (ਮੰਡਲੀਕ) ਰਾਜੇ ਅਰਥਾਤ ਲੋਕਪਾਲ (ਕਾਛੈ) ਕਛੇ ਹੂਏ ਅਰਥਾਤ ਤੁਲੇ ਹੂਏ ਵਾ ਸੁੰਦਰ ਬੋਲ ਕਰ ਉਸਤਤੀ ਕਰਤੇ ਹੈਂ॥",
+        "bdb": null,
+        "ms": "ਸਾਰੇ ਸ਼ਾਸਤਰ ਉਸ ਦੇ ਨਟ ਹਨ, ਬਹੁਤ ਵੱਡਾ ਹੈ ਉਸ ਦਾ ਅਖਾੜਾ! ਮਹਾਰਾਜੇ ਉਸ ਦੀ ਮਹਿਮਾ ਅੰਦਰ ਸੁੰਦਰ ਗੀਤ ਉਚਾਰਨ ਕਰਦੇ ਹਨ।"
+      },
+      "es": {
+        "sn": "Los Rishis y los músicos pobres que cantan dulcemente; "
+      },
+      "hi": {
+        "ss": "सारे शास्त्र (जैसे) बहु-रूपीये हैं। (यह जगत। जैसे। उसका) छोटा सा अखाड़ा है। (इस जगत के) राजे उसका हाला भरने वाले हैं। (उसकी सिफत के) सुंदर बोल बोलते हैं।",
+        "sts": "सब शास्त्र स्वांग भर रहे हैं अर्थात् शास्त्रानुसार लोग कर्मकाण्ड कर रहे हैं, दुनिया छोटा-सा अखाड़ा है, दुनिया के लोग उसी के गुण गा रहे हैं।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 23126,
+    "Seq": 160,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "caur FUl jW cY hY pvxu ]",
+    "Visraam": {
+      "sttm": [],
+      "igurbani": [],
+      "sttm2": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "chaur ddool jaa(n) chai hai pavan ||",
+      "hi": "चउर ढूल जाँ चै है पवणु ॥",
+      "ipa": "t͡ʃoʊr ʈul d͡ʒɑⁿ t͡ʃæ hæ pəʋəɳ.",
+      "ur": "چار ڈھُول جاں چَے هَے پوݨ ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "The wind waves the fly-brush over Him;",
+        "ms": "Such is the Lord, wind is whose waving fly-brush,",
+        "ssk": "The wind waves the fly-brush over Him;"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "ijs kw pvn cvr (PUl) Fulwvxy vwlw hY]",
+        "bdb": null,
+        "ms": "AYsw hY suAwmI, hvw ijs dI Julwaux vwlI caurI,"
+      },
+      "puu": {
+        "ss": null,
+        "ft": "ਜਿਸ ਕਾ ਪਵਨ ਚਵਰ (ਫੂਲ) ਢੁਲਾਵਣੇ ਵਾਲਾ ਹੈ॥",
+        "bdb": null,
+        "ms": "ਐਸਾ ਹੈ ਸੁਆਮੀ, ਹਵਾ ਜਿਸ ਦੀ ਝੁਲਾਉਣ ਵਾਲੀ ਚਉਰੀ,"
+      },
+      "es": {
+        "sn": "Los Shastras toman diversas formas en Su Teatro entonando bellas canciones; "
+      },
+      "hi": {
+        "ss": "वह प्रभू एक ऐसा राजा है कि उसके दर पर पवन चौर-बरदार है।",
+        "sts": "उसके घर में चंवर रूप में वायु बह रही है,"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 23127,
+    "Seq": 170,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "cyrI skiq jIiq ly Bvxu ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 1,
+          "t": "v"
+        },
+        {
+          "p": 3,
+          "t": "y"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 1,
+          "t": "v"
+        },
+        {
+          "p": 3,
+          "t": "y"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "cheree sakat jeet le bhavan ||",
+      "hi": "चेरी सकति जीति ले भवणु ॥",
+      "ipa": "t͡ʃeri səkət̪ d͡ʒit̪ le ɓəʋəɳ.",
+      "ur": "چےریِ سکت جیِت لے بھوݨ ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "His hand-maiden is Maya, who has conquered the world.",
+        "ms": "whose handmaiden is mammon, who has vanquished the world.",
+        "ssk": "His hand-maiden is Maya, who has conquered the world."
+      },
+      "pu": {
+        "ss": null,
+        "ft": "(skiq) mwieAw ijs ny cOdW Bvn jIq lIey hYN, so dwsI hYN]",
+        "bdb": null,
+        "ms": "ijs dI nOkrwxI hY mwieAw, ijsny sMswr ƒ ij`q ilAw hY["
+      },
+      "puu": {
+        "ss": null,
+        "ft": "(ਸਕਤਿ) ਮਾਇਆ ਜਿਸ ਨੇ ਚੌਦਾਂ ਭਵਨ ਜੀਤ ਲੀਏ ਹੈਂ, ਸੋ ਦਾਸੀ ਹੈਂ॥",
+        "bdb": null,
+        "ms": "ਜਿਸ ਦੀ ਨੌਕਰਾਣੀ ਹੈ ਮਾਇਆ, ਜਿਸਨੇ ਸੰਸਾਰ ਨੂੰ ਜਿੱਤ ਲਿਆ ਹੈ।"
+      },
+      "es": {
+        "sn": "El Chauri abanica sobre Él; "
+      },
+      "hi": {
+        "ss": "माया उसकी दासी है जिसने सारा जगत जीत लिया है।",
+        "sts": "उसकी दासी माया ने समूचे संसार को जीत लिया है,"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 23128,
+    "Seq": 180,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "AMf tUk jw cY BsmqI ]",
+    "Visraam": {
+      "sttm": [],
+      "igurbani": [],
+      "sttm2": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "a(n)dd Took jaa chai bhasamatee ||",
+      "hi": "अंड टूक जा चै भसमती ॥",
+      "ipa": "əŋɖ ʈuk d͡ʒɑ t͡ʃæ ɓəsəmət̪i.",
+      "ur": "اںڈ ٹُوک جا چَے بھسمتیِ ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "The shell of the earth is His fireplace.",
+        "ms": "(The mortal world) or (half an egg) is whose fire place.",
+        "ssk": "The shell of the earth is His fireplace."
+      },
+      "pu": {
+        "ss": null,
+        "ft": "AMf kos kw tukVw ArQwq BwrQ KMf eyhu ijs kw (BsmqI) culw hY, Bwv ies KMf myN XgAwidkoN kr prmysr ko pUjIqw hY; vw AMf ky jo tukVy hYN, Bwv ipRQI, Awkws, ieh do culy dy vty hYN iehu AYsw (BsmqI) culw hY]",
+        "bdb": null,
+        "ms": "(mwq lok) jW (A`Dw AWfw) hY ijs dw culHw["
+      },
+      "puu": {
+        "ss": null,
+        "ft": "ਅੰਡ ਕੋਸ ਕਾ ਟੁਕੜਾ ਅਰਥਾਤ ਭਾਰਥ ਖੰਡ ਏਹੁ ਜਿਸ ਕਾ (ਭਸਮਤੀ) ਚੁਲਾ ਹੈ, ਭਾਵ ਇਸ ਖੰਡ ਮੇਂ ਯਗਆਦਿਕੋਂ ਕਰ ਪਰਮੇਸਰ ਕੋ ਪੂਜੀਤਾ ਹੈ; ਵਾ ਅੰਡ ਕੇ ਜੋ ਟੁਕੜੇ ਹੈਂ, ਭਾਵ ਪ੍ਰਿਥੀ, ਆਕਾਸ, ਇਹ ਦੋ ਚੁਲੇ ਦੇ ਵਟੇ ਹੈਂ ਇਹੁ ਐਸਾ (ਭਸਮਤੀ) ਚੁਲਾ ਹੈ॥",
+        "bdb": null,
+        "ms": "(ਮਾਤ ਲੋਕ) ਜਾਂ (ਅੱਧਾ ਆਂਡਾ) ਹੈ ਜਿਸ ਦਾ ਚੁਲ੍ਹਾ।"
+      },
+      "es": {
+        "sn": "Su Dama de Compañía es Maya, quien ha conquistado al mundo. "
+      },
+      "hi": {
+        "ss": "यह धरती उसके लंगर में। मानो। चूल्हा है (भाव। सारी धरती के जीवों को वह खुद ही रिज़क देने वाला है)",
+        "sts": "पृथ्वी-नभ उसका चूल्हा है।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 23129,
+    "Seq": 190,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "suo AYsw rwjw iqRBvx pqI ]3]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "suo aaisaa raajaa tirabhavan patee ||3||",
+      "hi": "सुो ऐसा राजा तृभवण पती ॥३॥",
+      "ipa": "sʊɔ æsɑ rɑd͡ʒɑ t̪ɪɹəɓəʋəɳ pət̪i.3.",
+      "ur": "سُو اَےسا راجا تربھوݨ پتیِ ۔۔۳۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Such is the Sovereign Lord of the three worlds. ||3||",
+        "ms": "Such is that Sovereign the Lord of the three worlds.",
+        "ssk": "Such is the Sovereign Lord of the three worlds. ||3||"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "so AYsw rwjw iqRlokI kw pqI hY]3]",
+        "bdb": null,
+        "ms": "AYho jyhw hY, auh iqMnW jhwnW dw suAwmI sulqwn["
+      },
+      "puu": {
+        "ss": null,
+        "ft": "ਸੋ ਐਸਾ ਰਾਜਾ ਤ੍ਰਿਲੋਕੀ ਕਾ ਪਤੀ ਹੈ॥੩॥",
+        "bdb": null,
+        "ms": "ਐਹੋ ਜੇਹਾ ਹੈ, ਉਹ ਤਿੰਨਾਂ ਜਹਾਨਾਂ ਦਾ ਸੁਆਮੀ ਸੁਲਤਾਨ।"
+      },
+      "es": {
+        "sn": "La superficie de la tierra es Su Chimenea. Tal es el Soberano Señor de los tres Mundos. (3)"
+      },
+      "hi": {
+        "ss": "तीन भवनों का मालिक परमात्मा एक ऐसा राजा है। । 3।",
+        "sts": "सो तीनों लोकों का स्वामी प्रभु महान् है॥३॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 23130,
+    "Seq": 200,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "jW cY Gir kUrmw pwlu shsR PnI bwsku syj vwlUAw ]",
+    "Visraam": {
+      "sttm": [],
+      "igurbani": [],
+      "sttm2": [
+        {
+          "p": 2,
+          "t": "v"
+        },
+        {
+          "p": 4,
+          "t": "v"
+        },
+        {
+          "p": 6,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "jaa(n) chai ghar kooramaa paal sahasr fanee baasak sej vaalooaa ||",
+      "hi": "जाँ चै घरि कूरमा पालु सहस्र फनी बासकु सेज वालूआ ॥",
+      "ipa": "d͡ʒɑⁿ t͡ʃæ Gʰər kurəmɑ pɑl səhəsɹ fəni bɑsək sed͡ʒ ʋɑluəɑ.",
+      "ur": "جاں چَے گھر کُورما پال سهسر پھنیِ باسک سےج والُوآ ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "In His Home, the celestial turtle is the bed-frame, woven with the strings of the thousand-headed snake.",
+        "ms": "In whose home is the bed-stead of the tortoise and the couch-cord of the thousand headed serpent.",
+        "ssk": "In His Home, the celestial turtle is the bed-frame, woven with the strings of the thousand-headed snake."
+      },
+      "pu": {
+        "ss": null,
+        "ft": "ijs ky Gr myN (kUrmw) kCU (pwlu) plMG hY, shsPnI SySnwg syj ibC rhI hY AOr bwsk (vwlUAw) syjbMd hY]",
+        "bdb": null,
+        "ms": "ijs dy Dwm iv`c kCUkumy dw plMG hY Aqy hjwr Pxw vwly SyS nwg dw Cyj-bMd["
+      },
+      "puu": {
+        "ss": null,
+        "ft": "ਜਿਸ ਕੇ ਘਰ ਮੇਂ (ਕੂਰਮਾ) ਕਛੂ (ਪਾਲੁ) ਪਲੰਘ ਹੈ, ਸਹਸਫਨੀ ਸ਼ੇਸ਼ਨਾਗ ਸੇਜ ਬਿਛ ਰਹੀ ਹੈ ਔਰ ਬਾਸਕ (ਵਾਲੂਆ) ਸੇਜਬੰਦ ਹੈ॥",
+        "bdb": null,
+        "ms": "ਜਿਸ ਦੇ ਧਾਮ ਵਿੱਚ ਕਛੂਕੁਮੇ ਦਾ ਪਲੰਘ ਹੈ ਅਤੇ ਹਜਾਰ ਫਣਾ ਵਾਲੇ ਸ਼ੇਸ਼ ਨਾਗ ਦਾ ਛੇਜ-ਬੰਦ।"
+      },
+      "es": {
+        "sn": "En Su Hogar la Tortuga Celestial es el marco de la cama, tejido con los hilos de la Serpiente de las Mil Cabezas; "
+      },
+      "hi": {
+        "ss": "विष्णु का कछु-अवतार जिसके घर में। जैसे। एक पलंघ है ; हजार फनों वाला शेशनाग जिसकी सेज की तनियों (का काम देता) है;",
+        "sts": "उसके घर में विष्णुवतार कूर्म पलंग समान है, हजार फनों वाला शेषनाग सेज की रस्सियां हैं।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 23131,
+    "Seq": 210,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "ATwrh Bwr bnwspqI mwlxI iCnvY kroVI myG mwlw pwxIhwrIAw ]",
+    "Visraam": {
+      "sttm": [],
+      "igurbani": [],
+      "sttm2": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "aThaareh bhaar banaasapatee maalanee chhinavai karoRee megh maalaa paaneehaareeaa ||",
+      "hi": "अठारह भार बनासपती मालणी छिनवै करोड़ी मेघ माला पाणीहारीआ ॥",
+      "ipa": "əʈʰɑrəh ɓɑr bənɑsəpət̪i mɑləɳi ɕɪnəʋæ kərɔɽi meGʰə̀ mɑlɑ pɑɳihɑriəɑ.",
+      "ur": "اٹھاره بھار بناسپتیِ مالݨیِ چھنوَے کروڑیِ مےگھ مالا پاݨیِهاریِآ ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "His flower-girls are the eighteen loads of vegetation; His water-carriers are the nine hundred sixty million clouds.",
+        "ms": "Whose flower-girl is the eighteen loads of vegetation and water-carriers are the ninety-six millions of clouds ranges.",
+        "ssk": "His flower-girls are the eighteen loads of vegetation; His water-carriers are the nine hundred sixty million clouds."
+      },
+      "pu": {
+        "ss": null,
+        "ft": "ijs ky ATwrW Bwr bnwspqI mwlxI hY AOr iCMnvy kRoV myG mwlw pwxI Brny vwlI JIvrIAW hYN]",
+        "bdb": null,
+        "ms": "ijs dI mwlx hY ATwrw boJ nbwqwq dy Aqy ijs dw pwxI ilAwaux vwlIAW hn iCAwnvy kRoVW b`dlW dIAW kqwrw["
+      },
+      "puu": {
+        "ss": null,
+        "ft": "ਜਿਸ ਕੇ ਅਠਾਰਾਂ ਭਾਰ ਬਨਾਸਪਤੀ ਮਾਲਣੀ ਹੈ ਔਰ ਛਿੰਨਵੇ ਕ੍ਰੋੜ ਮੇਘ ਮਾਲਾ ਪਾਣੀ ਭਰਨੇ ਵਾਲੀ ਝੀਵਰੀਆਂ ਹੈਂ॥",
+        "bdb": null,
+        "ms": "ਜਿਸ ਦੀ ਮਾਲਣ ਹੈ ਅਠਾਰਾ ਬੋਝ ਨਬਾਤਾਤ ਦੇ ਅਤੇ ਜਿਸ ਦਾ ਪਾਣੀ ਲਿਆਉਣ ਵਾਲੀਆਂ ਹਨ ਛਿਆਨਵੇ ਕ੍ਰੋੜਾਂ ਬੱਦਲਾਂ ਦੀਆਂ ਕਤਾਰਾ।"
+      },
+      "es": {
+        "sn": "Sus Damiselas son las flores de la vegetación; "
+      },
+      "hi": {
+        "ss": "जगत की सारी बनस्पति (उसको फूल भेट करने वाली) मालिन है। छिआन्नवे करोड़ बादल उसका पानी भरने वाले (नौकर) हैं।",
+        "sts": "अठारह भार वाली वनस्पति मालिन है, छियान्वे करोड़ मेघमाला उसका पानी भरने वाले हैं।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 23132,
+    "Seq": 220,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "nK pRsyv jw cY sursrI ]",
+    "Visraam": {
+      "sttm": [],
+      "igurbani": [],
+      "sttm2": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "nakh prasev jaa chai surasaree ||",
+      "hi": "नख प्रसेव जा चै सुरसरी ॥",
+      "ipa": "nəkʰ pɹəseʋ d͡ʒɑ t͡ʃæ sʊrəsəri.",
+      "ur": "نکھ پرسےو جا چَے سُرسریِ ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "His sweat is the Ganges River.",
+        "ms": "The perspiration of whose nails is the Ganges.",
+        "ssk": "His sweat is the Ganges River."
+      },
+      "pu": {
+        "ss": null,
+        "ft": "(sursrI) gMgw jI ijs ky nKoN kw (pRsyv) pRsINnw ArQwq muVkw hY[ nwrd jI ny rwg kr ky prmysÍr ko pRsMn kIAw Qw[ ibsn jI dRvkr jl rUp ho gey Qy[ iqs ky nKoN kw jl bRhmw jI ny krmMfl myN pwie lIAw[ jb iqRlokI mwq qy bRhmWf K`pr ko PoV ky gey Qy qb aus sy bwvn Bgvwn ky crn Doey Qy, so gMgw BeI[ srIr kw dRv jlu lYkr nwrd jI ny rwgnIEN ky aUpr isMc kr iqn ky AMg isrjIq kIey[ jo Bsmy gwvny kr tuty hUey Qy[ ies vwsqy nKoN kw psInw gMgw jI khI hY]",
+        "bdb": null,
+        "ms": "ijs dy nOhW dw muVHkw gMgw hY["
+      },
+      "puu": {
+        "ss": null,
+        "ft": "(ਸੁਰਸਰੀ) ਗੰਗਾ ਜੀ ਜਿਸ ਕੇ ਨਖੋਂ ਕਾ (ਪ੍ਰਸੇਵ) ਪ੍ਰਸੀਂਨਾ ਅਰਥਾਤ ਮੁੜਕਾ ਹੈ। ਨਾਰਦ ਜੀ ਨੇ ਰਾਗ ਕਰ ਕੇ ਪਰਮੇਸ੍ਵਰ ਕੋ ਪ੍ਰਸੰਨ ਕੀਆ ਥਾ। ਬਿਸਨ ਜੀ ਦ੍ਰਵਕਰ ਜਲ ਰੂਪ ਹੋ ਗਏ ਥੇ। ਤਿਸ ਕੇ ਨਖੋਂ ਕਾ ਜਲ ਬ੍ਰਹਮਾ ਜੀ ਨੇ ਕਰਮੰਡਲ ਮੇਂ ਪਾਇ ਲੀਆ। ਜਬ ਤ੍ਰਿਲੋਕੀ ਮਾਤ ਤੇ ਬ੍ਰਹਮਾਂਡ ਖੱਪਰ ਕੋ ਫੋੜ ਕੇ ਗਏ ਥੇ ਤਬ ਉਸ ਸੇ ਬਾਵਨ ਭਗਵਾਨ ਕੇ ਚਰਨ ਧੋਏ ਥੇ, ਸੋ ਗੰਗਾ ਭਈ। ਸਰੀਰ ਕਾ ਦ੍ਰਵ ਜਲੁ ਲੈਕਰ ਨਾਰਦ ਜੀ ਨੇ ਰਾਗਨੀਓਂ ਕੇ ਊਪਰ ਸਿੰਚ ਕਰ ਤਿਨ ਕੇ ਅੰਗ ਸਿਰਜੀਤ ਕੀਏ। ਜੋ ਭਸਮੇ ਗਾਵਨੇ ਕਰ ਟੁਟੇ ਹੂਏ ਥੇ। ਇਸ ਵਾਸਤੇ ਨਖੋਂ ਕਾ ਪਸੀਨਾ ਗੰਗਾ ਜੀ ਕਹੀ ਹੈ॥",
+        "bdb": null,
+        "ms": "ਜਿਸ ਦੇ ਨੌਹਾਂ ਦਾ ਮੁੜ੍ਹਕਾ ਗੰਗਾ ਹੈ।"
+      },
+      "es": {
+        "sn": "Sus aguadores son las novecientas millones de nubes; "
+      },
+      "hi": {
+        "ss": "गंगा उसके दर पर उसके नाखूनों का पसीना है।",
+        "sts": "गंगा उसके नाखुनों का रक्त मात्र है,"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 23133,
+    "Seq": 230,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "spq smuMd jW cY GVQlI ]",
+    "Visraam": {
+      "sttm": [],
+      "igurbani": [],
+      "sttm2": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "sapat samu(n)dh jaa(n) chai ghaRathalee ||",
+      "hi": "सपत समुँद जाँ चै घड़थली ॥",
+      "ipa": "səpət̪ səmʊŋd̪ d͡ʒɑⁿ t͡ʃæ Gʰəɽət̪ʰəli.",
+      "ur": "سپت سمںد جاں چَے گھڑتھلیِ ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "The seven seas are His water-pitchers.",
+        "ms": "The seven ocean are whose pitcher stands.",
+        "ssk": "The seven seas are His water-pitchers."
+      },
+      "pu": {
+        "ss": null,
+        "ft": "sq smuMdR ijs prmysÍr dy GiVEN ky AsQwn hYN]",
+        "bdb": null,
+        "ms": "sq smuMdr ijs dIAW GVvMjIAW hn["
+      },
+      "puu": {
+        "ss": null,
+        "ft": "ਸਤ ਸਮੁੰਦ੍ਰ ਜਿਸ ਪਰਮੇਸ੍ਵਰ ਦੇ ਘੜਿਓਂ ਕੇ ਅਸਥਾਨ ਹੈਂ॥",
+        "bdb": null,
+        "ms": "ਸਤ ਸਮੁੰਦਰ ਜਿਸ ਦੀਆਂ ਘੜਵੰਜੀਆਂ ਹਨ।"
+      },
+      "es": {
+        "sn": "Su Dulce es el Río Ganges; Sus Siete Mares son Sus Vasijas de Agua; "
+      },
+      "hi": {
+        "ss": "और सातों ही समुंद्र उसके पनघट (घड़वंजी) हैं।",
+        "sts": "सात समुद्र घड़थली है।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 23134,
+    "Seq": 240,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "eyqy jIA jW cY vrqxI ]",
+    "Visraam": {
+      "sttm": [],
+      "igurbani": [],
+      "sttm2": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "ete jeea jaa(n) chai varatanee ||",
+      "hi": "एते जीअ जाँ चै वरतणी ॥",
+      "ipa": "eet̪e d͡ʒiə d͡ʒɑⁿ t͡ʃæ ʋərət̪əɳi.",
+      "ur": "اےتے جیِا جاں چَے ورتݨیِ ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "The creatures of the world are His household utensils.",
+        "ms": "So many creatures are whose vessels.",
+        "ssk": "The creatures of the world are His household utensils."
+      },
+      "pu": {
+        "ss": null,
+        "ft": "ijs vwihgurU ky (eyqy) ieqny jIv mYny khy hYN (vrqxI) brqx hYN, Bwv ijs kI ieqnI ibBUqI hY]",
+        "bdb": null,
+        "ms": "AYny jIv-jMqU ijs dy hn brqn["
+      },
+      "puu": {
+        "ss": null,
+        "ft": "ਜਿਸ ਵਾਹਿਗੁਰੂ ਕੇ (ਏਤੇ) ਇਤਨੇ ਜੀਵ ਮੈਨੇ ਕਹੇ ਹੈਂ (ਵਰਤਣੀ) ਬਰਤਣ ਹੈਂ, ਭਾਵ ਜਿਸ ਕੀ ਇਤਨੀ ਬਿਭੂਤੀ ਹੈ॥",
+        "bdb": null,
+        "ms": "ਐਨੇ ਜੀਵ-ਜੰਤੂ ਜਿਸ ਦੇ ਹਨ ਬਰਤਨ।"
+      },
+      "es": {
+        "sn": "Las Criaturas del mundo son los utensilios del Hogar. "
+      },
+      "hi": {
+        "ss": "जगत के ये सारे जीव-जंतु उसके बर्तन हैं",
+        "sts": "दुनिया के सब जीव उसके बर्तन हैं।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 23135,
+    "Seq": 250,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "suo AYsw rwjw iqRBvx DxI ]4]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "suo aaisaa raajaa tirabhavan dhanee ||4||",
+      "hi": "सुो ऐसा राजा तृभवण धणी ॥४॥",
+      "ipa": "sʊɔ æsɑ rɑd͡ʒɑ t̪ɪɹəɓəʋəɳ t̪əɳi.4.",
+      "ur": "سُو اَےسا راجا تربھوݨ دھݨیِ ۔۔۴۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Such is the Sovereign Lord King of the three worlds. ||4||",
+        "ms": "Such is He, the Monarch, the Master of the Three worlds.",
+        "ssk": "Such is the Sovereign Lord King of the three worlds. ||4||"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "so AYsY rwjw iqRlokI kw mwlku hY]4]",
+        "bdb": null,
+        "ms": "AYho jyhw hY auh iqMnW jhwnW dw mwlk, pwiqSwh["
+      },
+      "puu": {
+        "ss": null,
+        "ft": "ਸੋ ਐਸੈ ਰਾਜਾ ਤ੍ਰਿਲੋਕੀ ਕਾ ਮਾਲਕੁ ਹੈ॥੪॥",
+        "bdb": null,
+        "ms": "ਐਹੋ ਜੇਹਾ ਹੈ ਉਹ ਤਿੰਨਾਂ ਜਹਾਨਾਂ ਦਾ ਮਾਲਕ, ਪਾਤਿਸ਼ਾਹ।"
+      },
+      "es": {
+        "sn": "Tal es el Señor Soberano, el Rey de los Tres Mundos. (4) "
+      },
+      "hi": {
+        "ss": "तीनों भवनों का मालिक वह प्रभू एक ऐसा राजा है । 4।",
+        "sts": "सो तीनों लोकों का मालिक वह राजा प्रभु महान् है॥४॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 23136,
+    "Seq": 260,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "jW cY Gir inkt vrqI Arjnu DR¨ pRhlwdu AMbrIku nwrdu nyjY isD buD gx gMDrb bwnvY hylw ]",
+    "Visraam": {
+      "sttm": [],
+      "igurbani": [],
+      "sttm2": [
+        {
+          "p": 4,
+          "t": "v"
+        },
+        {
+          "p": 10,
+          "t": "v"
+        },
+        {
+          "p": 14,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "jaa(n) chai ghar nikaT varatee arajan dhraoo prahalaadh a(n)bareek naaradh nejai sidh budh gan ga(n)dharab baanavai helaa ||",
+      "hi": "जाँ चै घरि निकट वरती अरजनु ध्रू प्रहलादु अंबरीकु नारदु नेजै सिध बुध गण गंधरब बानवै हेला ॥",
+      "ipa": "d͡ʒɑⁿ t͡ʃæ Gʰər nɪkəʈ ʋərət̪i ərəd͡ʒən t̪ə̀ɹəu pɹəhəlɑd̪ əŋbərik nɑrəd̪ ned͡ʒæ sɪt̪ə̀ bʊt̪ə̀ Gəɳ Gəŋt̪ərəb bɑnəʋæ helɑ.",
+      "ur": "جاں چَے گھر نکٹ ورتیِ ارجن دھر¨ پرهلاد اںبریِک نارد نےجَے سدھ بُدھ گݨ گںدھرب بانوَے هےلا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "In His home are Arjuna, Dhroo, Prahlaad, Ambreek, Naarad, Nayjaa, the Siddhas and Buddhas, the ninety-two heavenly heralds and celestial singers in their wondrous play.",
+        "ms": "In whose Home are Arjan, Dhru, Prahlad, Ambrik, Narad, Neja, Adepts, Budhas, Heavenly-heralds and ninety two, celestial singers, as aids-de-camps, who perform wondrous plays.",
+        "ssk": "In His home are Arjuna, Dhroo, Prahlaad, Ambreek, Naarad, Nayjaa, the Siddhas and Buddhas, the ninety-two heavenly heralds and celestial singers in their wondrous play."
+      },
+      "pu": {
+        "ss": null,
+        "ft": "ijs ky Arjn, DR¨, pRihlwd, AMbrIk Aru nwrdu, nyjy nwmu irKI Awidk Bgq inkt vrqI ArQwq swmIpI Aihlkwr vw (nyjY) pRgt hI hYN[ is`D Aru buDÎwid nvgRh gx nMdI Awidk; vw gMDrboN kw (gx) smUh ijs kw (hylw) Kyl (bnwvY) bnw hUAw hY; vw (bnwvY) bvMjw bIr ijs ky (hylw) hyVw iskwr sMbMD kr iskwrI hYN]",
+        "bdb": null,
+        "ms": "ijs dy Dwm iv`c Arjn, DU pRihlwd, AMbrIk, nwrd, nyjw, pUrn purS, goqmy ielwhI eylcI qy bwnvy svrgI gv`eIey, bqoN q muswihb hn, jo Ascrj kOqk krdy hn["
+      },
+      "puu": {
+        "ss": null,
+        "ft": "ਜਿਸ ਕੇ ਅਰਜਨ, ਧ੍ਰੂ, ਪ੍ਰਹਿਲਾਦ, ਅੰਬਰੀਕ ਅਰੁ ਨਾਰਦੁ, ਨੇਜੇ ਨਾਮੁ ਰਿਖੀ ਆਦਿਕ ਭਗਤ ਨਿਕਟ ਵਰਤੀ ਅਰਥਾਤ ਸਾਮੀਪੀ ਅਹਿਲਕਾਰ ਵਾ (ਨੇਜੈ) ਪ੍ਰਗਟ ਹੀ ਹੈਂ। ਸਿੱਧ ਅਰੁ ਬੁਧ੍ਯਾਦਿ ਨਵਗ੍ਰਹ ਗਣ ਨੰਦੀ ਆਦਿਕ; ਵਾ ਗੰਧਰਬੋਂ ਕਾ (ਗਣ) ਸਮੂਹ ਜਿਸ ਕਾ (ਹੇਲਾ) ਖੇਲ (ਬਨਾਵੈ) ਬਨਾ ਹੂਆ ਹੈ; ਵਾ (ਬਨਾਵੈ) ਬਵੰਜਾ ਬੀਰ ਜਿਸ ਕੇ (ਹੇਲਾ) ਹੇੜਾ ਸਿਕਾਰ ਸੰਬੰਧ ਕਰ ਸਿਕਾਰੀ ਹੈਂ॥",
+        "bdb": null,
+        "ms": "ਜਿਸ ਦੇ ਧਾਮ ਵਿੱਚ ਅਰਜਨ, ਧੂ ਪ੍ਰਹਿਲਾਦ, ਅੰਬਰੀਕ, ਨਾਰਦ, ਨੇਜਾ, ਪੂਰਨ ਪੁਰਸ਼, ਗੋਤਮੇ ਇਲਾਹੀ ਏਲਚੀ ਤੇ ਬਾਨਵੇ ਸਵਰਗੀ ਗਵੱਈਏ, ਬਤੋਂ ਤ ਮੁਸਾਹਿਬ ਹਨ, ਜੋ ਅਸਚਰਜ ਕੌਤਕ ਕਰਦੇ ਹਨ।"
+      },
+      "es": {
+        "sn": "En Su Hogar están Aryuna, Dhru, Prahlab, Ambrik, Naarad, Naiya, los Siddhas y los Budas, "
+      },
+      "hi": {
+        "ss": "वह प्रभू एक ऐसा राजा है जिसके घर में उसके नजदीक रहने वाले अर्जुन। प्रहलाद। अंबरीक। नारद। नेजै (योग-साधना में) सिद्धहस्त योगी। ज्ञानवान मनुष्य। शिव जी के गण-देवताओं के रागी। बावन बीर आदि उसकी (एक साधारण सी) खेल हैं।",
+        "sts": "अर्जुन, भक्त धुव, प्रहलाद, अंबरीक, नारद, सिद्ध, बुद्ध, गण-गंधर्व उसके सेवक हैं।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 23137,
+    "Seq": 270,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "eyqy jIA jW cY hih GrI ]",
+    "Visraam": {
+      "sttm": [],
+      "igurbani": [],
+      "sttm2": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "ete jeea jaa(n) chai heh gharee ||",
+      "hi": "एते जीअ जाँ चै हहि घरी ॥",
+      "ipa": "eet̪e d͡ʒiə d͡ʒɑⁿ t͡ʃæ həh Gʰəri.",
+      "ur": "اےتے جیِا جاں چَے ههِ گھریِ ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "All the creatures of the world are in His House.",
+        "ms": "In whose mansion, there are creatures of so many kinds.",
+        "ssk": "All the creatures of the world are in His House."
+      },
+      "pu": {
+        "ss": null,
+        "ft": "ieqny jIv ijs ky Gr myN hYN]",
+        "bdb": null,
+        "ms": "ijs dy mMdr AMdr, AYnIAW iksmW dy jIv-jMqU hn["
+      },
+      "puu": {
+        "ss": null,
+        "ft": "ਇਤਨੇ ਜੀਵ ਜਿਸ ਕੇ ਘਰ ਮੇਂ ਹੈਂ॥",
+        "bdb": null,
+        "ms": "ਜਿਸ ਦੇ ਮੰਦਰ ਅੰਦਰ, ਐਨੀਆਂ ਕਿਸਮਾਂ ਦੇ ਜੀਵ-ਜੰਤੂ ਹਨ।"
+      },
+      "es": {
+        "sn": "los noventa y ocho heraldos y cantores celestiales que participan en Su Obra Maravillosa. "
+      },
+      "hi": {
+        "ss": "जगत के यह सारे जीव-जंतु उस प्रभू के घर में हैं।",
+        "sts": "उसके घर में अनगिनत जीव हैं।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 23138,
+    "Seq": 280,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "srb ibAwipk AMqr hrI ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "sarab biaapik a(n)tar haree ||",
+      "hi": "सरब बिआपिक अंतर हरी ॥",
+      "ipa": "sərəb bɪəɑpɪk əŋt̪ər həri.",
+      "ur": "سرب بآپک اںتر هریِ ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "The Lord is diffused in the inner beings of all.",
+        "ms": "Within all the beings is diffused my Lord.",
+        "ssk": "The Lord is diffused in the inner beings of all."
+      },
+      "pu": {
+        "ss": null,
+        "ft": "so hrI srb ky AMqr bÎwpuk hY]",
+        "bdb": null,
+        "ms": "swirAW jIvW dy AMdr myrw mwlk rm irhw hY["
+      },
+      "puu": {
+        "ss": null,
+        "ft": "ਸੋ ਹਰੀ ਸਰਬ ਕੇ ਅੰਤਰ ਬ੍ਯਾਪੁਕ ਹੈ॥",
+        "bdb": null,
+        "ms": "ਸਾਰਿਆਂ ਜੀਵਾਂ ਦੇ ਅੰਦਰ ਮੇਰਾ ਮਾਲਕ ਰਮ ਰਿਹਾ ਹੈ।"
+      },
+      "es": {
+        "sn": "Todas las criaturas del mundo se encuentran en Su Casa. "
+      },
+      "hi": {
+        "ss": "वह हरी-प्रभू सब में व्यापक है। सबके अंदर बसता है।",
+        "sts": "वह हरि सर्वव्यापक है।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 23139,
+    "Seq": 290,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "pRxvY nwmdyau qW cI Awix ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "pranavai naamadheau taa(n) chee aan ||",
+      "hi": "प्रणवै नामदेउ ताँ ची आणि ॥",
+      "ipa": "pɹəɳəʋæ nɑməd̪eo t̪ɑⁿ t͡ʃi əɑɳ.",
+      "ur": "پرݨوَے نامدےا تاں چیِ آݨ ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Prays Naam Dayv, seek His Protection.",
+        "ms": "Supplicates Namdev, seek thou, O man,",
+        "ssk": "Prays Naam Dayv, seek His Protection."
+      },
+      "pu": {
+        "ss": null,
+        "ft": "nwmdyv jI khqy hYN: (qW cI) iqs kI sugMD krqw hUM; vw iqs kI srx leI hY]",
+        "bdb": null,
+        "ms": "nwm dyv jI bynqI krdy hn, hy bMdy,"
+      },
+      "puu": {
+        "ss": null,
+        "ft": "ਨਾਮਦੇਵ ਜੀ ਕਹਤੇ ਹੈਂ: (ਤਾਂ ਚੀ) ਤਿਸ ਕੀ ਸੁਗੰਧ ਕਰਤਾ ਹੂੰ; ਵਾ ਤਿਸ ਕੀ ਸਰਣ ਲਈ ਹੈ॥",
+        "bdb": null,
+        "ms": "ਨਾਮ ਦੇਵ ਜੀ ਬੇਨਤੀ ਕਰਦੇ ਹਨ, ਹੇ ਬੰਦੇ,"
+      },
+      "es": {
+        "sn": "Él está oculto en el interior de todos. Nam Dev reza, "
+      },
+      "hi": {
+        "ss": "नामदेव विनती करता है- मुझे उस परमात्मा की ओट का आसरा है",
+        "sts": "नामदेव विनती करते हैं कि हम उस परमेश्वर की शरण में हैं और"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 23140,
+    "Seq": 300,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "sgl Bgq jw cY nIswix ]5]1]",
+    "Visraam": {
+      "sttm": [],
+      "igurbani": [],
+      "sttm2": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "sagal bhagat jaa chai neesaan ||5||1||",
+      "hi": "सगल भगत जा चै नीसाणि ॥५॥१॥",
+      "ipa": "səGəl ɓəGət̪ d͡ʒɑ t͡ʃæ nisɑɳ.5.1.",
+      "ur": "سگل بھگت جا چَے نیِساݨ ۔۔۵۔۔۱۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "All the devotees are His banner and insignia. ||5||1||",
+        "ms": "the protection of Him, whose manifestation are all his saints.",
+        "ssk": "All the devotees are His banner and insignia. ||5||1||"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "sBI Bgq ijs ky (nIswix) ngwrw bjw rhy hYN vw JMfy hYN, Bwv iqs ky js ko pRgtwvqy hYN]5]1]Çeyk smyN iksI nimq kr pMfr pur myN koeI khqy hYN AWhufy nwm ipMf myN isvwlw hY[ pCm kI qPR muK hY[ isvwly kw pMfr pur myN nwmdyv jI ky nwnw kI irhwies QI[ nwmdyv jI Twkr jI ky mMdr myN gey Qy[ dyh AiBmwnI pMifqoN ny nIc jwx kr mwr kr ky bIc sy auTwie dIAw[ nwmdyv ny mMdr ky pICy bYT kr Apny sÍwmI pws pukwr krI[ sun kr prmysÍr ny mMdr kw muK nwmdyv jI kI qrP kr dIAw, pMifEN kI qrP pIT kr deI[ so pRsMg sRI gurU Arjn swihb jI BweI gurdws jI pRqI sunwvqy hYN:",
+        "bdb": null,
+        "ms": "qUM aus dI pnwh lY, ijs dy zhUr hn aus dy swry sMq["
+      },
+      "puu": {
+        "ss": null,
+        "ft": "ਸਭੀ ਭਗਤ ਜਿਸ ਕੇ (ਨੀਸਾਣਿ) ਨਗਾਰਾ ਬਜਾ ਰਹੇ ਹੈਂ ਵਾ ਝੰਡੇ ਹੈਂ, ਭਾਵ ਤਿਸ ਕੇ ਜਸ ਕੋ ਪ੍ਰਗਟਾਵਤੇ ਹੈਂ॥੫॥੧॥☬ਏਕ ਸਮੇਂ ਕਿਸੀ ਨਮਿਤ ਕਰ ਪੰਡਰ ਪੁਰ ਮੇਂ ਕੋਈ ਕਹਤੇ ਹੈਂ ਆਂਹੁਡੇ ਨਾਮ ਪਿੰਡ ਮੇਂ ਸਿਵਾਲਾ ਹੈ। ਪਛਮ ਕੀ ਤਫ੍ਰ ਮੁਖ ਹੈ। ਸਿਵਾਲੇ ਕਾ ਪੰਡਰ ਪੁਰ ਮੇਂ ਨਾਮਦੇਵ ਜੀ ਕੇ ਨਾਨਾ ਕੀ ਰਿਹਾਇਸ ਥੀ। ਨਾਮਦੇਵ ਜੀ ਠਾਕਰ ਜੀ ਕੇ ਮੰਦਰ ਮੇਂ ਗਏ ਥੇ। ਦੇਹ ਅਭਿਮਾਨੀ ਪੰਡਿਤੋਂ ਨੇ ਨੀਚ ਜਾਣ ਕਰ ਮਾਰ ਕਰ ਕੇ ਬੀਚ ਸੇ ਉਠਾਇ ਦੀਆ। ਨਾਮਦੇਵ ਨੇ ਮੰਦਰ ਕੇ ਪੀਛੇ ਬੈਠ ਕਰ ਅਪਨੇ ਸ੍ਵਾਮੀ ਪਾਸ ਪੁਕਾਰ ਕਰੀ। ਸੁਨ ਕਰ ਪਰਮੇਸ੍ਵਰ ਨੇ ਮੰਦਰ ਕਾ ਮੁਖ ਨਾਮਦੇਵ ਜੀ ਕੀ ਤਰਫ ਕਰ ਦੀਆ, ਪੰਡਿਓਂ ਕੀ ਤਰਫ ਪੀਠ ਕਰ ਦਈ। ਸੋ ਪ੍ਰਸੰਗ ਸ੍ਰੀ ਗੁਰੂ ਅਰਜਨ ਸਾਹਿਬ ਜੀ ਭਾਈ ਗੁਰਦਾਸ ਜੀ ਪ੍ਰਤੀ ਸੁਨਾਵਤੇ ਹੈਂ:",
+        "bdb": null,
+        "ms": "ਤੂੰ ਉਸ ਦੀ ਪਨਾਹ ਲੈ, ਜਿਸ ਦੇ ਜ਼ਹੂਰ ਹਨ ਉਸ ਦੇ ਸਾਰੇ ਸੰਤ।"
+      },
+      "es": {
+        "sn": "busca Su Protección, pues Sus Devotos son Su Estandarte y Su Insignia. (5-1)"
+      },
+      "hi": {
+        "ss": "सारे भगत जिसके झंडे तले (आनंद ले रहे) हैं। 5। 1।",
+        "sts": "सब भक्तजन उसकी कीर्ति बताने वाले चिन्ह हैं।॥५॥१॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 23141,
+    "Seq": 310,
+    "header": 2,
+    "Paragraph": 5,
+    "Gurmukhi": "mlwr ]",
+    "Visraam": {
+      "sttm": [],
+      "igurbani": [],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "malaar ||",
+      "hi": "मलार ॥",
+      "ipa": "məlɑr.",
+      "ur": "ملار ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Malaar:",
+        "ms": "Malar.",
+        "ssk": "Malaar:"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": "mlwr["
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": "ਮਲਾਰ।"
+      },
+      "es": {
+        "sn": "Malhar "
+      },
+      "hi": {
+        "ss": "",
+        "sts": "मलार ॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 23142,
+    "Seq": 320,
+    "header": 0,
+    "Paragraph": 6,
+    "Gurmukhi": "mo kau qUM n ibswir qU n ibswir ]",
+    "Visraam": {
+      "sttm": [],
+      "igurbani": [],
+      "sttm2": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "mo kau too(n) na bisaar too na bisaar ||",
+      "hi": "मो कउ तूँ न बिसारि तू न बिसारि ॥",
+      "ipa": "mɔ ko t̪uŋ nə bɪsɑr t̪u nə bɪsɑr.",
+      "ur": "مو کا تُوں ن بسار تُو ن بسار ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Please do not forget me; please do not forget me,",
+        "ms": "Forget Thou me not, forget Thou me not,",
+        "ssk": "Please do not forget me; please do not forget me,"
+      },
+      "pu": {
+        "ss": "! mYƒ qUµ nw ivswrIN, mYƒ qUµ nw BulweIN",
+        "ft": "myry ko qn, bwxI kr nw ibswru, nw ibswru]",
+        "bdb": "! mYƒ qUµ nw ivswrIN, mYƒ qUµ nw BulweIN",
+        "ms": "qUM mYƒ nW Bulw, qUM mYƒ nW Bulw["
+      },
+      "puu": {
+        "ss": "! ਮੈਨੂੰ ਤੂੰ ਨਾ ਵਿਸਾਰੀਂ, ਮੈਨੂੰ ਤੂੰ ਨਾ ਭੁਲਾਈਂ",
+        "ft": "ਮੇਰੇ ਕੋ ਤਨ, ਬਾਣੀ ਕਰ ਨਾ ਬਿਸਾਰੁ, ਨਾ ਬਿਸਾਰੁ॥",
+        "bdb": "! ਮੈਨੂੰ ਤੂੰ ਨਾ ਵਿਸਾਰੀਂ, ਮੈਨੂੰ ਤੂੰ ਨਾ ਭੁਲਾਈਂ",
+        "ms": "ਤੂੰ ਮੈਨੂੰ ਨਾਂ ਭੁਲਾ, ਤੂੰ ਮੈਨੂੰ ਨਾਂ ਭੁਲਾ।"
+      },
+      "es": {
+        "sn": "Por favor no me olvides, por favor no me olvides, "
+      },
+      "hi": {
+        "ss": "मुझे तू ना बिसारना। मुझे तू ना भुलाना।",
+        "sts": "हे ईश्वर ! तुम मुझे मत भुलाओ, मुझे न भूलना,"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 23143,
+    "Seq": 330,
+    "header": 0,
+    "Paragraph": 6,
+    "Gurmukhi": "qU n ibswry rwmeIAw ]1] rhwau ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "too na bisaare raamieeaa ||1|| rahaau ||",
+      "hi": "तू न बिसारे रामईआ ॥१॥ रहाउ ॥",
+      "ipa": "t̪u nə bɪsɑre rɑmeiɑ.1. rəhɑo.",
+      "ur": "تُو ن بسارے رامایآ ۔۔۱۔۔ رهاا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "please do not forget me, O Lord. ||1||Pause||",
+        "ms": "Forget Thou me not, O my All-pervading God. Pause.",
+        "ssk": "please do not forget me, O Lord. ||1||Pause||"
+      },
+      "pu": {
+        "ss": "hy suhxy rwm!  mYƒ qUµ nw BulweIN, mYƒ qUµ nw ivswrIN [1[rhwau",
+        "ft": "hy prmysÍr! (rwmeIAw) bÎwpk sÍrUp qUM myry ko nw ibswru]1] rhwau ]",
+        "bdb": "hy suhxy rwm!  mYƒ qUµ nw BulweIN, mYƒ qUµ nw ivswrIN [1[rhwau",
+        "ms": "qUM mYƒ nW Bulw, myry hY ivAwpk vwihgurU! Tihrwau["
+      },
+      "puu": {
+        "ss": "ਹੇ ਸੁਹਣੇ ਰਾਮ!  ਮੈਨੂੰ ਤੂੰ ਨਾ ਭੁਲਾਈਂ, ਮੈਨੂੰ ਤੂੰ ਨਾ ਵਿਸਾਰੀਂ ।੧।ਰਹਾਉ",
+        "ft": "ਹੇ ਪਰਮੇਸ੍ਵਰ! (ਰਾਮਈਆ) ਬ੍ਯਾਪਕ ਸ੍ਵਰੂਪ ਤੂੰ ਮੇਰੇ ਕੋ ਨਾ ਬਿਸਾਰੁ॥੧॥ ਰਹਾਉ ॥",
+        "bdb": "ਹੇ ਸੁਹਣੇ ਰਾਮ!  ਮੈਨੂੰ ਤੂੰ ਨਾ ਭੁਲਾਈਂ, ਮੈਨੂੰ ਤੂੰ ਨਾ ਵਿਸਾਰੀਂ ।੧।ਰਹਾਉ",
+        "ms": "ਤੂੰ ਮੈਨੂੰ ਨਾਂ ਭੁਲਾ, ਮੇਰੇ ਹੈ ਵਿਆਪਕ ਵਾਹਿਗੁਰੂ! ਠਹਿਰਾਉ।"
+      },
+      "es": {
+        "sn": "por favor no me olvides, oh Señor. (1-Pausa)"
+      },
+      "hi": {
+        "ss": "हे सुंदर राम ! मुझे तू ना बिसारना। 1। रहाउ।",
+        "sts": "मुझे हरगिज न भुलाना॥१॥रहाउ॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 23144,
+    "Seq": 340,
+    "header": 0,
+    "Paragraph": 6,
+    "Gurmukhi": "AwlwvMqI iehu BRmu jo hY muJ aUpir sB koiplw ]",
+    "Visraam": {
+      "sttm": [],
+      "igurbani": [],
+      "sttm2": [
+        {
+          "p": 0,
+          "t": "v"
+        },
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "aalaava(n)tee ih bhram jo hai mujh uoopar sabh kopilaa ||",
+      "hi": "आलावंती इहु भ्रमु जो है मुझ ऊपरि सभ कोपिला ॥",
+      "ipa": "əɑlɑʋəŋt̪i eɪh ɓɹəm d͡ʒɔ hæ mʊɖ͡ʐ oupər səɓ kɔpɪlɑ.",
+      "ur": "آلاوںتیِ اهُ بھرم جو هَے مُجھ اُوپر سبھ کوپلا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "The temple priests have doubts about this, and everyone is furious with me.",
+        "ms": "The temple-priests have this doubt, that every one if furious at me.",
+        "ssk": "The temple priests have doubts about this, and everyone is furious with me."
+      },
+      "pu": {
+        "ss": "iehnW pWifAW ƒ) ieh vihm hY ik ieh au~cI jwqI vwly hn, (ies krky ieh) swry myry au~qy gu`sy ho gey hn; ",
+        "ft": "mMdr vwilEN ko iXh jo BRmu hY kÎw myrI jo nIc jwqI mwn kr myry aUpr sBI kRoD lÎwey hYN]",
+        "bdb": "iehnW pWifAW ƒ) ieh vihm hY ik ieh au~cI jwqI vwly hn, (ies krky ieh) swry myry au~qy gu`sy ho gey hn; ",
+        "ms": "mMdr dy pujwrIAW ƒ ieh sMdyh hY, ik hr koeI myry auqy lohw lwKw hY["
+      },
+      "puu": {
+        "ss": "ਇਹਨਾਂ ਪਾਂਡਿਆਂ ਨੂੰ) ਇਹ ਵਹਿਮ ਹੈ ਕਿ ਇਹ ਉੱਚੀ ਜਾਤੀ ਵਾਲੇ ਹਨ, (ਇਸ ਕਰਕੇ ਇਹ) ਸਾਰੇ ਮੇਰੇ ਉੱਤੇ ਗੁੱਸੇ ਹੋ ਗਏ ਹਨ; ",
+        "ft": "ਮੰਦਰ ਵਾਲਿਓਂ ਕੋ ਯਿਹ ਜੋ ਭ੍ਰਮੁ ਹੈ ਕ੍ਯਾ ਮੇਰੀ ਜੋ ਨੀਚ ਜਾਤੀ ਮਾਨ ਕਰ ਮੇਰੇ ਊਪਰ ਸਭੀ ਕ੍ਰੋਧ ਲ੍ਯਾਏ ਹੈਂ॥",
+        "bdb": "ਇਹਨਾਂ ਪਾਂਡਿਆਂ ਨੂੰ) ਇਹ ਵਹਿਮ ਹੈ ਕਿ ਇਹ ਉੱਚੀ ਜਾਤੀ ਵਾਲੇ ਹਨ, (ਇਸ ਕਰਕੇ ਇਹ) ਸਾਰੇ ਮੇਰੇ ਉੱਤੇ ਗੁੱਸੇ ਹੋ ਗਏ ਹਨ; ",
+        "ms": "ਮੰਦਰ ਦੇ ਪੁਜਾਰੀਆਂ ਨੂੰ ਇਹ ਸੰਦੇਹ ਹੈ, ਕਿ ਹਰ ਕੋਈ ਮੇਰੇ ਉਤੇ ਲੋਹਾ ਲਾਖਾ ਹੈ।"
+      },
+      "es": {
+        "sn": "Los sacerdotes del templo dudan de mí, y todos están furiosos conmigo. "
+      },
+      "hi": {
+        "ss": "(इन पण्डियों को) यह वहम है कि ये ऊँची जाति वाले हैं। (इस करके ये) सारे मेरे ऊपर गुस्से हो गए हैं;",
+        "sts": "इन पण्डितों को अपनी ऊँची जाति का भ्रम है, जिसकी वजह से मुझ पर सभी गुस्सा हो गए हैं।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 23145,
+    "Seq": 350,
+    "header": 0,
+    "Paragraph": 6,
+    "Gurmukhi": "sUdu sUdu kir mwir auTwieE khw krau bwp bITulw ]1]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "soodh soodh kar maar uThaio kahaa karau baap beeThulaa ||1||",
+      "hi": "सूदु सूदु करि मारि उठाइओ कहा करउ बाप बीठुला ॥१॥",
+      "ipa": "sud̪ sud̪ kər mɑr oʊʈʰɑeɪo kəhɑ kəro bɑp biʈʰʊlɑ.1.",
+      "ur": "سُود سُود کر مار اُٹھاااو کها کرا باپ بیِٹھلا ۔۔۱۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Calling me low-caste and untouchable, they beat me and drove me out; what should I do now, O Beloved Father Lord? ||1||",
+        "ms": "Calling me 'a menial, 'a menial ', they beat me and turned me out. What should I do now O my Beloved Father?",
+        "ssk": "Calling me low-caste and untouchable, they beat me and drove me out; what should I do now, O Beloved Father Lord? ||1||"
+      },
+      "pu": {
+        "ss": "SUdr SUdr AwK AwK ky qy mwr-kutweI kr ky mYƒ iehnW ny auTwl id`qw hY; hy myry bITul ipqw! iehnW A`gy myrI iek`ly dI pyS nhIN jWdI [1[",
+        "ft": "sUd sUd kir myry ko mwr kr auTwie dIAw hY[ hy ipqw bITlw! Ab myN kÎw krUM? ]1]Çqb Akws bwxI hoeI, DIrj kru qyry ko mukqI dyvyNgy[ iqs pr kihxy lgy:",
+        "bdb": "SUdr SUdr AwK AwK ky qy mwr-kutweI kr ky mYƒ iehnW ny auTwl id`qw hY; hy myry bITul ipqw! iehnW A`gy myrI iek`ly dI pyS nhIN jWdI [1[",
+        "ms": "\"kmIx, kmIx\" AwK aunHW ny mwr kut ky mYƒ bwhr kF id`qw[ mYN hux kI krW, hY myry ipAwry ipqw!"
+      },
+      "puu": {
+        "ss": "ਸ਼ੂਦਰ ਸ਼ੂਦਰ ਆਖ ਆਖ ਕੇ ਤੇ ਮਾਰ-ਕੁਟਾਈ ਕਰ ਕੇ ਮੈਨੂੰ ਇਹਨਾਂ ਨੇ ਉਠਾਲ ਦਿੱਤਾ ਹੈ; ਹੇ ਮੇਰੇ ਬੀਠੁਲ ਪਿਤਾ! ਇਹਨਾਂ ਅੱਗੇ ਮੇਰੀ ਇਕੱਲੇ ਦੀ ਪੇਸ਼ ਨਹੀਂ ਜਾਂਦੀ ।੧।",
+        "ft": "ਸੂਦ ਸੂਦ ਕਰਿ ਮੇਰੇ ਕੋ ਮਾਰ ਕਰ ਉਠਾਇ ਦੀਆ ਹੈ। ਹੇ ਪਿਤਾ ਬੀਠਲਾ! ਅਬ ਮੇਂ ਕ੍ਯਾ ਕਰੂੰ? ॥੧॥☬ਤਬ ਅਕਾਸ ਬਾਣੀ ਹੋਈ, ਧੀਰਜ ਕਰੁ ਤੇਰੇ ਕੋ ਮੁਕਤੀ ਦੇਵੇਂਗੇ। ਤਿਸ ਪਰ ਕਹਿਣੇ ਲਗੇ:",
+        "bdb": "ਸ਼ੂਦਰ ਸ਼ੂਦਰ ਆਖ ਆਖ ਕੇ ਤੇ ਮਾਰ-ਕੁਟਾਈ ਕਰ ਕੇ ਮੈਨੂੰ ਇਹਨਾਂ ਨੇ ਉਠਾਲ ਦਿੱਤਾ ਹੈ; ਹੇ ਮੇਰੇ ਬੀਠੁਲ ਪਿਤਾ! ਇਹਨਾਂ ਅੱਗੇ ਮੇਰੀ ਇਕੱਲੇ ਦੀ ਪੇਸ਼ ਨਹੀਂ ਜਾਂਦੀ ।੧।",
+        "ms": "\"ਕਮੀਣ, ਕਮੀਣ\" ਆਖ ਉਨ੍ਹਾਂ ਨੇ ਮਾਰ ਕੁਟ ਕੇ ਮੈਨੂੰ ਬਾਹਰ ਕਢ ਦਿੱਤਾ। ਮੈਂ ਹੁਣ ਕੀ ਕਰਾਂ, ਹੈ ਮੇਰੇ ਪਿਆਰੇ ਪਿਤਾ!"
+      },
+      "es": {
+        "sn": "Me llaman descastado e intocable, me golpean y me corren. ¿Qué podré hacer ahora, oh, Padre Bienamado? (1)"
+      },
+      "hi": {
+        "ss": "शूद्र-शूद्र कह-कह के और मार-पीट के मुझे इन्होंने उठा दिया है। हे मेरे बीठल पिता ! इनके आगे मेरे अकेले की पेश नहीं चलती। 1।",
+        "sts": "शूद्र-शूद्र कह कर उन्होंने मारपीट कर मुझे मन्दिर से बाहर निकाल फॅका है। हे मेरे पिता प्रभु ! इनके आगे मैं अकेला क्या कर सकता हूँ॥१॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 23146,
+    "Seq": 360,
+    "header": 0,
+    "Paragraph": 6,
+    "Gurmukhi": "mUey hUey jau mukiq dyhugy mukiq n jwnY koielw ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 4,
+          "t": "v"
+        },
+        {
+          "p": 1,
+          "t": "y"
+        },
+        {
+          "p": 7,
+          "t": "y"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 4,
+          "t": "v"
+        },
+        {
+          "p": 1,
+          "t": "y"
+        },
+        {
+          "p": 7,
+          "t": "y"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 1,
+          "t": "v"
+        },
+        {
+          "p": 4,
+          "t": "v"
+        },
+        {
+          "p": 7,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "mooe hooe jau mukat dhehuge mukat na jaanai koilaa ||",
+      "hi": "मूए हूए जउ मुकति देहुगे मुकति न जानै कोइला ॥",
+      "ipa": "muee huee d͡ʒo mʊkət̪ d̪ehʊGe mʊkət̪ nə d͡ʒɑnæ kɔeɪlɑ.",
+      "ur": "مُواے هُواے جا مُکت دےهُگے مُکت ن جانَے کوالا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "If You liberate me after I am dead, no one will know that I am liberated.",
+        "ms": "If Thou shalt emancipate me after death, no one shall be aware of this emancipation.",
+        "ssk": "If You liberate me after I am dead, no one will know that I am liberated."
+      },
+      "pu": {
+        "ss": "jy qUµ mYƒ mrn ip`CoN mukqI dy id`qI, qyrI id`qI hoeI mukqI dw iksy ƒ pqw nhIN l`gxw;",
+        "ft": "jykr mUey hUey ko Awp mukqI dyvogy qo qyrI ies mukqI ko koeI nhIN jwnygw; vw hm aus mukqI ko nhIN mwnqy vhu inrwdRI pwky mukqI koielw ArQwq sÍwh hY]",
+        "bdb": "jy qUµ mYƒ mrn ip`CoN mukqI dy id`qI, qyrI id`qI hoeI mukqI dw iksy ƒ pqw nhIN l`gxw;",
+        "ms": "jykr qUM myry mry hoey dI kilAwx krygw, iksy ƒ BI ies kilAwx dw pqw nhIN lgxw["
+      },
+      "puu": {
+        "ss": "ਜੇ ਤੂੰ ਮੈਨੂੰ ਮਰਨ ਪਿੱਛੋਂ ਮੁਕਤੀ ਦੇ ਦਿੱਤੀ, ਤੇਰੀ ਦਿੱਤੀ ਹੋਈ ਮੁਕਤੀ ਦਾ ਕਿਸੇ ਨੂੰ ਪਤਾ ਨਹੀਂ ਲੱਗਣਾ;",
+        "ft": "ਜੇਕਰ ਮੂਏ ਹੂਏ ਕੋ ਆਪ ਮੁਕਤੀ ਦੇਵੋਗੇ ਤੋ ਤੇਰੀ ਇਸ ਮੁਕਤੀ ਕੋ ਕੋਈ ਨਹੀਂ ਜਾਨੇਗਾ; ਵਾ ਹਮ ਉਸ ਮੁਕਤੀ ਕੋ ਨਹੀਂ ਮਾਨਤੇ ਵਹੁ ਨਿਰਾਦ੍ਰੀ ਪਾਕੇ ਮੁਕਤੀ ਕੋਇਲਾ ਅਰਥਾਤ ਸ੍ਵਾਹ ਹੈ॥",
+        "bdb": "ਜੇ ਤੂੰ ਮੈਨੂੰ ਮਰਨ ਪਿੱਛੋਂ ਮੁਕਤੀ ਦੇ ਦਿੱਤੀ, ਤੇਰੀ ਦਿੱਤੀ ਹੋਈ ਮੁਕਤੀ ਦਾ ਕਿਸੇ ਨੂੰ ਪਤਾ ਨਹੀਂ ਲੱਗਣਾ;",
+        "ms": "ਜੇਕਰ ਤੂੰ ਮੇਰੇ ਮਰੇ ਹੋਏ ਦੀ ਕਲਿਆਣ ਕਰੇਗਾ, ਕਿਸੇ ਨੂੰ ਭੀ ਇਸ ਕਲਿਆਣ ਦਾ ਪਤਾ ਨਹੀਂ ਲਗਣਾ।"
+      },
+      "es": {
+        "sn": "Si me liberas, después de que muera, nadie sabrá que fui liberado. "
+      },
+      "hi": {
+        "ss": "यदि तूने मुझे मरने के बाद मुक्ति दे दी। तेरी मुक्ति का किसी को पता नहीं लगना;",
+        "sts": "यदि तूने मुझे मरने के बाद मुक्ति दे दी तो तेरी दी हुई मुक्ति का किसी को पता नहीं लगना।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 23147,
+    "Seq": 370,
+    "header": 0,
+    "Paragraph": 6,
+    "Gurmukhi": "ey pMfIAw mo kau FyF khq qyrI pYj ipCMaufI hoielw ]2]",
+    "Visraam": {
+      "sttm": [],
+      "igurbani": [],
+      "sttm2": [
+        {
+          "p": 1,
+          "t": "v"
+        },
+        {
+          "p": 5,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "e pa(n)ddeeaa mo kau ddedd kahat teree paij pichha(n)auddee hoilaa ||2||",
+      "hi": "ए पंडीआ मो कउ ढेढ कहत तेरी पैज पिछंउडी होइला ॥२॥",
+      "ipa": "ee pəŋɖiəɑ mɔ ko ʈeʈə̀ kəhət̪ t̪eri pæd͡ʒ pɪɕəŋoʊɖi hɔeɪlɑ.2.",
+      "ur": "اے پںڈیِآ مو کا ڈھےڈھ کهت تےریِ پَےج پچھںاڈیِ هوالا ۔۔۲۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "These Pandits, these religious scholars, call me low-born; when they say this, they tarnish Your honor as well. ||2||",
+        "ms": "These Brahman call me low-born, this way Thy honour, O Lord, shall be stigmatized.",
+        "ssk": "These Pandits, these religious scholars, call me low-born; when they say this, they tarnish Your honor as well. ||2||"
+      },
+      "pu": {
+        "ss": "ieh pWfy mYƒ nIc AwK rhy hn, ies qrHW qW qyrI AwpxI hI ie`zq G`t rhI hY (kI qyrI bMdgI krn vwlw koeI bMdw nIc rih skdw hY?) [2[",
+        "ft": "iXh pMfy myry ko FyF khqy hYN, Bwv AqI nIc jwn kr myrw inrwdr krqy hYN[ so qyrI (pYj) pRqgÎw (ipCMaufI) pICy ho jwvygI[ Bwv Xih ik BgqoN kI rKÎw Ar dustoN ko dMf dyxy kI jo pRqgÎw hY, so muKu nw rhygI]2]",
+        "bdb": "ieh pWfy mYƒ nIc AwK rhy hn, ies qrHW qW qyrI AwpxI hI ie`zq G`t rhI hY (kI qyrI bMdgI krn vwlw koeI bMdw nIc rih skdw hY?) [2[",
+        "ms": "ieh bRwhmx myƒ nIc-Grwxy dw AwKdy hn, ies qrHW qyrI iezq ƒ hY sweIN! dwg l¤gygw["
+      },
+      "puu": {
+        "ss": "ਇਹ ਪਾਂਡੇ ਮੈਨੂੰ ਨੀਚ ਆਖ ਰਹੇ ਹਨ, ਇਸ ਤਰ੍ਹਾਂ ਤਾਂ ਤੇਰੀ ਆਪਣੀ ਹੀ ਇੱਜ਼ਤ ਘੱਟ ਰਹੀ ਹੈ (ਕੀ ਤੇਰੀ ਬੰਦਗੀ ਕਰਨ ਵਾਲਾ ਕੋਈ ਬੰਦਾ ਨੀਚ ਰਹਿ ਸਕਦਾ ਹੈ?) ।੨।",
+        "ft": "ਯਿਹ ਪੰਡੇ ਮੇਰੇ ਕੋ ਢੇਢ ਕਹਤੇ ਹੈਂ, ਭਾਵ ਅਤੀ ਨੀਚ ਜਾਨ ਕਰ ਮੇਰਾ ਨਿਰਾਦਰ ਕਰਤੇ ਹੈਂ। ਸੋ ਤੇਰੀ (ਪੈਜ) ਪ੍ਰਤਗ੍ਯਾ (ਪਿਛੰਉਡੀ) ਪੀਛੇ ਹੋ ਜਾਵੇਗੀ। ਭਾਵ ਯਹਿ ਕਿ ਭਗਤੋਂ ਕੀ ਰਖ੍ਯਾ ਅਰ ਦੁਸਟੋਂ ਕੋ ਦੰਡ ਦੇਣੇ ਕੀ ਜੋ ਪ੍ਰਤਗ੍ਯਾ ਹੈ, ਸੋ ਮੁਖੁ ਨਾ ਰਹੇਗੀ॥੨॥",
+        "bdb": "ਇਹ ਪਾਂਡੇ ਮੈਨੂੰ ਨੀਚ ਆਖ ਰਹੇ ਹਨ, ਇਸ ਤਰ੍ਹਾਂ ਤਾਂ ਤੇਰੀ ਆਪਣੀ ਹੀ ਇੱਜ਼ਤ ਘੱਟ ਰਹੀ ਹੈ (ਕੀ ਤੇਰੀ ਬੰਦਗੀ ਕਰਨ ਵਾਲਾ ਕੋਈ ਬੰਦਾ ਨੀਚ ਰਹਿ ਸਕਦਾ ਹੈ?) ।੨।",
+        "ms": "ਇਹ ਬ੍ਰਾਹਮਣ ਮੇਨੂੰ ਨੀਚ-ਘਰਾਣੇ ਦਾ ਆਖਦੇ ਹਨ, ਇਸ ਤਰ੍ਹਾਂ ਤੇਰੀ ਇਜ਼ਤ ਨੂੰ ਹੈ ਸਾਈਂ! ਦਾਗ ਲੱਗੇਗਾ।"
+      },
+      "es": {
+        "sn": "Los Pandits, escolares religiosos me llaman mal nacido y cuando ellos hablan así, ellos manchan Tu Honor también. (2)"
+      },
+      "hi": {
+        "ss": "ये पांडे मुझे नीच कह रहे हैं। इस तरह तो तेरी अपनी ही इज्जत कम हो रही है (क्या तेरी बँदगी करने वाला कोई व्यक्ति नीच रह सकता है। )। 2।",
+        "sts": "ये पण्डित मुझे नीच कह रहे हैं, इस से तेरी अपनी प्रतिष्ठा कम हो रही है (क्या तेरी भक्ति करने वाला कोई नीच रह सकता है?)॥२॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 23148,
+    "Seq": 380,
+    "header": 0,
+    "Paragraph": 6,
+    "Gurmukhi": "qU ju dieAwlu ik®pwlu khIAqu hYN AiqBuj BieE Apwrlw ]",
+    "Visraam": {
+      "sttm": [],
+      "igurbani": [],
+      "sttm2": [
+        {
+          "p": 5,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "too ju dhiaal kirapaal kaheeat hai(n) atibhuj bhio apaaralaa ||",
+      "hi": "तू जु दइआलु कृपालु कहीअतु हैं अतिभुज भइओ अपारला ॥",
+      "ipa": "t̪u d͡ʒ d̪ɪɑl kɪʳəpɑl kəhiət̪ hæⁿ ət̪ɪɓʊd͡ʒ ɓeɪo əpɑrəlɑ.",
+      "ur": "تُو جُ دایال ک®پال کهیِات هَےں اتبھج بھِااو اپارلا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "You are called kind and compassionate; the power of Your Arm is absolutely unrivalled.",
+        "ms": "Thou are called merciful and compassionate and exceedingly unrivalled is Thy arm.",
+        "ssk": "You are called kind and compassionate; the power of Your Arm is absolutely unrivalled."
+      },
+      "pu": {
+        "ss": "(hy suhxy rwm!) qUµ qW (sBnW au~qy, cwhy koeI nIc kul dw hovy cwhy au~cI kul dw) dieAw krn vwlw hYN, qUµ imhr dw Gr hYN, (iPr qUµ) hYN BI bVw blI qy byAMq [",
+        "ft": "qUM jo AiqsY ikRpwl khIqw hYN, so bwq qo qyrI idAwlqw vwlI nhIN rhygI, AYsIAW qrkW sun kr AqI Apwr bwhW vwlw hoie gÎw]",
+        "bdb": "(hy suhxy rwm!) qUµ qW (sBnW au~qy, cwhy koeI nIc kul dw hovy cwhy au~cI kul dw) dieAw krn vwlw hYN, qUµ imhr dw Gr hYN, (iPr qUµ) hYN BI bVw blI qy byAMq [",
+        "ms": "qUM dieAwvwn Aqy imhrbwn AwiKAw jWdw hY Aqy prm lwswnI hY qyrI bWh["
+      },
+      "puu": {
+        "ss": "(ਹੇ ਸੁਹਣੇ ਰਾਮ!) ਤੂੰ ਤਾਂ (ਸਭਨਾਂ ਉੱਤੇ, ਚਾਹੇ ਕੋਈ ਨੀਚ ਕੁਲ ਦਾ ਹੋਵੇ ਚਾਹੇ ਉੱਚੀ ਕੁਲ ਦਾ) ਦਇਆ ਕਰਨ ਵਾਲਾ ਹੈਂ, ਤੂੰ ਮਿਹਰ ਦਾ ਘਰ ਹੈਂ, (ਫਿਰ ਤੂੰ) ਹੈਂ ਭੀ ਬੜਾ ਬਲੀ ਤੇ ਬੇਅੰਤ ।",
+        "ft": "ਤੂੰ ਜੋ ਅਤਿਸੈ ਕ੍ਰਿਪਾਲ ਕਹੀਤਾ ਹੈਂ, ਸੋ ਬਾਤ ਤੋ ਤੇਰੀ ਦਿਆਲਤਾ ਵਾਲੀ ਨਹੀਂ ਰਹੇਗੀ, ਐਸੀਆਂ ਤਰਕਾਂ ਸੁਨ ਕਰ ਅਤੀ ਅਪਾਰ ਬਾਹਾਂ ਵਾਲਾ ਹੋਇ ਗ੍ਯਾ॥",
+        "bdb": "(ਹੇ ਸੁਹਣੇ ਰਾਮ!) ਤੂੰ ਤਾਂ (ਸਭਨਾਂ ਉੱਤੇ, ਚਾਹੇ ਕੋਈ ਨੀਚ ਕੁਲ ਦਾ ਹੋਵੇ ਚਾਹੇ ਉੱਚੀ ਕੁਲ ਦਾ) ਦਇਆ ਕਰਨ ਵਾਲਾ ਹੈਂ, ਤੂੰ ਮਿਹਰ ਦਾ ਘਰ ਹੈਂ, (ਫਿਰ ਤੂੰ) ਹੈਂ ਭੀ ਬੜਾ ਬਲੀ ਤੇ ਬੇਅੰਤ ।",
+        "ms": "ਤੂੰ ਦਇਆਵਾਨ ਅਤੇ ਮਿਹਰਬਾਨ ਆਖਿਆ ਜਾਂਦਾ ਹੈ ਅਤੇ ਪਰਮ ਲਾਸਾਨੀ ਹੈ ਤੇਰੀ ਬਾਂਹ।"
+      },
+      "es": {
+        "sn": "Te llaman Rey Compasivo. El Poder de Tu Brazo no tiene rival. "
+      },
+      "hi": {
+        "ss": "(हे सुहणे राम !) तू तो (सब पर। चाहे कोई नीच कुल का हो अथवा ऊँची कुल का) दया करने वाला है। तू मेहर का घर है। (फिर तू) है भी बहुत बली और बेअंत। (क्या तेरे सेवक पर कोई तेरी मर्जी के बिना धक्का कर सकता है। )",
+        "sts": "तू सब पर दयालु है, कृपा का घर कहलाता है, तू ही बाहुबली एवं सर्वशक्तिमान है।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 23149,
+    "Seq": 390,
+    "header": 0,
+    "Paragraph": 6,
+    "Gurmukhi": "Pyir dIAw dyhurw nwmy kau pMfIAn kau ipCvwrlw ]3]2]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "fer dheeaa dhehuraa naame kau pa(n)ddeean kau pichhavaaralaa ||3||2||",
+      "hi": "फेरि दीआ देहुरा नामे कउ पंडीअन कउ पिछवारला ॥३॥२॥",
+      "ipa": "fer d̪iəɑ d̪ehʊrɑ nɑme ko pəŋɖiən ko pɪɕəʋɑrəlɑ.3.2.",
+      "ur": "پھےر دیِآ دےهُرا نامے کا پںڈیِان کا پچھوارلا ۔۔۳۔۔۲۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "The Lord turned the temple around to face Naam Dayv; He turned His back on the Brahmins. ||3||2||",
+        "ms": "The Lord turned around the front of the temple towards Name and its back towards the Brahmans.",
+        "ssk": "The Lord turned the temple around to face Naam Dayv; He turned His back on the Brahmins. ||3||2||"
+      },
+      "pu": {
+        "ss": "(kI qyry syvk au~qy koeI qyrI mrzI qoN ibnw D`kw kr skdw hY?) (myrI nwmdyv dI ArzoeI sux ky pRBU ny) dyhurw mYN nwmdyv vl Pyr id`qw, qy pWifAW vl ip`T ho geI [3[2[",
+        "ft": "gurU jI BweI gurdws pRqI khqy hYN: nwm dyv jI ko iqsI smyN dyhurw Pyr dIAw AOr pMifEN kI qrP ipCvwVw kr dIAw]3]2]Çrivdws ko logoN ny khw: cmwr ho kr Bgq khwvqy ho? iqs ko auqR dÍwr prmysÍr sy bymupqw kr auqm jwqI ko nIcqw Aru mnmuK hoxy qy nIc jwqI ko aUcqw, idRStWqoN dÍwrw brnn krqy hYN:",
+        "bdb": "(kI qyry syvk au~qy koeI qyrI mrzI qoN ibnw D`kw kr skdw hY?) (myrI nwmdyv dI ArzoeI sux ky pRBU ny) dyhurw mYN nwmdyv vl Pyr id`qw, qy pWifAW vl ip`T ho geI [3[2[",
+        "ms": "suAwmI ny moV ky mMdr dw mUhrlw pwsw nwmy vl kr id`qw Aqy ipClw pwsw bRwhmxw vl["
+      },
+      "puu": {
+        "ss": "(ਕੀ ਤੇਰੇ ਸੇਵਕ ਉੱਤੇ ਕੋਈ ਤੇਰੀ ਮਰਜ਼ੀ ਤੋਂ ਬਿਨਾ ਧੱਕਾ ਕਰ ਸਕਦਾ ਹੈ?) (ਮੇਰੀ ਨਾਮਦੇਵ ਦੀ ਅਰਜ਼ੋਈ ਸੁਣ ਕੇ ਪ੍ਰਭੂ ਨੇ) ਦੇਹੁਰਾ ਮੈਂ ਨਾਮਦੇਵ ਵਲ ਫੇਰ ਦਿੱਤਾ, ਤੇ ਪਾਂਡਿਆਂ ਵਲ ਪਿੱਠ ਹੋ ਗਈ ।੩।੨।",
+        "ft": "ਗੁਰੂ ਜੀ ਭਾਈ ਗੁਰਦਾਸ ਪ੍ਰਤੀ ਕਹਤੇ ਹੈਂ: ਨਾਮ ਦੇਵ ਜੀ ਕੋ ਤਿਸੀ ਸਮੇਂ ਦੇਹੁਰਾ ਫੇਰ ਦੀਆ ਔਰ ਪੰਡਿਓਂ ਕੀ ਤਰਫ ਪਿਛਵਾੜਾ ਕਰ ਦੀਆ॥੩॥੨॥☬ਰਵਿਦਾਸ ਕੋ ਲੋਗੋਂ ਨੇ ਕਹਾ: ਚਮਾਰ ਹੋ ਕਰ ਭਗਤ ਕਹਾਵਤੇ ਹੋ? ਤਿਸ ਕੋ ਉਤ੍ਰ ਦ੍ਵਾਰ ਪਰਮੇਸ੍ਵਰ ਸੇ ਬੇਮੁਪਤਾ ਕਰ ਉਤਮ ਜਾਤੀ ਕੋ ਨੀਚਤਾ ਅਰੁ ਮਨਮੁਖ ਹੋਣੇ ਤੇ ਨੀਚ ਜਾਤੀ ਕੋ ਊਚਤਾ, ਦ੍ਰਿਸ਼ਟਾਂਤੋਂ ਦ੍ਵਾਰਾ ਬਰਨਨ ਕਰਤੇ ਹੈਂ:",
+        "bdb": "(ਕੀ ਤੇਰੇ ਸੇਵਕ ਉੱਤੇ ਕੋਈ ਤੇਰੀ ਮਰਜ਼ੀ ਤੋਂ ਬਿਨਾ ਧੱਕਾ ਕਰ ਸਕਦਾ ਹੈ?) (ਮੇਰੀ ਨਾਮਦੇਵ ਦੀ ਅਰਜ਼ੋਈ ਸੁਣ ਕੇ ਪ੍ਰਭੂ ਨੇ) ਦੇਹੁਰਾ ਮੈਂ ਨਾਮਦੇਵ ਵਲ ਫੇਰ ਦਿੱਤਾ, ਤੇ ਪਾਂਡਿਆਂ ਵਲ ਪਿੱਠ ਹੋ ਗਈ ।੩।੨।",
+        "ms": "ਸੁਆਮੀ ਨੇ ਮੋੜ ਕੇ ਮੰਦਰ ਦਾ ਮੂਹਰਲਾ ਪਾਸਾ ਨਾਮੇ ਵਲ ਕਰ ਦਿੱਤਾ ਅਤੇ ਪਿਛਲਾ ਪਾਸਾ ਬ੍ਰਾਹਮਣਾ ਵਲ।"
+      },
+      "es": {
+        "sn": "El Señor volteó el Templo hacia Nam Dev, pero él le dio la espalda a los brahmanes. (3-2) "
+      },
+      "hi": {
+        "ss": "(मेरी नामदेव जी की आरजू सुन के प्रभू ने) देहुरा मुझ नामदेव की तरफ फेर दिया। और पांडों की ओर पीठ हो गई। 3। 2।",
+        "sts": "भक्त नामदेव की प्रार्थना सुनकर ईश्वर ने मन्दिर का मुँह उसकी तरफ कर दिया और पण्डितों की तरफ पीठ कर दी॥३॥२॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 23179,
+    "Seq": 395,
+    "header": 1,
+    "Paragraph": 7,
+    "Gurmukhi": "<> siqgur pRswid ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "ikOankaar satigur prasaadh ||",
+      "hi": "ੴ सतिगुर प्रसादि ॥",
+      "ipa": "ɪk oəŋkɑɾ sət̪ɪGʊr pɹəsɑd̪.",
+      "ur": "اک اونکار ستگر پرساد ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "One Universal Creator God. By The Grace Of The True Guru:",
+        "ms": "There is but One God, Through the Guru's grace He is obtained.",
+        "ssk": "One Universal Creator God. By The Grace Of The True Guru:"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": "vwihgurU kyvl iek hY[ s¤cy gurW dI dieAw duAwrw auh pwieAw jWdw hY["
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": "ਵਾਹਿਗੁਰੂ ਕੇਵਲ ਇਕ ਹੈ। ਸੱਚੇ ਗੁਰਾਂ ਦੀ ਦਇਆ ਦੁਆਰਾ ਉਹ ਪਾਇਆ ਜਾਂਦਾ ਹੈ।"
+      },
+      "es": {
+        "sn": "Un Dios Creador Universal, por la Gracia del Verdadero Guru."
+      },
+      "hi": {
+        "ss": "",
+        "sts": "ੴ सतिगुर प्रसादि ॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": "above"
+  },
+  {
+    "ID": 23150,
+    "Seq": 400,
+    "header": 2,
+    "Paragraph": 8,
+    "Gurmukhi": "mlwr bwxI Bgq rivdws jI kI",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 0,
+          "t": "y"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 0,
+          "t": "y"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "malaar baanee bhagat ravidhaas jee kee",
+      "hi": "मलार बाणी भगत रविदास जी की",
+      "ipa": "məlɑr bɑɳi ɓəGət̪ rəʋɪd̪ɑs d͡ʒi ki",
+      "ur": "ملار باݨیِ بھگت روداس جیِ کیِ"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Malaar, The Word Of The Devotee Ravi Daas Jee:",
+        "ms": "Malar Hymns of Sire Saint Ravidass.",
+        "ssk": "Malaar, The Word Of The Devotee Ravi Daas Jee:"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": "mlwr Sbd mhwrwj sMq rivdws["
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": "ਮਲਾਰ ਸ਼ਬਦ ਮਹਾਰਾਜ ਸੰਤ ਰਵਿਦਾਸ।"
+      },
+      "es": {
+        "sn": "Malhar, Palabras del Devoto Ravi Das Yi "
+      },
+      "hi": {
+        "ss": "",
+        "sts": "मलार बाणी भगत रविदास जी की"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 23151,
+    "Seq": 410,
+    "header": 1,
+    "Paragraph": 9,
+    "Gurmukhi": "<> siqgur pRswid ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "ikOankaar satigur prasaadh ||",
+      "hi": "ੴ सतिगुर प्रसादि ॥",
+      "ipa": "ɪk oəŋkɑɾ sət̪ɪGʊr pɹəsɑd̪.",
+      "ur": "اک اونکار ستگر پرساد ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "One Universal Creator God. By The Grace Of The True Guru:",
+        "ms": "There is but One God, Through the Guru's grace He is obtained.",
+        "ssk": "One Universal Creator God. By The Grace Of The True Guru:"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": "vwihgurU kyvl iek hY[ s¤cy gurW dI dieAw duAwrw auh pwieAw jWdw hY["
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": "ਵਾਹਿਗੁਰੂ ਕੇਵਲ ਇਕ ਹੈ। ਸੱਚੇ ਗੁਰਾਂ ਦੀ ਦਇਆ ਦੁਆਰਾ ਉਹ ਪਾਇਆ ਜਾਂਦਾ ਹੈ।"
+      },
+      "es": {
+        "sn": "Un Dios Creador Universal, por la Gracia del Verdadero Guru."
+      },
+      "hi": {
+        "ss": "",
+        "sts": "ੴ सतिगुर प्रसादि ॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": "current"
+  },
+  {
+    "ID": 23152,
+    "Seq": 420,
+    "header": 0,
+    "Paragraph": 10,
+    "Gurmukhi": "nwgr jnW myrI jwiq ibiKAwq cMmwrM ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "naagar janaa(n) meree jaat bikhiaat cha(n)maara(n) ||",
+      "hi": "नागर जनाँ मेरी जाति बिखिआत चंमारं ॥",
+      "ipa": "nɑGər d͡ʒənɑⁿ meri d͡ʒɑt̪ bɪkʰɪəɑt̪ t͡ʃəŋmɑrəŋ.",
+      "ur": "ناگر جناں مےریِ جات بکھآت چںمارں ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "O humble townspeople, I am obviously just a shoemaker.",
+        "ms": "O people of the town, I am obviously a cobbler by caste.",
+        "ssk": "O humble townspeople, I am obviously just a shoemaker."
+      },
+      "pu": {
+        "ss": "hy ngr dy loko! ieh g`l qW mMnI-pRmMnI hY ik myrI jwq hY cimAwr",
+        "ft": "hy cqur vw ngr ky purSo! myrI jwqI pRgt hI cmwr hY]",
+        "bdb": "hy ngr dy loko! ieh g`l qW mMnI-pRmMnI hY ik myrI jwq hY cimAwr",
+        "ms": "hy ngr dy loko! mYN jwqI dw cmwr mShUr hW["
+      },
+      "puu": {
+        "ss": "ਹੇ ਨਗਰ ਦੇ ਲੋਕੋ! ਇਹ ਗੱਲ ਤਾਂ ਮੰਨੀ-ਪ੍ਰਮੰਨੀ ਹੈ ਕਿ ਮੇਰੀ ਜਾਤ ਹੈ ਚਮਿਆਰ",
+        "ft": "ਹੇ ਚਤੁਰ ਵਾ ਨਗਰ ਕੇ ਪੁਰਸ਼ੋ! ਮੇਰੀ ਜਾਤੀ ਪ੍ਰਗਟ ਹੀ ਚਮਾਰ ਹੈ॥",
+        "bdb": "ਹੇ ਨਗਰ ਦੇ ਲੋਕੋ! ਇਹ ਗੱਲ ਤਾਂ ਮੰਨੀ-ਪ੍ਰਮੰਨੀ ਹੈ ਕਿ ਮੇਰੀ ਜਾਤ ਹੈ ਚਮਿਆਰ",
+        "ms": "ਹੇ ਨਗਰ ਦੇ ਲੋਕੋ! ਮੈਂ ਜਾਤੀ ਦਾ ਚਮਾਰ ਮਸ਼ਹੂਰ ਹਾਂ।"
+      },
+      "es": {
+        "sn": "Oh, gente humilde del pueblo, es obvio que sólo soy un zapatero, "
+      },
+      "hi": {
+        "ss": "हे नगर के लोगो ! यह बात तो जानी-मानी है कि मेरी जाति है चमार (जिसको तुम लोग बहुत नीची समझते हो।",
+        "sts": "हे नगर के लोगो ! यह बात विख्यात है कि मेरी जाति चमार है (जिसको आप छोटा मानते हो, परन्तु)"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 23153,
+    "Seq": 430,
+    "header": 0,
+    "Paragraph": 10,
+    "Gurmukhi": "irdY rwm goibMd gun swrM ]1] rhwau ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "ridhai raam gobi(n)dh gun saara(n) ||1|| rahaau ||",
+      "hi": "रिदै राम गोबिंद गुन सारं ॥१॥ रहाउ ॥",
+      "ipa": "rɪd̪æ rɑm Gɔbɪŋd̪ Gʊn sɑrəŋ.1. rəhɑo.",
+      "ur": "رِدَے رام گوبںد گُن سارں ۔۔۱۔۔ رهاا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "In my heart I cherish the Glories of the Lord, the Lord of the Universe. ||1||Pause||",
+        "ms": "Within my mind, I contemplate the Pervading God and meditate on virtues of the world-Lord. Pause.",
+        "ssk": "In my heart I cherish the Glories of the Lord, the Lord of the Universe. ||1||Pause||"
+      },
+      "pu": {
+        "ss": "pr) mYN Awpxy ihrdy ivc pRBU dy gux cyqy krdw rihMdw hW (ies vwsqy mYN nIc nhIN rih igAw) [1[rhwau[",
+        "ft": "prMqU irdy myN (rwm) bÎwpk goibMd ky guxoN ko sMBwl rhw hUM]1] rhwau ]",
+        "bdb": "pr) mYN Awpxy ihrdy ivc pRBU dy gux cyqy krdw rihMdw hW (ies vwsqy mYN nIc nhIN rih igAw) [1[rhwau[",
+        "ms": "Awpxy mMn AMdr mYN ivAwpk vwihgurU ƒ ismrdw hW Aqy iSRStI dy suAwmI dIAW nykIAW ƒ Xwd krdw hW[ Tihrwau["
+      },
+      "puu": {
+        "ss": "ਪਰ) ਮੈਂ ਆਪਣੇ ਹਿਰਦੇ ਵਿਚ ਪ੍ਰਭੂ ਦੇ ਗੁਣ ਚੇਤੇ ਕਰਦਾ ਰਹਿੰਦਾ ਹਾਂ (ਇਸ ਵਾਸਤੇ ਮੈਂ ਨੀਚ ਨਹੀਂ ਰਹਿ ਗਿਆ) ।੧।ਰਹਾਉ।",
+        "ft": "ਪਰੰਤੂ ਰਿਦੇ ਮੇਂ (ਰਾਮ) ਬ੍ਯਾਪਕ ਗੋਬਿੰਦ ਕੇ ਗੁਣੋਂ ਕੋ ਸੰਭਾਲ ਰਹਾ ਹੂੰ॥੧॥ ਰਹਾਉ ॥",
+        "bdb": "ਪਰ) ਮੈਂ ਆਪਣੇ ਹਿਰਦੇ ਵਿਚ ਪ੍ਰਭੂ ਦੇ ਗੁਣ ਚੇਤੇ ਕਰਦਾ ਰਹਿੰਦਾ ਹਾਂ (ਇਸ ਵਾਸਤੇ ਮੈਂ ਨੀਚ ਨਹੀਂ ਰਹਿ ਗਿਆ) ।੧।ਰਹਾਉ।",
+        "ms": "ਆਪਣੇ ਮੰਨ ਅੰਦਰ ਮੈਂ ਵਿਆਪਕ ਵਾਹਿਗੁਰੂ ਨੂੰ ਸਿਮਰਦਾ ਹਾਂ ਅਤੇ ਸ਼੍ਰਿਸ਼ਟੀ ਦੇ ਸੁਆਮੀ ਦੀਆਂ ਨੇਕੀਆਂ ਨੂੰ ਯਾਦ ਕਰਦਾ ਹਾਂ। ਠਹਿਰਾਉ।"
+      },
+      "es": {
+        "sn": "pero en mi corazón alabo la Glorias del Señor del Universo. (1-Pausa)"
+      },
+      "hi": {
+        "ss": "पर) मैं अपने हृदय में प्रभू के गुण याद करता रहता हूँ (इसलिए मैं नीच नहीं रह गया)। 1। रहाउ।",
+        "sts": "मेरे हृदय में परमात्मा ही बसा हुआ है, उसी के गुण गाता हूँ॥१॥रहाउ॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 23154,
+    "Seq": 440,
+    "header": 0,
+    "Paragraph": 10,
+    "Gurmukhi": "sursrI sll ik®q bwrunI ry sMq jn krq nhI pwnµ ]",
+    "Visraam": {
+      "sttm2": [],
+      "sttm": [],
+      "igurbani": []
+    },
+    "Transliterations": {
+      "en": "surasaree salal kirat baarunee re sa(n)t jan karat nahee paana(n) ||",
+      "hi": "सुरसरी सलल कृत बारुनी रे संत जन करत नही पानं ॥",
+      "ipa": "sʊrəsəri sələl kɪʳət̪ bɑrʊni re səŋt̪ d͡ʒən kərət̪ nəhi pɑnəⁿ.",
+      "ur": "سُرسریِ سلل ک®ت بارنیِ رے سںت جن کرت نهیِ پانµ ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Even if wine is made from the water of the Ganges, O Saints, do not drink it.",
+        "ms": "O holy men drink not wine, even though it be made with the Ganga's water.",
+        "ssk": "Even if wine is made from the water of the Ganges, O Saints, do not drink it."
+      },
+      "pu": {
+        "ss": "hy BweI! gMgw dy (BI) pwxI qoN bcwieAw hoieAw Srwb gurmuiK lok nhIN pINdy (Bwv, auh Srwb gRihx-krn-jog nhIN; iesy qrHW AhMkwr BI Aaugx hI hY, cwhy auh au~cI pivq® jwq dw kIqw jwey), ",
+        "ft": "hy BweI !(sursrI) gMgw jI ky (slwl) jl sy (ikRq) kI hUeI jYsy (bwrnI) srwb hovY, sMq jn iqs ko pwn nhIN krqy[ Bwv Xih ik qYsy hI sMq jn auqm jwqI ky BgqI hIx purS ko sMgq krny jog nhIN jwnqy]",
+        "bdb": "hy BweI! gMgw dy (BI) pwxI qoN bcwieAw hoieAw Srwb gurmuiK lok nhIN pINdy (Bwv, auh Srwb gRihx-krn-jog nhIN; iesy qrHW AhMkwr BI Aaugx hI hY, cwhy auh au~cI pivq® jwq dw kIqw jwey), ",
+        "ms": "E, piv`qr purS Srwb nhIN pIdy, BwvyN ieh gMgw dy pwxI nwl bxI hoeI hovy["
+      },
+      "puu": {
+        "ss": "ਹੇ ਭਾਈ! ਗੰਗਾ ਦੇ (ਭੀ) ਪਾਣੀ ਤੋਂ ਬਚਾਇਆ ਹੋਇਆ ਸ਼ਰਾਬ ਗੁਰਮੁਖਿ ਲੋਕ ਨਹੀਂ ਪੀਂਦੇ (ਭਾਵ, ਉਹ ਸ਼ਰਾਬ ਗ੍ਰਹਿਣ-ਕਰਨ-ਜੋਗ ਨਹੀਂ; ਇਸੇ ਤਰ੍ਹਾਂ ਅਹੰਕਾਰ ਭੀ ਅਉਗਣ ਹੀ ਹੈ, ਚਾਹੇ ਉਹ ਉੱਚੀ ਪਵਿਤ੍ਰ ਜਾਤ ਦਾ ਕੀਤਾ ਜਾਏ), ",
+        "ft": "ਹੇ ਭਾਈ !(ਸੁਰਸਰੀ) ਗੰਗਾ ਜੀ ਕੇ (ਸਲਾਲ) ਜਲ ਸੇ (ਕ੍ਰਿਤ) ਕੀ ਹੂਈ ਜੈਸੇ (ਬਾਰਨੀ) ਸਰਾਬ ਹੋਵੈ, ਸੰਤ ਜਨ ਤਿਸ ਕੋ ਪਾਨ ਨਹੀਂ ਕਰਤੇ। ਭਾਵ ਯਹਿ ਕਿ ਤੈਸੇ ਹੀ ਸੰਤ ਜਨ ਉਤਮ ਜਾਤੀ ਕੇ ਭਗਤੀ ਹੀਣ ਪੁਰਸ਼ ਕੋ ਸੰਗਤ ਕਰਨੇ ਜੋਗ ਨਹੀਂ ਜਾਨਤੇ॥",
+        "bdb": "ਹੇ ਭਾਈ! ਗੰਗਾ ਦੇ (ਭੀ) ਪਾਣੀ ਤੋਂ ਬਚਾਇਆ ਹੋਇਆ ਸ਼ਰਾਬ ਗੁਰਮੁਖਿ ਲੋਕ ਨਹੀਂ ਪੀਂਦੇ (ਭਾਵ, ਉਹ ਸ਼ਰਾਬ ਗ੍ਰਹਿਣ-ਕਰਨ-ਜੋਗ ਨਹੀਂ; ਇਸੇ ਤਰ੍ਹਾਂ ਅਹੰਕਾਰ ਭੀ ਅਉਗਣ ਹੀ ਹੈ, ਚਾਹੇ ਉਹ ਉੱਚੀ ਪਵਿਤ੍ਰ ਜਾਤ ਦਾ ਕੀਤਾ ਜਾਏ), ",
+        "ms": "ਓ, ਪਵਿੱਤਰ ਪੁਰਸ਼ ਸ਼ਰਾਬ ਨਹੀਂ ਪੀਦੇ, ਭਾਵੇਂ ਇਹ ਗੰਗਾ ਦੇ ਪਾਣੀ ਨਾਲ ਬਣੀ ਹੋਈ ਹੋਵੇ।"
+      },
+      "es": {
+        "sn": "Aún si el vino fuera elaborado del agua del Ganges, oh Santos, no beban de él. "
+      },
+      "hi": {
+        "ss": "हे भाई ! गंगा के (भी) पानी से बनाया हुआ शराब गुरमुखि लोग नहीं पीते (भाव। वह शराब ग्रहण करने योग्य नहीं। इसी तरह अहंकार भी अवगुण ही है। चाहे वह ऊँची और पवित्र जाति का किया जाए)। पर।",
+        "sts": "गंगाजल से तैयार की हुई शराब भक्तजन पान नहीं करते।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 23155,
+    "Seq": 450,
+    "header": 0,
+    "Paragraph": 10,
+    "Gurmukhi": "surw ApivqR nq Avr jl ry sursrI imlq nih hoie Awnµ ]1]",
+    "Visraam": {
+      "sttm": [],
+      "igurbani": [],
+      "sttm2": [
+        {
+          "p": 5,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "suraa apavitr nat avar jal re surasaree milat neh hoi aana(n) ||1||",
+      "hi": "सुरा अपवित्र नत अवर जल रे सुरसरी मिलत नहि होइ आनं ॥१॥",
+      "ipa": "sʊrɑ əpəʋɪt̪ɹ nət̪ əʋər d͡ʒəl re sʊrəsəri mɪlət̪ nəh hɔeɪ əɑnəⁿ.1.",
+      "ur": "سُرا اپوتر نت اور جل رے سُرسریِ ملت نهِ هوا آنµ ۔۔۱۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "This wine, and any other polluted water which mixes with the Ganges, is not separate from it. ||1||",
+        "ms": "The impure wine, nay rather some other dirty water as well, meeting with the Ganges remains not different from it.",
+        "ssk": "This wine, and any other polluted water which mixes with the Ganges, is not separate from it. ||1||"
+      },
+      "pu": {
+        "ss": "pr hy BweI! Apivq® Srwb Aqy BwvyN hor (gMdy) pwxI BI hox auh gMgw (dy pwxI) ivc iml ky (aus qoN) v`Kry nhIN rih jWdy (iesy qrHW nIvIN kul dw bMdw BI prm pivq® pRBU ivc juV ky aus qoN v`Krw nhIN rih jWdw) [1[",
+        "ft": "jYsy (surw) mdrw jo ApivqR hY (nq) nhIN qo koeI horu AsuD jl hovY, hy BweI! gMgw myN iml ky (AwnM) iBMn nhIN hoqw, Bwv gMgw rUp hI ho jwqw hY[ qYsy nIc jwqI ky purS mhwqmoN kI sMgiq kr ky pUjny jog mhwqmW ho jwqy hYN]1]ÇAOr nIc jwqI vwly ko BgqI sbMD qy auqmqw kI pRwpqI myN idRs†Wq khqy hYN:",
+        "bdb": "pr hy BweI! Apivq® Srwb Aqy BwvyN hor (gMdy) pwxI BI hox auh gMgw (dy pwxI) ivc iml ky (aus qoN) v`Kry nhIN rih jWdy (iesy qrHW nIvIN kul dw bMdw BI prm pivq® pRBU ivc juV ky aus qoN v`Krw nhIN rih jWdw) [1[",
+        "ms": "mlIx Srwb, nhIN sgo koeI hor gMdw pwxI BI, gMgw nwl iml ky ies nwlo iBMn nhIN rihMdw["
+      },
+      "puu": {
+        "ss": "ਪਰ ਹੇ ਭਾਈ! ਅਪਵਿਤ੍ਰ ਸ਼ਰਾਬ ਅਤੇ ਭਾਵੇਂ ਹੋਰ (ਗੰਦੇ) ਪਾਣੀ ਭੀ ਹੋਣ ਉਹ ਗੰਗਾ (ਦੇ ਪਾਣੀ) ਵਿਚ ਮਿਲ ਕੇ (ਉਸ ਤੋਂ) ਵੱਖਰੇ ਨਹੀਂ ਰਹਿ ਜਾਂਦੇ (ਇਸੇ ਤਰ੍ਹਾਂ ਨੀਵੀਂ ਕੁਲ ਦਾ ਬੰਦਾ ਭੀ ਪਰਮ ਪਵਿਤ੍ਰ ਪ੍ਰਭੂ ਵਿਚ ਜੁੜ ਕੇ ਉਸ ਤੋਂ ਵੱਖਰਾ ਨਹੀਂ ਰਹਿ ਜਾਂਦਾ) ।੧।",
+        "ft": "ਜੈਸੇ (ਸੁਰਾ) ਮਦਰਾ ਜੋ ਅਪਵਿਤ੍ਰ ਹੈ (ਨਤ) ਨਹੀਂ ਤੋ ਕੋਈ ਹੋਰੁ ਅਸੁਧ ਜਲ ਹੋਵੈ, ਹੇ ਭਾਈ! ਗੰਗਾ ਮੇਂ ਮਿਲ ਕੇ (ਆਨੰ) ਭਿੰਨ ਨਹੀਂ ਹੋਤਾ, ਭਾਵ ਗੰਗਾ ਰੂਪ ਹੀ ਹੋ ਜਾਤਾ ਹੈ। ਤੈਸੇ ਨੀਚ ਜਾਤੀ ਕੇ ਪੁਰਸ਼ ਮਹਾਤਮੋਂ ਕੀ ਸੰਗਤਿ ਕਰ ਕੇ ਪੂਜਨੇ ਜੋਗ ਮਹਾਤਮਾਂ ਹੋ ਜਾਤੇ ਹੈਂ॥੧॥☬ਔਰ ਨੀਚ ਜਾਤੀ ਵਾਲੇ ਕੋ ਭਗਤੀ ਸਬੰਧ ਤੇ ਉਤਮਤਾ ਕੀ ਪ੍ਰਾਪਤੀ ਮੇਂ ਦ੍ਰਿਸ੍ਟਾਂਤ ਕਹਤੇ ਹੈਂ:",
+        "bdb": "ਪਰ ਹੇ ਭਾਈ! ਅਪਵਿਤ੍ਰ ਸ਼ਰਾਬ ਅਤੇ ਭਾਵੇਂ ਹੋਰ (ਗੰਦੇ) ਪਾਣੀ ਭੀ ਹੋਣ ਉਹ ਗੰਗਾ (ਦੇ ਪਾਣੀ) ਵਿਚ ਮਿਲ ਕੇ (ਉਸ ਤੋਂ) ਵੱਖਰੇ ਨਹੀਂ ਰਹਿ ਜਾਂਦੇ (ਇਸੇ ਤਰ੍ਹਾਂ ਨੀਵੀਂ ਕੁਲ ਦਾ ਬੰਦਾ ਭੀ ਪਰਮ ਪਵਿਤ੍ਰ ਪ੍ਰਭੂ ਵਿਚ ਜੁੜ ਕੇ ਉਸ ਤੋਂ ਵੱਖਰਾ ਨਹੀਂ ਰਹਿ ਜਾਂਦਾ) ।੧।",
+        "ms": "ਮਲੀਣ ਸ਼ਰਾਬ, ਨਹੀਂ ਸਗੋ ਕੋਈ ਹੋਰ ਗੰਦਾ ਪਾਣੀ ਭੀ, ਗੰਗਾ ਨਾਲ ਮਿਲ ਕੇ ਇਸ ਨਾਲੋ ਭਿੰਨ ਨਹੀਂ ਰਹਿੰਦਾ।"
+      },
+      "es": {
+        "sn": "Este vino y cualquier otra agua contaminada que se mezcla con el Ganges es lo mismo. (1)"
+      },
+      "hi": {
+        "ss": "हे भाई ! अपवित्र शराब और चाहे और (गंदा) पानी भी हो। वह गंगा (के पानी) में मिल के (उससे) अलग नहीं रह जाते (इसी तरह नीच कुल का व्यक्ति भी परम-पवित्र-प्रभू में जुड़ के उससे अलग नहीं रह जाता)। 1।",
+        "sts": "मगर अपवित्र शराब एवं चाहे दूषित पानी भी हो, वे गंगा में मिलकर उससे अलग नहीं होते बल्कि गंगा ही हो जाते हैं।॥१॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 23156,
+    "Seq": 460,
+    "header": 0,
+    "Paragraph": 10,
+    "Gurmukhi": "qr qwir ApivqR kir mwnIAY ry jYsy kwgrw krq bIcwrM ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 5,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 5,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 5,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "tar taar apavitr kar maaneeaai re jaise kaagaraa karat beechaara(n) ||",
+      "hi": "तर तारि अपवित्र करि मानीऐ रे जैसे कागरा करत बीचारं ॥",
+      "ipa": "t̪ər t̪ɑr əpəʋɪt̪ɹ kər mɑniæ re d͡ʒæse kɑGərɑ kərət̪ bit͡ʃɑrəŋ.",
+      "ur": "تر تار اپوتر کر مانیِاَے رے جَےسے کاگرا کرت بیِچارں ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "The palmyra palm tree is considered impure, and so its leaves are considered impure as well.",
+        "ms": "The palmyra palm tree is considered as impure and so are deemed its leaves to be.",
+        "ssk": "The palmyra palm tree is considered impure, and so its leaves are considered impure as well."
+      },
+      "pu": {
+        "ss": "hy BweI! qwVI dy ru`K Apivq® mMny jWdy hn, ausy qrHW hI auhnW ru`KW qoN bxy hoey kwZzW bwry lok ivcwr krdy hn (Bwv, auhnW kwZzW ƒ BI Apivq® smJdy hn), ",
+        "ft": "qwV jwqI kw ibRC ApivqR kr ky mwnIqw hY AOr jYsy kwgj kw vIcwr krIqw hY, Bwv kwgj BI AsuD vsqU sy bnqw hY]",
+        "bdb": "hy BweI! qwVI dy ru`K Apivq® mMny jWdy hn, ausy qrHW hI auhnW ru`KW qoN bxy hoey kwZzW bwry lok ivcwr krdy hn (Bwv, auhnW kwZzW ƒ BI Apivq® smJdy hn), ",
+        "ms": "qwV dw ibrC ASu`D kr ky mMinAW jWdw hY, eysy qrHW dy hI jwxy jWdy hn, ies dy p¤qy["
+      },
+      "puu": {
+        "ss": "ਹੇ ਭਾਈ! ਤਾੜੀ ਦੇ ਰੁੱਖ ਅਪਵਿਤ੍ਰ ਮੰਨੇ ਜਾਂਦੇ ਹਨ, ਉਸੇ ਤਰ੍ਹਾਂ ਹੀ ਉਹਨਾਂ ਰੁੱਖਾਂ ਤੋਂ ਬਣੇ ਹੋਏ ਕਾਗ਼ਜ਼ਾਂ ਬਾਰੇ ਲੋਕ ਵਿਚਾਰ ਕਰਦੇ ਹਨ (ਭਾਵ, ਉਹਨਾਂ ਕਾਗ਼ਜ਼ਾਂ ਨੂੰ ਭੀ ਅਪਵਿਤ੍ਰ ਸਮਝਦੇ ਹਨ), ",
+        "ft": "ਤਾੜ ਜਾਤੀ ਕਾ ਬ੍ਰਿਛ ਅਪਵਿਤ੍ਰ ਕਰ ਕੇ ਮਾਨੀਤਾ ਹੈ ਔਰ ਜੈਸੇ ਕਾਗਜ ਕਾ ਵੀਚਾਰ ਕਰੀਤਾ ਹੈ, ਭਾਵ ਕਾਗਜ ਭੀ ਅਸੁਧ ਵਸਤੂ ਸੇ ਬਨਤਾ ਹੈ॥",
+        "bdb": "ਹੇ ਭਾਈ! ਤਾੜੀ ਦੇ ਰੁੱਖ ਅਪਵਿਤ੍ਰ ਮੰਨੇ ਜਾਂਦੇ ਹਨ, ਉਸੇ ਤਰ੍ਹਾਂ ਹੀ ਉਹਨਾਂ ਰੁੱਖਾਂ ਤੋਂ ਬਣੇ ਹੋਏ ਕਾਗ਼ਜ਼ਾਂ ਬਾਰੇ ਲੋਕ ਵਿਚਾਰ ਕਰਦੇ ਹਨ (ਭਾਵ, ਉਹਨਾਂ ਕਾਗ਼ਜ਼ਾਂ ਨੂੰ ਭੀ ਅਪਵਿਤ੍ਰ ਸਮਝਦੇ ਹਨ), ",
+        "ms": "ਤਾੜ ਦਾ ਬਿਰਛ ਅਸ਼ੁੱਧ ਕਰ ਕੇ ਮੰਨਿਆਂ ਜਾਂਦਾ ਹੈ, ਏਸੇ ਤਰ੍ਹਾਂ ਦੇ ਹੀ ਜਾਣੇ ਜਾਂਦੇ ਹਨ, ਇਸ ਦੇ ਪੱਤੇ।"
+      },
+      "es": {
+        "sn": "La Palmira es considerada un árbol impuro pero también sus hojas son impuras y, sin embargo, "
+      },
+      "hi": {
+        "ss": "हे भाई ! ताड़ी के वृक्ष अपवित्र माने जाते हैं। उसी तरह उन पेड़ों से बने हुए कागज़ों के बारे में भी लोग विचार करते हैं (भाव। उन कागज़ों को भी अपवित्र समझते हैं)। पर।",
+        "sts": "ताड़ के पेड़ को अपवित्र माना जाता है, उसी पेड़ से कागज बनकर आता है।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 23157,
+    "Seq": 470,
+    "header": 0,
+    "Paragraph": 10,
+    "Gurmukhi": "Bgiq Bwgauqu ilKIAY iqh aUpry pUjIAY kir nmskwrM ]2]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "bhagat bhaagaut likheeaai teh uoopare poojeeaai kar namasakaara(n) ||2||",
+      "hi": "भगति भागउतु लिखीऐ तिह ऊपरे पूजीऐ करि नमसकारं ॥२॥",
+      "ipa": "ɓəGət̪ ɓɑGoʊt̪ lɪkʰiæ t̪ɪh oupəre pud͡ʒiæ kər nəməsəkɑrəŋ.2.",
+      "ur": "بھگت بھاگات لکھیِاَے ته اُوپرے پُوجیِاَے کر نمسکارں ۔۔۲۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "But if devotional prayers are written on paper made from its leaves, then people bow in reverence and worship before it. ||2||",
+        "ms": "But if the Lord's praise be written on it, men worship it and bow before it.",
+        "ssk": "But if devotional prayers are written on paper made from its leaves, then people bow in reverence and worship before it. ||2||"
+      },
+      "pu": {
+        "ss": "pr jdoN Bgvwn dI is&iq-swlwh auhnW auqy ilKI jWdI hY qW auhnW dI pUjw kIqI jWdI hY [2[",
+        "ft": "prMqU Bwgvq Awidk BgqI sMbMDI gRMQ jb iqnoN pr ilKy jwqy hYN qb iqn ko pUjIqw Ar nmskwr krIqI hY, Bwv Xh ik qYsy hI nÎ¨n jwqI vwlw purS BgqI sMbMD qy pUjnIÎ ho jwqw hY]2]",
+        "bdb": "pr jdoN Bgvwn dI is&iq-swlwh auhnW auqy ilKI jWdI hY qW auhnW dI pUjw kIqI jWdI hY [2[",
+        "ms": "pRMqU jykr suAwmI dI is&q SlwGw ies auqy ilKI jwvy qW ienswn ies dI aupwSnw krdy Aqy ies mUhry inauNdy hn["
+      },
+      "puu": {
+        "ss": "ਪਰ ਜਦੋਂ ਭਗਵਾਨ ਦੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਉਹਨਾਂ ਉਤੇ ਲਿਖੀ ਜਾਂਦੀ ਹੈ ਤਾਂ ਉਹਨਾਂ ਦੀ ਪੂਜਾ ਕੀਤੀ ਜਾਂਦੀ ਹੈ ।੨।",
+        "ft": "ਪਰੰਤੂ ਭਾਗਵਤ ਆਦਿਕ ਭਗਤੀ ਸੰਬੰਧੀ ਗ੍ਰੰਥ ਜਬ ਤਿਨੋਂ ਪਰ ਲਿਖੇ ਜਾਤੇ ਹੈਂ ਤਬ ਤਿਨ ਕੋ ਪੂਜੀਤਾ ਅਰ ਨਮਸਕਾਰ ਕਰੀਤੀ ਹੈ, ਭਾਵ ਯਹ ਕਿ ਤੈਸੇ ਹੀ ਨ੍ਯੂਨ ਜਾਤੀ ਵਾਲਾ ਪੁਰਸ਼ ਭਗਤੀ ਸੰਬੰਧ ਤੇ ਪੂਜਨੀ੍ਯ ਹੋ ਜਾਤਾ ਹੈ॥੨॥",
+        "bdb": "ਪਰ ਜਦੋਂ ਭਗਵਾਨ ਦੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਉਹਨਾਂ ਉਤੇ ਲਿਖੀ ਜਾਂਦੀ ਹੈ ਤਾਂ ਉਹਨਾਂ ਦੀ ਪੂਜਾ ਕੀਤੀ ਜਾਂਦੀ ਹੈ ।੨।",
+        "ms": "ਪ੍ਰੰਤੂ ਜੇਕਰ ਸੁਆਮੀ ਦੀ ਸਿਫ਼ਤ ਸ਼ਲਾਘਾ ਇਸ ਉਤੇ ਲਿਖੀ ਜਾਵੇ ਤਾਂ ਇਨਸਾਨ ਇਸ ਦੀ ਉਪਾਸ਼ਨਾ ਕਰਦੇ ਅਤੇ ਇਸ ਮੂਹਰੇ ਨਿਉਂਦੇ ਹਨ।"
+      },
+      "es": {
+        "sn": "si las oraciones de Devoción son escritas sobre el papel hecho de sus hojas, entonces la gente se postra ante ellas y las alaba. (2)"
+      },
+      "hi": {
+        "ss": "जब भगवान की सिफत-सालाह उन पर लिखी जाती है तो उनकी पूजा की जाती है। 2।",
+        "sts": "तदन्तर जब भगवान की भक्ति-स्तुति उस पर लिख दी जाती है तो वह पूजनीय बन जाता है और लोग उस पर शीश निवाते हैं।॥२॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 23158,
+    "Seq": 480,
+    "header": 0,
+    "Paragraph": 10,
+    "Gurmukhi": "myrI jwiq kut bWFlw For FovMqw inqih bwnwrsI Aws pwsw ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 5,
+          "t": "v"
+        },
+        {
+          "p": 3,
+          "t": "y"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 5,
+          "t": "v"
+        },
+        {
+          "p": 3,
+          "t": "y"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 3,
+          "t": "v"
+        },
+        {
+          "p": 5,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "meree jaat kuT baa(n)ddalaa ddor ddova(n)taa niteh baanaarasee aas paasaa ||",
+      "hi": "मेरी जाति कुट बाँढला ढोर ढोवंता नितहि बानारसी आस पासा ॥",
+      "ipa": "meri d͡ʒɑt̪ kʊʈ bɑⁿəʈəlɑ ʈɔr ʈɔʋəŋt̪ɑ nɪt̪əh bɑnɑrəsi əɑs pɑsɑ.",
+      "ur": "مےریِ جات کُٹ باںڈھلا ڈھور ڈھووںتا نته بانارسیِ آس پاسا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "It is my occupation to prepare and cut leather; each day, I carry the carcasses out of the city.",
+        "ms": "My avocation is to dress and cut leather and to daily cart away the dead animals to the outskirts of Banaras.",
+        "ssk": "It is my occupation to prepare and cut leather; each day, I carry the carcasses out of the city."
+      },
+      "pu": {
+        "ss": "myrI jwq dy lok (cMm) ku`tx qy v`Fx vwly bnwrs dy Awly-duAwly (rihMdy hn, qy) in`q moey pSU FoNdy hn; ",
+        "ft": "pihly myrI hI jwqI dyKIey: (kut bWFlw) crm ky kUtxy bFxy vwly myrI jwqI ky purS hYN AOr (bwnwrsI) kwSI ky (Aws pwsw) Aws pws igrwEN ivKy (For) mUey hUey psUEN ko Fovqy hYN]Çhm AYsy bynqI krqy hYN:",
+        "bdb": "myrI jwq dy lok (cMm) ku`tx qy v`Fx vwly bnwrs dy Awly-duAwly (rihMdy hn, qy) in`q moey pSU FoNdy hn; ",
+        "ms": "myrw pySW cmVy ƒ kutxw qy vFxw Aqy inqw pRqI mry hoey pSUAW ƒ bnwrs qoN bwhrvwr Fo lY jwxw hY["
+      },
+      "puu": {
+        "ss": "ਮੇਰੀ ਜਾਤ ਦੇ ਲੋਕ (ਚੰਮ) ਕੁੱਟਣ ਤੇ ਵੱਢਣ ਵਾਲੇ ਬਨਾਰਸ ਦੇ ਆਲੇ-ਦੁਆਲੇ (ਰਹਿੰਦੇ ਹਨ, ਤੇ) ਨਿੱਤ ਮੋਏ ਪਸ਼ੂ ਢੋਂਦੇ ਹਨ; ",
+        "ft": "ਪਹਿਲੇ ਮੇਰੀ ਹੀ ਜਾਤੀ ਦੇਖੀਏ: (ਕੁਟ ਬਾਂਢਲਾ) ਚਰਮ ਕੇ ਕੂਟਣੇ ਬਢਣੇ ਵਾਲੇ ਮੇਰੀ ਜਾਤੀ ਕੇ ਪੁਰਸ਼ ਹੈਂ ਔਰ (ਬਾਨਾਰਸੀ) ਕਾਸ਼ੀ ਕੇ (ਆਸ ਪਾਸਾ) ਆਸ ਪਾਸ ਗਿਰਾਓਂ ਵਿਖੇ (ਢੋਰ) ਮੂਏ ਹੂਏ ਪਸੂਓਂ ਕੋ ਢੋਵਤੇ ਹੈਂ॥☬ਹਮ ਐਸੇ ਬੇਨਤੀ ਕਰਤੇ ਹੈਂ:",
+        "bdb": "ਮੇਰੀ ਜਾਤ ਦੇ ਲੋਕ (ਚੰਮ) ਕੁੱਟਣ ਤੇ ਵੱਢਣ ਵਾਲੇ ਬਨਾਰਸ ਦੇ ਆਲੇ-ਦੁਆਲੇ (ਰਹਿੰਦੇ ਹਨ, ਤੇ) ਨਿੱਤ ਮੋਏ ਪਸ਼ੂ ਢੋਂਦੇ ਹਨ; ",
+        "ms": "ਮੇਰਾ ਪੇਸ਼ਾਂ ਚਮੜੇ ਨੂੰ ਕੁਟਣਾ ਤੇ ਵਢਣਾ ਅਤੇ ਨਿਤਾ ਪ੍ਰਤੀ ਮਰੇ ਹੋਏ ਪਸ਼ੂਆਂ ਨੂੰ ਬਨਾਰਸ ਤੋਂ ਬਾਹਰਵਾਰ ਢੋ ਲੈ ਜਾਣਾ ਹੈ।"
+      },
+      "es": {
+        "sn": "Es mi trabajo, curtir y cortar el cuero. Día con día saco los esqueletos de los animales de la ciudad. "
+      },
+      "hi": {
+        "ss": "मेरी जाति के लोग (चंमड़ा) कूटने और काटने वाले बनारस के इर्द-गिर्द (रहते हैं। और) नित्य मरे पशू ढोते हैं; पर।",
+        "sts": "मेरी जाति के लोग अभी भी बनारस के आस-पास नित्य मृत पशु ढोते हैं।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 23159,
+    "Seq": 490,
+    "header": 0,
+    "Paragraph": 10,
+    "Gurmukhi": "Ab ibpR prDwn iqih krih fMfauiq qyry nwm srxwie rivdwsu dwsw ]3]1]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 5,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 5,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 5,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "ab bipr paradhaan teh kareh dda(n)ddaut tere naam saranai ravidhaas dhaasaa ||3||1||",
+      "hi": "अब बिप्र परधान तिहि करहि डंडउति तेरे नाम सरणाइ रविदासु दासा ॥३॥१॥",
+      "ipa": "əb bɪpɹ pərət̪ɑn t̪ɪh kərəh ɖəŋɖoʊt̪ t̪ere nɑm sərəɳɑeɪ rəʋɪd̪ɑs d̪ɑsɑ.3.1.",
+      "ur": "اب بپر پردھان تهِ کره ڈںڈات تےرے نام سرݨاا روداس داسا ۔۔۳۔۔۱۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Now, the important Brahmins of the city bow down before me; Ravi Daas, Your slave, seeks the Sanctuary of Your Name. ||3||1||",
+        "ms": "Now, the prominent Brahmans, prostrate themselves before him, since slave Ravidass has sought the refuge of Thy Name, O Lord.",
+        "ssk": "Now, the important Brahmins of the city bow down before me; Ravi Daas, Your slave, seeks the Sanctuary of Your Name. ||3||1||"
+      },
+      "pu": {
+        "ss": "(hy pRBU!) ausy kul ivc jMimAw hoieAw qyrw syvk rivdws qyry nwm dI Srn AwieAw hY, aus ƒ hux v`fy v`fy bRwhmx nmskwr krdy hn [3[1[",
+        "ft": "Ab iqn kw jo mYN puqR hUM, iqs myry ko (prDwn) muKÎ bRwhmx fMfOq krqy hYN[ qW qy iqs nwm kI srx lYxy sy, hy prmysr! qyry nwm kr AO srx hoxy kr mYN AYsw hUAw hUM, jo muK bRhmx myry ko fMfOqW krqy hYN]3]1]Çaupdys krqy hYN:",
+        "bdb": "(hy pRBU!) ausy kul ivc jMimAw hoieAw qyrw syvk rivdws qyry nwm dI Srn AwieAw hY, aus ƒ hux v`fy v`fy bRwhmx nmskwr krdy hn [3[1[",
+        "ms": "hux muKI bRhmx aus dy A¤gy lMmy pY bMdnw krdy hn ikauNik goly rivdws ny, hy suAwmI! qyry nwm dI pnwh nhIN hY["
+      },
+      "puu": {
+        "ss": "(ਹੇ ਪ੍ਰਭੂ!) ਉਸੇ ਕੁਲ ਵਿਚ ਜੰਮਿਆ ਹੋਇਆ ਤੇਰਾ ਸੇਵਕ ਰਵਿਦਾਸ ਤੇਰੇ ਨਾਮ ਦੀ ਸ਼ਰਨ ਆਇਆ ਹੈ, ਉਸ ਨੂੰ ਹੁਣ ਵੱਡੇ ਵੱਡੇ ਬ੍ਰਾਹਮਣ ਨਮਸਕਾਰ ਕਰਦੇ ਹਨ ।੩।੧।",
+        "ft": "ਅਬ ਤਿਨ ਕਾ ਜੋ ਮੈਂ ਪੁਤ੍ਰ ਹੂੰ, ਤਿਸ ਮੇਰੇ ਕੋ (ਪਰਧਾਨ) ਮੁਖ੍ਯ ਬ੍ਰਾਹਮਣ ਡੰਡੌਤ ਕਰਤੇ ਹੈਂ। ਤਾਂ ਤੇ ਤਿਸ ਨਾਮ ਕੀ ਸਰਣ ਲੈਣੇ ਸੇ, ਹੇ ਪਰਮੇਸਰ! ਤੇਰੇ ਨਾਮ ਕਰ ਔ ਸਰਣ ਹੋਣੇ ਕਰ ਮੈਂ ਐਸਾ ਹੂਆ ਹੂੰ, ਜੋ ਮੁਖ ਬ੍ਰਹਮਣ ਮੇਰੇ ਕੋ ਡੰਡੌਤਾਂ ਕਰਤੇ ਹੈਂ॥੩॥੧॥☬ਉਪਦੇਸ ਕਰਤੇ ਹੈਂ:",
+        "bdb": "(ਹੇ ਪ੍ਰਭੂ!) ਉਸੇ ਕੁਲ ਵਿਚ ਜੰਮਿਆ ਹੋਇਆ ਤੇਰਾ ਸੇਵਕ ਰਵਿਦਾਸ ਤੇਰੇ ਨਾਮ ਦੀ ਸ਼ਰਨ ਆਇਆ ਹੈ, ਉਸ ਨੂੰ ਹੁਣ ਵੱਡੇ ਵੱਡੇ ਬ੍ਰਾਹਮਣ ਨਮਸਕਾਰ ਕਰਦੇ ਹਨ ।੩।੧।",
+        "ms": "ਹੁਣ ਮੁਖੀ ਬ੍ਰਹਮਣ ਉਸ ਦੇ ਅੱਗੇ ਲੰਮੇ ਪੈ ਬੰਦਨਾ ਕਰਦੇ ਹਨ ਕਿਉਂਕਿ ਗੋਲੇ ਰਵਿਦਾਸ ਨੇ, ਹੇ ਸੁਆਮੀ! ਤੇਰੇ ਨਾਮ ਦੀ ਪਨਾਹ ਨਹੀਂ ਹੈ।"
+      },
+      "es": {
+        "sn": "Ahora, los brahamanes de la ciudad me hacen reverencia. Ravi Das, Tu Esclavo, busca el Santuario de Tu Nombre. (3-1)"
+      },
+      "hi": {
+        "ss": "(हे प्रभू !) उसी कुल में पैदा होया हुआ तेरा सेवक रविदास तेरे नाम की शरण आया है। उसको अब बड़े-बड़े ब्राहमण नमस्कार करते हैं। 3। 1।",
+        "sts": "रविदास कहते हैं कि हे परमात्मा ! तेरे नाम एवं शरण के कारण अब बड़े-बड़े ब्राहाण हमें दण्डवत प्रणाम कर रहे हैं।॥३॥१॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 23160,
+    "Seq": 500,
+    "header": 2,
+    "Paragraph": 11,
+    "Gurmukhi": "mlwr ]",
+    "Visraam": {
+      "sttm": [],
+      "igurbani": [],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "malaar ||",
+      "hi": "मलार ॥",
+      "ipa": "məlɑr.",
+      "ur": "ملار ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Malaar:",
+        "ms": "Malar.",
+        "ssk": "Malaar:"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": "mwlr["
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": "ਮਾਲਰ।"
+      },
+      "es": {
+        "sn": "Malhar"
+      },
+      "hi": {
+        "ss": "",
+        "sts": "मलार ॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 23161,
+    "Seq": 510,
+    "header": 0,
+    "Paragraph": 12,
+    "Gurmukhi": "hir jpq qyaU jnw pdm kvlws piq qws sm quil nhI Awn koaU ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 6,
+          "t": "v"
+        },
+        {
+          "p": 3,
+          "t": "y"
+        },
+        {
+          "p": 9,
+          "t": "y"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 6,
+          "t": "v"
+        },
+        {
+          "p": 3,
+          "t": "y"
+        },
+        {
+          "p": 9,
+          "t": "y"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 6,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "har japat teuoo janaa padham kavalaas pat taas sam tul nahee aan kouoo ||",
+      "hi": "हरि जपत तेऊ जना पदम कवलास पति तास सम तुलि नही आन कोऊ ॥",
+      "ipa": "hər d͡ʒəpət̪ t̪eou d͡ʒənɑ pəd̪əm kəʋəlɑs pət̪ t̪ɑs səm t̪ʊl nəhi əɑn kɔou.",
+      "ur": "هر جپت تےاُو جنا پدم کولاس پتِ تاس سم تُل نهیِ آن کواُو ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Those humble beings who meditate on the Lord's Lotus Feet - none are equal to them.",
+        "ms": "The persons, who meditate on the lotus feet of God, the Lord of Lakshmi; equal to them there is not another.",
+        "ssk": "Those humble beings who meditate on the Lord's Lotus Feet - none are equal to them."
+      },
+      "pu": {
+        "ss": "jo mnu`K mwieAw dy pqI prmwqmw ƒ ismrdy hn, auh pRBU dy (AinMn) syvk bx jWdy hn, auhnW ƒ aus pRBU vrgw, aus pRBU dy brwbr dw, koeI hor nhIN id`sdw ",
+        "ft": "jo jnoN ky smdwie hrI ko jpqy hYN iqn ky qul Ar (pdm) pdmj ArQwq bRhmw Ar jo (kvlws piq) iSvjI hYN nhIN AOr BI koeI iqn kI smqw nhIN rKqw; vw qy purS hrI ky crn kmloN ko jpqy hYN ijnoN ny (kvlw) lCmI vloN (spiq) sugMD krI hY, Bwv sy iqAwgI hYN[ iqs ky smwn (quil) qoilAw ArQwq vIcwr kIAw hY AOr koeI nhIN hY]",
+        "bdb": "jo mnu`K mwieAw dy pqI prmwqmw ƒ ismrdy hn, auh pRBU dy (AinMn) syvk bx jWdy hn, auhnW ƒ aus pRBU vrgw, aus pRBU dy brwbr dw, koeI hor nhIN id`sdw ",
+        "ms": "ijhVy purS lKSmI dy suAwmI vwihgurU dy kMvl rUpI pYrW ƒ ismrdy hn, aunHW dy brwbr dw hor koeI nhIN["
+      },
+      "puu": {
+        "ss": "ਜੋ ਮਨੁੱਖ ਮਾਇਆ ਦੇ ਪਤੀ ਪਰਮਾਤਮਾ ਨੂੰ ਸਿਮਰਦੇ ਹਨ, ਉਹ ਪ੍ਰਭੂ ਦੇ (ਅਨਿੰਨ) ਸੇਵਕ ਬਣ ਜਾਂਦੇ ਹਨ, ਉਹਨਾਂ ਨੂੰ ਉਸ ਪ੍ਰਭੂ ਵਰਗਾ, ਉਸ ਪ੍ਰਭੂ ਦੇ ਬਰਾਬਰ ਦਾ, ਕੋਈ ਹੋਰ ਨਹੀਂ ਦਿੱਸਦਾ ",
+        "ft": "ਜੋ ਜਨੋਂ ਕੇ ਸਮਦਾਇ ਹਰੀ ਕੋ ਜਪਤੇ ਹੈਂ ਤਿਨ ਕੇ ਤੁਲ ਅਰ (ਪਦਮ) ਪਦਮਜ ਅਰਥਾਤ ਬ੍ਰਹਮਾ ਅਰ ਜੋ (ਕਵਲਾਸ ਪਤਿ) ਸ਼ਿਵਜੀ ਹੈਂ ਨਹੀਂ ਔਰ ਭੀ ਕੋਈ ਤਿਨ ਕੀ ਸਮਤਾ ਨਹੀਂ ਰਖਤਾ; ਵਾ ਤੇ ਪੁਰਸ਼ ਹਰੀ ਕੇ ਚਰਨ ਕਮਲੋਂ ਕੋ ਜਪਤੇ ਹੈਂ ਜਿਨੋਂ ਨੇ (ਕਵਲਾ) ਲਛਮੀ ਵਲੋਂ (ਸਪਤਿ) ਸੁਗੰਧ ਕਰੀ ਹੈ, ਭਾਵ ਸੇ ਤਿਆਗੀ ਹੈਂ। ਤਿਸ ਕੇ ਸਮਾਨ (ਤੁਲਿ) ਤੋਲਿਆ ਅਰਥਾਤ ਵੀਚਾਰ ਕੀਆ ਹੈ ਔਰ ਕੋਈ ਨਹੀਂ ਹੈ॥",
+        "bdb": "ਜੋ ਮਨੁੱਖ ਮਾਇਆ ਦੇ ਪਤੀ ਪਰਮਾਤਮਾ ਨੂੰ ਸਿਮਰਦੇ ਹਨ, ਉਹ ਪ੍ਰਭੂ ਦੇ (ਅਨਿੰਨ) ਸੇਵਕ ਬਣ ਜਾਂਦੇ ਹਨ, ਉਹਨਾਂ ਨੂੰ ਉਸ ਪ੍ਰਭੂ ਵਰਗਾ, ਉਸ ਪ੍ਰਭੂ ਦੇ ਬਰਾਬਰ ਦਾ, ਕੋਈ ਹੋਰ ਨਹੀਂ ਦਿੱਸਦਾ ",
+        "ms": "ਜਿਹੜੇ ਪੁਰਸ਼ ਲਖਸ਼ਮੀ ਦੇ ਸੁਆਮੀ ਵਾਹਿਗੁਰੂ ਦੇ ਕੰਵਲ ਰੂਪੀ ਪੈਰਾਂ ਨੂੰ ਸਿਮਰਦੇ ਹਨ, ਉਨ੍ਹਾਂ ਦੇ ਬਰਾਬਰ ਦਾ ਹੋਰ ਕੋਈ ਨਹੀਂ।"
+      },
+      "es": {
+        "sn": "Nada iguala a esos seres humildes que meditan en el Loto de los Pies del Señor. "
+      },
+      "hi": {
+        "ss": "जो मनुष्य माया के पति परमात्मा को सिमरते हैं। वे प्रभू के (अनन्य) सेवक बन जाते हैं। उनको उस प्रभू जैसा। उस प्रभू के बराबर का। कोई और नहीं दिखता (इस वास्ते वे किसी का दबाव नहीं मानते)।",
+        "sts": "जो श्रीहरि का जाप करते हैं, उसके चरणों की पूजा करते हैं, ऐसे भक्तों के समान अन्य कोई नहीं।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 23162,
+    "Seq": 520,
+    "header": 0,
+    "Paragraph": 12,
+    "Gurmukhi": "eyk hI eyk Anyk hoie ibsQirE Awn ry Awn BrpUir soaU ] rhwau ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 5,
+          "t": "v"
+        },
+        {
+          "p": 8,
+          "t": "y"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 5,
+          "t": "v"
+        },
+        {
+          "p": 8,
+          "t": "y"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 5,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "ek hee ek anek hoi bisathario aan re aan bharapoor souoo || rahaau ||",
+      "hi": "एक ही एक अनेक होइ बिसथरिओ आन रे आन भरपूरि सोऊ ॥ रहाउ ॥",
+      "ipa": "eek hi eek ənek hɔeɪ bɪsət̪ʰərɪo əɑn re əɑn ɓərəpur sɔou. rəhɑo.",
+      "ur": "اےک هیِ اےک انےک هوا بستھراو آن رے آن بھرپُور سواُو ۔۔ رهاا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "The Lord is One, but He is diffused in many forms. Bring in, bring in, that All-pervading Lord. ||Pause||",
+        "ms": "Though diffused in many ways, the Lord is but one, Bring, bring into thy mind, O man that all-pervading Lord. Pause.",
+        "ssk": "The Lord is One, but He is diffused in many forms. Bring in, bring in, that All-pervading Lord. ||Pause||"
+      },
+      "pu": {
+        "ss": "ies vwsqy auh iksy dw dbw nhIN mMndy) hy BweI! auhnW ƒ iek prmwqmw hI Anyk rUpW ivc ivAwpk, Gt Gt ivc BrpUr id`sdw hY [rhwau[",
+        "ft": "eyko eyk hI Anyk rUp hoie kr (ibsQirE) ibsqIrq, Bwv ibAwpk hoie rhw hY[ ry BweI! (so) mn, bwxI kr iqs BrpUr rUp ko irdy myN (Awn) Dwrn kr] rhwau ]",
+        "bdb": "ies vwsqy auh iksy dw dbw nhIN mMndy) hy BweI! auhnW ƒ iek prmwqmw hI Anyk rUpW ivc ivAwpk, Gt Gt ivc BrpUr id`sdw hY [rhwau[",
+        "ms": "BwvyN GxyirAW srUpW AMdr ivAwpk hY pRMqU suAwmI kyvl iek hI hY[ ilAw, ilAw Awpxy ic`q iv`c, hy bMdy! aus sr`b ivAwpk suAwmI ƒ[ Tihrwau["
+      },
+      "puu": {
+        "ss": "ਇਸ ਵਾਸਤੇ ਉਹ ਕਿਸੇ ਦਾ ਦਬਾ ਨਹੀਂ ਮੰਨਦੇ) ਹੇ ਭਾਈ! ਉਹਨਾਂ ਨੂੰ ਇਕ ਪਰਮਾਤਮਾ ਹੀ ਅਨੇਕ ਰੂਪਾਂ ਵਿਚ ਵਿਆਪਕ, ਘਟ ਘਟ ਵਿਚ ਭਰਪੂਰ ਦਿੱਸਦਾ ਹੈ ।ਰਹਾਉ।",
+        "ft": "ਏਕੋ ਏਕ ਹੀ ਅਨੇਕ ਰੂਪ ਹੋਇ ਕਰ (ਬਿਸਥਰਿਓ) ਬਿਸਤੀਰਤ, ਭਾਵ ਬਿਆਪਕ ਹੋਇ ਰਹਾ ਹੈ। ਰੇ ਭਾਈ! (ਸੋ) ਮਨ, ਬਾਣੀ ਕਰ ਤਿਸ ਭਰਪੂਰ ਰੂਪ ਕੋ ਰਿਦੇ ਮੇਂ (ਆਨ) ਧਾਰਨ ਕਰ॥ ਰਹਾਉ ॥",
+        "bdb": "ਇਸ ਵਾਸਤੇ ਉਹ ਕਿਸੇ ਦਾ ਦਬਾ ਨਹੀਂ ਮੰਨਦੇ) ਹੇ ਭਾਈ! ਉਹਨਾਂ ਨੂੰ ਇਕ ਪਰਮਾਤਮਾ ਹੀ ਅਨੇਕ ਰੂਪਾਂ ਵਿਚ ਵਿਆਪਕ, ਘਟ ਘਟ ਵਿਚ ਭਰਪੂਰ ਦਿੱਸਦਾ ਹੈ ।ਰਹਾਉ।",
+        "ms": "ਭਾਵੇਂ ਘਣੇਰਿਆਂ ਸਰੂਪਾਂ ਅੰਦਰ ਵਿਆਪਕ ਹੈ ਪ੍ਰੰਤੂ ਸੁਆਮੀ ਕੇਵਲ ਇਕ ਹੀ ਹੈ। ਲਿਆ, ਲਿਆ ਆਪਣੇ ਚਿੱਤ ਵਿੱਚ, ਹੇ ਬੰਦੇ! ਉਸ ਸਰੱਬ ਵਿਆਪਕ ਸੁਆਮੀ ਨੂੰ। ਠਹਿਰਾਉ।"
+      },
+      "es": {
+        "sn": "El Señor es Uno y está difundido en todas las formas. Por favor traigan a ese Señor Todo Prevaleciente. (Pausa)"
+      },
+      "hi": {
+        "ss": "हे भाई ! उनको एक परमात्मा ही अनेक रूपों में व्यापक। घट घट में भरपूर दिखता है। रहाउ।",
+        "sts": "वह एक ही है और एक वही अनेक रूपों में फैला हुआ है, उसी को दिल में बसाओ॥रहाउ॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 23163,
+    "Seq": 530,
+    "header": 0,
+    "Paragraph": 12,
+    "Gurmukhi": "jw kY Bwgvqu lyKIAY Avru nhI pyKIAY qws kI jwiq AwCop CIpw ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 6,
+          "t": "v"
+        },
+        {
+          "p": 3,
+          "t": "y"
+        },
+        {
+          "p": 9,
+          "t": "y"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 6,
+          "t": "v"
+        },
+        {
+          "p": 3,
+          "t": "y"
+        },
+        {
+          "p": 9,
+          "t": "y"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "jaa kai bhaagavat lekheeaai avar nahee pekheeaai taas kee jaat aachhop chheepaa ||",
+      "hi": "जा कै भागवतु लेखीऐ अवरु नही पेखीऐ तास की जाति आछोप छीपा ॥",
+      "ipa": "d͡ʒɑ kæ ɓɑGəʋət̪ lekʰiæ əʋər nəhi pekʰiæ t̪ɑs ki d͡ʒɑt̪ əɑɕɔp ɕipɑ.",
+      "ur": "جا کَے بھاگوت لےکھیِاَے اور نهیِ پےکھیِاَے تاس کیِ جات آچھوپ چھیِپا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "He who writes the Praises of the Lord God, and sees nothing else at all, is a low-class, untouchable fabric-dyer by trade.",
+        "ms": "He, in whose house the praise of the Illustrious Lord is written and nothing else is seen; by caste, he is an untouchable calico-printer.",
+        "ssk": "He who writes the Praises of the Lord God, and sees nothing else at all, is a low-class, untouchable fabric-dyer by trade."
+      },
+      "pu": {
+        "ss": "ijs (nwmdyv) dy Gr ivc pRBU dI is&iq-swlwh ilKI jw rhI hY, (pRBU-nwm qoN ibnw) kuJ hor vyKx ivc nhIN AwauNdw (au~cI jwq vwilAW dy Bwxy) aus dI jwq CINbw hY qy auh ACUq hY (pr aus dI vifAweI iqMn lokW ivc ho rhI hY); ",
+        "ft": "dyK Ab ijs ky Gr myN (Bwgvqu) hrI js vw Bwgvq purwx ilKIqw hY AOr nhIN dyKIqw, (qws) iqs nwmdyv kI jwqI CINbw hY[ ijs ky swQ auqm jwqI ky log sprs nhIN krqy ]",
+        "bdb": "ijs (nwmdyv) dy Gr ivc pRBU dI is&iq-swlwh ilKI jw rhI hY, (pRBU-nwm qoN ibnw) kuJ hor vyKx ivc nhIN AwauNdw (au~cI jwq vwilAW dy Bwxy) aus dI jwq CINbw hY qy auh ACUq hY (pr aus dI vifAweI iqMn lokW ivc ho rhI hY); ",
+        "ms": "ijs dy Gr AMdr kIrqImwn pRBU dw j`s iliKAw jWdw hY Aqy hor kuJ BI nhIN idsdw, aus dI jwqI ACUq CIbw hY["
+      },
+      "puu": {
+        "ss": "ਜਿਸ (ਨਾਮਦੇਵ) ਦੇ ਘਰ ਵਿਚ ਪ੍ਰਭੂ ਦੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਲਿਖੀ ਜਾ ਰਹੀ ਹੈ, (ਪ੍ਰਭੂ-ਨਾਮ ਤੋਂ ਬਿਨਾ) ਕੁਝ ਹੋਰ ਵੇਖਣ ਵਿਚ ਨਹੀਂ ਆਉਂਦਾ (ਉੱਚੀ ਜਾਤ ਵਾਲਿਆਂ ਦੇ ਭਾਣੇ) ਉਸ ਦੀ ਜਾਤ ਛੀਂਬਾ ਹੈ ਤੇ ਉਹ ਅਛੂਤ ਹੈ (ਪਰ ਉਸ ਦੀ ਵਡਿਆਈ ਤਿੰਨ ਲੋਕਾਂ ਵਿਚ ਹੋ ਰਹੀ ਹੈ); ",
+        "ft": "ਦੇਖ ਅਬ ਜਿਸ ਕੇ ਘਰ ਮੇਂ (ਭਾਗਵਤੁ) ਹਰੀ ਜਸ ਵਾ ਭਾਗਵਤ ਪੁਰਾਣ ਲਿਖੀਤਾ ਹੈ ਔਰ ਨਹੀਂ ਦੇਖੀਤਾ, (ਤਾਸ) ਤਿਸ ਨਾਮਦੇਵ ਕੀ ਜਾਤੀ ਛੀਂਬਾ ਹੈ। ਜਿਸ ਕੇ ਸਾਥ ਉਤਮ ਜਾਤੀ ਕੇ ਲੋਗ ਸਪਰਸ ਨਹੀਂ ਕਰਤੇ ॥",
+        "bdb": "ਜਿਸ (ਨਾਮਦੇਵ) ਦੇ ਘਰ ਵਿਚ ਪ੍ਰਭੂ ਦੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਲਿਖੀ ਜਾ ਰਹੀ ਹੈ, (ਪ੍ਰਭੂ-ਨਾਮ ਤੋਂ ਬਿਨਾ) ਕੁਝ ਹੋਰ ਵੇਖਣ ਵਿਚ ਨਹੀਂ ਆਉਂਦਾ (ਉੱਚੀ ਜਾਤ ਵਾਲਿਆਂ ਦੇ ਭਾਣੇ) ਉਸ ਦੀ ਜਾਤ ਛੀਂਬਾ ਹੈ ਤੇ ਉਹ ਅਛੂਤ ਹੈ (ਪਰ ਉਸ ਦੀ ਵਡਿਆਈ ਤਿੰਨ ਲੋਕਾਂ ਵਿਚ ਹੋ ਰਹੀ ਹੈ); ",
+        "ms": "ਜਿਸ ਦੇ ਘਰ ਅੰਦਰ ਕੀਰਤੀਮਾਨ ਪ੍ਰਭੂ ਦਾ ਜੱਸ ਲਿਖਿਆ ਜਾਂਦਾ ਹੈ ਅਤੇ ਹੋਰ ਕੁਝ ਭੀ ਨਹੀਂ ਦਿਸਦਾ, ਉਸ ਦੀ ਜਾਤੀ ਅਛੂਤ ਛੀਬਾ ਹੈ।"
+      },
+      "es": {
+        "sn": "El que escribe las Alabanzas de Dios Nuestro Señor y no ve nada más, es un tenedor, de baja casta e intocable. "
+      },
+      "hi": {
+        "ss": "जिस (नामदेव) के घर में प्रभू की सिफत-सालाह लिखी जा रही है। (प्रभू-नाम के बिना) कुछ और देखने में नहीं आता (ऊँची जाति वालों के लिए तो) उसकी जाति छींबा है और वह अछूत है (पर उसकी उपमा तीनों लोकों में हो रही है);",
+        "sts": "जिसके घर में भगवान का भजन होता है, अन्य कुछ दिखाई नहीं देता, उस नामदेव की जाति छींबा अछूत है।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 23164,
+    "Seq": 540,
+    "header": 0,
+    "Paragraph": 12,
+    "Gurmukhi": "ibAws mih lyKIAY snk mih pyKIAY nwm kI nwmnw spq dIpw ]1]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 5,
+          "t": "v"
+        },
+        {
+          "p": 2,
+          "t": "y"
+        },
+        {
+          "p": 8,
+          "t": "y"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 5,
+          "t": "v"
+        },
+        {
+          "p": 2,
+          "t": "y"
+        },
+        {
+          "p": 8,
+          "t": "y"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 2,
+          "t": "v"
+        },
+        {
+          "p": 5,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "biaas meh lekheeaai sanak meh pekheeaai naam kee naamanaa sapat dheepaa ||1||",
+      "hi": "बिआस महि लेखीऐ सनक महि पेखीऐ नाम की नामना सपत दीपा ॥१॥",
+      "ipa": "bɪəɑs məh lekʰiæ sənək məh pekʰiæ nɑm ki nɑmənɑ səpət̪ d̪ipɑ.1.",
+      "ur": "بِآس مهِ لےکھیِاَے سنک مهِ پےکھیِاَے نام کیِ نامنا سپت دیِپا ۔۔۱۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "The Glory of the Name is seen in the writings of Vyaas and Sanak, throughout the seven continents. ||1||",
+        "ms": "The greatness of the Name is writ in Vyas, it is observed in Sanak, the son of Brahma and it is famous in the seven great continents.",
+        "ssk": "The Glory of the Name is seen in the writings of Vyaas and Sanak, throughout the seven continents. ||1||"
+      },
+      "pu": {
+        "ss": "ibAws (dy Drm-pusqk) ivc iliKAw imldw hY, snk (Awidk dy pusqk) ivc BI vyKx ivc AwauNdw hY ik hrI-nwm dI vifAweI swry sMswr ivc huMdI hY [1[",
+        "ft": "ibAws ikRq purwxoN myN ilKI hY snkwidk gIqw myN pyKIqI hY; vw ibAws myN dyKIqI hY AOr snkwidkoN myN dyKIqI hY, nwm kI (nwmnw) vifAweI swqoN dIpoN myN pRisD hY]1]",
+        "bdb": "ibAws (dy Drm-pusqk) ivc iliKAw imldw hY, snk (Awidk dy pusqk) ivc BI vyKx ivc AwauNdw hY ik hrI-nwm dI vifAweI swry sMswr ivc huMdI hY [1[",
+        "ms": "nwm dI ivSwlqw ivAws AMdr aukrI hoeI hY, bRhmw dy puqR snk AMdr ieh vyKI jWdI hY Aqy ieh sqW hI mhW KMfW AMdr pRis`D hY["
+      },
+      "puu": {
+        "ss": "ਬਿਆਸ (ਦੇ ਧਰਮ-ਪੁਸਤਕ) ਵਿਚ ਲਿਖਿਆ ਮਿਲਦਾ ਹੈ, ਸਨਕ (ਆਦਿਕ ਦੇ ਪੁਸਤਕ) ਵਿਚ ਭੀ ਵੇਖਣ ਵਿਚ ਆਉਂਦਾ ਹੈ ਕਿ ਹਰੀ-ਨਾਮ ਦੀ ਵਡਿਆਈ ਸਾਰੇ ਸੰਸਾਰ ਵਿਚ ਹੁੰਦੀ ਹੈ ।੧।",
+        "ft": "ਬਿਆਸ ਕ੍ਰਿਤ ਪੁਰਾਣੋਂ ਮੇਂ ਲਿਖੀ ਹੈ ਸਨਕਾਦਿਕ ਗੀਤਾ ਮੇਂ ਪੇਖੀਤੀ ਹੈ; ਵਾ ਬਿਆਸ ਮੇਂ ਦੇਖੀਤੀ ਹੈ ਔਰ ਸਨਕਾਦਿਕੋਂ ਮੇਂ ਦੇਖੀਤੀ ਹੈ, ਨਾਮ ਕੀ (ਨਾਮਨਾ) ਵਡਿਆਈ ਸਾਤੋਂ ਦੀਪੋਂ ਮੇਂ ਪ੍ਰਸਿਧ ਹੈ॥੧॥",
+        "bdb": "ਬਿਆਸ (ਦੇ ਧਰਮ-ਪੁਸਤਕ) ਵਿਚ ਲਿਖਿਆ ਮਿਲਦਾ ਹੈ, ਸਨਕ (ਆਦਿਕ ਦੇ ਪੁਸਤਕ) ਵਿਚ ਭੀ ਵੇਖਣ ਵਿਚ ਆਉਂਦਾ ਹੈ ਕਿ ਹਰੀ-ਨਾਮ ਦੀ ਵਡਿਆਈ ਸਾਰੇ ਸੰਸਾਰ ਵਿਚ ਹੁੰਦੀ ਹੈ ।੧।",
+        "ms": "ਨਾਮ ਦੀ ਵਿਸ਼ਾਲਤਾ ਵਿਆਸ ਅੰਦਰ ਉਕਰੀ ਹੋਈ ਹੈ, ਬ੍ਰਹਮਾ ਦੇ ਪੁਤ੍ਰ ਸਨਕ ਅੰਦਰ ਇਹ ਵੇਖੀ ਜਾਂਦੀ ਹੈ ਅਤੇ ਇਹ ਸਤਾਂ ਹੀ ਮਹਾਂ ਖੰਡਾਂ ਅੰਦਰ ਪ੍ਰਸਿੱਧ ਹੈ।"
+      },
+      "es": {
+        "sn": "La Gloria del Nombre se ve en las Escrituras de Sanak y Viyas a través de los siete continentes. (1)"
+      },
+      "hi": {
+        "ss": "(ऋषि) ब्यास (के धर्म-पुस्तक) में लिखा मिलता है। सनक (आदि के पुस्तक) में भी देखने में आता है कि हरी-नाम की वडिआई सारे संसार में होती है। 1।",
+        "sts": "व्यास की रचना तथा सनक की रचनाओं में हरिनाम की कीर्ति है, जो सातों द्वीपों में फैली हुई है॥१॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 23165,
+    "Seq": 550,
+    "header": 0,
+    "Paragraph": 12,
+    "Gurmukhi": "jw kY eIid bkrIid kul gaU ry bDu krih mwnIAih syK shId pIrw ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 8,
+          "t": "v"
+        },
+        {
+          "p": 3,
+          "t": "y"
+        },
+        {
+          "p": 9,
+          "t": "y"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 8,
+          "t": "v"
+        },
+        {
+          "p": 3,
+          "t": "y"
+        },
+        {
+          "p": 9,
+          "t": "y"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 3,
+          "t": "v"
+        },
+        {
+          "p": 8,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "jaa kai ieedh bakareedh kul guoo re badh kareh maane'eeh sekh saheedh peeraa ||",
+      "hi": "जा कै ईदि बकरीदि कुल गऊ रे बधु करहि मानीअहि सेख सहीद पीरा ॥",
+      "ipa": "d͡ʒɑ kæ eid̪ bəkərid̪ kʊl Gou re bət̪ kərəh mɑniəh sekʰ səhid̪ pirɑ.",
+      "ur": "جا کَے اید بکریِد کُل گاُو رے بدھ کره مانیِاه سےکھ سهیِد پیِرا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "And he whose family used to kill cows at the festivals of Eed and Bakareed, who worshipped Shayks, martyrs and spiritual teachers,",
+        "ms": "He, in whose family, men used to kill cows at the Id and Bakrid and worshipped Shaikhs, martyrs and spiritual perceptions.",
+        "ssk": "And he whose family used to kill cows at the festivals of Eed and Bakareed, who worshipped Shayks, martyrs and spiritual teachers,"
+      },
+      "pu": {
+        "ss": "hy BweI! ijs (kbIr) dI jwq dy lok (muslmwn bx ky) eId bkrId dy smy (hux) gaUAW hlwl krdy hn Aqy ijnHW dI GrIN hux syKW ShIdW qy pIrW dI mwnqw huMdI hY, ijs (kbIr) dI jwq dy v`ifAW ny ieh kr ivKweI, ",
+        "ft": "iesI qrW nwmdyv jI vq kbIr jI kI mihmw AiDk hY[ dyKo ijs kI kul myN eId bkrId ko gaU kw bD krqy Qy AOr SyK shId pIroN ko mwnqy Qy]",
+        "bdb": "hy BweI! ijs (kbIr) dI jwq dy lok (muslmwn bx ky) eId bkrId dy smy (hux) gaUAW hlwl krdy hn Aqy ijnHW dI GrIN hux syKW ShIdW qy pIrW dI mwnqw huMdI hY, ijs (kbIr) dI jwq dy v`ifAW ny ieh kr ivKweI, ",
+        "ms": "ijs ny Grwny dy AwdmI eId Aqy bkrId dy smy, gweIAw mwrdy huMdy sn Aqy syKW ShIdW Aqy rUhwnI rihbrW ƒ pUjdy sn["
+      },
+      "puu": {
+        "ss": "ਹੇ ਭਾਈ! ਜਿਸ (ਕਬੀਰ) ਦੀ ਜਾਤ ਦੇ ਲੋਕ (ਮੁਸਲਮਾਨ ਬਣ ਕੇ) ਈਦ ਬਕਰੀਦ ਦੇ ਸਮੇ (ਹੁਣ) ਗਊਆਂ ਹਲਾਲ ਕਰਦੇ ਹਨ ਅਤੇ ਜਿਨ੍ਹਾਂ ਦੀ ਘਰੀਂ ਹੁਣ ਸੇਖਾਂ ਸ਼ਹੀਦਾਂ ਤੇ ਪੀਰਾਂ ਦੀ ਮਾਨਤਾ ਹੁੰਦੀ ਹੈ, ਜਿਸ (ਕਬੀਰ) ਦੀ ਜਾਤ ਦੇ ਵੱਡਿਆਂ ਨੇ ਇਹ ਕਰ ਵਿਖਾਈ, ",
+        "ft": "ਇਸੀ ਤਰਾਂ ਨਾਮਦੇਵ ਜੀ ਵਤ ਕਬੀਰ ਜੀ ਕੀ ਮਹਿਮਾ ਅਧਿਕ ਹੈ। ਦੇਖੋ ਜਿਸ ਕੀ ਕੁਲ ਮੇਂ ਈਦ ਬਕਰੀਦ ਕੋ ਗਊ ਕਾ ਬਧ ਕਰਤੇ ਥੇ ਔਰ ਸ਼ੇਖ ਸਹੀਦ ਪੀਰੋਂ ਕੋ ਮਾਨਤੇ ਥੇ॥",
+        "bdb": "ਹੇ ਭਾਈ! ਜਿਸ (ਕਬੀਰ) ਦੀ ਜਾਤ ਦੇ ਲੋਕ (ਮੁਸਲਮਾਨ ਬਣ ਕੇ) ਈਦ ਬਕਰੀਦ ਦੇ ਸਮੇ (ਹੁਣ) ਗਊਆਂ ਹਲਾਲ ਕਰਦੇ ਹਨ ਅਤੇ ਜਿਨ੍ਹਾਂ ਦੀ ਘਰੀਂ ਹੁਣ ਸੇਖਾਂ ਸ਼ਹੀਦਾਂ ਤੇ ਪੀਰਾਂ ਦੀ ਮਾਨਤਾ ਹੁੰਦੀ ਹੈ, ਜਿਸ (ਕਬੀਰ) ਦੀ ਜਾਤ ਦੇ ਵੱਡਿਆਂ ਨੇ ਇਹ ਕਰ ਵਿਖਾਈ, ",
+        "ms": "ਜਿਸ ਨੇ ਘਰਾਨੇ ਦੇ ਆਦਮੀ ਈਦ ਅਤੇ ਬਕਰੀਦ ਦੇ ਸਮੇ, ਗਾਈਆ ਮਾਰਦੇ ਹੁੰਦੇ ਸਨ ਅਤੇ ਸੇਖਾਂ ਸ਼ਹੀਦਾਂ ਅਤੇ ਰੂਹਾਨੀ ਰਹਿਬਰਾਂ ਨੂੰ ਪੂਜਦੇ ਸਨ।"
+      },
+      "es": {
+        "sn": "Aquél que tenía una familia dedicada a matar vacas en los festivales de Id y Bakarid, y que alababa a los Sheiks, "
+      },
+      "hi": {
+        "ss": "हे भाई ! जिस (कबीर) की जाति के लोग (मुसलमान बन कर) ईद-बकरीद के समय (अब) गऊएं हलाल करते हैं और जिनके घरों में अब शेखों शहीदों और पीरों की मान्यता होती है।",
+        "sts": "जिसके जहाँ ईद-बकरीद के त्यौहारों पर गो-वध होता था, शेखों एवं पीरों को.मानते थे,"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 23166,
+    "Seq": 560,
+    "header": 0,
+    "Paragraph": 12,
+    "Gurmukhi": "jw kY bwp vYsI krI pUq AYsI srI iqhU ry lok prisD kbIrw ]2]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 7,
+          "t": "v"
+        },
+        {
+          "p": 4,
+          "t": "y"
+        },
+        {
+          "p": 10,
+          "t": "y"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 7,
+          "t": "v"
+        },
+        {
+          "p": 4,
+          "t": "y"
+        },
+        {
+          "p": 10,
+          "t": "y"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 4,
+          "t": "v"
+        },
+        {
+          "p": 7,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "jaa kai baap vaisee karee poot aaisee saree tihoo re lok parasidh kabeeraa ||2||",
+      "hi": "जा कै बाप वैसी करी पूत ऐसी सरी तिहू रे लोक परसिध कबीरा ॥२॥",
+      "ipa": "d͡ʒɑ kæ bɑp ʋæsi kəri put̪ æsi səri t̪ɪhu re lɔk pərəsɪt̪ə̀ kəbirɑ.2.",
+      "ur": "جا کَے باپ وَےسیِ کریِ پُوت اَےسیِ سریِ تهُو رے لوک پرسدھ کبیِرا ۔۔۲۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "whose father used to do such things - his son Kabeer became so successful that he is now famous throughout the three worlds. ||2||",
+        "ms": "Whose father used to do such things; Kabir his son, so succeeded that he became celebrated in the three worlds.",
+        "ssk": "whose father used to do such things - his son Kabeer became so successful that he is now famous throughout the three worlds. ||2||"
+      },
+      "pu": {
+        "ss": "auhnW dI hI jwq ivc jMmy pu`qr qoN AijhI sr AweI (ik muslmwnI hkUmq dy dbw qoN infr rih ky hrI-nwm ismr ky) swry sMswr ivc mShUr ho igAw [2[",
+        "ft": "ijs kbIr ny bwp ny qo vYsI krI QI ik gaU ko mwrqw Qw AOr pUq sy AYsI (srI) bin AweI jo gaU kw bDu htwie dIAw[ nwm ky pRqwp qy so kbIr jI qInoN lokoN myN pRisD hUey hYN]2]",
+        "bdb": "auhnW dI hI jwq ivc jMmy pu`qr qoN AijhI sr AweI (ik muslmwnI hkUmq dy dbw qoN infr rih ky hrI-nwm ismr ky) swry sMswr ivc mShUr ho igAw [2[",
+        "ms": "ijs dw ipE AYho jyhIAW g`lW krdw huMdw sI, kbIr aus dw puqR AYho jyhw kwmXWb hoieAw ik auh iqMnW hI jhwnw AMdr nwmvr ho igAw["
+      },
+      "puu": {
+        "ss": "ਉਹਨਾਂ ਦੀ ਹੀ ਜਾਤ ਵਿਚ ਜੰਮੇ ਪੁੱਤਰ ਤੋਂ ਅਜਿਹੀ ਸਰ ਆਈ (ਕਿ ਮੁਸਲਮਾਨੀ ਹਕੂਮਤ ਦੇ ਦਬਾ ਤੋਂ ਨਿਡਰ ਰਹਿ ਕੇ ਹਰੀ-ਨਾਮ ਸਿਮਰ ਕੇ) ਸਾਰੇ ਸੰਸਾਰ ਵਿਚ ਮਸ਼ਹੂਰ ਹੋ ਗਿਆ ।੨।",
+        "ft": "ਜਿਸ ਕਬੀਰ ਨੇ ਬਾਪ ਨੇ ਤੋ ਵੈਸੀ ਕਰੀ ਥੀ ਕਿ ਗਊ ਕੋ ਮਾਰਤਾ ਥਾ ਔਰ ਪੂਤ ਸੇ ਐਸੀ (ਸਰੀ) ਬਨਿ ਆਈ ਜੋ ਗਊ ਕਾ ਬਧੁ ਹਟਾਇ ਦੀਆ। ਨਾਮ ਕੇ ਪ੍ਰਤਾਪ ਤੇ ਸੋ ਕਬੀਰ ਜੀ ਤੀਨੋਂ ਲੋਕੋਂ ਮੇਂ ਪ੍ਰਸਿਧ ਹੂਏ ਹੈਂ॥੨॥",
+        "bdb": "ਉਹਨਾਂ ਦੀ ਹੀ ਜਾਤ ਵਿਚ ਜੰਮੇ ਪੁੱਤਰ ਤੋਂ ਅਜਿਹੀ ਸਰ ਆਈ (ਕਿ ਮੁਸਲਮਾਨੀ ਹਕੂਮਤ ਦੇ ਦਬਾ ਤੋਂ ਨਿਡਰ ਰਹਿ ਕੇ ਹਰੀ-ਨਾਮ ਸਿਮਰ ਕੇ) ਸਾਰੇ ਸੰਸਾਰ ਵਿਚ ਮਸ਼ਹੂਰ ਹੋ ਗਿਆ ।੨।",
+        "ms": "ਜਿਸ ਦਾ ਪਿਓ ਐਹੋ ਜੇਹੀਆਂ ਗੱਲਾਂ ਕਰਦਾ ਹੁੰਦਾ ਸੀ, ਕਬੀਰ ਉਸ ਦਾ ਪੁਤ੍ਰ ਐਹੋ ਜੇਹਾ ਕਾਮਯਾਂਬ ਹੋਇਆ ਕਿ ਉਹ ਤਿੰਨਾਂ ਹੀ ਜਹਾਨਾ ਅੰਦਰ ਨਾਮਵਰ ਹੋ ਗਿਆ।"
+      },
+      "es": {
+        "sn": "mártires y maestros espirituales, era el padre de Kabir. Pero su hijo Kabir logró tener gran fama y éxito en los tres mundos. (2)"
+      },
+      "hi": {
+        "ss": "जिस (कबीर) की जाति के बड़े-बुर्जुगों ने यह कर दिखाया। उनकी ही जाति में पैदा हुए पुत्र से ऐसा हो गया (कि इस्लामी हकूमत के दबाव से निडर रह के हरी-नाम सिमर के) सारे संसार में मशहूर हो गया। 2।",
+        "sts": "जिसका पिता यह सब करता था, उसके पुत्र ने वह कर दिया कि वह कबीर दुनिया भर में प्रसिद्ध हो गया॥२॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 23167,
+    "Seq": 570,
+    "header": 0,
+    "Paragraph": 12,
+    "Gurmukhi": "jw ky kutMb ky FyF sB For FovMq iPrih Ajhu bMnwrsI Aws pwsw ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 8,
+          "t": "v"
+        },
+        {
+          "p": 4,
+          "t": "y"
+        },
+        {
+          "p": 10,
+          "t": "y"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 8,
+          "t": "v"
+        },
+        {
+          "p": 4,
+          "t": "y"
+        },
+        {
+          "p": 10,
+          "t": "y"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 8,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "jaa ke kuTa(n)b ke ddedd sabh ddor ddova(n)t fireh ajahu ba(n)naarasee aas paasaa ||",
+      "hi": "जा के कुटंब के ढेढ सभ ढोर ढोवंत फिरहि अजहु बंनारसी आस पासा ॥",
+      "ipa": "d͡ʒɑ ke kʊʈəŋb ke ʈeʈə̀ səɓ ʈɔr ʈɔʋəŋt̪ fɪrəh əd͡ʒəh bəŋnɑrəsi əɑs pɑsɑ.",
+      "ur": "جا کے کُٹںب کے ڈھےڈھ سبھ ڈھور ڈھووںت پھره اجهُ بنّارسیِ آس پاسا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "And all the leather-workers in those families still go around Benares removing the dead cattle",
+        "ms": "All the tanners of whose family still continue to go round about Banaras removing dead cattle; the ritualistic.",
+        "ssk": "And all the leather-workers in those families still go around Benares removing the dead cattle"
+      },
+      "pu": {
+        "ss": "ijs dy ^wndwn dy nIc lok bnwrs dy Awsy-pwsy (v`sdy hn qy) Ajy qk moey hoey pSU FoNdy hn, ",
+        "ft": "ijs ky kutMb ky FyF sB ForoN ko ArQwq mUey hUey psUEN ko Ab qk bnwrs ky ierd igrd (FovMq) auTwvqy iPrqy hYN]",
+        "bdb": "ijs dy ^wndwn dy nIc lok bnwrs dy Awsy-pwsy (v`sdy hn qy) Ajy qk moey hoey pSU FoNdy hn, ",
+        "ms": "ijs dy Grwxy dy swry cmwr Ajy BI bnwrs dy Awly duAwly mry hoey fMgr Fody irPdy hn["
+      },
+      "puu": {
+        "ss": "ਜਿਸ ਦੇ ਖ਼ਾਨਦਾਨ ਦੇ ਨੀਚ ਲੋਕ ਬਨਾਰਸ ਦੇ ਆਸੇ-ਪਾਸੇ (ਵੱਸਦੇ ਹਨ ਤੇ) ਅਜੇ ਤਕ ਮੋਏ ਹੋਏ ਪਸ਼ੂ ਢੋਂਦੇ ਹਨ, ",
+        "ft": "ਜਿਸ ਕੇ ਕੁਟੰਬ ਕੇ ਢੇਢ ਸਭ ਢੋਰੋਂ ਕੋ ਅਰਥਾਤ ਮੂਏ ਹੂਏ ਪਸੂਓਂ ਕੋ ਅਬ ਤਕ ਬਨਾਰਸ ਕੇ ਇਰਦ ਗਿਰਦ (ਢੋਵੰਤ) ਉਠਾਵਤੇ ਫਿਰਤੇ ਹੈਂ॥",
+        "bdb": "ਜਿਸ ਦੇ ਖ਼ਾਨਦਾਨ ਦੇ ਨੀਚ ਲੋਕ ਬਨਾਰਸ ਦੇ ਆਸੇ-ਪਾਸੇ (ਵੱਸਦੇ ਹਨ ਤੇ) ਅਜੇ ਤਕ ਮੋਏ ਹੋਏ ਪਸ਼ੂ ਢੋਂਦੇ ਹਨ, ",
+        "ms": "ਜਿਸ ਦੇ ਘਰਾਣੇ ਦੇ ਸਾਰੇ ਚਮਾਰ ਅਜੇ ਭੀ ਬਨਾਰਸ ਦੇ ਆਲੇ ਦੁਆਲੇ ਮਰੇ ਹੋਏ ਡੰਗਰ ਢੋਦੇ ਰਿਫਦੇ ਹਨ।"
+      },
+      "es": {
+        "sn": "Todavía los curtidores de esas familias llegan a Benares a llevarse ganado muerto. "
+      },
+      "hi": {
+        "ss": "जिसके खानदान के नीच लोग बनारस के आसपास (बसते हैं और) अभी तक मरे हुए पशू ढोते हैं।",
+        "sts": "जिसके परिवार के वंशज अब भी बनारस के आसपास पशु ढोते हैं,"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 23168,
+    "Seq": 580,
+    "header": 0,
+    "Paragraph": 12,
+    "Gurmukhi": "Awcwr sihq ibpR krih fMfauiq iqn qnY rivdws dwswn dwsw ]3]2]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 4,
+          "t": "v"
+        },
+        {
+          "p": 1,
+          "t": "y"
+        },
+        {
+          "p": 7,
+          "t": "y"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 4,
+          "t": "v"
+        },
+        {
+          "p": 1,
+          "t": "y"
+        },
+        {
+          "p": 7,
+          "t": "y"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "aachaar sahit bipr kareh dda(n)ddaut tin tanai ravidhaas dhaasaan dhaasaa ||3||2||",
+      "hi": "आचार सहित बिप्र करहि डंडउति तिन तनै रविदास दासान दासा ॥३॥२॥",
+      "ipa": "əɑt͡ʃɑr səhɪt̪ bɪpɹ kərəh ɖəŋɖoʊt̪ t̪ɪn t̪ənæ rəʋɪd̪ɑs d̪ɑsɑn d̪ɑsɑ.3.2.",
+      "ur": "آچار سهِت بپر کره ڈںڈات تن تنَے روداس داسان داسا ۔۔۳۔۔۲۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "- the ritualistic Brahmins bow in reverence before their son Ravi Daas, the slave of the Lord's slaves. ||3||2||",
+        "ms": "Brahmans make prostration before their son, Ravidass, the slave of the Lord's slaves. Malar.",
+        "ssk": "- the ritualistic Brahmins bow in reverence before their son Ravi Daas, the slave of the Lord's slaves. ||3||2||"
+      },
+      "pu": {
+        "ss": "auhnW dI kul ivc jMmy pu`qr rivdws ƒ, jo pRBU dy dwsW dw dws bx igAw hY, Swsq®W dI mrXwdw Anuswr qurn vwly bRwhmx nmskwr krdy hn [3[2[",
+        "ft": "iqn cmwroN kw (qnY) puqR jo mYN dwsoN kw dws hUM, rivdws jI khqy hYN: iqs myry ko bfy AcwrvMq bRhmx fMfOq krqy hYN, so eyhu nwm kw hI pRqwp hY]3]2]ÇpRsn au`qR ky pRkwr aupdys krqy hYN:ÇpRSn?",
+        "bdb": "auhnW dI kul ivc jMmy pu`qr rivdws ƒ, jo pRBU dy dwsW dw dws bx igAw hY, Swsq®W dI mrXwdw Anuswr qurn vwly bRwhmx nmskwr krdy hn [3[2[",
+        "ms": "krm kWfI, bRhmx, pRBU dy goilAW dy goly aunHW dy puqR, rivdws ƒ lMmy pY bMdnw krdy hn["
+      },
+      "puu": {
+        "ss": "ਉਹਨਾਂ ਦੀ ਕੁਲ ਵਿਚ ਜੰਮੇ ਪੁੱਤਰ ਰਵਿਦਾਸ ਨੂੰ, ਜੋ ਪ੍ਰਭੂ ਦੇ ਦਾਸਾਂ ਦਾ ਦਾਸ ਬਣ ਗਿਆ ਹੈ, ਸ਼ਾਸਤ੍ਰਾਂ ਦੀ ਮਰਯਾਦਾ ਅਨੁਸਾਰ ਤੁਰਨ ਵਾਲੇ ਬ੍ਰਾਹਮਣ ਨਮਸਕਾਰ ਕਰਦੇ ਹਨ ।੩।੨।",
+        "ft": "ਤਿਨ ਚਮਾਰੋਂ ਕਾ (ਤਨੈ) ਪੁਤ੍ਰ ਜੋ ਮੈਂ ਦਾਸੋਂ ਕਾ ਦਾਸ ਹੂੰ, ਰਵਿਦਾਸ ਜੀ ਕਹਤੇ ਹੈਂ: ਤਿਸ ਮੇਰੇ ਕੋ ਬਡੇ ਅਚਾਰਵੰਤ ਬ੍ਰਹਮਣ ਡੰਡੌਤ ਕਰਤੇ ਹੈਂ, ਸੋ ਏਹੁ ਨਾਮ ਕਾ ਹੀ ਪ੍ਰਤਾਪ ਹੈ॥੩॥੨॥☬ਪ੍ਰਸਨ ਉੱਤ੍ਰ ਕੇ ਪ੍ਰਕਾਰ ਉਪਦੇਸ ਕਰਤੇ ਹੈਂ:☬ਪ੍ਰਸ਼ਨ?",
+        "bdb": "ਉਹਨਾਂ ਦੀ ਕੁਲ ਵਿਚ ਜੰਮੇ ਪੁੱਤਰ ਰਵਿਦਾਸ ਨੂੰ, ਜੋ ਪ੍ਰਭੂ ਦੇ ਦਾਸਾਂ ਦਾ ਦਾਸ ਬਣ ਗਿਆ ਹੈ, ਸ਼ਾਸਤ੍ਰਾਂ ਦੀ ਮਰਯਾਦਾ ਅਨੁਸਾਰ ਤੁਰਨ ਵਾਲੇ ਬ੍ਰਾਹਮਣ ਨਮਸਕਾਰ ਕਰਦੇ ਹਨ ।੩।੨।",
+        "ms": "ਕਰਮ ਕਾਂਡੀ, ਬ੍ਰਹਮਣ, ਪ੍ਰਭੂ ਦੇ ਗੋਲਿਆਂ ਦੇ ਗੋਲੇ ਉਨ੍ਹਾਂ ਦੇ ਪੁਤ੍ਰ, ਰਵਿਦਾਸ ਨੂੰ ਲੰਮੇ ਪੈ ਬੰਦਨਾ ਕਰਦੇ ਹਨ।"
+      },
+      "es": {
+        "sn": "Los brahmanes ritualistas se postran en reverencia ante el hijo de esa familia, Ravi Das. (3-2)"
+      },
+      "hi": {
+        "ss": "उनकी ही कुल में पैदा हुए पुत्र रविदास को। जो प्रभू के दासों का दास बन गया है। शास्त्रों की मर्यादा अनुसार चलने वाले ब्राहमण नमस्कार करते हैं। 3। 2।",
+        "sts": "दासों के दास रविदास को ब्राह्मण समाज आदरपूर्वक दण्डवत प्रणाम करता है॥३॥२॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 23180,
+    "Seq": 585,
+    "header": 1,
+    "Paragraph": 13,
+    "Gurmukhi": "<> siqgur pRswid ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "ikOankaar satigur prasaadh ||",
+      "hi": "ੴ सतिगुर प्रसादि ॥",
+      "ipa": "ɪk oəŋkɑɾ sət̪ɪGʊr pɹəsɑd̪.",
+      "ur": "اک اونکار ستگر پرساد ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "One Universal Creator God. By The Grace Of The True Guru:",
+        "ms": "There is but One God. By the True Guru's grace, He is obtained.",
+        "ssk": "One Universal Creator God. By The Grace Of The True Guru:"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": "vwihgurU kyvl iek hY[ s¤cy gurW dI dieAw duAwrw auh pwieAw jWdw hY["
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": "ਵਾਹਿਗੁਰੂ ਕੇਵਲ ਇਕ ਹੈ। ਸੱਚੇ ਗੁਰਾਂ ਦੀ ਦਇਆ ਦੁਆਰਾ ਉਹ ਪਾਇਆ ਜਾਂਦਾ ਹੈ।"
+      },
+      "es": {
+        "sn": "Un Dios Creador Universal, por la Gracia del Verdadero Guru."
+      },
+      "hi": {
+        "ss": "",
+        "sts": "ੴ सतिगुर प्रसादि ॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": "above"
+  },
+  {
+    "ID": 23169,
+    "Seq": 590,
+    "header": 2,
+    "Paragraph": 14,
+    "Gurmukhi": "mlwr",
+    "Visraam": {
+      "sttm": [],
+      "igurbani": [],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "malaar",
+      "hi": "मलार",
+      "ipa": "məlɑr",
+      "ur": "ملار"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Malaar:",
+        "ms": "Malar.",
+        "ssk": "Malaar:"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": "mlwr["
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": "ਮਲਾਰ।"
+      },
+      "es": {
+        "sn": "Malhar"
+      },
+      "hi": {
+        "ss": "",
+        "sts": "मलार"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 23170,
+    "Seq": 600,
+    "header": 1,
+    "Paragraph": 15,
+    "Gurmukhi": "<> siqgur pRswid ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "ikOankaar satigur prasaadh ||",
+      "hi": "ੴ सतिगुर प्रसादि ॥",
+      "ipa": "ɪk oəŋkɑɾ sət̪ɪGʊr pɹəsɑd̪.",
+      "ur": "اک اونکار ستگر پرساد ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "One Universal Creator God. By The Grace Of The True Guru:",
+        "ms": "There is but One God. By the True Guru's grace, He is obtained.",
+        "ssk": "One Universal Creator God. By The Grace Of The True Guru:"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": "vwihgurU kyvl iek hY[ s¤cy gurW dI dieAw duAwrw auh pwieAw jWdw hY["
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": "ਵਾਹਿਗੁਰੂ ਕੇਵਲ ਇਕ ਹੈ। ਸੱਚੇ ਗੁਰਾਂ ਦੀ ਦਇਆ ਦੁਆਰਾ ਉਹ ਪਾਇਆ ਜਾਂਦਾ ਹੈ।"
+      },
+      "es": {
+        "sn": "Un Dios Creador Universal, por la Gracia del Verdadero Guru."
+      },
+      "hi": {
+        "ss": "",
+        "sts": "ੴ सतिगुर प्रसादि ॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": "current"
+  },
+  {
+    "ID": 23171,
+    "Seq": 610,
+    "header": 0,
+    "Paragraph": 16,
+    "Gurmukhi": "imlq ipAwro pRwn nwQu kvn Bgiq qy ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "milat piaaro praan naath kavan bhagat te ||",
+      "hi": "मिलत पिआरो प्रान नाथु कवन भगति ते ॥",
+      "ipa": "mɪlət̪ pɪəɑrɔ pɹɑn nɑt̪ʰ kəʋən ɓəGət̪ t̪e.",
+      "ur": "مِلت پآرو پران ناتھ کون بھگت تے ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "What sort of devotional worship will lead me to meet my Beloved, the Lord of my breath of life?",
+        "ms": "Through what devotional service, can I meet with my Beloved, the Lord of vital breath?",
+        "ssk": "What sort of devotional worship will lead me to meet my Beloved, the Lord of my breath of life?"
+      },
+      "pu": {
+        "ss": "ijMd dw sweIN ipAwrw pRBU iksy hor qrHW dI BgqI nwl nhIN sI iml skdw ",
+        "ft": "pRwnoN kw pÎwrw (nwQ) sÍwmI iks BgqI qy imlqw hY?",
+        "bdb": "ijMd dw sweIN ipAwrw pRBU iksy hor qrHW dI BgqI nwl nhIN sI iml skdw ",
+        "ms": "ikhVI pRymmeI syvw dy rwhIN mYN ijMd-jwn dy suAmwI AwKxy pRIqm nwl iml skdw hW?"
+      },
+      "puu": {
+        "ss": "ਜਿੰਦ ਦਾ ਸਾਈਂ ਪਿਆਰਾ ਪ੍ਰਭੂ ਕਿਸੇ ਹੋਰ ਤਰ੍ਹਾਂ ਦੀ ਭਗਤੀ ਨਾਲ ਨਹੀਂ ਸੀ ਮਿਲ ਸਕਦਾ ",
+        "ft": "ਪ੍ਰਾਨੋਂ ਕਾ ਪ੍ਯਾਰਾ (ਨਾਥ) ਸ੍ਵਾਮੀ ਕਿਸ ਭਗਤੀ ਤੇ ਮਿਲਤਾ ਹੈ?",
+        "bdb": "ਜਿੰਦ ਦਾ ਸਾਈਂ ਪਿਆਰਾ ਪ੍ਰਭੂ ਕਿਸੇ ਹੋਰ ਤਰ੍ਹਾਂ ਦੀ ਭਗਤੀ ਨਾਲ ਨਹੀਂ ਸੀ ਮਿਲ ਸਕਦਾ ",
+        "ms": "ਕਿਹੜੀ ਪ੍ਰੇਮਮਈ ਸੇਵਾ ਦੇ ਰਾਹੀਂ ਮੈਂ ਜਿੰਦ-ਜਾਨ ਦੇ ਸੁਅਮਾੀ ਆਖਣੇ ਪ੍ਰੀਤਮ ਨਾਲ ਮਿਲ ਸਕਦਾ ਹਾਂ?"
+      },
+      "es": {
+        "sn": "¿Qué tipo de Alabanza Espiritual me llevará a encontrar a mi Bienamado, al Señor de mi respiración vital? "
+      },
+      "hi": {
+        "ss": "जिंद का सांई प्यारा प्रभू किसी और तरह की भगती से नहीं था मिल सकता।",
+        "sts": "प्राणों से प्यारा प्रभु किस भक्ति से मिलता है और"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 23172,
+    "Seq": 620,
+    "header": 0,
+    "Paragraph": 16,
+    "Gurmukhi": "swDsMgiq pweI prm gqy ] rhwau ]",
+    "Visraam": {
+      "sttm2": [],
+      "sttm": [],
+      "igurbani": []
+    },
+    "Transliterations": {
+      "en": "saadhasa(n)gat paiee param gate || rahaau ||",
+      "hi": "साधसंगति पाई परम गते ॥ रहाउ ॥",
+      "ipa": "sɑt̪əsəŋGət̪ pɑei pərəm Gət̪e. rəhɑo.",
+      "ur": "سادھسںگت پاای پرم گتے ۔۔ رهاا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "In the Saadh Sangat, the Company of the Holy, I have obtained the supreme status. ||Pause||",
+        "ms": "Associating with the saints, I have obtained the supreme status. Pause.",
+        "ssk": "In the Saadh Sangat, the Company of the Holy, I have obtained the supreme status. ||Pause||"
+      },
+      "pu": {
+        "ss": ":— swD sMgiq ivc A`pV ky mYN sB qoN au~cI Awqmk AvsQw hwsl kr leI hY",
+        "ft": "ijnoN ny sMqoN kI sMgiq dÍwrw BgqI krI hY iqnoN ny (prm gqy) mukqI pweI hY] rhwau ]",
+        "bdb": ":— swD sMgiq ivc A`pV ky mYN sB qoN au~cI Awqmk AvsQw hwsl kr leI hY",
+        "ms": "siqsMgq krn duAwrw mYN mhwn mrqby ƒ prwpq ho igAw hW[ Tihrwau["
+      },
+      "puu": {
+        "ss": ":— ਸਾਧ ਸੰਗਤਿ ਵਿਚ ਅੱਪੜ ਕੇ ਮੈਂ ਸਭ ਤੋਂ ਉੱਚੀ ਆਤਮਕ ਅਵਸਥਾ ਹਾਸਲ ਕਰ ਲਈ ਹੈ",
+        "ft": "ਜਿਨੋਂ ਨੇ ਸੰਤੋਂ ਕੀ ਸੰਗਤਿ ਦ੍ਵਾਰਾ ਭਗਤੀ ਕਰੀ ਹੈ ਤਿਨੋਂ ਨੇ (ਪਰਮ ਗਤੇ) ਮੁਕਤੀ ਪਾਈ ਹੈ॥ ਰਹਾਉ ॥",
+        "bdb": ":— ਸਾਧ ਸੰਗਤਿ ਵਿਚ ਅੱਪੜ ਕੇ ਮੈਂ ਸਭ ਤੋਂ ਉੱਚੀ ਆਤਮਕ ਅਵਸਥਾ ਹਾਸਲ ਕਰ ਲਈ ਹੈ",
+        "ms": "ਸਤਿਸੰਗਤ ਕਰਨ ਦੁਆਰਾ ਮੈਂ ਮਹਾਨ ਮਰਤਬੇ ਨੂੰ ਪਰਾਪਤ ਹੋ ਗਿਆ ਹਾਂ। ਠਹਿਰਾਉ।"
+      },
+      "es": {
+        "sn": "En la Saad Sangat, la Sociedad de los Santos he obtenido el Supremo Estado. (Pausa)"
+      },
+      "hi": {
+        "ss": "(पर ) साध-संगति में पहुँच के मैंने सबसे ऊँची आत्मिक अवस्था हासिल कर ली है। रहाउ।",
+        "sts": "साधु जनों की संगत में परमगति संभव है॥२॥रहाउ॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 23173,
+    "Seq": 630,
+    "header": 0,
+    "Paragraph": 16,
+    "Gurmukhi": "mYly kpry khw lau Dovau ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "maile kapare kahaa lau dhovau ||",
+      "hi": "मैले कपरे कहा लउ धोवउ ॥",
+      "ipa": "mæle kəpəre kəhɑ lo t̪ɔʋo.",
+      "ur": "مَےلے کپرے کها لا دھووا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "How long shall I wash these dirty clothes?",
+        "ms": "Dirty is my vesture. How long shall I wash it.",
+        "ssk": "How long shall I wash these dirty clothes?"
+      },
+      "pu": {
+        "ss": "(swD sMgiq dI brkiq nwl) hux mYN prweI inMidAw krnI C`f id`qI hY",
+        "ft": "mYly kpVy khW qk DovoNgw, Bwv n irdw mYlw hoxw hY Aru suD krnw hY]",
+        "bdb": "(swD sMgiq dI brkiq nwl) hux mYN prweI inMidAw krnI C`f id`qI hY",
+        "ms": "gMdI hY myrI puSwk[ kdo qWeI mYN ies ƒ DodW rhWgw?"
+      },
+      "puu": {
+        "ss": "(ਸਾਧ ਸੰਗਤਿ ਦੀ ਬਰਕਤਿ ਨਾਲ) ਹੁਣ ਮੈਂ ਪਰਾਈ ਨਿੰਦਿਆ ਕਰਨੀ ਛੱਡ ਦਿੱਤੀ ਹੈ",
+        "ft": "ਮੈਲੇ ਕਪੜੇ ਕਹਾਂ ਤਕ ਧੋਵੋਂਗਾ, ਭਾਵ ਨ ਰਿਦਾ ਮੈਲਾ ਹੋਣਾ ਹੈ ਅਰੁ ਸੁਧ ਕਰਨਾ ਹੈ॥",
+        "bdb": "(ਸਾਧ ਸੰਗਤਿ ਦੀ ਬਰਕਤਿ ਨਾਲ) ਹੁਣ ਮੈਂ ਪਰਾਈ ਨਿੰਦਿਆ ਕਰਨੀ ਛੱਡ ਦਿੱਤੀ ਹੈ",
+        "ms": "ਗੰਦੀ ਹੈ ਮੇਰੀ ਪੁਸ਼ਾਕ। ਕਦੋ ਤਾਂਈ ਮੈਂ ਇਸ ਨੂੰ ਧੋਦਾਂ ਰਹਾਂਗਾ?"
+      },
+      "es": {
+        "sn": "¿Qué tanto debo lavar estos trapos sucios, "
+      },
+      "hi": {
+        "ss": "(साध-संगति की बरकति से) अब मैंने पराई निंदा करनी छोड़ दी है।",
+        "sts": "पराई निंदा द्वारा मैले कपड़े कहाँ तक धोऊँगा।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 23174,
+    "Seq": 640,
+    "header": 0,
+    "Paragraph": 16,
+    "Gurmukhi": "AwvYgI nId khw lgu sovau ]1]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "aavaigee needh kahaa lag sovau ||1||",
+      "hi": "आवैगी नीद कहा लगु सोवउ ॥१॥",
+      "ipa": "əɑʋæGi nid̪ kəhɑ ləG sɔʋo.1.",
+      "ur": "آوَےگیِ نیِد کها لگ سووا ۔۔۱۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "How long shall I remain asleep? ||1||",
+        "ms": "How long shall I remain slumbering in this sleep, which has come upon me?",
+        "ssk": "How long shall I remain asleep? ||1||"
+      },
+      "pu": {
+        "ss": "sqsMg ivc rihx krky) nwh mYƒ AigAwnqw dI nINd AwvygI Aqy nwh hI mYN Zw&l hovWgw [1[",
+        "ft": "ies qRh ikQoN qweIN AividAw inMdRw AwvYgI Aru khW qk sovoNgw, Bwv n AividAw hY n Acyq rhWgw]1]",
+        "bdb": "sqsMg ivc rihx krky) nwh mYƒ AigAwnqw dI nINd AwvygI Aqy nwh hI mYN Zw&l hovWgw [1[",
+        "ms": "mYN kdo qoVI ies inMdR AMdr su`qw rhWgw ijhVIh myrI auqy Aw geI hY?"
+      },
+      "puu": {
+        "ss": "ਸਤਸੰਗ ਵਿਚ ਰਹਿਣ ਕਰਕੇ) ਨਾਹ ਮੈਨੂੰ ਅਗਿਆਨਤਾ ਦੀ ਨੀਂਦ ਆਵੇਗੀ ਅਤੇ ਨਾਹ ਹੀ ਮੈਂ ਗ਼ਾਫ਼ਲ ਹੋਵਾਂਗਾ ।੧।",
+        "ft": "ਇਸ ਤ੍ਰਹ ਕਿਥੋਂ ਤਾਈਂ ਅਵਿਦਿਆ ਨਿੰਦ੍ਰਾ ਆਵੈਗੀ ਅਰੁ ਕਹਾਂ ਤਕ ਸੋਵੋਂਗਾ, ਭਾਵ ਨ ਅਵਿਦਿਆ ਹੈ ਨ ਅਚੇਤ ਰਹਾਂਗਾ॥੧॥",
+        "bdb": "ਸਤਸੰਗ ਵਿਚ ਰਹਿਣ ਕਰਕੇ) ਨਾਹ ਮੈਨੂੰ ਅਗਿਆਨਤਾ ਦੀ ਨੀਂਦ ਆਵੇਗੀ ਅਤੇ ਨਾਹ ਹੀ ਮੈਂ ਗ਼ਾਫ਼ਲ ਹੋਵਾਂਗਾ ।੧।",
+        "ms": "ਮੈਂ ਕਦੋ ਤੋੜੀ ਇਸ ਨਿੰਦ੍ਰ ਅੰਦਰ ਸੁੱਤਾ ਰਹਾਂਗਾ ਜਿਹੜੀਹ ਮੇਰੀ ਉਤੇ ਆ ਗਈ ਹੈ?"
+      },
+      "es": {
+        "sn": "y cuánto más permaneceré dormido? (1)"
+      },
+      "hi": {
+        "ss": "(सत्संग में रहने के कारण) ना मुझे अज्ञानता की नींद आएगी और ना ही मैं गाफिल होऊँगा। 1।",
+        "sts": "नींद आएगी तो कहाँ सो सकूंगा Il १॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 23175,
+    "Seq": 650,
+    "header": 0,
+    "Paragraph": 16,
+    "Gurmukhi": "joeI joeI joirE soeI soeI PwitE ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "joiee joiee jorio soiee soiee faaTio ||",
+      "hi": "जोई जोई जोरिओ सोई सोई फाटिओ ॥",
+      "ipa": "d͡ʒɔei d͡ʒɔei d͡ʒɔrɪo sɔei sɔei fɑʈɪo.",
+      "ur": "جوای جوای جوراو سوای سوای پھاٹاو ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Whatever I was attached to, has perished.",
+        "ms": "With whatsoever I was attached, all that has perished.",
+        "ssk": "Whatever I was attached to, has perished."
+      },
+      "pu": {
+        "ss": "(swD sMgq ivc Awaux qoN pihlW) mYN ijqnI ku mMd-krmW dI kmweI kIqI hoeI sI (sqsMg ivc Aw ky) aus swrI dI swrI dw lyKw mu`k igAw hY",
+        "ft": "joeI joeI krm joVw Qw soeI soeI Pt gÎw, Bwv gÎwn kr krm dgD ho gey hYN]",
+        "bdb": "(swD sMgq ivc Awaux qoN pihlW) mYN ijqnI ku mMd-krmW dI kmweI kIqI hoeI sI (sqsMg ivc Aw ky) aus swrI dI swrI dw lyKw mu`k igAw hY",
+        "ms": "ijs iksy nwl BI mYN juiVAw hoieAw sW, auh smUh nws ho igAw hY["
+      },
+      "puu": {
+        "ss": "(ਸਾਧ ਸੰਗਤ ਵਿਚ ਆਉਣ ਤੋਂ ਪਹਿਲਾਂ) ਮੈਂ ਜਿਤਨੀ ਕੁ ਮੰਦ-ਕਰਮਾਂ ਦੀ ਕਮਾਈ ਕੀਤੀ ਹੋਈ ਸੀ (ਸਤਸੰਗ ਵਿਚ ਆ ਕੇ) ਉਸ ਸਾਰੀ ਦੀ ਸਾਰੀ ਦਾ ਲੇਖਾ ਮੁੱਕ ਗਿਆ ਹੈ",
+        "ft": "ਜੋਈ ਜੋਈ ਕਰਮ ਜੋੜਾ ਥਾ ਸੋਈ ਸੋਈ ਫਟ ਗ੍ਯਾ, ਭਾਵ ਗ੍ਯਾਨ ਕਰ ਕਰਮ ਦਗਧ ਹੋ ਗਏ ਹੈਂ॥",
+        "bdb": "(ਸਾਧ ਸੰਗਤ ਵਿਚ ਆਉਣ ਤੋਂ ਪਹਿਲਾਂ) ਮੈਂ ਜਿਤਨੀ ਕੁ ਮੰਦ-ਕਰਮਾਂ ਦੀ ਕਮਾਈ ਕੀਤੀ ਹੋਈ ਸੀ (ਸਤਸੰਗ ਵਿਚ ਆ ਕੇ) ਉਸ ਸਾਰੀ ਦੀ ਸਾਰੀ ਦਾ ਲੇਖਾ ਮੁੱਕ ਗਿਆ ਹੈ",
+        "ms": "ਜਿਸ ਕਿਸੇ ਨਾਲ ਭੀ ਮੈਂ ਜੁੜਿਆ ਹੋਇਆ ਸਾਂ, ਉਹ ਸਮੂਹ ਨਾਸ ਹੋ ਗਿਆ ਹੈ।"
+      },
+      "es": {
+        "sn": "A lo que estaba apegado, ya pereció, "
+      },
+      "hi": {
+        "ss": "(साध-संगति में आने से पहले) मैंने जितनी भी बुरे-कर्मों की कमाई की हुई थी (सत्संग में आ के) उस सारी की सारी का लेखा समाप्त हो गया है।",
+        "sts": "जो जो कुटिल कर्म करके लेखा-जोखा इकठ्ठा किया था, वह हिसाब फट गया है।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 23176,
+    "Seq": 660,
+    "header": 0,
+    "Paragraph": 16,
+    "Gurmukhi": "JUTY bnij auiT hI geI hwitE ]2]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 1,
+          "t": "v"
+        },
+        {
+          "p": 4,
+          "t": "y"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 1,
+          "t": "v"
+        },
+        {
+          "p": 4,
+          "t": "y"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "jhooThai banaj uTh hee giee haaTio ||2||",
+      "hi": "झूठै बनजि उठि ही गई हाटिओ ॥२॥",
+      "ipa": "ɖ͡ʐuʈʰæ bənəd͡ʒ oʊʈʰ hi Gei hɑʈɪo.2.",
+      "ur": "جھُوٹھَے بنج اُٹھ هیِ گای هاٹاو ۔۔۲۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "The shop of false merchandise has closed down. ||2||",
+        "ms": "The shop of spurious trade has closed.",
+        "ssk": "The shop of false merchandise has closed down. ||2||"
+      },
+      "pu": {
+        "ss": "JUTy vxj ivc (l`g ky mYN jo h`tI pweI hoeI sI, swD sMgiq dI ikrpw nwl) auh h`tI hI au~T geI hY [2[",
+        "ft": "JUTo bxj kI h`tI, Bwv dyhohM buDI auT geI ArQwq nSt ho geI hY]2]",
+        "bdb": "JUTy vxj ivc (l`g ky mYN jo h`tI pweI hoeI sI, swD sMgiq dI ikrpw nwl) auh h`tI hI au~T geI hY [2[",
+        "ms": "kUVy vwpwr dI h`tI bMd ho geI hY["
+      },
+      "puu": {
+        "ss": "ਝੂਠੇ ਵਣਜ ਵਿਚ (ਲੱਗ ਕੇ ਮੈਂ ਜੋ ਹੱਟੀ ਪਾਈ ਹੋਈ ਸੀ, ਸਾਧ ਸੰਗਤਿ ਦੀ ਕਿਰਪਾ ਨਾਲ) ਉਹ ਹੱਟੀ ਹੀ ਉੱਠ ਗਈ ਹੈ ।੨।",
+        "ft": "ਝੂਠੋ ਬਣਜ ਕੀ ਹੱਟੀ, ਭਾਵ ਦੇਹੋਹੰ ਬੁਧੀ ਉਠ ਗਈ ਅਰਥਾਤ ਨਸ਼ਟ ਹੋ ਗਈ ਹੈ॥੨॥",
+        "bdb": "ਝੂਠੇ ਵਣਜ ਵਿਚ (ਲੱਗ ਕੇ ਮੈਂ ਜੋ ਹੱਟੀ ਪਾਈ ਹੋਈ ਸੀ, ਸਾਧ ਸੰਗਤਿ ਦੀ ਕਿਰਪਾ ਨਾਲ) ਉਹ ਹੱਟੀ ਹੀ ਉੱਠ ਗਈ ਹੈ ।੨।",
+        "ms": "ਕੂੜੇ ਵਾਪਾਰ ਦੀ ਹੱਟੀ ਬੰਦ ਹੋ ਗਈ ਹੈ।"
+      },
+      "es": {
+        "sn": "la tienda de la mercancía falsa ya cerró. (2)"
+      },
+      "hi": {
+        "ss": "झूठे वणज में (लग के मैंने जो दुकान खोली हुई थी। साध-संगति की कृपा से) वह दुकान ही उठ गई है। 2।",
+        "sts": "झूठे व्यापार की दुकान बंद ही हो गई है॥२॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 23177,
+    "Seq": 670,
+    "header": 0,
+    "Paragraph": 16,
+    "Gurmukhi": "khu rivdws BieE jb lyKo ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "kahu ravidhaas bhio jab lekho ||",
+      "hi": "कहु रविदास भइओ जब लेखो ॥",
+      "ipa": "kəh rəʋɪd̪ɑs ɓeɪo d͡ʒəb lekʰɔ.",
+      "ur": "کهُ روداس بھِااو جب لےکھو ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Says Ravi Daas, when the account is called for and given,",
+        "ms": "Says Ravidass, when the account is taken.",
+        "ssk": "Says Ravi Daas, when the account is called for and given,"
+      },
+      "pu": {
+        "ss": "hy rivdws! AwK—(swD sMgiq ivc Aw ky) jdoN mYN Awpy vl Jwq mwrI, ",
+        "ft": "rivdws jI khqy hYN: jb pRlok myN lyKw hUAw]",
+        "bdb": "hy rivdws! AwK—(swD sMgiq ivc Aw ky) jdoN mYN Awpy vl Jwq mwrI, ",
+        "ms": "rivdws jI AwKdy hn, jd ieswb ikqwb ilAw jWdw hY["
+      },
+      "puu": {
+        "ss": "ਹੇ ਰਵਿਦਾਸ! ਆਖ—(ਸਾਧ ਸੰਗਤਿ ਵਿਚ ਆ ਕੇ) ਜਦੋਂ ਮੈਂ ਆਪੇ ਵਲ ਝਾਤ ਮਾਰੀ, ",
+        "ft": "ਰਵਿਦਾਸ ਜੀ ਕਹਤੇ ਹੈਂ: ਜਬ ਪ੍ਰਲੋਕ ਮੇਂ ਲੇਖਾ ਹੂਆ॥",
+        "bdb": "ਹੇ ਰਵਿਦਾਸ! ਆਖ—(ਸਾਧ ਸੰਗਤਿ ਵਿਚ ਆ ਕੇ) ਜਦੋਂ ਮੈਂ ਆਪੇ ਵਲ ਝਾਤ ਮਾਰੀ, ",
+        "ms": "ਰਵਿਦਾਸ ਜੀ ਆਖਦੇ ਹਨ, ਜਦ ਇਸਾਬ ਕਿਤਾਬ ਲਿਆ ਜਾਂਦਾ ਹੈ।"
+      },
+      "es": {
+        "sn": "Dice Ravi Das, cuando las cuentas llegan, "
+      },
+      "hi": {
+        "ss": "(ये तब्दीली कैसे आई। ) हे रविदास ! कह- (साध-संगति में आ कर) जब मैंने अपने अंदर झाँका।",
+        "sts": "रविदास जी कहते हैं कि जब कर्मों का हिसाब होता है तो"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 23178,
+    "Seq": 680,
+    "header": 0,
+    "Paragraph": 16,
+    "Gurmukhi": "joeI joeI kIno soeI soeI dyiKE ]3]1]3]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "joiee joiee keeno soiee soiee dhekhio ||3||1||3||",
+      "hi": "जोई जोई कीनो सोई सोई देखिओ ॥३॥१॥३॥",
+      "ipa": "d͡ʒɔei d͡ʒɔei kinɔ sɔei sɔei d̪ekʰɪo.3.1.3.",
+      "ur": "جوای جوای کیٍنو سوای سوای دےکھاو ۔۔۳۔۔۱۔۔۳۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "whatever the mortal has done, he shall see. ||3||1||3||",
+        "ms": "Whatsoever the mortal has done; all that he beholds.",
+        "ssk": "whatever the mortal has done, he shall see. ||3||1||3||"
+      },
+      "pu": {
+        "ss": "qW jo jo krm mYN kIqw hoieAw sI auh sB kuJ pRq`K id`s ipAw (qy mYN mMdy krmW qoN Srmw ky iehnW vloN ht igAw) [3[3[",
+        "ft": "qO jo jo pUrb krm kIAw Qw soeI soeI krm kw Plu jIv ny dyKw hY; vw jb As`q s`q kw bIcwr rUpu lyKw hUAw, qb jo jo krmu kIAw Qw, so so imiQAw dyKw hY]3]3]ÇswDoN kI sMgiq kw PlH idKwvqy hUey aupdys krqy hYN:",
+        "bdb": "qW jo jo krm mYN kIqw hoieAw sI auh sB kuJ pRq`K id`s ipAw (qy mYN mMdy krmW qoN Srmw ky iehnW vloN ht igAw) [3[3[",
+        "ms": "ijhVw kuC BI pRwxI ny kIqw hY, aus swry ƒ auh vyK lYNdw hY["
+      },
+      "puu": {
+        "ss": "ਤਾਂ ਜੋ ਜੋ ਕਰਮ ਮੈਂ ਕੀਤਾ ਹੋਇਆ ਸੀ ਉਹ ਸਭ ਕੁਝ ਪ੍ਰਤੱਖ ਦਿੱਸ ਪਿਆ (ਤੇ ਮੈਂ ਮੰਦੇ ਕਰਮਾਂ ਤੋਂ ਸ਼ਰਮਾ ਕੇ ਇਹਨਾਂ ਵਲੋਂ ਹਟ ਗਿਆ) ।੩।੩।",
+        "ft": "ਤੌ ਜੋ ਜੋ ਪੂਰਬ ਕਰਮ ਕੀਆ ਥਾ ਸੋਈ ਸੋਈ ਕਰਮ ਕਾ ਫਲੁ ਜੀਵ ਨੇ ਦੇਖਾ ਹੈ; ਵਾ ਜਬ ਅਸੱਤ ਸੱਤ ਕਾ ਬੀਚਾਰ ਰੂਪੁ ਲੇਖਾ ਹੂਆ, ਤਬ ਜੋ ਜੋ ਕਰਮੁ ਕੀਆ ਥਾ, ਸੋ ਸੋ ਮਿਥਿਆ ਦੇਖਾ ਹੈ॥੩॥੩॥☬ਸਾਧੋਂ ਕੀ ਸੰਗਤਿ ਕਾ ਫਲ੍ਹ ਦਿਖਾਵਤੇ ਹੂਏ ਉਪਦੇਸ ਕਰਤੇ ਹੈਂ:",
+        "bdb": "ਤਾਂ ਜੋ ਜੋ ਕਰਮ ਮੈਂ ਕੀਤਾ ਹੋਇਆ ਸੀ ਉਹ ਸਭ ਕੁਝ ਪ੍ਰਤੱਖ ਦਿੱਸ ਪਿਆ (ਤੇ ਮੈਂ ਮੰਦੇ ਕਰਮਾਂ ਤੋਂ ਸ਼ਰਮਾ ਕੇ ਇਹਨਾਂ ਵਲੋਂ ਹਟ ਗਿਆ) ।੩।੩।",
+        "ms": "ਜਿਹੜਾ ਕੁਛ ਭੀ ਪ੍ਰਾਣੀ ਨੇ ਕੀਤਾ ਹੈ, ਉਸ ਸਾਰੇ ਨੂੰ ਉਹ ਵੇਖ ਲੈਂਦਾ ਹੈ।"
+      },
+      "es": {
+        "sn": "todo lo que el mortal ha hecho lo va a saber y a pagar. (3-1-3) "
+      },
+      "hi": {
+        "ss": "तब जो-जो कर्म मैंने किए हुए थे वे सब कुछ प्रत्यक्ष दिखाई दे गए (और मैं बुरे-कर्मों से शर्मा के इनसे दूर हट गया)। 3।",
+        "sts": "जो-जो शुभाशुभ कर्म किया होता है, वही दिखाई देता है॥३॥१॥३॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  }
+]

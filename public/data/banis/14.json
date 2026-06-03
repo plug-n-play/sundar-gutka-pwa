@@ -1,0 +1,1244 @@
+[
+  {
+    "ID": 2404,
+    "Seq": 1,
+    "header": 1,
+    "Paragraph": 1,
+    "Gurmukhi": "<> siqgur pRswid ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "ikOankaar satigur prasaadh ||",
+      "hi": "ੴ सतिगुर प्रसादि ॥",
+      "ipa": "ɪk oəŋkɑɾ sət̪ɪGʊr pɹəsɑd̪.",
+      "ur": "اک اونکار ستگر پرساد ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "One Universal Creator God. By The Grace Of The True Guru:",
+        "ms": "There is but One God. By the True Guru's grace, He is obtained.",
+        "ssk": "One Universal Creator God. By The Grace Of The True Guru:"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": "vwihgurU kyvl iek hY[ s¤cy gurW dI dieAw duAwrw auh pwieAw jWdw hY["
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": "ਵਾਹਿਗੁਰੂ ਕੇਵਲ ਇਕ ਹੈ। ਸੱਚੇ ਗੁਰਾਂ ਦੀ ਦਇਆ ਦੁਆਰਾ ਉਹ ਪਾਇਆ ਜਾਂਦਾ ਹੈ।"
+      },
+      "es": {
+        "sn": "Un Dios Creador del Universo, por la Gracia del Verdadero Guru"
+      },
+      "hi": {
+        "ss": "",
+        "sts": "ੴ सतिगुर प्रसादि ॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": "above"
+  },
+  {
+    "ID": 2405,
+    "Seq": 2,
+    "header": 2,
+    "Paragraph": 2,
+    "Gurmukhi": "rwgu sUhI mhlw 1 kucjI",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 3,
+          "t": "v"
+        },
+        {
+          "p": 1,
+          "t": "y"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 3,
+          "t": "v"
+        },
+        {
+          "p": 1,
+          "t": "y"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "raag soohee mahalaa pehilaa kuchajee",
+      "hi": "रागु सूही महला १ कुचजी",
+      "ipa": "rɑG suhi məhəlɑ pəhɪlɑ kʊt͡ʃəd͡ʒi",
+      "ur": "راگ سُوهیِ مهلا ۱ کُچجیِ"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Raag Soohee, First Mehla, Kuchajee ~ The Ungraceful Bride:",
+        "ms": "Rag Suhi, 1st Guru, Kuchaji.",
+        "ssk": "Raag Soohee, First Mehl, Kuchajee ~ The Ungraceful Bride:"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "(kucjI) suB Acwr rihq kw nwm hY ArQwq mMd AiDkwrI[",
+        "bdb": null,
+        "ms": "rwg sUhI pihlI pwiqSwhI kuc`jI["
+      },
+      "puu": {
+        "ss": null,
+        "ft": "(ਕੁਚਜੀ) ਸੁਭ ਅਚਾਰ ਰਹਿਤ ਕਾ ਨਾਮ ਹੈ ਅਰਥਾਤ ਮੰਦ ਅਧਿਕਾਰੀ।",
+        "bdb": null,
+        "ms": "ਰਾਗ ਸੂਹੀ ਪਹਿਲੀ ਪਾਤਿਸ਼ਾਹੀ ਕੁਚੱਜੀ।"
+      },
+      "es": {
+        "sn": "Rag Suji, Mejl Guru Nanak, Primer Canal Divino, Kuchayi. La Novia no grata."
+      },
+      "hi": {
+        "ss": "",
+        "sts": "रागु सूही महला १ कुचजी"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 2406,
+    "Seq": 3,
+    "header": 1,
+    "Paragraph": 3,
+    "Gurmukhi": "<> siqgur pRswid ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "ikOankaar satigur prasaadh ||",
+      "hi": "ੴ सतिगुर प्रसादि ॥",
+      "ipa": "ɪk oəŋkɑɾ sət̪ɪGʊr pɹəsɑd̪.",
+      "ur": "اک اونکار ستگر پرساد ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "One Universal Creator God. By The Grace Of The True Guru:",
+        "ms": "There is but One God. By the True Guru's grace, He is obtained.",
+        "ssk": "One Universal Creator God. By The Grace Of The True Guru:"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": "vwihgurU kyvl iek hY[ s¤cy gurW dI dieAw duAwrw auh pwieAw jWdw hY["
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": "ਵਾਹਿਗੁਰੂ ਕੇਵਲ ਇਕ ਹੈ। ਸੱਚੇ ਗੁਰਾਂ ਦੀ ਦਇਆ ਦੁਆਰਾ ਉਹ ਪਾਇਆ ਜਾਂਦਾ ਹੈ।"
+      },
+      "es": {
+        "sn": "Un Dios Creador del Universo, por la Gracia del Verdadero Guru"
+      },
+      "hi": {
+        "ss": "",
+        "sts": "ੴ सतिगुर प्रसादि ॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": "current"
+  },
+  {
+    "ID": 2407,
+    "Seq": 4,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "mM\\u kucjI AMmwvix fosVy hau ikau shu rwvix jwau jIau ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "ma(n)n(j) kuchajee a(n)maavan ddosaRe hau kiau sahu raavan jaau jeeau ||",
+      "hi": "मंञु कुचजी अंमावणि डोसड़े हउ किउ सहु रावणि जाउ जीउ ॥",
+      "ipa": "məŋŋ kʊt͡ʃəd͡ʒi əŋmɑʋəɳ ɖɔsəɽe ho kɪo səh rɑʋəɳ d͡ʒɑo d͡ʒio.",
+      "ur": "مںنج کُچجیِ اںماوݨ ڈوسڑے ها کا سهُ راوݨ جاا جیِاُ ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "I am ungraceful and ill-mannered, full of endless faults. How can I go to enjoy my Husband Lord?",
+        "ms": "I am ill-mannered. In me are infinite demerits. How can I go to enjoy my spouse?",
+        "ssk": "I am ungraceful and ill-mannered, full of endless faults. How can I go to enjoy my Husband Lord?"
+      },
+      "pu": {
+        "ss": "(hy shylIey!) mYN shI jIvn dw c`j nhIN is`iKAw, myry AMdr ieqny AYb hn ik AMdr smw hI nhIN skdy (ies hwlq ivc) mYN pRBU-pqI ƒ pRsMn krn leI ikvyN jw skdI hW?",
+        "ft": "mDm sKI auqm pws hwl kihqI hY: mYN kucjI hUM, Bwv mYN suB krmoN sy rihq hUM[ (AMmwvix) ieqny doS myry myN hYN ArQwq bhuq hYN, jo smJwie nhIN jw skqy[ mYN iks pRkwr pqI ky AwnMd ko Bogxy jwaUN, Bwv AMqrmuK ho ky AwnMd kYsy BogUM?",
+        "bdb": "(hy shylIey!) mYN shI jIvn dw c`j nhIN is`iKAw, myry AMdr ieqny AYb hn ik AMdr smw hI nhIN skdy (ies hwlq ivc) mYN pRBU-pqI ƒ pRsMn krn leI ikvyN jw skdI hW?",
+        "ms": "mYN by-SwaurI hW, myry iv`c byAMq Awaugx hn[ mYN iks qrHW Awpxy pqI ƒ mwnx leI jw skdI hW?"
+      },
+      "puu": {
+        "ss": "(ਹੇ ਸਹੇਲੀਏ!) ਮੈਂ ਸਹੀ ਜੀਵਨ ਦਾ ਚੱਜ ਨਹੀਂ ਸਿੱਖਿਆ, ਮੇਰੇ ਅੰਦਰ ਇਤਨੇ ਐਬ ਹਨ ਕਿ ਅੰਦਰ ਸਮਾ ਹੀ ਨਹੀਂ ਸਕਦੇ (ਇਸ ਹਾਲਤ ਵਿਚ) ਮੈਂ ਪ੍ਰਭੂ-ਪਤੀ ਨੂੰ ਪ੍ਰਸੰਨ ਕਰਨ ਲਈ ਕਿਵੇਂ ਜਾ ਸਕਦੀ ਹਾਂ?",
+        "ft": "ਮਧਮ ਸਖੀ ਉਤਮ ਪਾਸ ਹਾਲ ਕਹਿਤੀ ਹੈ: ਮੈਂ ਕੁਚਜੀ ਹੂੰ, ਭਾਵ ਮੈਂ ਸੁਭ ਕਰਮੋਂ ਸੇ ਰਹਿਤ ਹੂੰ। (ਅੰਮਾਵਣਿ) ਇਤਨੇ ਦੋਸ਼ ਮੇਰੇ ਮੇਂ ਹੈਂ ਅਰਥਾਤ ਬਹੁਤ ਹੈਂ, ਜੋ ਸਮਝਾਇ ਨਹੀਂ ਜਾ ਸਕਤੇ। ਮੈਂ ਕਿਸ ਪ੍ਰਕਾਰ ਪਤੀ ਕੇ ਆਨੰਦ ਕੋ ਭੋਗਣੇ ਜਾਊਂ, ਭਾਵ ਅੰਤਰਮੁਖ ਹੋ ਕੇ ਆਨੰਦ ਕੈਸੇ ਭੋਗੂੰ?",
+        "bdb": "(ਹੇ ਸਹੇਲੀਏ!) ਮੈਂ ਸਹੀ ਜੀਵਨ ਦਾ ਚੱਜ ਨਹੀਂ ਸਿੱਖਿਆ, ਮੇਰੇ ਅੰਦਰ ਇਤਨੇ ਐਬ ਹਨ ਕਿ ਅੰਦਰ ਸਮਾ ਹੀ ਨਹੀਂ ਸਕਦੇ (ਇਸ ਹਾਲਤ ਵਿਚ) ਮੈਂ ਪ੍ਰਭੂ-ਪਤੀ ਨੂੰ ਪ੍ਰਸੰਨ ਕਰਨ ਲਈ ਕਿਵੇਂ ਜਾ ਸਕਦੀ ਹਾਂ?",
+        "ms": "ਮੈਂ ਬੇ-ਸ਼ਾਉਰੀ ਹਾਂ, ਮੇਰੇ ਵਿੱਚ ਬੇਅੰਤ ਆਉਗਣ ਹਨ। ਮੈਂ ਕਿਸ ਤਰ੍ਹਾਂ ਆਪਣੇ ਪਤੀ ਨੂੰ ਮਾਨਣ ਲਈ ਜਾ ਸਕਦੀ ਹਾਂ?"
+      },
+      "es": {
+        "sn": "Me encuentro sin un solo mérito e inmensos son mis errores; ¿cómo entonces podré gozar de mi Señor? "
+      },
+      "hi": {
+        "ss": "(हे सहेली !) मैंने सही जीवन की जाच नहीं सीखी।मेरे अंदर इतने ऐब हैं कि अंदर समा ही नहीं सकते (इस हालत में) मैं प्रभू-पति को प्रसन्न करने के लिए कैसे जा सकती हूँ।",
+        "sts": "हे मेरी सखी ! मैं शुभ गुणों से विहीन हूँ और मुझ में अनंत दोष हैं। फिर मैं अपने पति-प्रभु से कैसे रमण करने जाऊँ ?"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 2408,
+    "Seq": 5,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "iek dU ieik cVMdIAw kauxu jwxY myrw nwau jIau ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "eik dhoo ik chaRa(n)dheeaa kaun jaanai meraa naau jeeau ||",
+      "hi": "इक दू इकि चड़ंदीआ कउणु जाणै मेरा नाउ जीउ ॥",
+      "ipa": "eɪk d̪u eɪk t͡ʃəɽəŋd̪iəɑ koʊɳ d͡ʒɑɳæ merɑ nɑo d͡ʒio.",
+      "ur": "ِاک دُو اک چڑںدیِآ کاݨ جاݨَے مےرا ناا جیِا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Each of His soul-brides is better than the rest - who even knows my name?",
+        "ms": "Amongst my Spouse's brides, one is better than the other. Who is there, that knows my name even?",
+        "ssk": "Each of His soul-brides is better than the rest - who even knows my name?"
+      },
+      "pu": {
+        "ss": "(aus dy dr qy qW) iek dUjI qoN vDIAw qoN vDIAw hn, myrw qW auQy koeI nwm BI nhIN jwxdw [",
+        "ft": "prmysr ky pws qo eyk sy eyk sRySt hY aUhW myrw nwm kOn jwnqw hY, Bwv mYN iks igxqI myN hUM]",
+        "bdb": "(aus dy dr qy qW) iek dUjI qoN vDIAw qoN vDIAw hn, myrw qW auQy koeI nwm BI nhIN jwxdw [",
+        "ms": "myry kMq dIAW vhutIAW iv`c iek qoN iek cVHdI qoN cVHdI hY[ auQy myrw nwm BI kOx jwxdw hY?"
+      },
+      "puu": {
+        "ss": "(ਉਸ ਦੇ ਦਰ ਤੇ ਤਾਂ) ਇਕ ਦੂਜੀ ਤੋਂ ਵਧੀਆ ਤੋਂ ਵਧੀਆ ਹਨ, ਮੇਰਾ ਤਾਂ ਉਥੇ ਕੋਈ ਨਾਮ ਭੀ ਨਹੀਂ ਜਾਣਦਾ ।",
+        "ft": "ਪਰਮੇਸਰ ਕੇ ਪਾਸ ਤੋ ਏਕ ਸੇ ਏਕ ਸ੍ਰੇਸ਼ਟ ਹੈ ਊਹਾਂ ਮੇਰਾ ਨਾਮ ਕੌਨ ਜਾਨਤਾ ਹੈ, ਭਾਵ ਮੈਂ ਕਿਸ ਗਿਣਤੀ ਮੇਂ ਹੂੰ॥",
+        "bdb": "(ਉਸ ਦੇ ਦਰ ਤੇ ਤਾਂ) ਇਕ ਦੂਜੀ ਤੋਂ ਵਧੀਆ ਤੋਂ ਵਧੀਆ ਹਨ, ਮੇਰਾ ਤਾਂ ਉਥੇ ਕੋਈ ਨਾਮ ਭੀ ਨਹੀਂ ਜਾਣਦਾ ।",
+        "ms": "ਮੇਰੇ ਕੰਤ ਦੀਆਂ ਵਹੁਟੀਆਂ ਵਿੱਚ ਇਕ ਤੋਂ ਇਕ ਚੜ੍ਹਦੀ ਤੋਂ ਚੜ੍ਹਦੀ ਹੈ। ਉਥੇ ਮੇਰਾ ਨਾਮ ਭੀ ਕੌਣ ਜਾਣਦਾ ਹੈ?"
+      },
+      "es": {
+        "sn": "El Esposo es buscado y seguido por muchos más, cada uno mejor que el otro; ¿quién hay ahí que sepa siquiera mi nombre?"
+      },
+      "hi": {
+        "ss": "(उसके दर पर तो) एक से बढ़ कर एक हैं।मेरा तो वहाँ कोई नाम भी नहीं जानता।",
+        "sts": "उसके पास एक से बढ़कर एक गुणवान जीवात्माएँ हैं और वहाँ कौन मेरा नाम जानता है ?"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 2409,
+    "Seq": 6,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "ijn@I sKI shu rwivAw sy AMbI CwvVIeyih jIau ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 3,
+          "t": "v"
+        },
+        {
+          "p": 6,
+          "t": "y"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 3,
+          "t": "v"
+        },
+        {
+          "p": 6,
+          "t": "y"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "jin(h)ee sakhee sahu raaviaa se a(n)bee chhaavaRe'eh jeeau ||",
+      "hi": "जिन्नी सखी सहु राविआ से अंबी छावड़ीएहि जीउ ॥",
+      "ipa": "d͡ʒɪn@i səkʰi səh rɑʋɪəɑ se əŋbi ɕɑʋəɽieeh d͡ʒio.",
+      "ur": "جٍنھیِ سکھیِ سهُ راوآ سے اںبیِ چھاوڑیِاےه جیِا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Those brides who enjoy their Husband Lord are very blessed, resting in the shade of the mango tree.",
+        "ms": "The mates who enjoy their Groom; They are in the shade of mango(very fortunate).",
+        "ssk": "Those brides who enjoy their Husband Lord are very blessed, resting in the shade of the mango tree."
+      },
+      "pu": {
+        "ss": "ijnHW shylIAW ny pRBU-pqI ƒ pRsMn kr ilAw hY auh, mwno, (cumwsy ivc) AMbW dIAW (TMFIAW) CwvW ivc bYTIAW hoeIAW hn ",
+        "ft": "ijn sKIEN ny pqI (rwivAw) BoigAw, Bwv pwieAw hY vhu AMboN kI CwauN hyT bYTIAW hYN ArQwq vhu siq sMgiq vw SuB guxoN ky Awsry SWqI myN ho rhI hYN]",
+        "bdb": "ijnHW shylIAW ny pRBU-pqI ƒ pRsMn kr ilAw hY auh, mwno, (cumwsy ivc) AMbW dIAW (TMFIAW) CwvW ivc bYTIAW hoeIAW hn ",
+        "ms": "jo shylIAW Awpxy Brqy ƒ mwxdIAW hn, auh AMb dI QW hyTW (vfBwgxW) hn["
+      },
+      "puu": {
+        "ss": "ਜਿਨ੍ਹਾਂ ਸਹੇਲੀਆਂ ਨੇ ਪ੍ਰਭੂ-ਪਤੀ ਨੂੰ ਪ੍ਰਸੰਨ ਕਰ ਲਿਆ ਹੈ ਉਹ, ਮਾਨੋ, (ਚੁਮਾਸੇ ਵਿਚ) ਅੰਬਾਂ ਦੀਆਂ (ਠੰਢੀਆਂ) ਛਾਵਾਂ ਵਿਚ ਬੈਠੀਆਂ ਹੋਈਆਂ ਹਨ ",
+        "ft": "ਜਿਨ ਸਖੀਓਂ ਨੇ ਪਤੀ (ਰਾਵਿਆ) ਭੋਗਿਆ, ਭਾਵ ਪਾਇਆ ਹੈ ਵਹੁ ਅੰਬੋਂ ਕੀ ਛਾਉਂ ਹੇਠ ਬੈਠੀਆਂ ਹੈਂ ਅਰਥਾਤ ਵਹੁ ਸਤਿ ਸੰਗਤਿ ਵਾ ਸ਼ੁਭ ਗੁਣੋਂ ਕੇ ਆਸਰੇ ਸ਼ਾਂਤੀ ਮੇਂ ਹੋ ਰਹੀ ਹੈਂ॥",
+        "bdb": "ਜਿਨ੍ਹਾਂ ਸਹੇਲੀਆਂ ਨੇ ਪ੍ਰਭੂ-ਪਤੀ ਨੂੰ ਪ੍ਰਸੰਨ ਕਰ ਲਿਆ ਹੈ ਉਹ, ਮਾਨੋ, (ਚੁਮਾਸੇ ਵਿਚ) ਅੰਬਾਂ ਦੀਆਂ (ਠੰਢੀਆਂ) ਛਾਵਾਂ ਵਿਚ ਬੈਠੀਆਂ ਹੋਈਆਂ ਹਨ ",
+        "ms": "ਜੋ ਸਹੇਲੀਆਂ ਆਪਣੇ ਭਰਤੇ ਨੂੰ ਮਾਣਦੀਆਂ ਹਨ, ਉਹ ਅੰਬ ਦੀ ਥਾਂ ਹੇਠਾਂ (ਵਡਭਾਗਣਾਂ) ਹਨ।"
+      },
+      "es": {
+        "sn": "Las almas que gozan de su Esposo están bendecidas y descansan bajo la sombra de un árbol de mango"
+      },
+      "hi": {
+        "ss": "जिन सहेलियों ने प्रभू-पति को प्रसन्न कर लिया है।वह मानो (चौमासे में) आमों की (ठंडी) छाया में बैठी हुई हैं।",
+        "sts": "मेरी जिन सखियों ने प्रभु से रमण किया है, वे तो आमों की छाया में बैठी हुई हैं।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 2410,
+    "Seq": 7,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "sy gux mM\\u n AwvnI hau kY jI dos Dryau jIau ]",
+    "Visraam": {
+      "sttm": [],
+      "igurbani": [],
+      "sttm2": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "se gun ma(n)n(j) na aavanee hau kai jee dhos dhareau jeeau ||",
+      "hi": "से गुण मंञु न आवनी हउ कै जी दोस धरेउ जीउ ॥",
+      "ipa": "se Gʊɳ məŋŋ nə əɑʋəni ho kæ d͡ʒi d̪ɔs t̪əreo d͡ʒio.",
+      "ur": "سے گُݨ مںنج ن آونیِ ها کَے جیِ دوس دھرےا جیِا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "I do not have their virtue - who can I blame for this?",
+        "ms": "I possess not their virtues. To whom should I attribute the blame?",
+        "ssk": "I do not have their virtue - who can I blame for this?"
+      },
+      "pu": {
+        "ss": "myry AMdr qW auh gux hI nhIN hn (ijnHW auqy pRBU-pqI rIJdw hY) mYN (AwpxI ies ABwgqw dw) dos hor iks ƒ dy skdI hW?",
+        "ft": "vhu gux myry myN nhIN Awvqy iesIsy myry ko sWqI nhIN, mYN iks pr dos DrUM, Bwv sB dos qo myry myN hI hYN]",
+        "bdb": "myry AMdr qW auh gux hI nhIN hn (ijnHW auqy pRBU-pqI rIJdw hY) mYN (AwpxI ies ABwgqw dw) dos hor iks ƒ dy skdI hW?",
+        "ms": "aunHW vwlIAW cMigAweIAW myry iv`c nhIN[ mYN kIhdy auqy dUSx lwvW?"
+      },
+      "puu": {
+        "ss": "ਮੇਰੇ ਅੰਦਰ ਤਾਂ ਉਹ ਗੁਣ ਹੀ ਨਹੀਂ ਹਨ (ਜਿਨ੍ਹਾਂ ਉਤੇ ਪ੍ਰਭੂ-ਪਤੀ ਰੀਝਦਾ ਹੈ) ਮੈਂ (ਆਪਣੀ ਇਸ ਅਭਾਗਤਾ ਦਾ) ਦੋਸ ਹੋਰ ਕਿਸ ਨੂੰ ਦੇ ਸਕਦੀ ਹਾਂ?",
+        "ft": "ਵਹੁ ਗੁਣ ਮੇਰੇ ਮੇਂ ਨਹੀਂ ਆਵਤੇ ਇਸੀਸੇ ਮੇਰੇ ਕੋ ਸਾਂਤੀ ਨਹੀਂ, ਮੈਂ ਕਿਸ ਪਰ ਦੋਸ ਧਰੂੰ, ਭਾਵ ਸਭ ਦੋਸ ਤੋ ਮੇਰੇ ਮੇਂ ਹੀ ਹੈਂ॥",
+        "bdb": "ਮੇਰੇ ਅੰਦਰ ਤਾਂ ਉਹ ਗੁਣ ਹੀ ਨਹੀਂ ਹਨ (ਜਿਨ੍ਹਾਂ ਉਤੇ ਪ੍ਰਭੂ-ਪਤੀ ਰੀਝਦਾ ਹੈ) ਮੈਂ (ਆਪਣੀ ਇਸ ਅਭਾਗਤਾ ਦਾ) ਦੋਸ ਹੋਰ ਕਿਸ ਨੂੰ ਦੇ ਸਕਦੀ ਹਾਂ?",
+        "ms": "ਉਨ੍ਹਾਂ ਵਾਲੀਆਂ ਚੰਗਿਆਈਆਂ ਮੇਰੇ ਵਿੱਚ ਨਹੀਂ। ਮੈਂ ਕੀਹਦੇ ਉਤੇ ਦੂਸ਼ਣ ਲਾਵਾਂ?"
+      },
+      "es": {
+        "sn": "pero no tengo ninguna de sus virtudes, ¿a quién podría culpar por esto?"
+      },
+      "hi": {
+        "ss": "मेरे अंदर तो वह गुण ही नहीं हैं (जिन पर प्रभू-पति रीझता है) मैं (अपने इस दुर्भाग्य का) दोष और किस पर दे सकती हूँ।",
+        "sts": "उन जैसे शुभ गुण मुझ में नहीं हैं। फिर मैं किसे दोष दूँ?"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 2411,
+    "Seq": 8,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "ikAw gux qyry ivQrw hau ikAw ikAw iGnw qyrw nwau jIau ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "kiaa gun tere vitharaa hau kiaa kiaa ghinaa teraa naau jeeau ||",
+      "hi": "किआ गुण तेरे विथरा हउ किआ किआ घिना तेरा नाउ जीउ ॥",
+      "ipa": "kɪəɑ Gʊɳ t̪ere ʋɪt̪ʰərɑ ho kɪəɑ kɪəɑ Gʰɪnɑ t̪erɑ nɑo d͡ʒio.",
+      "ur": "کِآ گُݨ تےرے وتھرا ها کآ کآ گھنا تےرا ناا جیِا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Which of Your Virtues, O Lord, should I speak of? Which of Your Names should I chant?",
+        "ms": "What merits of Thine, O Lord should I narrate? Which! O which Names of Thine shall I take (utter)",
+        "ssk": "Which of Your Virtues, O Lord, should I speak of? Which of Your Names should I chant?"
+      },
+      "pu": {
+        "ss": "hy pRBU-pqI! (qUµ byAMq guxW dw mwlk hYN) mYN qyry kyhVy kyhVy gux ivsQwr nwl d`sW? qy mYN qyrw kyhVw kyhVw nwm lvW? (qyry AnykW guxW ƒ vyK ky qyry AnykW hI nwm jIv lY rhy hn) ",
+        "ft": "hy hrI! mYN kXw kih kr qyry guxoN ko ivsQwrUM, hy prmysr jI! mYN ikAw ikAw qyrw nwm lyaUN]",
+        "bdb": "hy pRBU-pqI! (qUµ byAMq guxW dw mwlk hYN) mYN qyry kyhVy kyhVy gux ivsQwr nwl d`sW? qy mYN qyrw kyhVw kyhVw nwm lvW? (qyry AnykW guxW ƒ vyK ky qyry AnykW hI nwm jIv lY rhy hn) ",
+        "ms": "qyrIAW ikhVIAW KUbIAW vrxn krW, hy suAwmI! ikhVy ikhVy qyry nwm mYN (aucwrn krW) lvW?"
+      },
+      "puu": {
+        "ss": "ਹੇ ਪ੍ਰਭੂ-ਪਤੀ! (ਤੂੰ ਬੇਅੰਤ ਗੁਣਾਂ ਦਾ ਮਾਲਕ ਹੈਂ) ਮੈਂ ਤੇਰੇ ਕੇਹੜੇ ਕੇਹੜੇ ਗੁਣ ਵਿਸਥਾਰ ਨਾਲ ਦੱਸਾਂ? ਤੇ ਮੈਂ ਤੇਰਾ ਕੇਹੜਾ ਕੇਹੜਾ ਨਾਮ ਲਵਾਂ? (ਤੇਰੇ ਅਨੇਕਾਂ ਗੁਣਾਂ ਨੂੰ ਵੇਖ ਕੇ ਤੇਰੇ ਅਨੇਕਾਂ ਹੀ ਨਾਮ ਜੀਵ ਲੈ ਰਹੇ ਹਨ) ",
+        "ft": "ਹੇ ਹਰੀ! ਮੈਂ ਕਯਾ ਕਹਿ ਕਰ ਤੇਰੇ ਗੁਣੋਂ ਕੋ ਵਿਸਥਾਰੂੰ, ਹੇ ਪਰਮੇਸਰ ਜੀ! ਮੈਂ ਕਿਆ ਕਿਆ ਤੇਰਾ ਨਾਮ ਲੇਊਂ॥",
+        "bdb": "ਹੇ ਪ੍ਰਭੂ-ਪਤੀ! (ਤੂੰ ਬੇਅੰਤ ਗੁਣਾਂ ਦਾ ਮਾਲਕ ਹੈਂ) ਮੈਂ ਤੇਰੇ ਕੇਹੜੇ ਕੇਹੜੇ ਗੁਣ ਵਿਸਥਾਰ ਨਾਲ ਦੱਸਾਂ? ਤੇ ਮੈਂ ਤੇਰਾ ਕੇਹੜਾ ਕੇਹੜਾ ਨਾਮ ਲਵਾਂ? (ਤੇਰੇ ਅਨੇਕਾਂ ਗੁਣਾਂ ਨੂੰ ਵੇਖ ਕੇ ਤੇਰੇ ਅਨੇਕਾਂ ਹੀ ਨਾਮ ਜੀਵ ਲੈ ਰਹੇ ਹਨ) ",
+        "ms": "ਤੇਰੀਆਂ ਕਿਹੜੀਆਂ ਖੂਬੀਆਂ ਵਰਣਨ ਕਰਾਂ, ਹੇ ਸੁਆਮੀ! ਕਿਹੜੇ ਕਿਹੜੇ ਤੇਰੇ ਨਾਮ ਮੈਂ (ਉਚਾਰਨ ਕਰਾਂ) ਲਵਾਂ?"
+      },
+      "es": {
+        "sn": "Oh Señor, ¿Cuál de Tus Méritos podría hacerlo mío? ¿Cuál de Tus Nombres podría yo recitar?"
+      },
+      "hi": {
+        "ss": "हे प्रभू पति ! (तू बेअंत गुणों का मालिक है) मैं तेरे कौन-कौन से गुण विस्तार से कहूँ।और मैं तेरा कौन-कौन सा नाम लूँ।(तेरे अनेकों गुणों को देख-देख के तेरा अनेकों ही नाम जीव ले रहे हैं)।",
+        "sts": "हे प्रभु जी ! मैं तेरे क्या गुण वर्णन करूं ? मैं तेरा कौन-कौन सा नाम लूं ?"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 2412,
+    "Seq": 9,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "iekqu toil n AMbVw hau sd kurbwxY qyrY jwau jIau ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 3,
+          "t": "v"
+        },
+        {
+          "p": 7,
+          "t": "y"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 3,
+          "t": "v"
+        },
+        {
+          "p": 7,
+          "t": "y"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "eikat Tol na a(n)baRaa hau sadh kurabaanai terai jaau jeeau ||",
+      "hi": "इकतु टोलि न अंबड़ा हउ सद कुरबाणै तेरै जाउ जीउ ॥",
+      "ipa": "eɪkət̪ ʈɔl nə əŋbəɽɑ ho səd̪ kʊrəbɑɳæ t̪eræ d͡ʒɑo d͡ʒio.",
+      "ur": "ِاکت ٹول ن اںبڑا ها سد کُرباݨَے تےرَے جاا جیِا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "I cannot even reach one of Your Virtues. I am forever a sacrifice to You.",
+        "ms": "I can reach not up to even one virtue of Thine. I am ever a sacrifice unto Thee.",
+        "ssk": "I cannot even reach one of Your Virtues. I am forever a sacrifice to You."
+      },
+      "pu": {
+        "ss": "qyry b^Sy hoey iksy ie`k suMdr pdwrQ dI rwhIN BI (qyrIAW dwqW dy lyKy qk) nhIN phuMc skdI (bs!) mYN qYQoN kurbwn hI kurbwn jWdI hW [",
+        "ft": "qyry eyk aupkwr vw pdwrQ dIey ko mYN nhIN phuMcqI, Bwv bdlw nhIN dy skqI, iesI qy mYN sdw qyry sy kurbwn jwqI hUM]",
+        "bdb": "qyry b^Sy hoey iksy ie`k suMdr pdwrQ dI rwhIN BI (qyrIAW dwqW dy lyKy qk) nhIN phuMc skdI (bs!) mYN qYQoN kurbwn hI kurbwn jWdI hW [",
+        "ms": "mYN qyrI iek nykI ƒ BI Ap`V nhIN skdI[ sdIv hI qyry auqoN GolI jWdI hW["
+      },
+      "puu": {
+        "ss": "ਤੇਰੇ ਬਖ਼ਸ਼ੇ ਹੋਏ ਕਿਸੇ ਇੱਕ ਸੁੰਦਰ ਪਦਾਰਥ ਦੀ ਰਾਹੀਂ ਭੀ (ਤੇਰੀਆਂ ਦਾਤਾਂ ਦੇ ਲੇਖੇ ਤਕ) ਨਹੀਂ ਪਹੁੰਚ ਸਕਦੀ (ਬਸ!) ਮੈਂ ਤੈਥੋਂ ਕੁਰਬਾਨ ਹੀ ਕੁਰਬਾਨ ਜਾਂਦੀ ਹਾਂ ।",
+        "ft": "ਤੇਰੇ ਏਕ ਉਪਕਾਰ ਵਾ ਪਦਾਰਥ ਦੀਏ ਕੋ ਮੈਂ ਨਹੀਂ ਪਹੁੰਚਤੀ, ਭਾਵ ਬਦਲਾ ਨਹੀਂ ਦੇ ਸਕਤੀ, ਇਸੀ ਤੇ ਮੈਂ ਸਦਾ ਤੇਰੇ ਸੇ ਕੁਰਬਾਨ ਜਾਤੀ ਹੂੰ॥",
+        "bdb": "ਤੇਰੇ ਬਖ਼ਸ਼ੇ ਹੋਏ ਕਿਸੇ ਇੱਕ ਸੁੰਦਰ ਪਦਾਰਥ ਦੀ ਰਾਹੀਂ ਭੀ (ਤੇਰੀਆਂ ਦਾਤਾਂ ਦੇ ਲੇਖੇ ਤਕ) ਨਹੀਂ ਪਹੁੰਚ ਸਕਦੀ (ਬਸ!) ਮੈਂ ਤੈਥੋਂ ਕੁਰਬਾਨ ਹੀ ਕੁਰਬਾਨ ਜਾਂਦੀ ਹਾਂ ।",
+        "ms": "ਮੈਂ ਤੇਰੀ ਇਕ ਨੇਕੀ ਨੂੰ ਭੀ ਅਪੱੜ ਨਹੀਂ ਸਕਦੀ। ਸਦੀਵ ਹੀ ਤੇਰੇ ਉਤੋਂ ਘੋਲੀ ਜਾਂਦੀ ਹਾਂ।"
+      },
+      "es": {
+        "sn": "No puedo hacer mía ni siquiera una de Tus Virtudes, por eso ofrezco mi ser un millón de veces en sacrificio a Ti."
+      },
+      "hi": {
+        "ss": "तेरे बख्शे हुए किसी एक सुंदर पदार्थ के द्वारा भी (तेरी दातों के लेखे तक) नहीं पहुँच सकती (बस !) मैं तुझ पर से कुर्बान ही कुर्बान जाती हूँ।",
+        "sts": "तुझे मिलने के लिए मैं किसी एक गुण को भी भी ग्रहण नहीं कर सकती। मैं तुझ पर सदैव कुर्बान जाती हूँ।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 2413,
+    "Seq": 10,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "suienw rupw rMgulw moqI qY mwixku jIau ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "suinaa rupaa ra(n)gulaa motee tai maanik jeeau ||",
+      "hi": "सुइना रुपा रंगुला मोती तै माणिकु जीउ ॥",
+      "ipa": "sʊeɪnɑ rʊpɑ rəŋGʊlɑ mɔt̪i t̪æ mɑɳɪk d͡ʒio.",
+      "ur": "سُانا رُپا رںگلا موتیِ تَے ماݨک جیِا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Gold, silver, pearls and rubies are pleasing.",
+        "ms": "Gold, silver, pearls and rubies are indeed bliss-bestowing.",
+        "ssk": "Gold, silver, pearls and rubies are pleasing."
+      },
+      "pu": {
+        "ss": "(hy shylIey! vyK myrI ABwgqw!) sonw, cWdI, moqI qy hIrw Awidk sohxy kImqI pdwrQ—",
+        "ft": "jo suvrx AO cWdI moqI qQw mwxk (rMgulw) AnMd ky dyxy vwlI vsqU hYN]",
+        "bdb": "(hy shylIey! vyK myrI ABwgqw!) sonw, cWdI, moqI qy hIrw Awidk sohxy kImqI pdwrQ—",
+        "ms": "sonw, cWdI, moqI, hIry Aqy lwl inrsMdyh KuSI dyx vwly hn["
+      },
+      "puu": {
+        "ss": "(ਹੇ ਸਹੇਲੀਏ! ਵੇਖ ਮੇਰੀ ਅਭਾਗਤਾ!) ਸੋਨਾ, ਚਾਂਦੀ, ਮੋਤੀ ਤੇ ਹੀਰਾ ਆਦਿਕ ਸੋਹਣੇ ਕੀਮਤੀ ਪਦਾਰਥ—",
+        "ft": "ਜੋ ਸੁਵਰਣ ਔ ਚਾਂਦੀ ਮੋਤੀ ਤਥਾ ਮਾਣਕ (ਰੰਗੁਲਾ) ਅਨੰਦ ਕੇ ਦੇਣੇ ਵਾਲੀ ਵਸਤੂ ਹੈਂ॥",
+        "bdb": "(ਹੇ ਸਹੇਲੀਏ! ਵੇਖ ਮੇਰੀ ਅਭਾਗਤਾ!) ਸੋਨਾ, ਚਾਂਦੀ, ਮੋਤੀ ਤੇ ਹੀਰਾ ਆਦਿਕ ਸੋਹਣੇ ਕੀਮਤੀ ਪਦਾਰਥ—",
+        "ms": "ਸੋਨਾ, ਚਾਂਦੀ, ਮੋਤੀ, ਹੀਰੇ ਅਤੇ ਲਾਲ ਨਿਰਸੰਦੇਹ ਖੁਸ਼ੀ ਦੇਣ ਵਾਲੇ ਹਨ।"
+      },
+      "es": {
+        "sn": "Disfruto el oro y la plata, así también las perlas y los rubíes; "
+      },
+      "hi": {
+        "ss": "(हे सहेली ! देख मेरे दुर्भाग्य) सोना।चाँदी।मोती और हीरा आदि सुंदर व कीमती पदार्थ- ये चीजें प्रभू-पति ने मुझे दीं।",
+        "sts": "हे सखी ! सोना, चांदी, सुन्दर मोती एवं माणिक्य ये सब वस्तुएँ"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 2414,
+    "Seq": 11,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "sy vsqU sih idqIAw mY iqn@ isau lwieAw icqu jIau ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "se vasatoo seh dhiteeaa mai tin(h) siau laiaa chit jeeau ||",
+      "hi": "से वसतू सहि दितीआ मै तिन्न सिउ लाइआ चितु जीउ ॥",
+      "ipa": "se ʋəsət̪u səh d̪ɪt̪iəɑ mæ t̪ɪn@ sɪo lɑɪɑ t͡ʃɪt̪ d͡ʒio.",
+      "ur": "سے وستُو سهِ دتیِآ مَے تنھ سا لاایا چت جیِا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "My Husband Lord has blessed me with these things, and I have focused my thoughts on them.",
+        "ms": "Such Things my Bridegroom has given to me and I have fixed my heart with them.",
+        "ssk": "My Husband Lord has blessed me with these things, and I have focused my thoughts on them."
+      },
+      "pu": {
+        "ss": "ieh cIzW pRBU-pqI ny mYƒ id`qIAW, mYN (aus ƒ Bulw ky aus dIAW id`qIAW) iehnW cIzW nwl ipAwr pw ilAw [",
+        "ft": "hy swhb! jo qYny dIAw hYN, mYN iqnoN sy icqu lwXw hY]",
+        "bdb": "ieh cIzW pRBU-pqI ny mYƒ id`qIAW, mYN (aus ƒ Bulw ky aus dIAW id`qIAW) iehnW cIzW nwl ipAwr pw ilAw [",
+        "ms": "ieho ijhIAW cIzW myry pqI ny mYƒ id`qIAW hn Aqy mYN aunHW nwl Awpxw idl joV ilAw hY["
+      },
+      "puu": {
+        "ss": "ਇਹ ਚੀਜ਼ਾਂ ਪ੍ਰਭੂ-ਪਤੀ ਨੇ ਮੈਨੂੰ ਦਿੱਤੀਆਂ, ਮੈਂ (ਉਸ ਨੂੰ ਭੁਲਾ ਕੇ ਉਸ ਦੀਆਂ ਦਿੱਤੀਆਂ) ਇਹਨਾਂ ਚੀਜ਼ਾਂ ਨਾਲ ਪਿਆਰ ਪਾ ਲਿਆ ।",
+        "ft": "ਹੇ ਸਾਹਬ! ਜੋ ਤੈਨੇ ਦੀਆ ਹੈਂ, ਮੈਂ ਤਿਨੋਂ ਸੇ ਚਿਤੁ ਲਾਯਾ ਹੈ॥",
+        "bdb": "ਇਹ ਚੀਜ਼ਾਂ ਪ੍ਰਭੂ-ਪਤੀ ਨੇ ਮੈਨੂੰ ਦਿੱਤੀਆਂ, ਮੈਂ (ਉਸ ਨੂੰ ਭੁਲਾ ਕੇ ਉਸ ਦੀਆਂ ਦਿੱਤੀਆਂ) ਇਹਨਾਂ ਚੀਜ਼ਾਂ ਨਾਲ ਪਿਆਰ ਪਾ ਲਿਆ ।",
+        "ms": "ਇਹੋ ਜਿਹੀਆਂ ਚੀਜ਼ਾਂ ਮੇਰੇ ਪਤੀ ਨੇ ਮੈਨੂੰ ਦਿੱਤੀਆਂ ਹਨ ਅਤੇ ਮੈਂ ਉਨ੍ਹਾਂ ਨਾਲ ਆਪਣਾ ਦਿਲ ਜੋੜ ਲਿਆ ਹੈ।"
+      },
+      "es": {
+        "sn": "ellos también son Tu Regalo, y sin embargo, las amo a ellas más que a Ti. "
+      },
+      "hi": {
+        "ss": "(और) मैं (उसको भुला के।उसकी दी हुई) इन चीजों से प्यार डाल बैठी।",
+        "sts": "मेरे प्रभु ने मुझे दी है लेकिन मैंने अपना चित्त इनसे लगा लिया है।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 2415,
+    "Seq": 12,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "mMdr imtI sMdVy pQr kIqy rwis jIau ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "ma(n)dhar miTee sa(n)dhaRe pathar keete raas jeeau ||",
+      "hi": "मंदर मिटी संदड़े पथर कीते रासि जीउ ॥",
+      "ipa": "məŋd̪ər mɪʈi səŋd̪əɽe pət̪ʰər kit̪e rɑs d͡ʒio.",
+      "ur": "مںدر مٹیِ سںدڑے پتھر کیِتے راس جیِا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Palaces of brick and mud are built and decorated with stones;",
+        "ms": "The palaces raised by bricks and mud are adorned with stones.",
+        "ssk": "Palaces of brick and mud are built and decorated with stones;"
+      },
+      "pu": {
+        "ss": "im`tI p`Qr Awidk dy bxwey hoey sohxy Gr—iehI mYN AwpxI rws-pMUjI bxw ley [",
+        "ft": "imtI ky AO p`QroN ky bnwey jo mMdr hYN]",
+        "bdb": "im`tI p`Qr Awidk dy bxwey hoey sohxy Gr—iehI mYN AwpxI rws-pMUjI bxw ley [",
+        "ms": "ie`tW Aqy gwry dy nwl bVy hoey mihl p`QrW nwl sjwey hoey hn["
+      },
+      "puu": {
+        "ss": "ਮਿੱਟੀ ਪੱਥਰ ਆਦਿਕ ਦੇ ਬਣਾਏ ਹੋਏ ਸੋਹਣੇ ਘਰ—ਇਹੀ ਮੈਂ ਆਪਣੀ ਰਾਸ-ਪੰੂਜੀ ਬਣਾ ਲਏ ।",
+        "ft": "ਮਿਟੀ ਕੇ ਔ ਪੱਥਰੋਂ ਕੇ ਬਨਾਏ ਜੋ ਮੰਦਰ ਹੈਂ॥",
+        "bdb": "ਮਿੱਟੀ ਪੱਥਰ ਆਦਿਕ ਦੇ ਬਣਾਏ ਹੋਏ ਸੋਹਣੇ ਘਰ—ਇਹੀ ਮੈਂ ਆਪਣੀ ਰਾਸ-ਪੰੂਜੀ ਬਣਾ ਲਏ ।",
+        "ms": "ਇੱਟਾਂ ਅਤੇ ਗਾਰੇ ਦੇ ਨਾਲ ਬੜੇ ਹੋਏ ਮਹਿਲ ਪੱਥਰਾਂ ਨਾਲ ਸਜਾਏ ਹੋਏ ਹਨ।"
+      },
+      "es": {
+        "sn": "Las mansiones construidas de polvo y de piedras decorativas"
+      },
+      "hi": {
+        "ss": "मिट्टी-पत्थर आदि के बनाए हुए सुंदर घर -यही मैंने अपने राशि-पूँजी बना लिए।",
+        "sts": "हे सखी ! मैंने मिट्टी एवं पत्थर के बने हुए मंदिर को अपनी पूंजी बना लिया है"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 2416,
+    "Seq": 13,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "hau eynI tolI BulIAsu iqsu kMq n bYTI pwis jIau ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 3,
+          "t": "v"
+        },
+        {
+          "p": 2,
+          "t": "y"
+        },
+        {
+          "p": 5,
+          "t": "y"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 3,
+          "t": "v"
+        },
+        {
+          "p": 2,
+          "t": "y"
+        },
+        {
+          "p": 5,
+          "t": "y"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "hau enee Tolee bhuleeas tis ka(n)t na baiThee paas jeeau ||",
+      "hi": "हउ एनी टोली भुलीअसु तिसु कंत न बैठी पासि जीउ ॥",
+      "ipa": "ho eeni ʈɔli ɓʊliəs t̪ɪs kəŋt̪ nə bæʈʰi pɑs d͡ʒio.",
+      "ur": "ها اےنیِ ٹولیِ بھُلیِاس تس کںت ن بَےٹھیِ پاس جیِا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "I have been fooled by these decorations, and I do not sit near my Husband Lord.",
+        "ms": "I am gone astray in these decorations and sit not near that Bridegroom of mine.",
+        "ssk": "I have been fooled by these decorations, and I do not sit near my Husband Lord."
+      },
+      "pu": {
+        "ss": "mYN iehnW sohxy pdwrQW ivc hI (Ps ky) ZlqI Kw geI, (ieh pdwrQ dyx vwly) aus Ksm-pRBU dy pws mYN nwh bYTI [",
+        "ft": "mYN ien pdwrQoN myN hI BUl geI hUM[ Apnw jo qUM suAwmI hYN (iqs) qyry pws nw bYTI, Bwv qyry srUp icMqn kw AnMd nw lIAw]",
+        "bdb": "mYN iehnW sohxy pdwrQW ivc hI (Ps ky) ZlqI Kw geI, (ieh pdwrQ dyx vwly) aus Ksm-pRBU dy pws mYN nwh bYTI [",
+        "ms": "ienHW sjwvtW AMdr mYN kurwhy peI hoeI hW Aqy aus Awpxy Brqy dy nyVy nhIN bihMdI["
+      },
+      "puu": {
+        "ss": "ਮੈਂ ਇਹਨਾਂ ਸੋਹਣੇ ਪਦਾਰਥਾਂ ਵਿਚ ਹੀ (ਫਸ ਕੇ) ਗ਼ਲਤੀ ਖਾ ਗਈ, (ਇਹ ਪਦਾਰਥ ਦੇਣ ਵਾਲੇ) ਉਸ ਖਸਮ-ਪ੍ਰਭੂ ਦੇ ਪਾਸ ਮੈਂ ਨਾਹ ਬੈਠੀ ।",
+        "ft": "ਮੈਂ ਇਨ ਪਦਾਰਥੋਂ ਮੇਂ ਹੀ ਭੂਲ ਗਈ ਹੂੰ। ਅਪਨਾ ਜੋ ਤੂੰ ਸੁਆਮੀ ਹੈਂ (ਤਿਸ) ਤੇਰੇ ਪਾਸ ਨਾ ਬੈਠੀ, ਭਾਵ ਤੇਰੇ ਸਰੂਪ ਚਿੰਤਨ ਕਾ ਅਨੰਦ ਨਾ ਲੀਆ॥",
+        "bdb": "ਮੈਂ ਇਹਨਾਂ ਸੋਹਣੇ ਪਦਾਰਥਾਂ ਵਿਚ ਹੀ (ਫਸ ਕੇ) ਗ਼ਲਤੀ ਖਾ ਗਈ, (ਇਹ ਪਦਾਰਥ ਦੇਣ ਵਾਲੇ) ਉਸ ਖਸਮ-ਪ੍ਰਭੂ ਦੇ ਪਾਸ ਮੈਂ ਨਾਹ ਬੈਠੀ ।",
+        "ms": "ਇਨ੍ਹਾਂ ਸਜਾਵਟਾਂ ਅੰਦਰ ਮੈਂ ਕੁਰਾਹੇ ਪਈ ਹੋਈ ਹਾਂ ਅਤੇ ਉਸ ਆਪਣੇ ਭਰਤੇ ਦੇ ਨੇੜੇ ਨਹੀਂ ਬਹਿੰਦੀ।"
+      },
+      "es": {
+        "sn": "me han encantado por su belleza, pero por eso, no me siento al lado de mi Amor. "
+      },
+      "hi": {
+        "ss": "मैं इन सुंदर पदार्थों में ही (फस के) गलती खा गई।(इन पदार्थों के देने वाले) उस पति-प्रभू के पास ना बैठी।",
+        "sts": "में इन सूंदर वस्तुओ में आकर्षित होकर भूली हुई हूँ और कभी भी अपने प्रभु के पास नहीं बैठी।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 2417,
+    "Seq": 14,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "AMbir kUMjw kurlIAw bg bihTy Awie jIau ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "a(n)bar koo(n)jaa kuraleeaa bag bahiThe aai jeeau ||",
+      "hi": "अंबरि कूँजा कुरलीआ बग बहिठे आइ जीउ ॥",
+      "ipa": "əŋbər kuŋd͡ʒɑ kʊrəliəɑ bəG bəhɪʈʰe əɑeɪ d͡ʒio.",
+      "ur": "اںبر کُوںجا کُرلیِآ بگ بهِٹھے آا جیِا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "The cranes shriek overhead in the sky, and the herons have come to rest.",
+        "ms": "The floricans shriek in the sky and the herons come and sit down.",
+        "ssk": "The cranes shriek overhead in the sky, and the herons have come to rest."
+      },
+      "pu": {
+        "ss": "mwieAw dy moh ivc Ps ky ijs jIv-iesq®I dy SuB gux aus qoN dUr pry cly jwx, qy aus dy AMdr inry pKMf hI iek`Ty ho jwx, ",
+        "ft": "AMbir kUMjw kurlIAw, Bwv kUjW jwny lgI, isr qoN kwly kys jwqy rhy Aru bguly, Bwv suPYd kys Aw bYTy]",
+        "bdb": "mwieAw dy moh ivc Ps ky ijs jIv-iesq®I dy SuB gux aus qoN dUr pry cly jwx, qy aus dy AMdr inry pKMf hI iek`Ty ho jwx, ",
+        "ms": "kulMg Asmwn iv`c boldy hn Aqy bgly Aw ky bih gey hn["
+      },
+      "puu": {
+        "ss": "ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ ਫਸ ਕੇ ਜਿਸ ਜੀਵ-ਇਸਤ੍ਰੀ ਦੇ ਸ਼ੁਭ ਗੁਣ ਉਸ ਤੋਂ ਦੂਰ ਪਰੇ ਚਲੇ ਜਾਣ, ਤੇ ਉਸ ਦੇ ਅੰਦਰ ਨਿਰੇ ਪਖੰਡ ਹੀ ਇਕੱਠੇ ਹੋ ਜਾਣ, ",
+        "ft": "ਅੰਬਰਿ ਕੂੰਜਾ ਕੁਰਲੀਆ, ਭਾਵ ਕੂਜਾਂ ਜਾਨੇ ਲਗੀ, ਸਿਰ ਤੋਂ ਕਾਲੇ ਕੇਸ ਜਾਤੇ ਰਹੇ ਅਰੁ ਬਗੁਲੇ, ਭਾਵ ਸੁਫੈਦ ਕੇਸ ਆ ਬੈਠੇ॥",
+        "bdb": "ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ ਫਸ ਕੇ ਜਿਸ ਜੀਵ-ਇਸਤ੍ਰੀ ਦੇ ਸ਼ੁਭ ਗੁਣ ਉਸ ਤੋਂ ਦੂਰ ਪਰੇ ਚਲੇ ਜਾਣ, ਤੇ ਉਸ ਦੇ ਅੰਦਰ ਨਿਰੇ ਪਖੰਡ ਹੀ ਇਕੱਠੇ ਹੋ ਜਾਣ, ",
+        "ms": "ਕੁਲੰਗ ਅਸਮਾਨ ਵਿੱਚ ਬੋਲਦੇ ਹਨ ਅਤੇ ਬਗਲੇ ਆ ਕੇ ਬਹਿ ਗਏ ਹਨ।"
+      },
+      "es": {
+        "sn": "Sobre el cielo de mi cabeza las golondrinas de la edad revolotean, "
+      },
+      "hi": {
+        "ss": "माया के मोह में फस के जिस जीव-स्त्री के शुभ गुण उससे दूर-परे चले जाएं।और उसके अंदर निरे पाखण्ड ही इकट्ठे हो जाएं।",
+        "sts": "आसमान में कुरलाने वाली कूजें चली गई हैं और बगुले आ कर बैठ गए हैं अर्थात् बुढ़ापे में मेरे सिर के काले बाल चले गयें है सफ़ेद बाल आ गयें है।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 2418,
+    "Seq": 15,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "sw Dn clI swhurY ikAw muhu dysI AgY jwie jIau ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 6,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "saa dhan chalee saahurai kiaa muh dhesee agai jai jeeau ||",
+      "hi": "सा धन चली साहुरै किआ मुहु देसी अगै जाइ जीउ ॥",
+      "ipa": "sɑ t̪ən t͡ʃəli sɑhʊræ kɪəɑ mʊh d̪esi əGæ d͡ʒɑeɪ d͡ʒio.",
+      "ur": "سا دھن چلیِ ساهُرَے کآ مُهُ دےسیِ اگَے جاا جیِا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "The bride has gone to her father-in-law's house; in the world hereafter, what face will she show?",
+        "ms": "The bride goes to her Father-in-law's, Going hereafter, what face shall she show?",
+        "ssk": "The bride has gone to her father-in-law's house; in the world hereafter, what face will she show?"
+      },
+      "pu": {
+        "ss": "auh jdoN ies hwl ivc prlok jwvy qW jw ky prlok ivc (pRBU dI hzUrI ivc) kIh mUMh ivKwvygI?",
+        "ft": "jb sw Dn jIv iesqRI (swhurY) prlok ko clI qb Awgy jwie kr ky ikAw muKu idKwvYgI, Bwv SrimMdI hI hoaU]",
+        "bdb": "auh jdoN ies hwl ivc prlok jwvy qW jw ky prlok ivc (pRBU dI hzUrI ivc) kIh mUMh ivKwvygI?",
+        "ms": "vhutI Awpxy suhirAW ƒ jWdI hY[ A¤gy jw ky auh ikhVw mUMh idKweygI?"
+      },
+      "puu": {
+        "ss": "ਉਹ ਜਦੋਂ ਇਸ ਹਾਲ ਵਿਚ ਪਰਲੋਕ ਜਾਵੇ ਤਾਂ ਜਾ ਕੇ ਪਰਲੋਕ ਵਿਚ (ਪ੍ਰਭੂ ਦੀ ਹਜ਼ੂਰੀ ਵਿਚ) ਕੀਹ ਮੂੰਹ ਵਿਖਾਵੇਗੀ?",
+        "ft": "ਜਬ ਸਾ ਧਨ ਜੀਵ ਇਸਤ੍ਰੀ (ਸਾਹੁਰੈ) ਪਰਲੋਕ ਕੋ ਚਲੀ ਤਬ ਆਗੇ ਜਾਇ ਕਰ ਕੇ ਕਿਆ ਮੁਖੁ ਦਿਖਾਵੈਗੀ, ਭਾਵ ਸ਼ਰਮਿੰਦੀ ਹੀ ਹੋਊ॥",
+        "bdb": "ਉਹ ਜਦੋਂ ਇਸ ਹਾਲ ਵਿਚ ਪਰਲੋਕ ਜਾਵੇ ਤਾਂ ਜਾ ਕੇ ਪਰਲੋਕ ਵਿਚ (ਪ੍ਰਭੂ ਦੀ ਹਜ਼ੂਰੀ ਵਿਚ) ਕੀਹ ਮੂੰਹ ਵਿਖਾਵੇਗੀ?",
+        "ms": "ਵਹੁਟੀ ਆਪਣੇ ਸੁਹਰਿਆਂ ਨੂੰ ਜਾਂਦੀ ਹੈ। ਅੱਗੇ ਜਾ ਕੇ ਉਹ ਕਿਹੜਾ ਮੂੰਹ ਦਿਖਾਏਗੀ?"
+      },
+      "es": {
+        "sn": "las garzas de pelo blanco han descendido en mí, estoy listo para ir a mi otro Hogar, ¿cómo podré encarar a mi Esposo ahora?"
+      },
+      "hi": {
+        "ss": "वह जब इस हाल में परलोक जाए तो जा के परलोक में (प्रभू की हजूरी में) क्या मुँह दिखाएगी।",
+        "sts": "वह जीव-स्त्री अपने ससुराल परलोक को चली गई है लेकिन वह आगे जाकर अपना कौन-सा मुँह दिखाएगी ?"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 2419,
+    "Seq": 16,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "suqI suqI Jwlu QIAw BulI vwtVIAwsu jIau ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "sutee sutee jhaal theeaa bhulee vaaTaReeaas jeeau ||",
+      "hi": "सुती सुती झालु थीआ भुली वाटड़ीआसु जीउ ॥",
+      "ipa": "sʊt̪i sʊt̪i ɖ͡ʐɑl t̪ʰiəɑ ɓʊli ʋɑʈəɽiəɑs d͡ʒio.",
+      "ur": "سُتیِ سُتیِ جھال تھیِآ بھُلیِ واٹڑیِآس جیِا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "She kept sleeping as the day dawned; she forgot all about her journey.",
+        "ms": "She has forgotten her journey and was soundly sleeping, when the day dawned.",
+        "ssk": "She kept sleeping as the day dawned; she forgot all about her journey."
+      },
+      "pu": {
+        "ss": "hy pRBU! mwieAw dy moh dI nINd ivc Zwi&l pey irhW mYƒ buFypw Aw igAw hY, jIvn dy shI rsqy qoN mYN KuMJI hoeI hW [",
+        "ft": "AivdÎw nINd myN suqI ko jb kwl kI smIpqw rUp (Jwlu) pRwqwkwl hUAw Aru qyrI BgqI rUpu (vwtVI) fMfI BUl geI]",
+        "bdb": "hy pRBU! mwieAw dy moh dI nINd ivc Zwi&l pey irhW mYƒ buFypw Aw igAw hY, jIvn dy shI rsqy qoN mYN KuMJI hoeI hW [",
+        "ms": "auh Awpxw sPr Bu`l geI sI Aqy GUk su`qI peI sI jd ik phu Pu`t peI["
+      },
+      "puu": {
+        "ss": "ਹੇ ਪ੍ਰਭੂ! ਮਾਇਆ ਦੇ ਮੋਹ ਦੀ ਨੀਂਦ ਵਿਚ ਗ਼ਾਫ਼ਿਲ ਪਏ ਰਿਹਾਂ ਮੈਨੂੰ ਬੁਢੇਪਾ ਆ ਗਿਆ ਹੈ, ਜੀਵਨ ਦੇ ਸਹੀ ਰਸਤੇ ਤੋਂ ਮੈਂ ਖੁੰਝੀ ਹੋਈ ਹਾਂ ।",
+        "ft": "ਅਵਿਦ੍ਯਾ ਨੀਂਦ ਮੇਂ ਸੁਤੀ ਕੋ ਜਬ ਕਾਲ ਕੀ ਸਮੀਪਤਾ ਰੂਪ (ਝਾਲੁ) ਪ੍ਰਾਤਾਕਾਲ ਹੂਆ ਅਰੁ ਤੇਰੀ ਭਗਤੀ ਰੂਪੁ (ਵਾਟੜੀ) ਡੰਡੀ ਭੂਲ ਗਈ॥",
+        "bdb": "ਹੇ ਪ੍ਰਭੂ! ਮਾਇਆ ਦੇ ਮੋਹ ਦੀ ਨੀਂਦ ਵਿਚ ਗ਼ਾਫ਼ਿਲ ਪਏ ਰਿਹਾਂ ਮੈਨੂੰ ਬੁਢੇਪਾ ਆ ਗਿਆ ਹੈ, ਜੀਵਨ ਦੇ ਸਹੀ ਰਸਤੇ ਤੋਂ ਮੈਂ ਖੁੰਝੀ ਹੋਈ ਹਾਂ ।",
+        "ms": "ਉਹ ਆਪਣਾ ਸਫਰ ਭੁੱਲ ਗਈ ਸੀ ਅਤੇ ਘੂਕ ਸੁੱਤੀ ਪਈ ਸੀ ਜਦ ਕਿ ਪਹੁ ਫੁੱਟ ਪਈ।"
+      },
+      "es": {
+        "sn": "En el sueño la noche de mi vida se ha convertido en el amanecer de la muerte y me he perdido del camino, "
+      },
+      "hi": {
+        "ss": "हे प्रभू ! माया के मोह की नींद में गाफिल पड़े रहने से मुझे बुढ़ापा आ गया है।",
+        "sts": "वह जीवन भर अज्ञानता की निद्रा में मग्न रही और सफेद दिन उदय हो गया है अर्थात् उसकी जीवन रूपी रात्रि व्यतीत हो गई है।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 2420,
+    "Seq": 17,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "qY sh nwlhu muqIAsu duKw kUM DrIAwsu jIau ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 3,
+          "t": "v"
+        },
+        {
+          "p": 5,
+          "t": "y"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 3,
+          "t": "v"
+        },
+        {
+          "p": 5,
+          "t": "y"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "tai seh naalahu muteeas dhukhaa koo(n) dhareeaas jeeau ||",
+      "hi": "तै सह नालहु मुतीअसु दुखा कूँ धरीआसु जीउ ॥",
+      "ipa": "t̪æ səh nɑləh mʊt̪iəs d̪ʊkʰɑ kuŋ t̪əriəɑs d͡ʒio.",
+      "ur": "تَے سه نالهُ مُتیِاس دُکھا کُوں دھریِآس جیِا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "She separated herself from her Husband Lord, and now she suffers in pain.",
+        "ms": "Separating form Thee, O spouse, she has amassed pain for herself.",
+        "ssk": "She separated herself from her Husband Lord, and now she suffers in pain."
+      },
+      "pu": {
+        "ss": "hy pqI! mYN qyry nwloN ivCuVI hoeI hW, mYN inry du`K hI du`K shyVy hoey hn [",
+        "ft": "so hy (sh) pqI! qyry swQ sy ivCV geI, iesI sy duKoN ko DwrqI BeI hY]",
+        "bdb": "hy pqI! mYN qyry nwloN ivCuVI hoeI hW, mYN inry du`K hI du`K shyVy hoey hn [",
+        "ms": "qyry nwloN ivCV ky, hy pqI! aus ny Awpxy leI qklIPW ƒ iek`qr kr ilAw hY["
+      },
+      "puu": {
+        "ss": "ਹੇ ਪਤੀ! ਮੈਂ ਤੇਰੇ ਨਾਲੋਂ ਵਿਛੁੜੀ ਹੋਈ ਹਾਂ, ਮੈਂ ਨਿਰੇ ਦੁੱਖ ਹੀ ਦੁੱਖ ਸਹੇੜੇ ਹੋਏ ਹਨ ।",
+        "ft": "ਸੋ ਹੇ (ਸਹ) ਪਤੀ! ਤੇਰੇ ਸਾਥ ਸੇ ਵਿਛੜ ਗਈ, ਇਸੀ ਸੇ ਦੁਖੋਂ ਕੋ ਧਾਰਤੀ ਭਈ ਹੈ॥",
+        "bdb": "ਹੇ ਪਤੀ! ਮੈਂ ਤੇਰੇ ਨਾਲੋਂ ਵਿਛੁੜੀ ਹੋਈ ਹਾਂ, ਮੈਂ ਨਿਰੇ ਦੁੱਖ ਹੀ ਦੁੱਖ ਸਹੇੜੇ ਹੋਏ ਹਨ ।",
+        "ms": "ਤੇਰੇ ਨਾਲੋਂ ਵਿਛੜ ਕੇ, ਹੇ ਪਤੀ! ਉਸ ਨੇ ਆਪਣੇ ਲਈ ਤਕਲੀਫਾਂ ਨੂੰ ਇਕੱਤਰ ਕਰ ਲਿਆ ਹੈ।"
+      },
+      "es": {
+        "sn": "viví separado de Ti, y ahora mi único refugio es el dolor"
+      },
+      "hi": {
+        "ss": "जीवन के सही रास्ते से मैं विछुड़ी हुई हूँ।मैंने निरे दुख ही दुख सहेड़े हुए हैं।",
+        "sts": "वह सन्मार्ग को भूल गई है। हे मेरे पति-प्रभु ! मैं तुझ से बिछुड़ गई हूँ और मैंने दुखों को धारण कर लिया है।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 2421,
+    "Seq": 18,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "quDu gux mY siB Avgxw iek nwnk kI Ardwis jIau ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 4,
+          "t": "v"
+        },
+        {
+          "p": 1,
+          "t": "y"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 4,
+          "t": "v"
+        },
+        {
+          "p": 1,
+          "t": "y"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "tudh gun mai sabh avaganaa ik naanak kee aradhaas jeeau ||",
+      "hi": "तुधु गुण मै सभि अवगणा इक नानक की अरदासि जीउ ॥",
+      "ipa": "t̪ʊt̪ Gʊɳ mæ səɓ əʋəGəɳɑ eɪk nɑnək ki ərəd̪ɑs d͡ʒio.",
+      "ur": "تُدھ گُݨ مَے سبھ اوگݨا اک نانک کیِ ارداس جیِا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Virtue is in You, O Lord; I am totally without virtue. This is Nanak's only prayer:",
+        "ms": "In Thee, O Lord, are merits and in me all demerits. This alone is the prayer of Nanak.",
+        "ssk": "Virtue is in You, O Lord; I am totally without virtue. This is Nanak's only prayer:"
+      },
+      "pu": {
+        "ss": "hy pRBU! qUµ byAMq guxW vwlw hYN, myry AMdr swry AOgux hI AOgux hn, iPr BI nwnk dI bynqI (qyry hI dr qy) hY ",
+        "ft": "hy prmysr! qyry myN qo gux hYN myry myN AvgunW ky smdwX hYN[ sRI gurU jI khqy hYN: myrI eyk eyhI bynqI hY]",
+        "bdb": "hy pRBU! qUµ byAMq guxW vwlw hYN, myry AMdr swry AOgux hI AOgux hn, iPr BI nwnk dI bynqI (qyry hI dr qy) hY ",
+        "ms": "qyry iv`c, hy suAwmI nykIAW hn Aqy myry iv`c swrIAW bdIAW[ kyvl iehI nwnk dI bynqI hY["
+      },
+      "puu": {
+        "ss": "ਹੇ ਪ੍ਰਭੂ! ਤੂੰ ਬੇਅੰਤ ਗੁਣਾਂ ਵਾਲਾ ਹੈਂ, ਮੇਰੇ ਅੰਦਰ ਸਾਰੇ ਔਗੁਣ ਹੀ ਔਗੁਣ ਹਨ, ਫਿਰ ਭੀ ਨਾਨਕ ਦੀ ਬੇਨਤੀ (ਤੇਰੇ ਹੀ ਦਰ ਤੇ) ਹੈ ",
+        "ft": "ਹੇ ਪਰਮੇਸਰ! ਤੇਰੇ ਮੇਂ ਤੋ ਗੁਣ ਹੈਂ ਮੇਰੇ ਮੇਂ ਅਵਗੁਨਾਂ ਕੇ ਸਮਦਾਯ ਹੈਂ। ਸ੍ਰੀ ਗੁਰੂ ਜੀ ਕਹਤੇ ਹੈਂ: ਮੇਰੀ ਏਕ ਏਹੀ ਬੇਨਤੀ ਹੈ॥",
+        "bdb": "ਹੇ ਪ੍ਰਭੂ! ਤੂੰ ਬੇਅੰਤ ਗੁਣਾਂ ਵਾਲਾ ਹੈਂ, ਮੇਰੇ ਅੰਦਰ ਸਾਰੇ ਔਗੁਣ ਹੀ ਔਗੁਣ ਹਨ, ਫਿਰ ਭੀ ਨਾਨਕ ਦੀ ਬੇਨਤੀ (ਤੇਰੇ ਹੀ ਦਰ ਤੇ) ਹੈ ",
+        "ms": "ਤੇਰੇ ਵਿੱਚ, ਹੇ ਸੁਆਮੀ ਨੇਕੀਆਂ ਹਨ ਅਤੇ ਮੇਰੇ ਵਿੱਚ ਸਾਰੀਆਂ ਬਦੀਆਂ। ਕੇਵਲ ਇਹੀ ਨਾਨਕ ਦੀ ਬੇਨਤੀ ਹੈ।"
+      },
+      "es": {
+        "sn": "Eres el Señor del Mérito y yo no tengo ninguno, la única oración de Nanak"
+      },
+      "hi": {
+        "ss": "हे प्रभू ! तू बेअंत गुणों वाला है।मेरे अंदर सारे अवगुण ही अवगुण हैं। फिर भी नानक की विनती (तेरे ही दर पर) है कि",
+        "sts": "नानक की एक प्रार्थना है कि हे प्रभु ! तुझ में बेअन्त गुण हैं लेकिन मुझ में तो अवगुण ही भरे हुए हैं।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 2422,
+    "Seq": 19,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "siB rwqI sohwgxI mY fohwgix kweI rwiq jIau ]1]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "sabh raatee sohaaganee mai ddohaagan kaiee raat jeeau ||1||",
+      "hi": "सभि राती सोहागणी मै डोहागणि काई राति जीउ ॥१॥",
+      "ipa": "səɓ rɑt̪i sɔhɑGəɳi mæ ɖɔhɑGəɳ kɑei rɑt̪ d͡ʒio.1.",
+      "ur": "سبھ راتیِ سوهاگݨیِ مَے ڈوهاگݨ کاای رات جیِا ۔۔۱۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "You give all Your nights to the virtuous soul-brides. I know I am unworthy, but isn't there a night for me as well? ||1||",
+        "ms": "All the nights are for the virtuous brides, May I an unchaste one obtain a night as well.",
+        "ssk": "You give all Your nights to the virtuous soul-brides. I know I am unworthy, but isn't there a night for me as well? ||1||"
+      },
+      "pu": {
+        "ss": "ik BwgW vwlIAW jIv-iesq®IAW qW sdw hI qyry nwm-rMg ivc rMgIAW hoeIAW hn, mYƒ ABwgx ƒ BI koeI iek rwq b^S (myry auqy BI kdy myhr dI ingwh kr) [1[",
+        "ft": "sB rwqW AvsQw suhwgxIEN kIAW sPl hYN[ hy sÍwmI jI! mYN jo (fuhwgxI) CutV hUM muJ kI BI koeI rwq sPlI kro, Bwv ijs smyN prmysÍr pRwpiq hovY so sPl hY]1]",
+        "bdb": "ik BwgW vwlIAW jIv-iesq®IAW qW sdw hI qyry nwm-rMg ivc rMgIAW hoeIAW hn, mYƒ ABwgx ƒ BI koeI iek rwq b^S (myry auqy BI kdy myhr dI ingwh kr) [1[",
+        "ms": "swrIAW rwqRIAW nyk pqnIAW vwsqy hn[ mYN Awcrx-hIx ƒ BI koeI iek rq iml jwvy["
+      },
+      "puu": {
+        "ss": "ਕਿ ਭਾਗਾਂ ਵਾਲੀਆਂ ਜੀਵ-ਇਸਤ੍ਰੀਆਂ ਤਾਂ ਸਦਾ ਹੀ ਤੇਰੇ ਨਾਮ-ਰੰਗ ਵਿਚ ਰੰਗੀਆਂ ਹੋਈਆਂ ਹਨ, ਮੈਨੂੰ ਅਭਾਗਣ ਨੂੰ ਭੀ ਕੋਈ ਇਕ ਰਾਤ ਬਖ਼ਸ਼ (ਮੇਰੇ ਉਤੇ ਭੀ ਕਦੇ ਮੇਹਰ ਦੀ ਨਿਗਾਹ ਕਰ) ।੧।",
+        "ft": "ਸਭ ਰਾਤਾਂ ਅਵਸਥਾ ਸੁਹਾਗਣੀਓਂ ਕੀਆਂ ਸਫਲ ਹੈਂ। ਹੇ ਸ੍ਵਾਮੀ ਜੀ! ਮੈਂ ਜੋ (ਡੁਹਾਗਣੀ) ਛੁਟੜ ਹੂੰ ਮੁਝ ਕੀ ਭੀ ਕੋਈ ਰਾਤ ਸਫਲੀ ਕਰੋ, ਭਾਵ ਜਿਸ ਸਮੇਂ ਪਰਮੇਸ੍ਵਰ ਪ੍ਰਾਪਤਿ ਹੋਵੈ ਸੋ ਸਫਲ ਹੈ॥੧॥",
+        "bdb": "ਕਿ ਭਾਗਾਂ ਵਾਲੀਆਂ ਜੀਵ-ਇਸਤ੍ਰੀਆਂ ਤਾਂ ਸਦਾ ਹੀ ਤੇਰੇ ਨਾਮ-ਰੰਗ ਵਿਚ ਰੰਗੀਆਂ ਹੋਈਆਂ ਹਨ, ਮੈਨੂੰ ਅਭਾਗਣ ਨੂੰ ਭੀ ਕੋਈ ਇਕ ਰਾਤ ਬਖ਼ਸ਼ (ਮੇਰੇ ਉਤੇ ਭੀ ਕਦੇ ਮੇਹਰ ਦੀ ਨਿਗਾਹ ਕਰ) ।੧।",
+        "ms": "ਸਾਰੀਆਂ ਰਾਤ੍ਰੀਆਂ ਨੇਕ ਪਤਨੀਆਂ ਵਾਸਤੇ ਹਨ। ਮੈਂ ਆਚਰਣ-ਹੀਣ ਨੂੰ ਭੀ ਕੋਈ ਇਕ ਰਤ ਮਿਲ ਜਾਵੇ।"
+      },
+      "es": {
+        "sn": "hacia Ti es que habiendo bendecido con Tu Compañía a Tus Esposas por muchas noches, ¿no tendrás aunque sea una noche para mí? (1) "
+      },
+      "hi": {
+        "ss": "भाग्यशाली जीव-सि्त्रयाँ तो सदा ही तेरे नाम-रंग में रंगी हुई हैं।मुझ अभागन को भी कोई एक रात बख्श (मेरे पर भी कभी मेहर की निगाह कर)। 1।",
+        "sts": "सुहागिनें तो सब रातें तेरे साथ रमण करती रहती हैं और मुझ दुहागिन को भी कोई एक रात अपने साथ रमण के लिए प्रदान कर दो ॥ १॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  }
+]

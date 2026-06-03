@@ -1,0 +1,2216 @@
+[
+  {
+    "ID": 3739,
+    "Seq": 1,
+    "header": 1,
+    "Paragraph": 1,
+    "Gurmukhi": "<> sRI vwihgurU jI kI Pqih hYˆ ]",
+    "Visraam": {
+      "sttm2": [],
+      "sttm": [],
+      "igurbani": []
+    },
+    "Transliterations": {
+      "en": "ikOankaar sree vaahiguroo jee kee fateh hai(n) ||",
+      "hi": "ੴ स्री वाहिगुरू जी की फतहि हैं ॥",
+      "ipa": "ɪk oəŋkɑɾ sɹi ʋɑhɪGʊru d͡ʒi ki fət̪əh hæ.",
+      "ur": "اک اونکار سریِ واهگرُو جیِ کیِ پھته هَےˆ ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "The Lord is one, The victory is of the lord."
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "es": {
+        "sn": null
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 3740,
+    "Seq": 2,
+    "header": 1,
+    "Paragraph": 2,
+    "Gurmukhi": "sRI BgauqI jI shwie ]",
+    "Visraam": {
+      "sttm": [],
+      "igurbani": [],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "sree bhagautee jee sahai ||",
+      "hi": "स्री भगउती जी सहाइ ॥",
+      "ipa": "sɹi ɓəGoʊt̪i d͡ʒi səhɑeɪ.",
+      "ur": "سریِ بھگاتیِ جیِ سهاا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "With the aid Sri Bhagauti Ji (The Sword)"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "es": {
+        "sn": null
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 3741,
+    "Seq": 3,
+    "header": 2,
+    "Paragraph": 3,
+    "Gurmukhi": "AsqoqR sRI BgauqI jI kw",
+    "Visraam": {
+      "sttm2": [],
+      "sttm": [],
+      "igurbani": []
+    },
+    "Transliterations": {
+      "en": "asatotr sree bhagautee jee kaa",
+      "hi": "असतोत्र स्री भगउती जी का",
+      "ipa": "əsət̪ɔt̪ɹ sɹi ɓəGoʊt̪i d͡ʒi kɑ",
+      "ur": "استوتر سریِ بھگاتیِ جیِ کا"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "The Praise of Sri Bhagauti Ji (The Sword)"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "es": {
+        "sn": null
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 3742,
+    "Seq": 4,
+    "header": 2,
+    "Paragraph": 4,
+    "Gurmukhi": "pwiqSwhI 10 ]",
+    "Visraam": {
+      "sttm2": [],
+      "sttm": [],
+      "igurbani": []
+    },
+    "Transliterations": {
+      "en": "paatishaahee 10 ||",
+      "hi": "पातिशाही १० ॥",
+      "ipa": "pɑt̪ɪʃɑhi 1ə0.",
+      "ur": "پاتشاهیِ ۱۰ ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "By The Tenth Master"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "es": {
+        "sn": null
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 3743,
+    "Seq": 5,
+    "header": 2,
+    "Paragraph": 5,
+    "Gurmukhi": "BuXMg pRXwq CMd",
+    "Visraam": {
+      "sttm2": [],
+      "sttm": [],
+      "igurbani": []
+    },
+    "Transliterations": {
+      "en": "bhuya(n)g prayaat chha(n)dh",
+      "hi": "भुयंग प्रयात छंद",
+      "ipa": "ɓʊjŋG pɹəjɑt̪ ɕəŋd̪",
+      "ur": "بھُےںگ پرےات چھںد"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Stanzas of Bhuyang Prayat style"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "es": {
+        "sn": null
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 3744,
+    "Seq": 6,
+    "header": 0,
+    "Paragraph": 6,
+    "Gurmukhi": "nmo sRI BgOqI bFYlI srohI ]",
+    "Visraam": {
+      "sttm2": [],
+      "sttm": [],
+      "igurbani": []
+    },
+    "Transliterations": {
+      "en": "namo sree bhagauatee baddailee sarohee ||",
+      "hi": "नमो स्री भगौती बढैली सरोही ॥",
+      "ipa": "nəmɔ sɹi ɓəGɒət̪i bəʈə̀æli sərɔhi.",
+      "ur": "نمو سریِ بھگَوتیِ بڈھَےلیِ سروهیِ ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Salutations to the highest Sword, the cutting Sirohi (type of sword)."
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "es": {
+        "sn": null
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 3745,
+    "Seq": 7,
+    "header": 0,
+    "Paragraph": 6,
+    "Gurmukhi": "kry eyk qy dÍY suBt hwQ sohI ]",
+    "Visraam": {
+      "sttm2": [],
+      "sttm": [],
+      "igurbani": []
+    },
+    "Transliterations": {
+      "en": "kare ek te dhavai subhaT haath sohee ||",
+      "hi": "करे एक ते द्वै सुभट हाथ सोही ॥",
+      "ipa": "kəre eek t̪e d̪ʋæ sʊɓəʈ hɑt̪ʰ sɔhi.",
+      "ur": "کرے اےک تے دوَے سُبھٹ هاتھ سوهیِ ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Making two from one (slicing in half), the warrior who holdeths you in hand is victorious!"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "es": {
+        "sn": null
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 3746,
+    "Seq": 8,
+    "header": 0,
+    "Paragraph": 6,
+    "Gurmukhi": "nmo loh pu`qRI ACohM rhMqI ]",
+    "Visraam": {
+      "sttm2": [],
+      "sttm": [],
+      "igurbani": []
+    },
+    "Transliterations": {
+      "en": "namo loh pu'tree achhoha(n) raha(n)tee ||",
+      "hi": "नमो लोह पुत्त्री अछोहं रहंती ॥",
+      "ipa": "nəmɔ lɔh pʊt̪ɹi əɕɔhəŋ rəhəŋt̪i.",
+      "ur": "نمو لوه پُّتریِ اچھوهں رهںتیِ ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Salutations to the strip of Iron which coruscates and glints so brightly!"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "es": {
+        "sn": null
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 3747,
+    "Seq": 9,
+    "header": 0,
+    "Paragraph": 6,
+    "Gurmukhi": "nmo jIB jÍwlw muKI ijau bolMqI ]",
+    "Visraam": {
+      "sttm2": [],
+      "sttm": [],
+      "igurbani": []
+    },
+    "Transliterations": {
+      "en": "namo jeebh javaiaalaa mukhee jiau bola(n)tee ||",
+      "hi": "नमो जीभ ज्वाला मुखी जिउ बोलंती ॥",
+      "ipa": "nəmɔ d͡ʒiɓ d͡ʒʋɑlɑ mʊkʰi d͡ʒɪo bɔləŋt̪i.",
+      "ur": "نمو جیِبھ جوالا مُکھیِ جا بولںتیِ ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Salutations to the One who spits flames from thy mouth!"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "es": {
+        "sn": null
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 3748,
+    "Seq": 10,
+    "header": 0,
+    "Paragraph": 7,
+    "Gurmukhi": "mhwˆ mwn kI Bwn gMgw qrMgI ]",
+    "Visraam": {
+      "sttm2": [],
+      "sttm": [],
+      "igurbani": []
+    },
+    "Transliterations": {
+      "en": "mahaa(n) maan kee bhaan ga(n)gaa tara(n)gee ||",
+      "hi": "महाँ मान की भान गंगा तरंगी ॥",
+      "ipa": "məhɑ mɑn ki ɓɑn GəŋGɑ t̪ərəŋGi.",
+      "ur": "مهاˆ مان کیِ بھان گںگا ترںگیِ ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": ""
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "es": {
+        "sn": null
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 3749,
+    "Seq": 11,
+    "header": 0,
+    "Paragraph": 7,
+    "Gurmukhi": "iBry swmuhy moK dwqI ABMgI ]",
+    "Visraam": {
+      "sttm2": [],
+      "sttm": [],
+      "igurbani": []
+    },
+    "Transliterations": {
+      "en": "bhire saamuhe mokh dhaatee abha(n)gee ||",
+      "hi": "भिरे सामुहे मोख दाती अभंगी ॥",
+      "ipa": "ɓɪre sɑmʊhe mɔkʰ d̪ɑt̪i əɓəŋGi.",
+      "ur": "بھِرے سامهے موکھ داتیِ ابھںگیِ ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": ""
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "es": {
+        "sn": null
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 3750,
+    "Seq": 12,
+    "header": 0,
+    "Paragraph": 7,
+    "Gurmukhi": "nmo qyg qrvwr sRI K`g KMfw ]",
+    "Visraam": {
+      "sttm2": [],
+      "sttm": [],
+      "igurbani": []
+    },
+    "Transliterations": {
+      "en": "namo teg taravaar sree kha'g kha(n)ddaa ||",
+      "hi": "नमो तेग तरवार स्री खग्ग खंडा ॥",
+      "ipa": "nəmɔ t̪eG t̪ərəʋɑr sɹi kʰG kʰəŋɖɑ.",
+      "ur": "نمو تےگ تروار سریِ کھّگ کھںڈا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": ""
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "es": {
+        "sn": null
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 3751,
+    "Seq": 13,
+    "header": 0,
+    "Paragraph": 7,
+    "Gurmukhi": "mhwˆ rudR rUpw ibrUpw pRcMfw ]",
+    "Visraam": {
+      "sttm2": [],
+      "sttm": [],
+      "igurbani": []
+    },
+    "Transliterations": {
+      "en": "mahaa(n) rudhr roopaa biroopaa pracha(n)ddaa ||",
+      "hi": "महाँ रुद्र रूपा बिरूपा प्रचंडा ॥",
+      "ipa": "məhɑ rʊd̪ɹ rupɑ bɪrupɑ pɹət͡ʃəŋɖɑ.",
+      "ur": "مهاˆ رُدر رُوپا برُوپا پرچںڈا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": ""
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "es": {
+        "sn": null
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 3752,
+    "Seq": 14,
+    "header": 0,
+    "Paragraph": 8,
+    "Gurmukhi": "mhwˆ qyj KMfw duKMfw doDwrw ]",
+    "Visraam": {
+      "sttm2": [],
+      "sttm": [],
+      "igurbani": []
+    },
+    "Transliterations": {
+      "en": "mahaa(n) tej kha(n)ddaa dhukha(n)ddaa dhodhaaraa ||",
+      "hi": "महाँ तेज खंडा दुखंडा दोधारा ॥",
+      "ipa": "məhɑ t̪ed͡ʒ kʰəŋɖɑ d̪ʊkʰəŋɖɑ d̪ɔt̪ɑrɑ.",
+      "ur": "مهاˆ تےج کھںڈا دُکھںڈا دودھارا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": ""
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "es": {
+        "sn": null
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 3753,
+    "Seq": 15,
+    "header": 0,
+    "Paragraph": 8,
+    "Gurmukhi": "mhW sqR bn ko mhwˆ BIm Awrw ]",
+    "Visraam": {
+      "sttm2": [],
+      "sttm": [],
+      "igurbani": []
+    },
+    "Transliterations": {
+      "en": "mahaa(n) satr ban ko mahaa(n) bheem aaraa ||",
+      "hi": "महाँ सत्र बन को महाँ भीम आरा ॥",
+      "ipa": "məhɑⁿ sət̪ɹ bən kɔ məhɑ ɓim əɑrɑ.",
+      "ur": "مهاں ستر بن کو مهاˆ بھیِم آرا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": ""
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "es": {
+        "sn": null
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 3754,
+    "Seq": 16,
+    "header": 0,
+    "Paragraph": 8,
+    "Gurmukhi": "mhwˆ kwl kI kwl kw kwl kRDM ]",
+    "Visraam": {
+      "sttm2": [],
+      "sttm": [],
+      "igurbani": []
+    },
+    "Transliterations": {
+      "en": "mahaa(n) kaal kee kaal kaa kaal kradha(n) ||",
+      "hi": "महाँ काल की काल का काल क्रधं ॥",
+      "ipa": "məhɑ kɑl ki kɑl kɑ kɑl kɹət̪əŋ.",
+      "ur": "مهاˆ کال کیِ کال کا کال کردھں ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": ""
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "es": {
+        "sn": null
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 3755,
+    "Seq": 17,
+    "header": 0,
+    "Paragraph": 8,
+    "Gurmukhi": "mhW ibgRhI ibRD dw is`D auDM ]",
+    "Visraam": {
+      "sttm2": [],
+      "sttm": [],
+      "igurbani": []
+    },
+    "Transliterations": {
+      "en": "mahaa(n) bigrahee biradh dhaa si'dh udha(n) ||",
+      "hi": "महाँ बिग्रही बृध दा सिद्ध उधं ॥",
+      "ipa": "məhɑⁿ bɪGɹəhi bɪɹət̪ə̀ d̪ɑ sɪt̪ə̀ oʊt̪əŋ.",
+      "ur": "مهاں بگرهیِ بردھ دا سّدھ اُدھں ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": ""
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "es": {
+        "sn": null
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 3756,
+    "Seq": 18,
+    "header": 0,
+    "Paragraph": 9,
+    "Gurmukhi": "mhW pwqxI qUM plY kwl kwrI ]",
+    "Visraam": {
+      "sttm2": [],
+      "sttm": [],
+      "igurbani": []
+    },
+    "Transliterations": {
+      "en": "mahaa(n) paatanee too(n) palai kaal kaaree ||",
+      "hi": "महाँ पातणी तूँ पलै काल कारी ॥",
+      "ipa": "məhɑⁿ pɑt̪əɳi t̪uŋ pəlæ kɑl kɑri.",
+      "ur": "مهاں پاتݨیِ تُوں پلَے کال کاریِ ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": ""
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "es": {
+        "sn": null
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 3757,
+    "Seq": 19,
+    "header": 0,
+    "Paragraph": 9,
+    "Gurmukhi": "mhwˆ AsqR qUM hI qUM hI s`qRhwrI ]",
+    "Visraam": {
+      "sttm2": [],
+      "sttm": [],
+      "igurbani": []
+    },
+    "Transliterations": {
+      "en": "mahaa(n) asatr too(n) hee too(n) hee sa'trahaaree ||",
+      "hi": "महाँ असत्र तूँ ही तूँ ही सत्त्रहारी ॥",
+      "ipa": "məhɑ əsət̪ɹ t̪uŋ hi t̪uŋ hi st̪ɹəhɑri.",
+      "ur": "مهاˆ استر تُوں هیِ تُوں هیِ سّترهاریِ ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": ""
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "es": {
+        "sn": null
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 3758,
+    "Seq": 20,
+    "header": 0,
+    "Paragraph": 9,
+    "Gurmukhi": "mhwˆ kwl kI lwt ibkRwl BImM ]",
+    "Visraam": {
+      "sttm2": [],
+      "sttm": [],
+      "igurbani": []
+    },
+    "Transliterations": {
+      "en": "mahaa(n) kaal kee laaT bikraal bheema(n) ||",
+      "hi": "महाँ काल की लाट बिक्राल भीमं ॥",
+      "ipa": "məhɑ kɑl ki lɑʈ bɪkɹɑl ɓiməŋ.",
+      "ur": "مهاˆ کال کیِ لاٹ بکرال بھیِمں ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": ""
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "es": {
+        "sn": null
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 3759,
+    "Seq": 21,
+    "header": 0,
+    "Paragraph": 9,
+    "Gurmukhi": "bhI q`C mu`CM kry sqR kImM ]",
+    "Visraam": {
+      "sttm2": [],
+      "sttm": [],
+      "igurbani": []
+    },
+    "Transliterations": {
+      "en": "bahee ta'chh mu'chha(n) kare satr keema(n) ||",
+      "hi": "बही तच्छ मुच्छं करे सत्र कीमं ॥",
+      "ipa": "bəhi t̪ɕ mʊɕəŋ kəre sət̪ɹ kiməŋ.",
+      "ur": "بهیِ تّچھ مُّچھں کرے ستر کیِمں ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": ""
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "es": {
+        "sn": null
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 3760,
+    "Seq": 22,
+    "header": 0,
+    "Paragraph": 10,
+    "Gurmukhi": "mhwˆ qyj kI qyjqw qyj vMqI ]",
+    "Visraam": {
+      "sttm2": [],
+      "sttm": [],
+      "igurbani": []
+    },
+    "Transliterations": {
+      "en": "mahaa(n) tej kee tejataa tej va(n)tee ||",
+      "hi": "महाँ तेज की तेजता तेज वंती ॥",
+      "ipa": "məhɑ t̪ed͡ʒ ki t̪ed͡ʒət̪ɑ t̪ed͡ʒ ʋəŋt̪i.",
+      "ur": "مهاˆ تےج کیِ تےجتا تےج وںتیِ ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": ""
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "es": {
+        "sn": null
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 3761,
+    "Seq": 23,
+    "header": 0,
+    "Paragraph": 10,
+    "Gurmukhi": "pRjw KMfnI dMfnI sqR hMqI ]",
+    "Visraam": {
+      "sttm2": [],
+      "sttm": [],
+      "igurbani": []
+    },
+    "Transliterations": {
+      "en": "prajaa kha(n)ddanee dha(n)ddanee satr ha(n)tee ||",
+      "hi": "प्रजा खंडनी दंडनी सत्र हंती ॥",
+      "ipa": "pɹəd͡ʒɑ kʰəŋɖəni d̪əŋɖəni sət̪ɹ həŋt̪i.",
+      "ur": "پرجا کھںڈنیِ دںڈنیِ ستر هںتیِ ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": ""
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "es": {
+        "sn": null
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 3762,
+    "Seq": 24,
+    "header": 0,
+    "Paragraph": 10,
+    "Gurmukhi": "mhwˆ bIr ibdXw mhwˆ BIm rUpM ]",
+    "Visraam": {
+      "sttm2": [],
+      "sttm": [],
+      "igurbani": []
+    },
+    "Transliterations": {
+      "en": "mahaa(n) beer bidhayaa mahaa(n) bheem roopa(n) ||",
+      "hi": "महाँ बीर बिदया महाँ भीम रूपं ॥",
+      "ipa": "məhɑ bir bɪd̪əjɑ məhɑ ɓim rupəŋ.",
+      "ur": "مهاˆ بیِر بدےا مهاˆ بھیِم رُوپں ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": ""
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "es": {
+        "sn": null
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 3763,
+    "Seq": 25,
+    "header": 0,
+    "Paragraph": 10,
+    "Gurmukhi": "mhwˆ BIr mY DIr dwqI AnUpM ]",
+    "Visraam": {
+      "sttm2": [],
+      "sttm": [],
+      "igurbani": []
+    },
+    "Transliterations": {
+      "en": "mahaa(n) bheer mai dheer dhaatee anoopa(n) ||",
+      "hi": "महाँ भीर मै धीर दाती अनूपं ॥",
+      "ipa": "məhɑ ɓir mæ t̪ir d̪ɑt̪i ənupəŋ.",
+      "ur": "مهاˆ بھیِر مَے دھیِر داتیِ انُوپں ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": ""
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "es": {
+        "sn": null
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 3764,
+    "Seq": 26,
+    "header": 0,
+    "Paragraph": 11,
+    "Gurmukhi": "quhI sYP p`tw mhwˆ kwl kwqI ]",
+    "Visraam": {
+      "sttm2": [],
+      "sttm": [],
+      "igurbani": []
+    },
+    "Transliterations": {
+      "en": "tuhee saif pa'Taa mahaa(n) kaal kaatee ||",
+      "hi": "तुही सैफ पट्टा महाँ काल काती ॥",
+      "ipa": "t̪ʊhi sæf pʈɑ məhɑ kɑl kɑt̪i.",
+      "ur": "تُهیِ سَےپھ پّٹا مهاˆ کال کاتیِ ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": ""
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "es": {
+        "sn": null
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 3765,
+    "Seq": 27,
+    "header": 0,
+    "Paragraph": 11,
+    "Gurmukhi": "Anugu AwpxY ko ABYdwn dwqI ]",
+    "Visraam": {
+      "sttm2": [],
+      "sttm": [],
+      "igurbani": []
+    },
+    "Transliterations": {
+      "en": "anug aapanai ko abhaidhaan dhaatee ||",
+      "hi": "अनुगु आपणै को अभैदान दाती ॥",
+      "ipa": "ənʊG əɑpəɳæ kɔ əɓæd̪ɑn d̪ɑt̪i.",
+      "ur": "انگ آپݨَے کو ابھَےدان داتیِ ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": ""
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "es": {
+        "sn": null
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 3766,
+    "Seq": 28,
+    "header": 0,
+    "Paragraph": 11,
+    "Gurmukhi": "jbY imXwn qy bIr qo ko sV`kY ]",
+    "Visraam": {
+      "sttm2": [],
+      "sttm": [],
+      "igurbani": []
+    },
+    "Transliterations": {
+      "en": "jabai miyaan te beer to ko saRa'kai ||",
+      "hi": "जबै मियान ते बीर तो को सड़क्कै ॥",
+      "ipa": "d͡ʒəbæ mɪjɑn t̪e bir t̪ɔ kɔ səɽkæ.",
+      "ur": "جبَے مےان تے بیِر تو کو سڑّکَے ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": ""
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "es": {
+        "sn": null
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 3767,
+    "Seq": 29,
+    "header": 0,
+    "Paragraph": 11,
+    "Gurmukhi": "prlY kwl ky isMDu b`kY kV`kY ]",
+    "Visraam": {
+      "sttm2": [],
+      "sttm": [],
+      "igurbani": []
+    },
+    "Transliterations": {
+      "en": "paralai kaal ke si(n)dh ba'kai kaRa'kai ||",
+      "hi": "परलै काल के सिंधु बक्कै कड़क्कै ॥",
+      "ipa": "pərəlæ kɑl ke sɪŋt̪ bkæ kəɽkæ.",
+      "ur": "پرلَے کال کے سںدھ بّکَے کڑّکَے ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": ""
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "es": {
+        "sn": null
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 3768,
+    "Seq": 30,
+    "header": 0,
+    "Paragraph": 12,
+    "Gurmukhi": "D`sY Kyq mY hwQ lY quih sUry ]",
+    "Visraam": {
+      "sttm2": [],
+      "sttm": [],
+      "igurbani": []
+    },
+    "Transliterations": {
+      "en": "dha'sai khet mai haath lai tuh soore ||",
+      "hi": "धस्सै खेत मै हाथ लै तुहि सूरे ॥",
+      "ipa": "t̪ə̀sæ kʰet̪ mæ hɑt̪ʰ læ t̪ʊh sure.",
+      "ur": "دھّسَے کھےت مَے هاتھ لَے تُه سُورے ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": ""
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "es": {
+        "sn": null
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 3769,
+    "Seq": 31,
+    "header": 0,
+    "Paragraph": 12,
+    "Gurmukhi": "iBry swmuhy is`D swvMq pUry ]",
+    "Visraam": {
+      "sttm2": [],
+      "sttm": [],
+      "igurbani": []
+    },
+    "Transliterations": {
+      "en": "bhire saamuhe si'dh saava(n)t poore ||",
+      "hi": "भिरे सामुहे सिद्ध सावंत पूरे ॥",
+      "ipa": "ɓɪre sɑmʊhe sɪt̪ə̀ sɑʋəŋt̪ pure.",
+      "ur": "بھِرے سامهے سّدھ ساوںت پُورے ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": ""
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "es": {
+        "sn": null
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 3770,
+    "Seq": 32,
+    "header": 0,
+    "Paragraph": 12,
+    "Gurmukhi": "krY hwQ dÍY kwF kY imXwn mYN qy ]",
+    "Visraam": {
+      "sttm2": [],
+      "sttm": [],
+      "igurbani": []
+    },
+    "Transliterations": {
+      "en": "karai haath dhavai kaadd kai miyaan mai(n) te ||",
+      "hi": "करै हाथ द्वै काढ कै मियान मैं ते ॥",
+      "ipa": "kəræ hɑt̪ʰ d̪ʋæ kɑʈə̀ kæ mɪjɑn mæⁿ t̪e.",
+      "ur": "کرَے هاتھ دوَے کاڈھ کَے مےان مَےں تے ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": ""
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "es": {
+        "sn": null
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 3771,
+    "Seq": 33,
+    "header": 0,
+    "Paragraph": 12,
+    "Gurmukhi": "Pqh pwie hY bIr mYdwn mYN qy ]",
+    "Visraam": {
+      "sttm2": [],
+      "sttm": [],
+      "igurbani": []
+    },
+    "Transliterations": {
+      "en": "fateh pai hai beer maidhaan mai(n) te ||",
+      "hi": "फतह पाइ है बीर मैदान मैं ते ॥",
+      "ipa": "fət̪əh pɑeɪ hæ bir mæd̪ɑn mæⁿ t̪e.",
+      "ur": "پھته پاا هَے بیِر مَےدان مَےں تے ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": ""
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "es": {
+        "sn": null
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 3772,
+    "Seq": 34,
+    "header": 0,
+    "Paragraph": 13,
+    "Gurmukhi": "ktk S`qR ky AgR hoie Pt bwhY ]",
+    "Visraam": {
+      "sttm2": [],
+      "sttm": [],
+      "igurbani": []
+    },
+    "Transliterations": {
+      "en": "kaTak sha'tr ke agr hoi faT baahai ||",
+      "hi": "कटक शत्त्र के अग्र होइ फट बाहै ॥",
+      "ipa": "kəʈək ʃt̪ɹ ke əGɹ hɔeɪ fəʈ bɑhæ.",
+      "ur": "کٹک شّتر کے اگر هوا پھٹ باهَے ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": ""
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "es": {
+        "sn": null
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 3773,
+    "Seq": 35,
+    "header": 0,
+    "Paragraph": 13,
+    "Gurmukhi": "brY dyv kMinXw qyaU kMq cwhY ]",
+    "Visraam": {
+      "sttm2": [],
+      "sttm": [],
+      "igurbani": []
+    },
+    "Transliterations": {
+      "en": "barai dhev ka(n)niyaa teuoo ka(n)t chaahai ||",
+      "hi": "बरै देव कंनिया तेऊ कंत चाहै ॥",
+      "ipa": "bəræ d̪eʋ kəŋnɪjɑ t̪eou kəŋt̪ t͡ʃɑhæ.",
+      "ur": "برَے دےو کنّےا تےاُو کںت چاهَے ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": ""
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "es": {
+        "sn": null
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 3774,
+    "Seq": 36,
+    "header": 0,
+    "Paragraph": 13,
+    "Gurmukhi": "mhW smr mYN jo krY hwQ jyqy ]",
+    "Visraam": {
+      "sttm2": [],
+      "sttm": [],
+      "igurbani": []
+    },
+    "Transliterations": {
+      "en": "mahaa(n) samar mai(n) jo karai haath jete ||",
+      "hi": "महाँ समर मैं जो करै हाथ जेते ॥",
+      "ipa": "məhɑⁿ səmər mæⁿ d͡ʒɔ kəræ hɑt̪ʰ d͡ʒet̪e.",
+      "ur": "مهاں سمر مَےں جو کرَے هاتھ جےتے ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": ""
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "es": {
+        "sn": null
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 3775,
+    "Seq": 37,
+    "header": 0,
+    "Paragraph": 13,
+    "Gurmukhi": "surg bws mYN BogvY brK qyqy ]",
+    "Visraam": {
+      "sttm2": [],
+      "sttm": [],
+      "igurbani": []
+    },
+    "Transliterations": {
+      "en": "surag baas mai(n) bhogavai barakh tete ||",
+      "hi": "सुरग बास मैं भोगवै बरख तेते ॥",
+      "ipa": "sʊrəG bɑs mæⁿ ɓɔGəʋæ bərəkʰ t̪et̪e.",
+      "ur": "سُرگ باس مَےں بھوگوَے برکھ تےتے ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": ""
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "es": {
+        "sn": null
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 3776,
+    "Seq": 38,
+    "header": 0,
+    "Paragraph": 14,
+    "Gurmukhi": "smr swmuhy sIs qo pwih cFwvY ]",
+    "Visraam": {
+      "sttm2": [],
+      "sttm": [],
+      "igurbani": []
+    },
+    "Transliterations": {
+      "en": "samar saamuhe sees to paeh chaddaavai ||",
+      "hi": "समर सामुहे सीस तो पाहि चढावै ॥",
+      "ipa": "səmər sɑmʊhe sis t̪ɔ pɑh t͡ʃəʈɑʋæ.",
+      "ur": "سمر سامهے سیِس تو پاه چڈھاوَے ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": ""
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "es": {
+        "sn": null
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 3777,
+    "Seq": 39,
+    "header": 0,
+    "Paragraph": 14,
+    "Gurmukhi": "mhwˆ BUp hÍY AauqrY rwj pwvY ]",
+    "Visraam": {
+      "sttm2": [],
+      "sttm": [],
+      "igurbani": []
+    },
+    "Transliterations": {
+      "en": "mahaa(n) bhoop havai aautarai raaj paavai ||",
+      "hi": "महाँ भूप ह्वै अउतरै राज पावै ॥",
+      "ipa": "məhɑ ɓup hʋæ əoʊt̪əræ rɑd͡ʒ pɑʋæ.",
+      "ur": "مهاˆ بھُوپ هوَے ااترَے راج پاوَے ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": ""
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "es": {
+        "sn": null
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 3778,
+    "Seq": 40,
+    "header": 0,
+    "Paragraph": 14,
+    "Gurmukhi": "mhwˆ Bwv so jo kry qor pUjM ]",
+    "Visraam": {
+      "sttm2": [],
+      "sttm": [],
+      "igurbani": []
+    },
+    "Transliterations": {
+      "en": "mahaa(n) bhaav so jo kare tor pooja(n) ||",
+      "hi": "महाँ भाव सो जो करे तोर पूजं ॥",
+      "ipa": "məhɑ ɓɑʋ sɔ d͡ʒɔ kəre t̪ɔr pud͡ʒəŋ.",
+      "ur": "مهاˆ بھاو سو جو کرے تور پُوجں ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": ""
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "es": {
+        "sn": null
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 3779,
+    "Seq": 41,
+    "header": 0,
+    "Paragraph": 14,
+    "Gurmukhi": "smr jIq kY sUr hÍY hY AdUjM ]",
+    "Visraam": {
+      "sttm2": [],
+      "sttm": [],
+      "igurbani": []
+    },
+    "Transliterations": {
+      "en": "samar jeet kai soor havai hai adhooja(n) ||",
+      "hi": "समर जीत कै सूर ह्वै है अदूजं ॥",
+      "ipa": "səmər d͡ʒit̪ kæ sur hʋæ hæ əd̪ud͡ʒəŋ.",
+      "ur": "سمر جیِت کَے سُور هوَے هَے ادُوجں ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": ""
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "es": {
+        "sn": null
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 3780,
+    "Seq": 42,
+    "header": 0,
+    "Paragraph": 15,
+    "Gurmukhi": "qujY pUj hY bIr bwnYq C`qRI ]",
+    "Visraam": {
+      "sttm2": [],
+      "sttm": [],
+      "igurbani": []
+    },
+    "Transliterations": {
+      "en": "tujai pooj hai beer baanait chha'tree ||",
+      "hi": "तुजै पूज है बीर बानैत छत्त्री ॥",
+      "ipa": "t̪ʊd͡ʒæ pud͡ʒ hæ bir bɑnæt̪ ɕt̪ɹi.",
+      "ur": "تُجَے پُوج هَے بیِر بانَےت چھّتریِ ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": ""
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "es": {
+        "sn": null
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 3781,
+    "Seq": 43,
+    "header": 0,
+    "Paragraph": 15,
+    "Gurmukhi": "mhwˆ KVg DwrI mhwˆ qyj A`qRI ]",
+    "Visraam": {
+      "sttm2": [],
+      "sttm": [],
+      "igurbani": []
+    },
+    "Transliterations": {
+      "en": "mahaa(n) khaRag dhaaree mahaa(n) tej a'tree ||",
+      "hi": "महाँ खड़ग धारी महाँ तेज अत्त्री ॥",
+      "ipa": "məhɑ kʰəɽəG t̪ɑri məhɑ t̪ed͡ʒ ət̪ɹi.",
+      "ur": "مهاˆ کھڑگ دھاریِ مهاˆ تےج اّتریِ ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": ""
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "es": {
+        "sn": null
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 3782,
+    "Seq": 44,
+    "header": 0,
+    "Paragraph": 15,
+    "Gurmukhi": "pVY pRIq so pRWq AsqoqR XW ko ]",
+    "Visraam": {
+      "sttm2": [],
+      "sttm": [],
+      "igurbani": []
+    },
+    "Transliterations": {
+      "en": "paRai preet so praa(n)t asatotr yaa(n) ko ||",
+      "hi": "पड़ै प्रीत सो प्राँत असतोत्र याँ को ॥",
+      "ipa": "pəɽæ pɹit̪ sɔ pɹɑⁿət̪ əsət̪ɔt̪ɹ jɑⁿ kɔ.",
+      "ur": "پڑَے پریِت سو پراںت استوتر ےاں کو ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": ""
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "es": {
+        "sn": null
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 3783,
+    "Seq": 45,
+    "header": 0,
+    "Paragraph": 15,
+    "Gurmukhi": "kry rudR kwlI nmskwr qW ko ]",
+    "Visraam": {
+      "sttm2": [],
+      "sttm": [],
+      "igurbani": []
+    },
+    "Transliterations": {
+      "en": "kare rudhr kaalee namasakaar taa(n) ko ||",
+      "hi": "करे रुद्र काली नमसकार ताँ को ॥",
+      "ipa": "kəre rʊd̪ɹ kɑli nəməsəkɑr t̪ɑⁿ kɔ.",
+      "ur": "کرے رُدر کالیِ نمسکار تاں کو ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": ""
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "es": {
+        "sn": null
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 3784,
+    "Seq": 46,
+    "header": 0,
+    "Paragraph": 16,
+    "Gurmukhi": "ruDR mMjnI ibMjnI hY AgOqI ]",
+    "Visraam": {
+      "sttm2": [],
+      "sttm": [],
+      "igurbani": []
+    },
+    "Transliterations": {
+      "en": "rudhr ma(n)janee bi(n)janee hai agauatee ||",
+      "hi": "रुध्र मंजनी बिंजनी है अगौती ॥",
+      "ipa": "rʊt̪ə̀ɹ məŋd͡ʒəni bɪŋd͡ʒəni hæ əGɒət̪i.",
+      "ur": "رُدھر مںجنیِ بںجنیِ هَے اگَوتیِ ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": ""
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "es": {
+        "sn": null
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 3785,
+    "Seq": 47,
+    "header": 0,
+    "Paragraph": 16,
+    "Gurmukhi": "sdw jY sdw jY sdw jY BgOqI ]",
+    "Visraam": {
+      "sttm2": [],
+      "sttm": [],
+      "igurbani": []
+    },
+    "Transliterations": {
+      "en": "sadhaa jai sadhaa jai sadhaa jai bhagauatee ||",
+      "hi": "सदा जै सदा जै सदा जै भगौती ॥",
+      "ipa": "səd̪ɑ d͡ʒæ səd̪ɑ d͡ʒæ səd̪ɑ d͡ʒæ ɓəGɒət̪i.",
+      "ur": "سدا جَے سدا جَے سدا جَے بھگَوتیِ ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": ""
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "es": {
+        "sn": null
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 3786,
+    "Seq": 48,
+    "header": 0,
+    "Paragraph": 16,
+    "Gurmukhi": "sdw dwhny dws ko dwn dIjY ]",
+    "Visraam": {
+      "sttm2": [],
+      "sttm": [],
+      "igurbani": []
+    },
+    "Transliterations": {
+      "en": "sadhaa dhaahane dhaas ko dhaan dheejai ||",
+      "hi": "सदा दाहने दास को दान दीजै ॥",
+      "ipa": "səd̪ɑ d̪ɑhəne d̪ɑs kɔ d̪ɑn d̪id͡ʒæ.",
+      "ur": "سدا داهنے داس کو دان دیِجَے ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": ""
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "es": {
+        "sn": null
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 3787,
+    "Seq": 49,
+    "header": 0,
+    "Paragraph": 16,
+    "Gurmukhi": "gurU Swh goibMd kI r`K kIjY ]",
+    "Visraam": {
+      "sttm2": [],
+      "sttm": [],
+      "igurbani": []
+    },
+    "Transliterations": {
+      "en": "guroo shaeh gobi(n)dh kee ra'kh keejai ||",
+      "hi": "गुरू शाह गोबिंद की रक्ख कीजै ॥",
+      "ipa": "Gʊru ʃɑh Gɔbɪŋd̪ ki rkʰ kid͡ʒæ.",
+      "ur": "گُرُو شاه گوبںد کیِ رّکھ کیِجَے ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": ""
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "es": {
+        "sn": null
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 3788,
+    "Seq": 50,
+    "header": 0,
+    "Paragraph": 17,
+    "Gurmukhi": "cOpeI ]",
+    "Visraam": {
+      "sttm": [],
+      "igurbani": [],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "chauapiee ||",
+      "hi": "चौपई ॥",
+      "ipa": "t͡ʃɒəpei.",
+      "ur": "چَوپای ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": ""
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "es": {
+        "sn": null
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 3789,
+    "Seq": 51,
+    "header": 0,
+    "Paragraph": 18,
+    "Gurmukhi": "ieh AsqoRq gur dsmysYN ]",
+    "Visraam": {
+      "sttm2": [],
+      "sttm": [],
+      "igurbani": []
+    },
+    "Transliterations": {
+      "en": "eeh asatorat gur dhasamesai(n) ||",
+      "hi": "इह असतो्रत गुर दसमेसैं ॥",
+      "ipa": "eɪh əsət̪ɔɹət̪ Gʊr d̪əsəmesæⁿ.",
+      "ur": "ِاه استورت گُر دسمےسَےں ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": ""
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "es": {
+        "sn": null
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 3790,
+    "Seq": 52,
+    "header": 0,
+    "Paragraph": 18,
+    "Gurmukhi": "ilKXo bIc inju gRMQ bsysYN ]",
+    "Visraam": {
+      "sttm2": [],
+      "sttm": [],
+      "igurbani": []
+    },
+    "Transliterations": {
+      "en": "likhayo beech nij gra(n)th basesai(n) ||",
+      "hi": "लिखयो बीच निजु ग्रंथ बसेसैं ॥",
+      "ipa": "lɪkʰəjɔ bit͡ʃ nɪd͡ʒ Gɹəŋt̪ʰ bəsesæⁿ.",
+      "ur": "لِکھےو بیِچ نج گرںتھ بسےسَےں ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": ""
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "es": {
+        "sn": null
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 3791,
+    "Seq": 53,
+    "header": 0,
+    "Paragraph": 18,
+    "Gurmukhi": "Aibcl ngr supt ny ipKXo ]",
+    "Visraam": {
+      "sttm2": [],
+      "sttm": [],
+      "igurbani": []
+    },
+    "Transliterations": {
+      "en": "abichal nagar supaT ne pikhayo ||",
+      "hi": "अबिचल नगर सुपट ने पिखयो ॥",
+      "ipa": "əbɪt͡ʃəl nəGər sʊpəʈ ne pɪkʰəjɔ.",
+      "ur": "ابچل نگر سُپٹ نے پکھےو ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": ""
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "es": {
+        "sn": null
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 3792,
+    "Seq": 54,
+    "header": 0,
+    "Paragraph": 18,
+    "Gurmukhi": "s`qRw sY bvMjw mYN ilKXo ]",
+    "Visraam": {
+      "sttm2": [],
+      "sttm": [],
+      "igurbani": []
+    },
+    "Transliterations": {
+      "en": "sa'traa sai bava(n)jaa mai(n) likhayo ||",
+      "hi": "सत्त्रा सै बवंजा मैं लिखयो ॥",
+      "ipa": "st̪ɹɑ sæ bəʋəŋd͡ʒɑ mæⁿ lɪkʰəjɔ.",
+      "ur": "سّترا سَے بوںجا مَےں لکھےو ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": ""
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null
+      },
+      "es": {
+        "sn": null
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  }
+]

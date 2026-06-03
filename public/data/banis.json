@@ -1,0 +1,1052 @@
+[
+  {
+    "ID": 1,
+    "Gurmukhi": "gur mMqR",
+    "Transliterations": {
+      "en": "gur ma(n)tr",
+      "hi": "गुर मंत्र",
+      "ipa": "Gʊr məŋt̪ɹ",
+      "ur": "گُر مںتر"
+    }
+  },
+  {
+    "ID": 2,
+    "Gurmukhi": "jpujI swihb",
+    "Transliterations": {
+      "en": "japujee saahib",
+      "hi": "जपुजी साहिब",
+      "ipa": "d͡ʒəpʊd͡ʒi sɑhɪb",
+      "ur": "جپجیِ ساهب"
+    }
+  },
+  {
+    "ID": 3,
+    "Gurmukhi": "Sbd hzwry",
+    "Transliterations": {
+      "en": "shabadh hazaare",
+      "hi": "शबद हज़ारे",
+      "ipa": "ʃəbəd̪ həzɑre",
+      "ur": "شبد هزارے"
+    }
+  },
+  {
+    "ID": 4,
+    "Gurmukhi": "jwpu swihb",
+    "Transliterations": {
+      "en": "jaap saahib",
+      "hi": "जापु साहिब",
+      "ipa": "d͡ʒɑp sɑhɪb",
+      "ur": "جاپ ساهب"
+    }
+  },
+  {
+    "ID": 5,
+    "Gurmukhi": "Sbd hzwry pwiqSwhI 10",
+    "Transliterations": {
+      "en": "shabadh hazaare paatishaahee 10",
+      "hi": "शबद हज़ारे पातिशाही १०",
+      "ipa": "ʃəbəd̪ həzɑre pɑt̪ɪʃɑhi 1ə0",
+      "ur": "شبد هزارے پاتشاهیِ ۱۰"
+    }
+  },
+  {
+    "ID": 6,
+    "Gurmukhi": "qÍ pRswid sv`Xy (sRwvg su`D)",
+    "Transliterations": {
+      "en": "tavai prasaadh sava'ye (sraavag su'dh)",
+      "hi": "त्व प्रसादि सवय्ये (स्रावग सुद्ध)",
+      "ipa": "t̪ʋ pɹəsɑd̪ səʋje (sɹɑʋəG sʊt̪ə̀)",
+      "ur": "تو پرساد سوّےے (سراوگ سُّدھ)"
+    }
+  },
+  {
+    "ID": 7,
+    "Gurmukhi": "qÍ pRswid sv`Xy (dInn kI)",
+    "Transliterations": {
+      "en": "tavai prasaadh sava'ye (dheenan kee)",
+      "hi": "त्व प्रसादि सवय्ये (दीनन की)",
+      "ipa": "t̪ʋ pɹəsɑd̪ səʋje (d̪inən ki)",
+      "ur": "تو پرساد سوّےے (دیٍنن کیِ)"
+    }
+  },
+  {
+    "ID": 8,
+    "Gurmukhi": "Akwl ausqq cOpeI",
+    "Transliterations": {
+      "en": "akaal usatat chauapiee",
+      "hi": "अकाल उसतत चौपई",
+      "ipa": "əkɑl oʊsət̪ət̪ t͡ʃɒəpei",
+      "ur": "اکال اُستت چَوپای"
+    }
+  },
+  {
+    "ID": 9,
+    "Gurmukhi": "bynqI cOpeI swihb",
+    "Transliterations": {
+      "en": "benatee chauapiee saahib",
+      "hi": "बेनती चौपई साहिब",
+      "ipa": "benət̪i t͡ʃɒəpei sɑhɪb",
+      "ur": "بےنتیِ چَوپای ساهب"
+    }
+  },
+  {
+    "ID": 10,
+    "Gurmukhi": "Anµdu swihb",
+    "Transliterations": {
+      "en": "ana(n)dh saahib",
+      "hi": "अनंदु साहिब",
+      "ipa": "ənəⁿd̪ sɑhɪb",
+      "ur": "انµد ساهب"
+    }
+  },
+  {
+    "ID": 11,
+    "Gurmukhi": "lwvW",
+    "Transliterations": {
+      "en": "laavaa(n)",
+      "hi": "लावाँ",
+      "ipa": "lɑʋɑⁿ",
+      "ur": "لاواں"
+    }
+  },
+  {
+    "ID": 12,
+    "Gurmukhi": "AQ cMfIcirqR",
+    "Transliterations": {
+      "en": "ath cha(n)ddeecharitr",
+      "hi": "अथ चंडीचरित्र",
+      "ipa": "ət̪ʰ t͡ʃəŋɖit͡ʃərɪt̪ɹ",
+      "ur": "اتھ چںڈیِچرتر"
+    }
+  },
+  {
+    "ID": 13,
+    "Gurmukhi": "cMfI dI vwr",
+    "Transliterations": {
+      "en": "cha(n)ddee dhee vaar",
+      "hi": "चंडी दी वार",
+      "ipa": "t͡ʃəŋɖi d̪i ʋɑr",
+      "ur": "چںڈیِ دیِ وار"
+    }
+  },
+  {
+    "ID": 14,
+    "Gurmukhi": "kucjI",
+    "Transliterations": {
+      "en": "kuchajee",
+      "hi": "कुचजी",
+      "ipa": "kʊt͡ʃəd͡ʒi",
+      "ur": "کُچجیِ"
+    }
+  },
+  {
+    "ID": 15,
+    "Gurmukhi": "sucjI",
+    "Transliterations": {
+      "en": "suchajee",
+      "hi": "सुचजी",
+      "ipa": "sʊt͡ʃəd͡ʒi",
+      "ur": "سُچجیِ"
+    }
+  },
+  {
+    "ID": 16,
+    "Gurmukhi": "guxvMqI",
+    "Transliterations": {
+      "en": "gunava(n)tee",
+      "hi": "गुणवंती",
+      "ipa": "Gʊɳəʋəŋt̪i",
+      "ur": "گُݨوںتیِ"
+    }
+  },
+  {
+    "ID": 17,
+    "Gurmukhi": "Punhy mhlw 5",
+    "Transliterations": {
+      "en": "funahe mahalaa panjavaa",
+      "hi": "फुनहे महला ५",
+      "ipa": "fʊnəhe məhəlɑ pəŋd͡ʒʋɑ",
+      "ur": "پھُنهے مهلا ۵"
+    }
+  },
+  {
+    "ID": 18,
+    "Gurmukhi": "cauboly",
+    "Transliterations": {
+      "en": "chaubole",
+      "hi": "चउबोले",
+      "ipa": "t͡ʃoʊbɔle",
+      "ur": "چابولے"
+    }
+  },
+  {
+    "ID": 19,
+    "Gurmukhi": "SsqR nwm mwlw",
+    "Transliterations": {
+      "en": "shasatr naam maalaa",
+      "hi": "शसत्र नाम माला",
+      "ipa": "ʃəsət̪ɹ nɑm mɑlɑ",
+      "ur": "شستر نام مالا"
+    }
+  },
+  {
+    "ID": 21,
+    "Gurmukhi": "rhrwis swihb",
+    "Transliterations": {
+      "en": "raharaas saahib",
+      "hi": "रहरासि साहिब",
+      "ipa": "rəhərɑs sɑhɪb",
+      "ur": "رهراس ساهب"
+    }
+  },
+  {
+    "ID": 22,
+    "Gurmukhi": "AwrqI",
+    "Transliterations": {
+      "en": "aaratee",
+      "hi": "आरती",
+      "ipa": "əɑrət̪i",
+      "ur": "آرتیِ"
+    }
+  },
+  {
+    "ID": 23,
+    "Gurmukhi": "soihlw swihb",
+    "Transliterations": {
+      "en": "sohilaa saahib",
+      "hi": "सोहिला साहिब",
+      "ipa": "sɔhɪlɑ sɑhɪb",
+      "ur": "سوهلا ساهب"
+    }
+  },
+  {
+    "ID": 24,
+    "Gurmukhi": "Ardws",
+    "Transliterations": {
+      "en": "aradhaas",
+      "hi": "अरदास",
+      "ipa": "ərəd̪ɑs",
+      "ur": "ارداس"
+    }
+  },
+  {
+    "ID": 25,
+    "Gurmukhi": "sRI BgauqI AsqoqR (pMQ pRkwS)",
+    "Transliterations": {
+      "en": "sree bhagautee asatotr (pa(n)th prakaash)",
+      "hi": "स्री भगउती असतोत्र (पंथ प्रकाश)",
+      "ipa": "sɹi ɓəGoʊt̪i əsət̪ɔt̪ɹ (pəŋt̪ʰ pɹəkɑʃ)",
+      "ur": "سریِ بھگاتیِ استوتر (پںتھ پرکاش)"
+    }
+  },
+  {
+    "ID": 26,
+    "Gurmukhi": "sRI BgauqI AsqoqR (sRI hzUr swihb)",
+    "Transliterations": {
+      "en": "sree bhagautee asatotr (sree hazoor saahib)",
+      "hi": "स्री भगउती असतोत्र (स्री हज़ूर साहिब)",
+      "ipa": "sɹi ɓəGoʊt̪i əsət̪ɔt̪ɹ (sɹi həzur sɑhɪb)",
+      "ur": "سریِ بھگاتیِ استوتر (سریِ هزُور ساهب)"
+    }
+  },
+  {
+    "ID": 27,
+    "Gurmukhi": "bwrh mwhw mWJ",
+    "Transliterations": {
+      "en": "baareh maahaa maa(n)jh",
+      "hi": "बारह माहा माँझ",
+      "ipa": "bɑrəh mɑhɑ mɑⁿəɖ͡ʐ",
+      "ur": "باره ماها ماںجھ"
+    }
+  },
+  {
+    "ID": 28,
+    "Gurmukhi": "bwrh mwhw svYXw",
+    "Transliterations": {
+      "en": "baareh maahaa savaiyaa",
+      "hi": "बारह माहा सवैया",
+      "ipa": "bɑrəh mɑhɑ səʋæjɑ",
+      "ur": "باره ماها سوَےےا"
+    }
+  },
+  {
+    "ID": 29,
+    "Gurmukhi": "Akwl ausqq",
+    "Transliterations": {
+      "en": "akaal usatat",
+      "hi": "अकाल उसतत",
+      "ipa": "əkɑl oʊsət̪ət̪",
+      "ur": "اکال اُستت"
+    }
+  },
+  {
+    "ID": 30,
+    "Gurmukhi": "slok mhlw 9",
+    "Transliterations": {
+      "en": "salok mahalaa nauvaa",
+      "hi": "सलोक महला ९",
+      "ipa": "səlɔk məhəlɑ nɑʋɑ",
+      "ur": "سلوک مهلا ۹"
+    }
+  },
+  {
+    "ID": 31,
+    "Gurmukhi": "suKmnI swihb",
+    "Transliterations": {
+      "en": "sukhamanee saahib",
+      "hi": "सुखमनी साहिब",
+      "ipa": "sʊkʰəməni sɑhɪb",
+      "ur": "سُکھمنیِ ساهب"
+    }
+  },
+  {
+    "ID": 32,
+    "Gurmukhi": "suKmnw swihb",
+    "Transliterations": {
+      "en": "sukhamanaa saahib",
+      "hi": "सुखमना साहिब",
+      "ipa": "sʊkʰəmənɑ sɑhɪb",
+      "ur": "سُکھمنا ساهب"
+    }
+  },
+  {
+    "ID": 33,
+    "Gurmukhi": "bwvn AKrI",
+    "Transliterations": {
+      "en": "baavan akharee",
+      "hi": "बावन अखरी",
+      "ipa": "bɑʋən əkʰəri",
+      "ur": "باون اکھریِ"
+    }
+  },
+  {
+    "ID": 34,
+    "Gurmukhi": "isD gosit",
+    "Transliterations": {
+      "en": "sidh gosaT",
+      "hi": "सिध गोसटि",
+      "ipa": "sɪt̪ə̀ Gɔsəʈ",
+      "ur": "سِدھ گوسٹ"
+    }
+  },
+  {
+    "ID": 35,
+    "Gurmukhi": "dKxI EAMkwru",
+    "Transliterations": {
+      "en": "dhakhanee oa(n)kaaru",
+      "hi": "दखणी ओअंकारु",
+      "ipa": "d̪əkʰəɳi oəŋkɑrʊ",
+      "ur": "دکھݨیِ اواںکار"
+    }
+  },
+  {
+    "ID": 36,
+    "Gurmukhi": "duK BMjnI swihb",
+    "Transliterations": {
+      "en": "dhukh bha(n)janee saahib",
+      "hi": "दुख भंजनी साहिब",
+      "ipa": "d̪ʊkʰ ɓəŋd͡ʒəni sɑhɪb",
+      "ur": "دُکھ بھںجنیِ ساهب"
+    }
+  },
+  {
+    "ID": 38,
+    "Gurmukhi": "rwg mwlw",
+    "Transliterations": {
+      "en": "raag maalaa",
+      "hi": "राग माला",
+      "ipa": "rɑG mɑlɑ",
+      "ur": "راگ مالا"
+    }
+  },
+  {
+    "ID": 39,
+    "Gurmukhi": "bwvn AKrI kbIr jIau kI",
+    "Transliterations": {
+      "en": "baavan akharee kabeer jeeau kee",
+      "hi": "बावन अखरी कबीर जीउ की",
+      "ipa": "bɑʋən əkʰəri kəbir d͡ʒio ki",
+      "ur": "باون اکھریِ کبیِر جیِا کیِ"
+    }
+  },
+  {
+    "ID": 40,
+    "Gurmukhi": "GoVIAw",
+    "Transliterations": {
+      "en": "ghoReeaa",
+      "hi": "घोड़ीआ",
+      "ipa": "Gʰɔɽiəɑ",
+      "ur": "گھوڑیِآ"
+    }
+  },
+  {
+    "ID": 41,
+    "Gurmukhi": "krhly",
+    "Transliterations": {
+      "en": "karahale",
+      "hi": "करहले",
+      "ipa": "kərəhəle",
+      "ur": "کرهلے"
+    }
+  },
+  {
+    "ID": 42,
+    "Gurmukhi": "ibrhVy",
+    "Transliterations": {
+      "en": "birahaRe",
+      "hi": "बिरहड़े",
+      "ipa": "bɪrəhəɽe",
+      "ur": "بِرهڑے"
+    }
+  },
+  {
+    "ID": 43,
+    "Gurmukhi": "ptI ilKI",
+    "Transliterations": {
+      "en": "paTee likhee",
+      "hi": "पटी लिखी",
+      "ipa": "pəʈi lɪkʰi",
+      "ur": "پٹیِ لکھیِ"
+    }
+  },
+  {
+    "ID": 44,
+    "Gurmukhi": "ptI mhlw 3",
+    "Transliterations": {
+      "en": "paTee mahalaa teejaa",
+      "hi": "पटी महला ३",
+      "ipa": "pəʈi məhəlɑ t̪id͡ʒɑ",
+      "ur": "پٹیِ مهلا ۳"
+    }
+  },
+  {
+    "ID": 45,
+    "Gurmukhi": "mhlw 5 ruqI",
+    "Transliterations": {
+      "en": "mahalaa panjavaa rutee",
+      "hi": "महला ५ रुती",
+      "ipa": "məhəlɑ pəŋd͡ʒʋɑ rʊt̪i",
+      "ur": "مهلا ۵ رُتیِ"
+    }
+  },
+  {
+    "ID": 46,
+    "Gurmukhi": "rwmklI sdu",
+    "Transliterations": {
+      "en": "raamakalee sadhu",
+      "hi": "रामकली सदु",
+      "ipa": "rɑməkəli səd̪ʊ",
+      "ur": "رامکلیِ سد"
+    }
+  },
+  {
+    "ID": 47,
+    "Gurmukhi": "iQqMØI kbIr jI kMØI",
+    "Transliterations": {
+      "en": "thita(n)ee kabeer jee ka(n)ee",
+      "hi": "थितीं कबीर जी कीं",
+      "ipa": "t̪ʰɪt̪əŋi kəbir d͡ʒi kəŋi",
+      "ur": "تھِتںØیِ کبیِر جیِ کںØیِ"
+    }
+  },
+  {
+    "ID": 48,
+    "Gurmukhi": "iQqI mhlw 1",
+    "Transliterations": {
+      "en": "thitee mahalaa pehilaa",
+      "hi": "थिती महला १",
+      "ipa": "t̪ʰɪt̪i məhəlɑ pəhɪlɑ",
+      "ur": "تھِتیِ مهلا ۱"
+    }
+  },
+  {
+    "ID": 49,
+    "Gurmukhi": "iQqI mhlw 5",
+    "Transliterations": {
+      "en": "thitee mahalaa panjavaa",
+      "hi": "थिती महला ५",
+      "ipa": "t̪ʰɪt̪i məhəlɑ pəŋd͡ʒʋɑ",
+      "ur": "تھِتیِ مهلا ۵"
+    }
+  },
+  {
+    "ID": 50,
+    "Gurmukhi": "gauVI vwr kbIr jIau ky",
+    "Transliterations": {
+      "en": "gauRee vaar kabeer jeeau ke",
+      "hi": "गउड़ी वार कबीर जीउ के",
+      "ipa": "Goʊɽi ʋɑr kəbir d͡ʒio ke",
+      "ur": "گاڑیِ وار کبیِر جیِا کے"
+    }
+  },
+  {
+    "ID": 51,
+    "Gurmukhi": "iblwvlu mhlw 3 vwr sq",
+    "Transliterations": {
+      "en": "bilaaval mahalaa teejaa vaar sat",
+      "hi": "बिलावलु महला ३ वार सत",
+      "ipa": "bɪlɑʋəl məhəlɑ t̪id͡ʒɑ ʋɑr sət̪",
+      "ur": "بِلاول مهلا ۳ وار ست"
+    }
+  },
+  {
+    "ID": 52,
+    "Gurmukhi": "vxjwrw",
+    "Transliterations": {
+      "en": "vanajaaraa",
+      "hi": "वणजारा",
+      "ipa": "ʋəɳəd͡ʒɑrɑ",
+      "ur": "وݨجارا"
+    }
+  },
+  {
+    "ID": 53,
+    "Gurmukhi": "augRdMqI",
+    "Transliterations": {
+      "en": "augradha(n)tee",
+      "hi": "उग्रदंती",
+      "ipa": "oʊGɹəd̪əŋt̪i",
+      "ur": "اُگردںتیِ"
+    }
+  },
+  {
+    "ID": 55,
+    "Gurmukhi": "rwgu isrIrwgu (kbIr jIau kw)",
+    "Transliterations": {
+      "en": "raag sireeraag (kabeer jeeau kaa)",
+      "hi": "रागु सिरीरागु (कबीर जीउ का)",
+      "ipa": "rɑG sɪrirɑG (kəbir d͡ʒio kɑ)",
+      "ur": "راگ سریِراگ (کبیِر جیِا کا)"
+    }
+  },
+  {
+    "ID": 56,
+    "Gurmukhi": "rwgu gauVI",
+    "Transliterations": {
+      "en": "raag gauRee",
+      "hi": "रागु गउड़ी",
+      "ipa": "rɑG Goʊɽi",
+      "ur": "راگ گاڑیِ"
+    }
+  },
+  {
+    "ID": 57,
+    "Gurmukhi": "rwgu Awsw",
+    "Transliterations": {
+      "en": "raag aasaa",
+      "hi": "रागु आसा",
+      "ipa": "rɑG əɑsɑ",
+      "ur": "راگ آسا"
+    }
+  },
+  {
+    "ID": 58,
+    "Gurmukhi": "rwgu gUjrI",
+    "Transliterations": {
+      "en": "raag goojaree",
+      "hi": "रागु गूजरी",
+      "ipa": "rɑG Gud͡ʒəri",
+      "ur": "راگ گُوجریِ"
+    }
+  },
+  {
+    "ID": 59,
+    "Gurmukhi": "rwgu soriT",
+    "Transliterations": {
+      "en": "raag soraTh",
+      "hi": "रागु सोरठि",
+      "ipa": "rɑG sɔrəʈʰ",
+      "ur": "راگ سورٹھ"
+    }
+  },
+  {
+    "ID": 60,
+    "Gurmukhi": "rwgu DnwsrI",
+    "Transliterations": {
+      "en": "raag dhanaasaree",
+      "hi": "रागु धनासरी",
+      "ipa": "rɑG t̪ənɑsəri",
+      "ur": "راگ دھناسریِ"
+    }
+  },
+  {
+    "ID": 61,
+    "Gurmukhi": "rwgu jYqsrI",
+    "Transliterations": {
+      "en": "raag jaitasaree",
+      "hi": "रागु जैतसरी",
+      "ipa": "rɑG d͡ʒæt̪əsəri",
+      "ur": "راگ جَےتسریِ"
+    }
+  },
+  {
+    "ID": 62,
+    "Gurmukhi": "rwgu tofI (bwxI BgqW kI)",
+    "Transliterations": {
+      "en": "raag Toddee (baanee bhagataa(n) kee)",
+      "hi": "रागु टोडी (बाणी भगताँ की)",
+      "ipa": "rɑG ʈɔɖi (bɑɳi ɓəGət̪ɑⁿ ki)",
+      "ur": "راگ ٹوڈیِ (باݨیِ بھگتاں کیِ)"
+    }
+  },
+  {
+    "ID": 63,
+    "Gurmukhi": "rwgu iqlMg (bwxI Bgqw kI kbIr jI)",
+    "Transliterations": {
+      "en": "raag tila(n)g (baanee bhagataa kee kabeer jee)",
+      "hi": "रागु तिलंग (बाणी भगता की कबीर जी)",
+      "ipa": "rɑG t̪ɪləŋG (bɑɳi ɓəGət̪ɑ ki kəbir d͡ʒi)",
+      "ur": "راگ تلںگ (باݨیِ بھگتا کیِ کبیِر جیِ)"
+    }
+  },
+  {
+    "ID": 64,
+    "Gurmukhi": "rwgu sUhI",
+    "Transliterations": {
+      "en": "raag soohee",
+      "hi": "रागु सूही",
+      "ipa": "rɑG suhi",
+      "ur": "راگ سُوهیِ"
+    }
+  },
+  {
+    "ID": 65,
+    "Gurmukhi": "rwgu iblwvlu",
+    "Transliterations": {
+      "en": "raag bilaavalu",
+      "hi": "रागु बिलावलु",
+      "ipa": "rɑG bɪlɑʋəlʊ",
+      "ur": "راگ بلاول"
+    }
+  },
+  {
+    "ID": 66,
+    "Gurmukhi": "rwgu goNf",
+    "Transliterations": {
+      "en": "raag go(n)dd",
+      "hi": "रागु गोंड",
+      "ipa": "rɑG Gɔⁿɖ",
+      "ur": "راگ گوںڈ"
+    }
+  },
+  {
+    "ID": 67,
+    "Gurmukhi": "rwgu rwmklI (sdu)",
+    "Transliterations": {
+      "en": "raag raamakalee (sadhu)",
+      "hi": "रागु रामकली (सदु)",
+      "ipa": "rɑG rɑməkəli (səd̪ʊ)",
+      "ur": "راگ رامکلیِ (سد)"
+    }
+  },
+  {
+    "ID": 68,
+    "Gurmukhi": "rwgu mwlI gauVw",
+    "Transliterations": {
+      "en": "raag maalee gauRaa",
+      "hi": "रागु माली गउड़ा",
+      "ipa": "rɑG mɑli Goʊɽɑ",
+      "ur": "راگ مالیِ گاڑا"
+    }
+  },
+  {
+    "ID": 69,
+    "Gurmukhi": "rwgu mwrU",
+    "Transliterations": {
+      "en": "raag maaroo",
+      "hi": "रागु मारू",
+      "ipa": "rɑG mɑru",
+      "ur": "راگ مارُو"
+    }
+  },
+  {
+    "ID": 70,
+    "Gurmukhi": "rwgu kydwrw",
+    "Transliterations": {
+      "en": "raag kedhaaraa",
+      "hi": "रागु केदारा",
+      "ipa": "rɑG ked̪ɑrɑ",
+      "ur": "راگ کےدارا"
+    }
+  },
+  {
+    "ID": 71,
+    "Gurmukhi": "rwgu BYrau",
+    "Transliterations": {
+      "en": "raag bhairau",
+      "hi": "रागु भैरउ",
+      "ipa": "rɑG ɓæroʊ",
+      "ur": "راگ بھَےرا"
+    }
+  },
+  {
+    "ID": 72,
+    "Gurmukhi": "rwgu bsMqu",
+    "Transliterations": {
+      "en": "raag basa(n)tu",
+      "hi": "रागु बसंतु",
+      "ipa": "rɑG bəsəŋt̪ʊ",
+      "ur": "راگ بسںت"
+    }
+  },
+  {
+    "ID": 73,
+    "Gurmukhi": "rwgu swrMg",
+    "Transliterations": {
+      "en": "raag saara(n)g",
+      "hi": "रागु सारंग",
+      "ipa": "rɑG sɑrəŋG",
+      "ur": "راگ سارںگ"
+    }
+  },
+  {
+    "ID": 74,
+    "Gurmukhi": "rwgu mlwr",
+    "Transliterations": {
+      "en": "raag malaar",
+      "hi": "रागु मलार",
+      "ipa": "rɑG məlɑr",
+      "ur": "راگ ملار"
+    }
+  },
+  {
+    "ID": 75,
+    "Gurmukhi": "rwgu kwnVw",
+    "Transliterations": {
+      "en": "raag kaanaRaa",
+      "hi": "रागु कानड़ा",
+      "ipa": "rɑG kɑnəɽɑ",
+      "ur": "راگ کانڑا"
+    }
+  },
+  {
+    "ID": 76,
+    "Gurmukhi": "rwgu pRBwqI",
+    "Transliterations": {
+      "en": "raag prabhaatee",
+      "hi": "रागु प्रभाती",
+      "ipa": "rɑG pɹəɓɑt̪i",
+      "ur": "راگ پربھاتیِ"
+    }
+  },
+  {
+    "ID": 77,
+    "Gurmukhi": "slok Bgq kbIr jIau ky",
+    "Transliterations": {
+      "en": "salok bhagat kabeer jeeau ke",
+      "hi": "सलोक भगत कबीर जीउ के",
+      "ipa": "səlɔk ɓəGət̪ kəbir d͡ʒio ke",
+      "ur": "سلوک بھگت کبیِر جیِا کے"
+    }
+  },
+  {
+    "ID": 78,
+    "Gurmukhi": "slok syK PrId ky",
+    "Transliterations": {
+      "en": "salok sekh fareedh ke",
+      "hi": "सलोक सेख फरीद के",
+      "ipa": "səlɔk sekʰ fərid̪ ke",
+      "ur": "سلوک سےکھ پھریِد کے"
+    }
+  },
+  {
+    "ID": 79,
+    "Gurmukhi": "svXy sRI muKbwk´ mhlw 5 - 1",
+    "Transliterations": {
+      "en": "savaye sree mukhabaakaye mahalaa panjavaa - 1",
+      "hi": "सवये स्री मुखबाक्य महला ५ - १",
+      "ipa": "səʋəje sɹi mʊkʰəbɑkəj məhəlɑ pəŋd͡ʒʋɑ - 1",
+      "ur": "سوےے سریِ مُکھباکے مهلا ۵ - ۱"
+    }
+  },
+  {
+    "ID": 80,
+    "Gurmukhi": "svXy sRI muKbwk´ mhlw 5 - 2",
+    "Transliterations": {
+      "en": "savaye sree mukhabaakaye mahalaa panjavaa - 2",
+      "hi": "सवये स्री मुखबाक्य महला ५ - २",
+      "ipa": "səʋəje sɹi mʊkʰəbɑkəj məhəlɑ pəŋd͡ʒʋɑ - 2",
+      "ur": "سوےے سریِ مُکھباکے مهلا ۵ - ۲"
+    }
+  },
+  {
+    "ID": 81,
+    "Gurmukhi": "sveIey mhly pihly ky",
+    "Transliterations": {
+      "en": "savie'ee mahale pahile ke",
+      "hi": "सवईए महले पहिले के",
+      "ipa": "səʋeiee məhəle pəhɪle ke",
+      "ur": "سوایاے مهلے پهِلے کے"
+    }
+  },
+  {
+    "ID": 82,
+    "Gurmukhi": "sveIey mhly dUjy ky",
+    "Transliterations": {
+      "en": "savie'ee mahale dhooje ke",
+      "hi": "सवईए महले दूजे के",
+      "ipa": "səʋeiee məhəle d̪ud͡ʒe ke",
+      "ur": "سوایاے مهلے دُوجے کے"
+    }
+  },
+  {
+    "ID": 83,
+    "Gurmukhi": "sveIey mhly qIjy ky",
+    "Transliterations": {
+      "en": "savie'ee mahale teeje ke",
+      "hi": "सवईए महले तीजे के",
+      "ipa": "səʋeiee məhəle t̪id͡ʒe ke",
+      "ur": "سوایاے مهلے تیِجے کے"
+    }
+  },
+  {
+    "ID": 84,
+    "Gurmukhi": "sveIey mhly cauQy ky",
+    "Transliterations": {
+      "en": "savie'ee mahale chauthe ke",
+      "hi": "सवईए महले चउथे के",
+      "ipa": "səʋeiee məhəle t͡ʃoʊt̪ʰe ke",
+      "ur": "سوایاے مهلے چاتھے کے"
+    }
+  },
+  {
+    "ID": 85,
+    "Gurmukhi": "sveIey mhly pMjvy ky",
+    "Transliterations": {
+      "en": "savie'ee mahale pa(n)jave ke",
+      "hi": "सवईए महले पंजवे के",
+      "ipa": "səʋeiee məhəle pəŋd͡ʒəʋe ke",
+      "ur": "سوایاے مهلے پںجوے کے"
+    }
+  },
+  {
+    "ID": 86,
+    "Gurmukhi": "isrIrwg kI vwr mhlw 4",
+    "Transliterations": {
+      "en": "sireeraag kee vaar mahalaa chauthhaa",
+      "hi": "सिरीराग की वार महला ४",
+      "ipa": "sɪrirɑG ki ʋɑr məhəlɑ t͡ʃɵɵt̪ʰɑ",
+      "ur": "سِریِراگ کیِ وار مهلا ۴"
+    }
+  },
+  {
+    "ID": 87,
+    "Gurmukhi": "vwr mwJ kI",
+    "Transliterations": {
+      "en": "vaar maajh kee",
+      "hi": "वार माझ की",
+      "ipa": "ʋɑr mɑɖ͡ʐ ki",
+      "ur": "وار ماجھ کیِ"
+    }
+  },
+  {
+    "ID": 88,
+    "Gurmukhi": "gauVI kI vwr mhlw 4",
+    "Transliterations": {
+      "en": "gauRee kee vaar mahalaa chauthhaa",
+      "hi": "गउड़ी की वार महला ४",
+      "ipa": "Goʊɽi ki ʋɑr məhəlɑ t͡ʃɵɵt̪ʰɑ",
+      "ur": "گاڑیِ کیِ وار مهلا ۴"
+    }
+  },
+  {
+    "ID": 89,
+    "Gurmukhi": "gauVI kI vwr mhlw 5",
+    "Transliterations": {
+      "en": "gauRee kee vaar mahalaa panjavaa",
+      "hi": "गउड़ी की वार महला ५",
+      "ipa": "Goʊɽi ki ʋɑr məhəlɑ pəŋd͡ʒʋɑ",
+      "ur": "گاڑیِ کیِ وار مهلا ۵"
+    }
+  },
+  {
+    "ID": 90,
+    "Gurmukhi": "Awsw dI vwr",
+    "Transliterations": {
+      "en": "aasaa dhee vaar",
+      "hi": "आसा दी वार",
+      "ipa": "əɑsɑ d̪i ʋɑr",
+      "ur": "آسا دیِ وار"
+    }
+  },
+  {
+    "ID": 91,
+    "Gurmukhi": "gUjrI kI vwr mhlw 3",
+    "Transliterations": {
+      "en": "goojaree kee vaar mahalaa teejaa",
+      "hi": "गूजरी की वार महला ३",
+      "ipa": "Gud͡ʒəri ki ʋɑr məhəlɑ t̪id͡ʒɑ",
+      "ur": "گُوجریِ کیِ وار مهلا ۳"
+    }
+  },
+  {
+    "ID": 92,
+    "Gurmukhi": "rwgu gUjrI vwr mhlw 5",
+    "Transliterations": {
+      "en": "raag goojaree vaar mahalaa panjavaa",
+      "hi": "रागु गूजरी वार महला ५",
+      "ipa": "rɑG Gud͡ʒəri ʋɑr məhəlɑ pəŋd͡ʒʋɑ",
+      "ur": "راگ گُوجریِ وار مهلا ۵"
+    }
+  },
+  {
+    "ID": 93,
+    "Gurmukhi": "ibhwgVy kI vwr mhlw 4",
+    "Transliterations": {
+      "en": "bihaagaRe kee vaar mahalaa chauthhaa",
+      "hi": "बिहागड़े की वार महला ४",
+      "ipa": "bɪhɑGəɽe ki ʋɑr məhəlɑ t͡ʃɵɵt̪ʰɑ",
+      "ur": "بِهاگڑے کیِ وار مهلا ۴"
+    }
+  },
+  {
+    "ID": 94,
+    "Gurmukhi": "vfhMs kI vwr mhlw 4",
+    "Transliterations": {
+      "en": "vaddaha(n)s kee vaar mahalaa chauthhaa",
+      "hi": "वडहंस की वार महला ४",
+      "ipa": "ʋəɖəhəŋs ki ʋɑr məhəlɑ t͡ʃɵɵt̪ʰɑ",
+      "ur": "وڈهںس کیِ وار مهلا ۴"
+    }
+  },
+  {
+    "ID": 95,
+    "Gurmukhi": "rwgu soriT vwr mhly 4 kI",
+    "Transliterations": {
+      "en": "raag soraTh vaar mahale 4 kee",
+      "hi": "रागु सोरठि वार महले ४ की",
+      "ipa": "rɑG sɔrəʈʰ ʋɑr məhəle 4 ki",
+      "ur": "راگ سورٹھ وار مهلے ۴ کیِ"
+    }
+  },
+  {
+    "ID": 96,
+    "Gurmukhi": "jYqsrI kI vwr",
+    "Transliterations": {
+      "en": "jaitasaree kee vaar",
+      "hi": "जैतसरी की वार",
+      "ipa": "d͡ʒæt̪əsəri ki ʋɑr",
+      "ur": "جَےتسریِ کیِ وار"
+    }
+  },
+  {
+    "ID": 97,
+    "Gurmukhi": "vwr sUhI kI",
+    "Transliterations": {
+      "en": "vaar soohee kee",
+      "hi": "वार सूही की",
+      "ipa": "ʋɑr suhi ki",
+      "ur": "وار سُوهیِ کیِ"
+    }
+  },
+  {
+    "ID": 98,
+    "Gurmukhi": "iblwvlu kI vwr mhlw 4",
+    "Transliterations": {
+      "en": "bilaaval kee vaar mahalaa chauthhaa",
+      "hi": "बिलावलु की वार महला ४",
+      "ipa": "bɪlɑʋəl ki ʋɑr məhəlɑ t͡ʃɵɵt̪ʰɑ",
+      "ur": "بِلاول کیِ وار مهلا ۴"
+    }
+  },
+  {
+    "ID": 99,
+    "Gurmukhi": "rwmklI kI vwr mhlw 3",
+    "Transliterations": {
+      "en": "raamakalee kee vaar mahalaa teejaa",
+      "hi": "रामकली की वार महला ३",
+      "ipa": "rɑməkəli ki ʋɑr məhəlɑ t̪id͡ʒɑ",
+      "ur": "رامکلیِ کیِ وار مهلا ۳"
+    }
+  },
+  {
+    "ID": 100,
+    "Gurmukhi": "rwmklI kI vwr mhlw 5",
+    "Transliterations": {
+      "en": "raamakalee kee vaar mahalaa panjavaa",
+      "hi": "रामकली की वार महला ५",
+      "ipa": "rɑməkəli ki ʋɑr məhəlɑ pəŋd͡ʒʋɑ",
+      "ur": "رامکلیِ کیِ وار مهلا ۵"
+    }
+  },
+  {
+    "ID": 101,
+    "Gurmukhi": "rwmklI kI vwr (rwie blvMif qQw sqY)",
+    "Transliterations": {
+      "en": "raamakalee kee vaar (rai balava(n)dd tathaa satai)",
+      "hi": "रामकली की वार (राइ बलवंडि तथा सतै)",
+      "ipa": "rɑməkəli ki ʋɑr (rɑeɪ bələʋəŋɖ t̪ət̪ʰɑ sət̪æ)",
+      "ur": "رامکلیِ کیِ وار (راا بلوںڈ تتھا ستَے)"
+    }
+  },
+  {
+    "ID": 102,
+    "Gurmukhi": "mwrU vwr mhlw 3",
+    "Transliterations": {
+      "en": "maaroo vaar mahalaa teejaa",
+      "hi": "मारू वार महला ३",
+      "ipa": "mɑru ʋɑr məhəlɑ t̪id͡ʒɑ",
+      "ur": "مارُو وار مهلا ۳"
+    }
+  },
+  {
+    "ID": 103,
+    "Gurmukhi": "mwrU vwr mhlw 5 fKxy",
+    "Transliterations": {
+      "en": "maaroo vaar mahalaa panjavaa ddakhane",
+      "hi": "मारू वार महला ५ डखणे",
+      "ipa": "mɑru ʋɑr məhəlɑ pəŋd͡ʒʋɑ ɖəkʰəɳe",
+      "ur": "مارُو وار مهلا ۵ ڈکھݨے"
+    }
+  },
+  {
+    "ID": 104,
+    "Gurmukhi": "bsMq kI vwr",
+    "Transliterations": {
+      "en": "basa(n)t kee vaar",
+      "hi": "बसंत की वार",
+      "ipa": "bəsəŋt̪ ki ʋɑr",
+      "ur": "بسںت کیِ وار"
+    }
+  },
+  {
+    "ID": 105,
+    "Gurmukhi": "swrMg kI vwr mhlw 4",
+    "Transliterations": {
+      "en": "saara(n)g kee vaar mahalaa chauthhaa",
+      "hi": "सारंग की वार महला ४",
+      "ipa": "sɑrəŋG ki ʋɑr məhəlɑ t͡ʃɵɵt̪ʰɑ",
+      "ur": "سارںگ کیِ وار مهلا ۴"
+    }
+  },
+  {
+    "ID": 106,
+    "Gurmukhi": "vwr mlwr kI mhlw 1",
+    "Transliterations": {
+      "en": "vaar malaar kee mahalaa pehilaa",
+      "hi": "वार मलार की महला १",
+      "ipa": "ʋɑr məlɑr ki məhəlɑ pəhɪlɑ",
+      "ur": "وار ملار کیِ مهلا ۱"
+    }
+  },
+  {
+    "ID": 107,
+    "Gurmukhi": "kwnVy kI vwr mhlw 4",
+    "Transliterations": {
+      "en": "kaanaRe kee vaar mahalaa chauthhaa",
+      "hi": "कानड़े की वार महला ४",
+      "ipa": "kɑnəɽe ki ʋɑr məhəlɑ t͡ʃɵɵt̪ʰɑ",
+      "ur": "کانڑے کیِ وار مهلا ۴"
+    }
+  },
+  {
+    "ID": 1000,
+    "Gurmukhi": "Anµdu swihb (6 pauVI)",
+    "Transliterations": {
+      "en": "ana(n)dh saahib (6 pauRee)",
+      "hi": "अनंदु साहिब (६ पउड़ी)",
+      "ipa": "ənəⁿd̪ sɑhɪb (6 poʊɽi)",
+      "ur": "انµد ساهب (۶ پاڑیِ)"
+    }
+  }
+]

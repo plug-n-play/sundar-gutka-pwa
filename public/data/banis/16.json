@@ -1,0 +1,899 @@
+[
+  {
+    "ID": 2434,
+    "Seq": 1,
+    "header": 2,
+    "Paragraph": 1,
+    "Gurmukhi": "sUhI mhlw 5 guxvMqI ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 2,
+          "t": "v"
+        },
+        {
+          "p": 0,
+          "t": "y"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 2,
+          "t": "v"
+        },
+        {
+          "p": 0,
+          "t": "y"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "soohee mahalaa panjavaa gunava(n)tee ||",
+      "hi": "सूही महला ५ गुणवंती ॥",
+      "ipa": "suhi məhəlɑ pəŋd͡ʒʋɑ Gʊɳəʋəŋt̪i.",
+      "ur": "سُوهیِ مهلا ۵ گُݨوںتیِ ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Soohee, Fifth Mehla, Gunvantee ~ The Worthy And Virtuous Bride:",
+        "ms": "Suhi, 5th Guru. Gunwanti.",
+        "ssk": "Soohee, Fifth Mehl, Gunvantee ~ The Worthy And Virtuous Bride:"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "(guxvMqI) pRym gun vwlI auqm jgÎwsI khqI hY:",
+        "bdb": null,
+        "ms": "sUhI pMjvIN pwiqSwhI[ guxvMqI["
+      },
+      "puu": {
+        "ss": null,
+        "ft": "(ਗੁਣਵੰਤੀ) ਪ੍ਰੇਮ ਗੁਨ ਵਾਲੀ ਉਤਮ ਜਗ੍ਯਾਸੀ ਕਹਤੀ ਹੈ:",
+        "bdb": null,
+        "ms": "ਸੂਹੀ ਪੰਜਵੀਂ ਪਾਤਿਸ਼ਾਹੀ। ਗੁਣਵੰਤੀ।"
+      },
+      "es": {
+        "sn": "Suji, Mejl Guru Aryan, Quinto Canal Divino, Gunvanti,  - La Novia Virtuosa y Merecedora -"
+      },
+      "hi": {
+        "ss": "",
+        "sts": "सूही महला ५ गुणवंती ॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 2435,
+    "Seq": 2,
+    "header": 0,
+    "Paragraph": 2,
+    "Gurmukhi": "jo dIsY gurisKVw iqsu iniv iniv lwgau pwie jIau ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "jo dheesai gursikhaRaa tis niv niv laagau pai jeeau ||",
+      "hi": "जो दीसै गुरसिखड़ा तिसु निवि निवि लागउ पाइ जीउ ॥",
+      "ipa": "d͡ʒɔ d̪isæ Gʊrəsɪkʰəɽɑ t̪ɪs nɪʋ nɪʋ lɑGo pɑeɪ d͡ʒio.",
+      "ur": "جو دیِسَے گُرسکھڑا تس نو نوِ لاگا پاِا جیِا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "When I see a Sikh of the Guru, I humbly bow and fall at his feet.",
+        "ms": "If I see disciple of the Guru, I bow low and fall at his feet.",
+        "ssk": "When I see a Sikh of the Guru, I humbly bow and fall at his feet."
+      },
+      "pu": {
+        "ss": "mYƒ jyhVw BI koeI gurU dw ipAwrw is`K iml pYNdw hY, mYN nIaUN nIaUN ky (Bwv, inmRqw-ADIngI nwl) aus dI pYrIN l`gdw hW,",
+        "ft": "jo gurU isKÎw ky lyxy vwlw dyKUM, iqs ky jIau mn kr ky crnoN myN inauN inauN kr lgUM]",
+        "bdb": "mYƒ jyhVw BI koeI gurU dw ipAwrw is`K iml pYNdw hY, mYN nIaUN nIaUN ky (Bwv, inmRqw-ADIngI nwl) aus dI pYrIN l`gdw hW,",
+        "ms": "jykr mYN gur dy is`K ƒ lvW, qW mYN nIvIN Ju`k aus dy pYrI pYNdI hW["
+      },
+      "puu": {
+        "ss": "ਮੈਨੂੰ ਜੇਹੜਾ ਭੀ ਕੋਈ ਗੁਰੂ ਦਾ ਪਿਆਰਾ ਸਿੱਖ ਮਿਲ ਪੈਂਦਾ ਹੈ, ਮੈਂ ਨੀਊਂ ਨੀਊਂ ਕੇ (ਭਾਵ, ਨਿਮ੍ਰਤਾ-ਅਧੀਨਗੀ ਨਾਲ) ਉਸ ਦੀ ਪੈਰੀਂ ਲੱਗਦਾ ਹਾਂ,",
+        "ft": "ਜੋ ਗੁਰੂ ਸਿਖ੍ਯਾ ਕੇ ਲੇਣੇ ਵਾਲਾ ਦੇਖੂੰ, ਤਿਸ ਕੇ ਜੀਉ ਮਨ ਕਰ ਕੇ ਚਰਨੋਂ ਮੇਂ ਨਿਉਂ ਨਿਉਂ ਕਰ ਲਗੂੰ॥",
+        "bdb": "ਮੈਨੂੰ ਜੇਹੜਾ ਭੀ ਕੋਈ ਗੁਰੂ ਦਾ ਪਿਆਰਾ ਸਿੱਖ ਮਿਲ ਪੈਂਦਾ ਹੈ, ਮੈਂ ਨੀਊਂ ਨੀਊਂ ਕੇ (ਭਾਵ, ਨਿਮ੍ਰਤਾ-ਅਧੀਨਗੀ ਨਾਲ) ਉਸ ਦੀ ਪੈਰੀਂ ਲੱਗਦਾ ਹਾਂ,",
+        "ms": "ਜੇਕਰ ਮੈਂ ਗੁਰ ਦੇ ਸਿੱਖ ਨੂੰ ਲਵਾਂ, ਤਾਂ ਮੈਂ ਨੀਵੀਂ ਝੁੱਕ ਉਸ ਦੇ ਪੈਰੀ ਪੈਂਦੀ ਹਾਂ।"
+      },
+      "es": {
+        "sn": "Cuando veo a un Sikj del Guru, con toda humildad a Sus Pies me postro, "
+      },
+      "hi": {
+        "ss": "मुझे जो भी कोई गुरू का प्यारा सिख मिल जाता है।मैं झुक-झुक के (भाव।विनम्रता-अधीनगी से) उसके पैरों पे लगता हूँ।",
+        "sts": "जो भी गुरु का शिष्य दिखाई देता है, मैं झुक-झुक कर उसके चरणों में पड़ता हूँ।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 2436,
+    "Seq": 3,
+    "header": 0,
+    "Paragraph": 2,
+    "Gurmukhi": "AwKw ibrQw jIA kI guru sjxu dyih imlwie jIau ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "aakhaa birathaa jeea kee gur sajan dheh milai jeeau ||",
+      "hi": "आखा बिरथा जीअ की गुरु सजणु देहि मिलाइ जीउ ॥",
+      "ipa": "əɑkʰɑ bɪrət̪ʰɑ d͡ʒiə ki Gʊr səd͡ʒəɳ d̪eh mɪlɑeɪ d͡ʒio.",
+      "ur": "آکھا برتھا جیِا کیِ گُر سجݨ دےه ملاا جیِا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "I tell to him the pain of my soul, and beg him to unite me with the Guru, my Best Friend.",
+        "ms": "I tell him the pain of my heart and implore him to unite me with the Guru,",
+        "ssk": "I tell to him the pain of my soul, and beg him to unite me with the Guru, my Best Friend."
+      },
+      "pu": {
+        "ss": "qy aus ƒ Awpxy idl dI pIVw (qWG) d`sdw hW (qy bynqI krdw hW—hy guris`K!) mYƒ s`jx-gurU imlw dy [",
+        "ft": "mYN Apny jI kI eyhu ibrQw khUM: gurU jI jo s`jx hY, so muJy imlw dyvo]",
+        "bdb": "qy aus ƒ Awpxy idl dI pIVw (qWG) d`sdw hW (qy bynqI krdw hW—hy guris`K!) mYƒ s`jx-gurU imlw dy [",
+        "ms": "aus ƒ mYN Awpxy idl dw du`K d`sdI hW Aqy ibnY krdI hW ik auh mYƒ myry im`qr gurW nwl imlw dyvy,"
+      },
+      "puu": {
+        "ss": "ਤੇ ਉਸ ਨੂੰ ਆਪਣੇ ਦਿਲ ਦੀ ਪੀੜਾ (ਤਾਂਘ) ਦੱਸਦਾ ਹਾਂ (ਤੇ ਬੇਨਤੀ ਕਰਦਾ ਹਾਂ—ਹੇ ਗੁਰਸਿੱਖ!) ਮੈਨੂੰ ਸੱਜਣ-ਗੁਰੂ ਮਿਲਾ ਦੇ ।",
+        "ft": "ਮੈਂ ਅਪਨੇ ਜੀ ਕੀ ਏਹੁ ਬਿਰਥਾ ਕਹੂੰ: ਗੁਰੂ ਜੀ ਜੋ ਸੱਜਣ ਹੈ, ਸੋ ਮੁਝੇ ਮਿਲਾ ਦੇਵੋ॥",
+        "bdb": "ਤੇ ਉਸ ਨੂੰ ਆਪਣੇ ਦਿਲ ਦੀ ਪੀੜਾ (ਤਾਂਘ) ਦੱਸਦਾ ਹਾਂ (ਤੇ ਬੇਨਤੀ ਕਰਦਾ ਹਾਂ—ਹੇ ਗੁਰਸਿੱਖ!) ਮੈਨੂੰ ਸੱਜਣ-ਗੁਰੂ ਮਿਲਾ ਦੇ ।",
+        "ms": "ਉਸ ਨੂੰ ਮੈਂ ਆਪਣੇ ਦਿਲ ਦਾ ਦੁੱਖ ਦੱਸਦੀ ਹਾਂ ਅਤੇ ਬਿਨੈ ਕਰਦੀ ਹਾਂ ਕਿ ਉਹ ਮੈਨੂੰ ਮੇਰੇ ਮਿੱਤਰ ਗੁਰਾਂ ਨਾਲ ਮਿਲਾ ਦੇਵੇ,"
+      },
+      "es": {
+        "sn": "le cuento del dolor de mi Alma y le ruego que me una al Guru, mi mejor Amigo, "
+      },
+      "hi": {
+        "ss": "और उसे अपने दिल की पीड़ा (तमन्ना) बताता हूँ (और विनती करता हूँ- हे गुरसिख !) मुझे सज्जन गुरू मिला दे।",
+        "sts": "मैं उसे अपने मन की व्यथा बताता हूँ और उसे निवेदन करता हूँ केि वह मुझे मेरे सज्जन गुरु से मिला दे।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 2437,
+    "Seq": 4,
+    "header": 0,
+    "Paragraph": 2,
+    "Gurmukhi": "soeI dis aupdysVw myrw mnu Anq n kwhU jwie jIau ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 2,
+          "t": "v"
+        },
+        {
+          "p": 4,
+          "t": "y"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 2,
+          "t": "v"
+        },
+        {
+          "p": 4,
+          "t": "y"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "soiee dhas upadhesaRaa meraa man anat na kaahoo jai jeeau ||",
+      "hi": "सोई दसि उपदेसड़ा मेरा मनु अनत न काहू जाइ जीउ ॥",
+      "ipa": "sɔei d̪əs oʊpəd̪esəɽɑ merɑ mən ənət̪ nə kɑhu d͡ʒɑeɪ d͡ʒio.",
+      "ur": "سوای دس اُپدےسڑا مےرا من انت ن کاهُو جاا جیِا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "I ask that he impart to me such an understanding, that my mind will not go out wandering anywhere else.",
+        "ms": "my friend and impart unto me such an instruction, that my soul goes no where else.",
+        "ssk": "I ask that he impart to me such an understanding, that my mind will not go out wandering anywhere else."
+      },
+      "pu": {
+        "ss": "mYƒ koeI Ajyhw sohxw aupdyS d`s (ijs dI brkiq nwl) myrw mn iksy hor pwsy vl nwh jwey [",
+        "ft": "myry ko vhu aupdys kho ijs kr ky prmysr ko Cof kr myrw mn AOr iksy pdwrQ kI ie`Cw krny nw jwey[",
+        "bdb": "mYƒ koeI Ajyhw sohxw aupdyS d`s (ijs dI brkiq nwl) myrw mn iksy hor pwsy vl nwh jwey [",
+        "ms": "Aqy mYƒ ieho ijhw aupdyS dyvy ik myrI Awqmw hor ikDry nW jwvy["
+      },
+      "puu": {
+        "ss": "ਮੈਨੂੰ ਕੋਈ ਅਜੇਹਾ ਸੋਹਣਾ ਉਪਦੇਸ਼ ਦੱਸ (ਜਿਸ ਦੀ ਬਰਕਤਿ ਨਾਲ) ਮੇਰਾ ਮਨ ਕਿਸੇ ਹੋਰ ਪਾਸੇ ਵਲ ਨਾਹ ਜਾਏ ।",
+        "ft": "ਮੇਰੇ ਕੋ ਵਹੁ ਉਪਦੇਸ ਕਹੋ ਜਿਸ ਕਰ ਕੇ ਪਰਮੇਸਰ ਕੋ ਛੋਡ ਕਰ ਮੇਰਾ ਮਨ ਔਰ ਕਿਸੇ ਪਦਾਰਥ ਕੀ ਇੱਛਾ ਕਰਨੇ ਨਾ ਜਾਏ।",
+        "bdb": "ਮੈਨੂੰ ਕੋਈ ਅਜੇਹਾ ਸੋਹਣਾ ਉਪਦੇਸ਼ ਦੱਸ (ਜਿਸ ਦੀ ਬਰਕਤਿ ਨਾਲ) ਮੇਰਾ ਮਨ ਕਿਸੇ ਹੋਰ ਪਾਸੇ ਵਲ ਨਾਹ ਜਾਏ ।",
+        "ms": "ਅਤੇ ਮੈਨੂੰ ਇਹੋ ਜਿਹਾ ਉਪਦੇਸ਼ ਦੇਵੇ ਕਿ ਮੇਰੀ ਆਤਮਾ ਹੋਰ ਕਿਧਰੇ ਨਾਂ ਜਾਵੇ।"
+      },
+      "es": {
+        "sn": "que me instruya de tal forma para que mi mente ya no vague más. "
+      },
+      "hi": {
+        "ss": "मुझे कोई ऐसा सुंदर उपदेश दे (जिसकी बरकति से) मेरा मन किसी और की तरफ ना जाए।",
+        "sts": "मुझे वह उपदेश बताओ जिससे मेरा मन कहीं ओर मत भटके।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 2438,
+    "Seq": 5,
+    "header": 0,
+    "Paragraph": 2,
+    "Gurmukhi": "iehu mnu qY kUM fyvsw mY mwrgu dyhu bqwie jIau ]",
+    "Visraam": {
+      "sttm": [],
+      "igurbani": [],
+      "sttm2": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "eih man tai koo(n) ddevasaa mai maarag dheh batai jeeau ||",
+      "hi": "इहु मनु तै कूँ डेवसा मै मारगु देहु बताइ जीउ ॥",
+      "ipa": "eɪh mən t̪æ kuŋ ɖeʋəsɑ mæ mɑrəG d̪eh bət̪ɑeɪ d͡ʒio.",
+      "ur": "ِاهُ من تَے کُوں ڈےوسا مَے مارگ دےهُ بتاا جیِا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "I dedicate this mind to you. Please, show me the Path to God.",
+        "ms": "This soul of mine I shall surrender unto thee. Show thou me the way to my Lord.",
+        "ssk": "I dedicate this mind to you. Please, show me the Path to God."
+      },
+      "pu": {
+        "ss": "mYN Awpxw ieh mn qyry hvwly kr idAWgw, mYƒ rsqw d`s (ijs rwhy pY ky pRBU dw drsn kr skW) [",
+        "ft": "Xih mn quJ ko myN dyvoNgw, hy siqguroN ky isK! myry ko rsqw bqwie dyvo]",
+        "bdb": "mYN Awpxw ieh mn qyry hvwly kr idAWgw, mYƒ rsqw d`s (ijs rwhy pY ky pRBU dw drsn kr skW) [",
+        "ms": "mYN AwpxI ieh ijMdVI qYƒ smrpx kr dyvWgI[ qUM mYƒ myry mwlk dw rsqw ivKwl dy["
+      },
+      "puu": {
+        "ss": "ਮੈਂ ਆਪਣਾ ਇਹ ਮਨ ਤੇਰੇ ਹਵਾਲੇ ਕਰ ਦਿਆਂਗਾ, ਮੈਨੂੰ ਰਸਤਾ ਦੱਸ (ਜਿਸ ਰਾਹੇ ਪੈ ਕੇ ਪ੍ਰਭੂ ਦਾ ਦਰਸਨ ਕਰ ਸਕਾਂ) ।",
+        "ft": "ਯਹਿ ਮਨ ਤੁਝ ਕੋ ਮੇਂ ਦੇਵੋਂਗਾ, ਹੇ ਸਤਿਗੁਰੋਂ ਕੇ ਸਿਖ! ਮੇਰੇ ਕੋ ਰਸਤਾ ਬਤਾਇ ਦੇਵੋ॥",
+        "bdb": "ਮੈਂ ਆਪਣਾ ਇਹ ਮਨ ਤੇਰੇ ਹਵਾਲੇ ਕਰ ਦਿਆਂਗਾ, ਮੈਨੂੰ ਰਸਤਾ ਦੱਸ (ਜਿਸ ਰਾਹੇ ਪੈ ਕੇ ਪ੍ਰਭੂ ਦਾ ਦਰਸਨ ਕਰ ਸਕਾਂ) ।",
+        "ms": "ਮੈਂ ਆਪਣੀ ਇਹ ਜਿੰਦੜੀ ਤੈਨੂੰ ਸਮਰਪਣ ਕਰ ਦੇਵਾਂਗੀ। ਤੂੰ ਮੈਨੂੰ ਮੇਰੇ ਮਾਲਕ ਦਾ ਰਸਤਾ ਵਿਖਾਲ ਦੇ।"
+      },
+      "es": {
+        "sn": "Muéstrame el camino y te voy a entregar mi mente, pues he venido desde lejos a buscar tu Refugio, "
+      },
+      "hi": {
+        "ss": "मैं अपना ये मन तेरे हवाले कर दूँगा।मुझे रास्ता बता (जिस रास्ते पर चल के प्रभू के दर्शन कर सकूँ)।",
+        "sts": "मैं अपना यह मन तुझे दे दूंगा, मुझे (प्रभु मिलन का) मार्ग बता दो।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 2439,
+    "Seq": 6,
+    "header": 0,
+    "Paragraph": 2,
+    "Gurmukhi": "hau AwieAw dUrhu cil kY mY qkI qau srxwie jIau ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "hau aaiaa dhoorahu chal kai mai takee tau saranai jeeau ||",
+      "hi": "हउ आइआ दूरहु चलि कै मै तकी तउ सरणाइ जीउ ॥",
+      "ipa": "ho əɑɪɑ d̪urəh t͡ʃəl kæ mæ t̪əki t̪o sərəɳɑeɪ d͡ʒio.",
+      "ur": "ها آایا دُورهُ چل کَے مَے تکیِ تا سرݨاا جیِا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "I have come so far, seeking the Protection of Your Sanctuary.",
+        "ms": "I have come from after and I have sought thy protection.",
+        "ssk": "I have come so far, seeking the Protection of Your Sanctuary."
+      },
+      "pu": {
+        "ss": "mYN (cOrwsI l`K dy) dUr dy pYNfy qoN qur ky AwieAw hW, hux mYN qyrw Awsrw q`ikAw hY [ ",
+        "ft": "mYN dUr sy cl kr AwXw hUM ArQwq Anyk jUnoN myN BRmqw Awp kI srx AwXw hUM, mYny qyrI hI srn qkI hY]",
+        "bdb": "mYN (cOrwsI l`K dy) dUr dy pYNfy qoN qur ky AwieAw hW, hux mYN qyrw Awsrw q`ikAw hY [ ",
+        "ms": "mYN duryifauN tur ky AweI hW Aqy mYN qyrI pnwh qkweI hY["
+      },
+      "puu": {
+        "ss": "ਮੈਂ (ਚੌਰਾਸੀ ਲੱਖ ਦੇ) ਦੂਰ ਦੇ ਪੈਂਡੇ ਤੋਂ ਤੁਰ ਕੇ ਆਇਆ ਹਾਂ, ਹੁਣ ਮੈਂ ਤੇਰਾ ਆਸਰਾ ਤੱਕਿਆ ਹੈ । ",
+        "ft": "ਮੈਂ ਦੂਰ ਸੇ ਚਲ ਕਰ ਆਯਾ ਹੂੰ ਅਰਥਾਤ ਅਨੇਕ ਜੂਨੋਂ ਮੇਂ ਭ੍ਰਮਤਾ ਆਪ ਕੀ ਸਰਣ ਆਯਾ ਹੂੰ, ਮੈਨੇ ਤੇਰੀ ਹੀ ਸਰਨ ਤਕੀ ਹੈ॥",
+        "bdb": "ਮੈਂ (ਚੌਰਾਸੀ ਲੱਖ ਦੇ) ਦੂਰ ਦੇ ਪੈਂਡੇ ਤੋਂ ਤੁਰ ਕੇ ਆਇਆ ਹਾਂ, ਹੁਣ ਮੈਂ ਤੇਰਾ ਆਸਰਾ ਤੱਕਿਆ ਹੈ । ",
+        "ms": "ਮੈਂ ਦੁਰੇਡਿਉਂ ਟੁਰ ਕੇ ਆਈ ਹਾਂ ਅਤੇ ਮੈਂ ਤੇਰੀ ਪਨਾਹ ਤਕਾਈ ਹੈ।"
+      },
+      "es": {
+        "sn": "me voy a apoyar sólo en ti, oh Amigo, libérame ahora de todas mis tristezas."
+      },
+      "hi": {
+        "ss": "मैं (चौरासी लाख के) दूर की राहों से चल के आया हूँ।अब मैंने तेरा ही सहारा देखा है।",
+        "sts": "मैं बहुत दूर से चलकर तेरे पास आया हूँ और मैंने तेरी ही शरण देखी है।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 2440,
+    "Seq": 7,
+    "header": 0,
+    "Paragraph": 2,
+    "Gurmukhi": "mY Awsw rKI iciq mih myrw sBo duKu gvwie jIau ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "mai aasaa rakhee chit meh meraa sabho dhukh gavai jeeau ||",
+      "hi": "मै आसा रखी चिति महि मेरा सभो दुखु गवाइ जीउ ॥",
+      "ipa": "mæ əɑsɑ rəkʰi t͡ʃɪt̪ məh merɑ səɓɔ d̪ʊkʰ Gəʋɑeɪ d͡ʒio.",
+      "ur": "مَے آسا رکھیِ چت مهِ مےرا سبھو دُکھ گواا جیِا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Within my mind, I place my hopes in You; please, take my pain and suffering away!",
+        "ms": "Within my mind, I have raised hope in thee. Eliminate thou all my suffering.",
+        "ssk": "Within my mind, I place my hopes in You; please, take my pain and suffering away!"
+      },
+      "pu": {
+        "ss": "mYN Awpxy ic`q ivc ieh Aws r`KI hoeI hY ik qUµ myrw swrw du`K dUr kr dyvyNgw [",
+        "ft": "mYNny icq myN eyhI Awsw rKI hY ik qum hI qwrogy, ies qy myrw sB duK gvweIey jIau]ÇAwgy qy gurisK kihqw hY:",
+        "bdb": "mYN Awpxy ic`q ivc ieh Aws r`KI hoeI hY ik qUµ myrw swrw du`K dUr kr dyvyNgw [",
+        "ms": "Awpxy mn AMdr mYN qyry iv`c aumYd bMnHI hY! qUM myrw smUh duKVw dUr kr["
+      },
+      "puu": {
+        "ss": "ਮੈਂ ਆਪਣੇ ਚਿੱਤ ਵਿਚ ਇਹ ਆਸ ਰੱਖੀ ਹੋਈ ਹੈ ਕਿ ਤੂੰ ਮੇਰਾ ਸਾਰਾ ਦੁੱਖ ਦੂਰ ਕਰ ਦੇਵੇਂਗਾ ।",
+        "ft": "ਮੈਂਨੇ ਚਿਤ ਮੇਂ ਏਹੀ ਆਸਾ ਰਖੀ ਹੈ ਕਿ ਤੁਮ ਹੀ ਤਾਰੋਗੇ, ਇਸ ਤੇ ਮੇਰਾ ਸਭ ਦੁਖ ਗਵਾਈਏ ਜੀਉ॥☬ਆਗੇ ਤੇ ਗੁਰਸਿਖ ਕਹਿਤਾ ਹੈ:",
+        "bdb": "ਮੈਂ ਆਪਣੇ ਚਿੱਤ ਵਿਚ ਇਹ ਆਸ ਰੱਖੀ ਹੋਈ ਹੈ ਕਿ ਤੂੰ ਮੇਰਾ ਸਾਰਾ ਦੁੱਖ ਦੂਰ ਕਰ ਦੇਵੇਂਗਾ ।",
+        "ms": "ਆਪਣੇ ਮਨ ਅੰਦਰ ਮੈਂ ਤੇਰੇ ਵਿੱਚ ਉਮੈਦ ਬੰਨ੍ਹੀ ਹੈ! ਤੂੰ ਮੇਰਾ ਸਮੂਹ ਦੁਖੜਾ ਦੂਰ ਕਰ।"
+      },
+      "es": {
+        "sn": "Oh hermano, tú que caminas por este Sendero, hazlo de la forma como el Guru te lo indica, "
+      },
+      "hi": {
+        "ss": "मैंने अपने चिक्त में यही आस रखी हुई है कि तू मेरा सारा दुख दूर कर देगा।",
+        "sts": "मैंने अपने चित्त में यह आशा रखी हुई है कि तू मेरा सारा दुख दूर कर देगा।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 2441,
+    "Seq": 8,
+    "header": 0,
+    "Paragraph": 2,
+    "Gurmukhi": "iequ mwrig cly BweIAVy guru khY su kwr kmwie jIau ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 3,
+          "t": "v"
+        },
+        {
+          "p": 5,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "eit maarag chale bhaieeaRe gur kahai su kaar kamai jeeau ||",
+      "hi": "इतु मारगि चले भाईअड़े गुरु कहै सु कार कमाइ जीउ ॥",
+      "ipa": "eɪt̪ mɑrəG t͡ʃəle ɓɑeiɽe Gʊr kəhæ s kɑr kəmɑeɪ d͡ʒio.",
+      "ur": "ِات مارگ چلے بھاایاڑے گُر کهَے سُ کار کماا جیِا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "So walk on this Path, O sister soul-brides; do that work which the Guru tells you to do.",
+        "ms": "O sister, thou who walkest on this path, do thou the work, the Guru bids thee to do.",
+        "ssk": "So walk on this Path, O sister soul-brides; do that work which the Guru tells you to do."
+      },
+      "pu": {
+        "ss": "(A`goN au~qr imldw hY—) ies rsqy auqy jyhVy gur-BweI qurdy hn (auh gurU dI d`sI kwr krdy hn) qUµ BI auhI kwr kr jo gurU d`sdw hY [",
+        "ft": "hy BweI! qUM jo ies mwrg myN clyN qo jo kwr gurU khy so kmwE]",
+        "bdb": "(A`goN au~qr imldw hY—) ies rsqy auqy jyhVy gur-BweI qurdy hn (auh gurU dI d`sI kwr krdy hn) qUµ BI auhI kwr kr jo gurU d`sdw hY [",
+        "ms": "hy BYxy! qUM jo ies rwhy turdI hYN qUM auh kMm kr ijhVw gurU jI qYƒ AwKdy hn["
+      },
+      "puu": {
+        "ss": "(ਅੱਗੋਂ ਉੱਤਰ ਮਿਲਦਾ ਹੈ—) ਇਸ ਰਸਤੇ ਉਤੇ ਜੇਹੜੇ ਗੁਰ-ਭਾਈ ਤੁਰਦੇ ਹਨ (ਉਹ ਗੁਰੂ ਦੀ ਦੱਸੀ ਕਾਰ ਕਰਦੇ ਹਨ) ਤੂੰ ਭੀ ਉਹੀ ਕਾਰ ਕਰ ਜੋ ਗੁਰੂ ਦੱਸਦਾ ਹੈ ।",
+        "ft": "ਹੇ ਭਾਈ! ਤੂੰ ਜੋ ਇਸ ਮਾਰਗ ਮੇਂ ਚਲੇਂ ਤੋ ਜੋ ਕਾਰ ਗੁਰੂ ਕਹੇ ਸੋ ਕਮਾਓ॥",
+        "bdb": "(ਅੱਗੋਂ ਉੱਤਰ ਮਿਲਦਾ ਹੈ—) ਇਸ ਰਸਤੇ ਉਤੇ ਜੇਹੜੇ ਗੁਰ-ਭਾਈ ਤੁਰਦੇ ਹਨ (ਉਹ ਗੁਰੂ ਦੀ ਦੱਸੀ ਕਾਰ ਕਰਦੇ ਹਨ) ਤੂੰ ਭੀ ਉਹੀ ਕਾਰ ਕਰ ਜੋ ਗੁਰੂ ਦੱਸਦਾ ਹੈ ।",
+        "ms": "ਹੇ ਭੈਣੇ! ਤੂੰ ਜੋ ਇਸ ਰਾਹੇ ਟੁਰਦੀ ਹੈਂ ਤੂੰ ਉਹ ਕੰਮ ਕਰ ਜਿਹੜਾ ਗੁਰੂ ਜੀ ਤੈਨੂੰ ਆਖਦੇ ਹਨ।"
+      },
+      "es": {
+        "sn": "deja atrás tu actitud voluntariosa y la idea del otro. "
+      },
+      "hi": {
+        "ss": "(आगे से उक्तर मिलता है–) इस रास्ते पर जो गुर-भाई चलते हैं (वे गुरू के बताए हुए कर्म करते हैं) तू भी वही काम कर जो गुरू बताता है।",
+        "sts": "हे भाई ! यदि तू इस मार्ग पर चले, जो गुरु कहे, वह कार्य करे,"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 2442,
+    "Seq": 9,
+    "header": 0,
+    "Paragraph": 2,
+    "Gurmukhi": "iqAwgyN mn kI mqVI ivswryN dUjw Bwau jIau ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "tiaage(n) man kee mataRee visaare(n) dhoojaa bhaau jeeau ||",
+      "hi": "तिआगें मन की मतड़ी विसारें दूजा भाउ जीउ ॥",
+      "ipa": "t̪ɪəɑGeⁿ mən ki mət̪əɽi ʋɪsɑreⁿ d̪ud͡ʒɑ ɓɑo d͡ʒio.",
+      "ur": "تِآگےں من کیِ متڑیِ وسارےں دُوجا بھاا جیِا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Abandon the intellectual pursuits of the mind, and forget the love of duality."
+      },
+      "pu": {
+        "ss": "jy qUµ Awpxy mn dI koJI miq C`f dyvyN, jy qUµ pRBU qoN ibnw hor (mwieAw Awidk) dw ipAwr Bulw dyvyN,",
+        "ft": "",
+        "bdb": "jy qUµ Awpxy mn dI koJI miq C`f dyvyN, jy qUµ pRBU qoN ibnw hor (mwieAw Awidk) dw ipAwr Bulw dyvyN,"
+      },
+      "puu": {
+        "ss": "ਜੇ ਤੂੰ ਆਪਣੇ ਮਨ ਦੀ ਕੋਝੀ ਮਤਿ ਛੱਡ ਦੇਵੇਂ, ਜੇ ਤੂੰ ਪ੍ਰਭੂ ਤੋਂ ਬਿਨਾ ਹੋਰ (ਮਾਇਆ ਆਦਿਕ) ਦਾ ਪਿਆਰ ਭੁਲਾ ਦੇਵੇਂ,",
+        "ft": "",
+        "bdb": "ਜੇ ਤੂੰ ਆਪਣੇ ਮਨ ਦੀ ਕੋਝੀ ਮਤਿ ਛੱਡ ਦੇਵੇਂ, ਜੇ ਤੂੰ ਪ੍ਰਭੂ ਤੋਂ ਬਿਨਾ ਹੋਰ (ਮਾਇਆ ਆਦਿਕ) ਦਾ ਪਿਆਰ ਭੁਲਾ ਦੇਵੇਂ,"
+      },
+      "es": {
+        "sn": "Así tendrás la Visión del Señor y aun los vientos calientes no te tocarán. "
+      },
+      "hi": {
+        "ss": "अगर तू अपने मन की कोझी मति छोड़ दे।अगर तू प्रभू के बिना अन्य (माया आदि) का प्यार भुला दे।",
+        "sts": "अपने मन की मति त्याग दे और द्वैतभाव को भुला दे तो"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 2443,
+    "Seq": 10,
+    "header": 0,
+    "Paragraph": 2,
+    "Gurmukhi": "ieau pwvih hir drswvVw nh lgY qqI vwau jIau ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "eiau paaveh har dharasaavaRaa neh lagai tatee vaau jeeau ||",
+      "hi": "इउ पावहि हरि दरसावड़ा नह लगै तती वाउ जीउ ॥",
+      "ipa": "eɪo pɑʋəh hər d̪ərəsɑʋəɽɑ nəh ləGæ t̪ət̪i ʋɑo d͡ʒio.",
+      "ur": "ِاا پاوه هر درساوڑا نه لگَے تتیِ واا جیِا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "In this way, you shall obtain the Blessed Vision of the Lord's Darshan; the hot winds shall not even touch you.",
+        "ms": "Thus shalt thou have thy Lord's vision and even the hot wind shall touch thee not.",
+        "ssk": "In this way, you shall obtain the Blessed Vision of the Lord's Darshan; the hot winds shall not even touch you."
+      },
+      "pu": {
+        "ss": "qW ies qrHW qUµ pRBU dw sohxw drsn kr lvyNgw, qYƒ koeI du`K-klyS nhIN ivAwpygw [",
+        "ft": "ieauN hrI kw drsn pwvyNgw Pyr qyry ko q`qI paun n lgygI, Bwv koeI duK kI lys BI nw rhygI]",
+        "bdb": "qW ies qrHW qUµ pRBU dw sohxw drsn kr lvyNgw, qYƒ koeI du`K-klyS nhIN ivAwpygw [",
+        "ms": "ies qrHW ƒ Awpxy suAwmI dw dIdwr pw lvyNgI Aqy qYƒ grm hvw q`k nhIN lgygI["
+      },
+      "puu": {
+        "ss": "ਤਾਂ ਇਸ ਤਰ੍ਹਾਂ ਤੂੰ ਪ੍ਰਭੂ ਦਾ ਸੋਹਣਾ ਦਰਸਨ ਕਰ ਲਵੇਂਗਾ, ਤੈਨੂੰ ਕੋਈ ਦੁੱਖ-ਕਲੇਸ਼ ਨਹੀਂ ਵਿਆਪੇਗਾ ।",
+        "ft": "ਇਉਂ ਹਰੀ ਕਾ ਦਰਸਨ ਪਾਵੇਂਗਾ ਫੇਰ ਤੇਰੇ ਕੋ ਤੱਤੀ ਪਉਨ ਨ ਲਗੇਗੀ, ਭਾਵ ਕੋਈ ਦੁਖ ਕੀ ਲੇਸ ਭੀ ਨਾ ਰਹੇਗੀ॥",
+        "bdb": "ਤਾਂ ਇਸ ਤਰ੍ਹਾਂ ਤੂੰ ਪ੍ਰਭੂ ਦਾ ਸੋਹਣਾ ਦਰਸਨ ਕਰ ਲਵੇਂਗਾ, ਤੈਨੂੰ ਕੋਈ ਦੁੱਖ-ਕਲੇਸ਼ ਨਹੀਂ ਵਿਆਪੇਗਾ ।",
+        "ms": "ਇਸ ਤਰ੍ਹਾਂ ਨੂੰ ਆਪਣੇ ਸੁਆਮੀ ਦਾ ਦੀਦਾਰ ਪਾ ਲਵੇਂਗੀ ਅਤੇ ਤੈਨੂੰ ਗਰਮ ਹਵਾ ਤੱਕ ਨਹੀਂ ਲਗੇਗੀ।"
+      },
+      "es": {
+        "sn": "Ya no sé ni qué decir, sólo digo lo que es el Comando del Señor."
+      },
+      "hi": {
+        "ss": "तो इस तरह तू प्रभू के सुंदर दर्शन कर लेगा।तुझे कोई दुख-कलेश नहीं व्यापेगा।",
+        "sts": "इस तरह तू हरि का दर्शन पा लेगा और तुझे कोई दुख नहीं लगेगा।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 2444,
+    "Seq": 11,
+    "header": 0,
+    "Paragraph": 2,
+    "Gurmukhi": "hau Awphu boil n jwxdw mY kihAw sBu hukmwau jIau ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "hau aapahu bol na jaanadhaa mai kahiaa sabh hukamaau jeeau ||",
+      "hi": "हउ आपहु बोलि न जाणदा मै कहिआ सभु हुकमाउ जीउ ॥",
+      "ipa": "ho əɑpəh bɔl nə d͡ʒɑɳəd̪ɑ mæ kəhɪəɑ səɓ hʊkəmɑo d͡ʒio.",
+      "ur": "ها آپهُ بول ن جاݨدا مَے کهِآ سبھ هُکماا جیِا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "By myself, I do not even know how to speak; I speak all that the Lord commands.",
+        "ms": "By myself I know not how to speak. I utter all, that is the command of my Lord.",
+        "ssk": "By myself, I do not even know how to speak; I speak all that the Lord commands."
+      },
+      "pu": {
+        "ss": "mYN jo kuJ qYƒ d`isAw hY gurU dw hukm hI d`isAw hY, mYN AwpxI Akl dw Awsrw lY ky ieh rsqw nhIN d`s irhw [",
+        "ft": "mYN Awp qo bolx BI nhIN jwxqw, ijqnw khw hY sB aus kw hukm hI khw hY, Bwv jo byd swsqR hYN sB ausI kw hukm hY]",
+        "bdb": "mYN jo kuJ qYƒ d`isAw hY gurU dw hukm hI d`isAw hY, mYN AwpxI Akl dw Awsrw lY ky ieh rsqw nhIN d`s irhw [",
+        "ms": "Awpxy Awp qW mYN bolxw hI nhIN jwxdw[ mYN smUh auh hI aucwrn hkrdw hW, ijhVw myry pRBU dw Purmwn hY["
+      },
+      "puu": {
+        "ss": "ਮੈਂ ਜੋ ਕੁਝ ਤੈਨੂੰ ਦੱਸਿਆ ਹੈ ਗੁਰੂ ਦਾ ਹੁਕਮ ਹੀ ਦੱਸਿਆ ਹੈ, ਮੈਂ ਆਪਣੀ ਅਕਲ ਦਾ ਆਸਰਾ ਲੈ ਕੇ ਇਹ ਰਸਤਾ ਨਹੀਂ ਦੱਸ ਰਿਹਾ ।",
+        "ft": "ਮੈਂ ਆਪ ਤੋ ਬੋਲਣ ਭੀ ਨਹੀਂ ਜਾਣਤਾ, ਜਿਤਨਾ ਕਹਾ ਹੈ ਸਭ ਉਸ ਕਾ ਹੁਕਮ ਹੀ ਕਹਾ ਹੈ, ਭਾਵ ਜੋ ਬੇਦ ਸਾਸਤ੍ਰ ਹੈਂ ਸਭ ਉਸੀ ਕਾ ਹੁਕਮ ਹੈ॥",
+        "bdb": "ਮੈਂ ਜੋ ਕੁਝ ਤੈਨੂੰ ਦੱਸਿਆ ਹੈ ਗੁਰੂ ਦਾ ਹੁਕਮ ਹੀ ਦੱਸਿਆ ਹੈ, ਮੈਂ ਆਪਣੀ ਅਕਲ ਦਾ ਆਸਰਾ ਲੈ ਕੇ ਇਹ ਰਸਤਾ ਨਹੀਂ ਦੱਸ ਰਿਹਾ ।",
+        "ms": "ਆਪਣੇ ਆਪ ਤਾਂ ਮੈਂ ਬੋਲਣਾ ਹੀ ਨਹੀਂ ਜਾਣਦਾ। ਮੈਂ ਸਮੂਹ ਉਹ ਹੀ ਉਚਾਰਨ ਹਕਰਦਾ ਹਾਂ, ਜਿਹੜਾ ਮੇਰੇ ਪ੍ਰਭੂ ਦਾ ਫੁਰਮਾਨ ਹੈ।"
+      },
+      "es": {
+        "sn": "Estoy bendecido con el Tesoro de la Devoción del Señor, "
+      },
+      "hi": {
+        "ss": "मैंने जो कुछ तुझे बताया है गुरू का हुकम ही बताया है।मैं अपनी अक्ल का आसरा ले के ये रास्ता नहीं बता रहा।",
+        "sts": "मैं स्वयं तो कुछ भी बोलना नहीं जानता, मैंने तो सबकुछ परमात्मा के हुक्म से ही कहा है।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 2445,
+    "Seq": 12,
+    "header": 0,
+    "Paragraph": 2,
+    "Gurmukhi": "hir Bgiq Kjwnw bKisAw guir nwnik kIAw pswau jIau ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "har bhagat khajaanaa bakhasiaa gur naanak keeaa pasaau jeeau ||",
+      "hi": "हरि भगति खजाना बखसिआ गुरि नानकि कीआ पसाउ जीउ ॥",
+      "ipa": "hər ɓəGət̪ kʰəd͡ʒɑnɑ bəkʰəsɪəɑ Gʊr nɑnək kiəɑ pəsɑo d͡ʒio.",
+      "ur": "هر بھگت کھجانا بکھسآ گُر نانک کیِآ پساا جیِا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "I am blessed with the treasure of the Lord's devotional worship; Guru Nanak has been kind and compassionate to me.",
+        "ms": "Guru Nanak has shown mercy unto me and has blessed me with treasure of God's devotional service.",
+        "ssk": "I am blessed with the treasure of the Lord's devotional worship; Guru Nanak has been kind and compassionate to me."
+      },
+      "pu": {
+        "ss": "ijs (suBwg bMdy) auqy nwnk ny ikrpw kIqI hY, prmwqmw ny aus ƒ AwpxI BgqI dw ^zwnw b^S id`qw hY [",
+        "ft": "sRI gurU Arjn dyv jI khqy hYN: jb guroN ny myry ko aupdyS rUp (pswau) dwn kIAw hY qb hrI ny muJy BgqI kw Kzwnw hI bKs dIAw hY]",
+        "bdb": "ijs (suBwg bMdy) auqy nwnk ny ikrpw kIqI hY, prmwqmw ny aus ƒ AwpxI BgqI dw ^zwnw b^S id`qw hY [",
+        "ms": "gurU nwnk ny myry auqy rihmq DwrI hY Aqy mYƒ vwihgurU dI pRymmeI syvw dw BMfwr prdwn kIqw hY["
+      },
+      "puu": {
+        "ss": "ਜਿਸ (ਸੁਭਾਗ ਬੰਦੇ) ਉਤੇ ਨਾਨਕ ਨੇ ਕਿਰਪਾ ਕੀਤੀ ਹੈ, ਪਰਮਾਤਮਾ ਨੇ ਉਸ ਨੂੰ ਆਪਣੀ ਭਗਤੀ ਦਾ ਖ਼ਜ਼ਾਨਾ ਬਖ਼ਸ਼ ਦਿੱਤਾ ਹੈ ।",
+        "ft": "ਸ੍ਰੀ ਗੁਰੂ ਅਰਜਨ ਦੇਵ ਜੀ ਕਹਤੇ ਹੈਂ: ਜਬ ਗੁਰੋਂ ਨੇ ਮੇਰੇ ਕੋ ਉਪਦੇਸ਼ ਰੂਪ (ਪਸਾਉ) ਦਾਨ ਕੀਆ ਹੈ ਤਬ ਹਰੀ ਨੇ ਮੁਝੇ ਭਗਤੀ ਕਾ ਖਜ਼ਾਨਾ ਹੀ ਬਖਸ ਦੀਆ ਹੈ॥",
+        "bdb": "ਜਿਸ (ਸੁਭਾਗ ਬੰਦੇ) ਉਤੇ ਨਾਨਕ ਨੇ ਕਿਰਪਾ ਕੀਤੀ ਹੈ, ਪਰਮਾਤਮਾ ਨੇ ਉਸ ਨੂੰ ਆਪਣੀ ਭਗਤੀ ਦਾ ਖ਼ਜ਼ਾਨਾ ਬਖ਼ਸ਼ ਦਿੱਤਾ ਹੈ ।",
+        "ms": "ਗੁਰੂ ਨਾਨਕ ਨੇ ਮੇਰੇ ਉਤੇ ਰਹਿਮਤ ਧਾਰੀ ਹੈ ਅਤੇ ਮੈਨੂੰ ਵਾਹਿਗੁਰੂ ਦੀ ਪ੍ਰੇਮਮਈ ਸੇਵਾ ਦਾ ਭੰਡਾਰ ਪਰਦਾਨ ਕੀਤਾ ਹੈ।"
+      },
+      "es": {
+        "sn": "tal es la Misericordia que el Guru ha puesto sobre Nanak. "
+      },
+      "hi": {
+        "ss": "जिस (सौभाग्यशाली व्यक्ति) पर नानक ने कृपा की है।परमात्मा ने उसको अपनी भक्ति का खजाना बख्श दिया है।",
+        "sts": "गुरु नानक ने मुझ पर बड़ी कृपा की है और मुझे हरि की भक्ति का खजाना प्रदान कर दिया है।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 2446,
+    "Seq": 13,
+    "header": 0,
+    "Paragraph": 2,
+    "Gurmukhi": "mY bhuiV n iqRsnw BuKVI hau rjw iqRpiq AGwie jIau ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "mai bahuR na tirasanaa bhukhaRee hau rajaa tirapat aghai jeeau ||",
+      "hi": "मै बहुड़ि न तृसना भुखड़ी हउ रजा तृपति अघाइ जीउ ॥",
+      "ipa": "mæ bəhʊɽ nə t̪ɪɹəsənɑ ɓʊkʰəɽi ho rəd͡ʒɑ t̪ɪɹəpət̪ əGʰɑeɪ d͡ʒio.",
+      "ur": "مَے بهُڑ ن ترسنا بھُکھڑیِ ها رجا ترپت اگھاا جیِا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "I shall never again feel hunger or thirst; I am satisfied, satiated and fulfilled.",
+        "ms": "I shall not again feel thirst and hunger. I am appeased, sated and satiated.",
+        "ssk": "I shall never again feel hunger or thirst; I am satisfied, satiated and fulfilled."
+      },
+      "pu": {
+        "ss": "gurU nwnk dI myhr dw sdkw mYN pUrn qOr qy r`j igAw hW, mYƒ hux mwieAw dI koeI Bu`K nhIN sqWdI [",
+        "ft": "punw Ab myry ko pdwrQ kI iqRsnw rUp BuK nhIN rhI hY, ikauNik mYN AYsw rijAw hUM ik qInoN lokoN ky pdwrQoN sy AGwie kr ky jo AOroN ko BI iqRpiq kIAw hY vw mn bwxI srIr kr iqRpqI hoeI hY]",
+        "bdb": "gurU nwnk dI myhr dw sdkw mYN pUrn qOr qy r`j igAw hW, mYƒ hux mwieAw dI koeI Bu`K nhIN sqWdI [",
+        "ms": "mYƒ muV ky qRyh Aqy Bu`K nhIN l¤gygI[ mYN DRwp, BrpUr Aqy sMquSt ho geI hW["
+      },
+      "puu": {
+        "ss": "ਗੁਰੂ ਨਾਨਕ ਦੀ ਮੇਹਰ ਦਾ ਸਦਕਾ ਮੈਂ ਪੂਰਨ ਤੌਰ ਤੇ ਰੱਜ ਗਿਆ ਹਾਂ, ਮੈਨੂੰ ਹੁਣ ਮਾਇਆ ਦੀ ਕੋਈ ਭੁੱਖ ਨਹੀਂ ਸਤਾਂਦੀ ।",
+        "ft": "ਪੁਨਾ ਅਬ ਮੇਰੇ ਕੋ ਪਦਾਰਥ ਕੀ ਤ੍ਰਿਸਨਾ ਰੂਪ ਭੁਖ ਨਹੀਂ ਰਹੀ ਹੈ, ਕਿਉਂਕਿ ਮੈਂ ਐਸਾ ਰਜਿਆ ਹੂੰ ਕਿ ਤੀਨੋਂ ਲੋਕੋਂ ਕੇ ਪਦਾਰਥੋਂ ਸੇ ਅਘਾਇ ਕਰ ਕੇ ਜੋ ਔਰੋਂ ਕੋ ਭੀ ਤ੍ਰਿਪਤਿ ਕੀਆ ਹੈ ਵਾ ਮਨ ਬਾਣੀ ਸਰੀਰ ਕਰ ਤ੍ਰਿਪਤੀ ਹੋਈ ਹੈ॥",
+        "bdb": "ਗੁਰੂ ਨਾਨਕ ਦੀ ਮੇਹਰ ਦਾ ਸਦਕਾ ਮੈਂ ਪੂਰਨ ਤੌਰ ਤੇ ਰੱਜ ਗਿਆ ਹਾਂ, ਮੈਨੂੰ ਹੁਣ ਮਾਇਆ ਦੀ ਕੋਈ ਭੁੱਖ ਨਹੀਂ ਸਤਾਂਦੀ ।",
+        "ms": "ਮੈਨੂੰ ਮੁੜ ਕੇ ਤ੍ਰੇਹ ਅਤੇ ਭੁੱਖ ਨਹੀਂ ਲੱਗੇਗੀ। ਮੈਂ ਧ੍ਰਾਪ, ਭਰਪੂਰ ਅਤੇ ਸੰਤੁਸ਼ਟ ਹੋ ਗਈ ਹਾਂ।"
+      },
+      "es": {
+        "sn": "Ahora ya no tengo hambre, ni sed y estoy satisfecho, "
+      },
+      "hi": {
+        "ss": "(गुरू नानक की मेहर के सदके मैं पूरी तरह से तृप्त हो गया हूँ।मुझे अब माया की कोई भूख नहीं सताती।)",
+        "sts": "अब मैं बिल्कुल तृप्त हो गया हूँ और मुझे दोबारा माया की तृष्णा एवं भूख नहीं लगती।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 2447,
+    "Seq": 14,
+    "header": 0,
+    "Paragraph": 2,
+    "Gurmukhi": "jo gur dIsY isKVw iqsu iniv iniv lwgau pwie jIau ]3]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "jo gur dheesai sikhaRaa tis niv niv laagau pai jeeau ||3||",
+      "hi": "जो गुर दीसै सिखड़ा तिसु निवि निवि लागउ पाइ जीउ ॥३॥",
+      "ipa": "d͡ʒɔ Gʊr d̪isæ sɪkʰəɽɑ t̪ɪs nɪʋ nɪʋ lɑGo pɑeɪ d͡ʒio.3.",
+      "ur": "جو گُر دیِسَے سکھڑا تس نو نوِ لاگا پاِا جیِا ۔۔۳۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "When I see a Sikh of the Guru, I humbly bow and fall at his feet. ||3||",
+        "ms": "If I see any Sikh of the Guru, I shall bow low and repair to his feet,",
+        "ssk": "When I see a Sikh of the Guru, I humbly bow and fall at his feet. ||3||"
+      },
+      "pu": {
+        "ss": "mYƒ jyhVw BI koeI gurU dw ipAwrw is`K iml pYNdw hY, mYN inmRqw-ADIngI nwl aus dI pYrIN l`gdw hW [3[",
+        "ft": "jo guroN kw is`K dyKW iqs ky inv inv ky pwauN lgW]ÇsKI Bwv kr jIv ky AOgx pRgtwvqy hYN:",
+        "bdb": "mYƒ jyhVw BI koeI gurU dw ipAwrw is`K iml pYNdw hY, mYN inmRqw-ADIngI nwl aus dI pYrIN l`gdw hW [3[",
+        "ms": "jykr mYN iksy gurU dy is`K ƒ vyK lvW, mYN nIvIN Juk ky aus dy pYrI pvWgI["
+      },
+      "puu": {
+        "ss": "ਮੈਨੂੰ ਜੇਹੜਾ ਭੀ ਕੋਈ ਗੁਰੂ ਦਾ ਪਿਆਰਾ ਸਿੱਖ ਮਿਲ ਪੈਂਦਾ ਹੈ, ਮੈਂ ਨਿਮ੍ਰਤਾ-ਅਧੀਨਗੀ ਨਾਲ ਉਸ ਦੀ ਪੈਰੀਂ ਲੱਗਦਾ ਹਾਂ ।੩।",
+        "ft": "ਜੋ ਗੁਰੋਂ ਕਾ ਸਿੱਖ ਦੇਖਾਂ ਤਿਸ ਕੇ ਨਿਵ ਨਿਵ ਕੇ ਪਾਉਂ ਲਗਾਂ॥☬ਸਖੀ ਭਾਵ ਕਰ ਜੀਵ ਕੇ ਔਗਣ ਪ੍ਰਗਟਾਵਤੇ ਹੈਂ:",
+        "bdb": "ਮੈਨੂੰ ਜੇਹੜਾ ਭੀ ਕੋਈ ਗੁਰੂ ਦਾ ਪਿਆਰਾ ਸਿੱਖ ਮਿਲ ਪੈਂਦਾ ਹੈ, ਮੈਂ ਨਿਮ੍ਰਤਾ-ਅਧੀਨਗੀ ਨਾਲ ਉਸ ਦੀ ਪੈਰੀਂ ਲੱਗਦਾ ਹਾਂ ।੩।",
+        "ms": "ਜੇਕਰ ਮੈਂ ਕਿਸੇ ਗੁਰੂ ਦੇ ਸਿੱਖ ਨੂੰ ਵੇਖ ਲਵਾਂ, ਮੈਂ ਨੀਵੀਂ ਝੁਕ ਕੇ ਉਸ ਦੇ ਪੈਰੀ ਪਵਾਂਗੀ।"
+      },
+      "es": {
+        "sn": "donde veo al Devoto del Guru, a Sus Pies me postro con toda humildad.(3)"
+      },
+      "hi": {
+        "ss": "मुझे जो भी कोई गुरू का प्यारा सिख मिल जाता है।मैं विनम्रता-अधीनगी सहित उसके पैर लगता हूँ। 3।",
+        "sts": "जो भी गुरु का शिष्य नजर आता है, मैं झुक-झुक कर उसके चरणों में पड़ता हूँ॥ ३॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  }
+]

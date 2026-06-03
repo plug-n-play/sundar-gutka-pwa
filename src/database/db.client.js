@@ -1,100 +1,94 @@
-let worker = null;
-let nextRequestId = 1;
-const pendingRequests = {};
-let databaseReadyResolver = null;
-const databaseReadyPromise = new Promise((resolve) => {
-  databaseReadyResolver = resolve;
-});
+let banisCache = null;
+let databaseReadyPromise = null;
 
 export function initDatabase() {
-  if (worker) return databaseReadyPromise;
+  if (databaseReadyPromise) return databaseReadyPromise;
 
-  // Initialize web worker as a classic worker to support importScripts.
-  worker = new Worker(new URL('./db.worker.js', import.meta.url));
-
-  worker.onerror = (err) => {
-    console.error("Client: Web Worker error:", err);
-  };
-
-  worker.onmessage = (event) => {
-    const { id, type, results, error } = event.data;
-
-    if (type === 'ready') {
-      console.log("Client: Database is ready!");
-      databaseReadyResolver();
-      return;
-    }
-
-    if (type === 'error') {
-      console.error("Client: Database error:", error);
-      return;
-    }
-
-    // Resolve or reject the request promise
-    if (pendingRequests[id]) {
-      const { resolve, reject } = pendingRequests[id];
-      delete pendingRequests[id];
-      if (error) {
-        reject(new Error(error));
-      } else {
-        resolve(results);
+  databaseReadyPromise = fetch('/data/banis.json')
+    .then((res) => {
+      if (!res.ok) {
+        throw new Error(`Failed to load banis index: ${res.statusText}`);
       }
-    }
-  };
+      return res.json();
+    })
+    .then((data) => {
+      banisCache = data;
+      console.log("Client: Database index loaded successfully!");
+    })
+    .catch((err) => {
+      console.error("Client: Failed to initialize static JSON database:", err);
+      // Reset so initialization can be retried if needed
+      databaseReadyPromise = null;
+      throw err;
+    });
 
-  worker.postMessage({ type: 'init' });
   return databaseReadyPromise;
 }
 
-export function executeQuery(sql, params = []) {
-  return databaseReadyPromise.then(() => {
-    return new Promise((resolve, reject) => {
-      const id = nextRequestId++;
-      pendingRequests[id] = { resolve, reject };
-      worker.postMessage({ id, type: 'query', sql, params });
-    });
-  });
-}
-
-// Queries the Banis table to get all available prayers
 export function getBaniList(languageSetting = 'ENGLISH') {
-  return executeQuery("SELECT ID, Gurmukhi, Transliterations FROM Banis WHERE ID <= 107 OR ID = 1000")
-    .then((results) => {
-      return results.map((row) => {
-        let translitVal = "";
-        try {
-          const json = JSON.parse(row.Transliterations);
-          // Match the language setting (default to en)
+  return initDatabase().then(() => {
+    return banisCache.map((row) => {
+      let translitVal = "";
+      try {
+        const json = typeof row.Transliterations === 'string'
+          ? JSON.parse(row.Transliterations)
+          : row.Transliterations;
+
+        if (json) {
           if (languageSetting === 'HINDI') translitVal = json.hi;
           else if (languageSetting === 'SHAHMUKHI') translitVal = json.ur;
           else if (languageSetting === 'IPA') translitVal = json.ipa;
           else translitVal = json.en;
-        } catch (e) {
-          translitVal = row.Transliterations;
         }
+      } catch {
+        translitVal = row.Transliterations;
+      }
 
-        return {
-          id: row.ID,
-          gurmukhi: row.Gurmukhi,
-          translit: translitVal
-        };
-      });
+      return {
+        id: row.ID,
+        gurmukhi: row.Gurmukhi,
+        translit: translitVal || ""
+      };
     });
+  });
 }
 
-// Queries the shabad lines for a specific Bani ID and length setting
 export function getShabad(shabadID, lengthSetting = 'MEDIUM') {
   let lengthColumn = 'existsMedium';
   if (lengthSetting === 'EXTRA_LONG') lengthColumn = 'existsBuddhaDal';
   else if (lengthSetting === 'LONG') lengthColumn = 'existsTaksal';
   else if (lengthSetting === 'SHORT') lengthColumn = 'existsSGPC';
 
-  const sql = `
-    SELECT ID, Seq, header, Paragraph, Gurmukhi, Visraam, Transliterations, Translations 
-    FROM mv_Banis_Shabad 
-    WHERE Bani = ? AND ${lengthColumn} = 1 AND (MangalPosition IS NULL OR MangalPosition = 'current')
-    ORDER BY Seq ASC;
-  `;
-
-  return executeQuery(sql, [shabadID]);
+  return fetch(`/data/banis/${shabadID}.json`)
+    .then((res) => {
+      if (!res.ok) {
+        throw new Error(`Failed to load Bani ${shabadID}: ${res.statusText}`);
+      }
+      return res.json();
+    })
+    .then((lines) => {
+      // Replicate SQLite query logic:
+      // WHERE Bani = ? AND ${lengthColumn} = 1 AND (MangalPosition IS NULL OR MangalPosition = 'current')
+      // ORDER BY Seq ASC
+      return lines
+        .filter((line) => {
+          const matchesLength = line[lengthColumn] === 1;
+          const matchesMangal = line.MangalPosition === null || line.MangalPosition === 'current';
+          return matchesLength && matchesMangal;
+        })
+        .sort((a, b) => a.Seq - b.Seq)
+        .map((line) => {
+          // Serialize JSON fields back to strings to remain 100% compatible with Reader.jsx parser
+          return {
+            ID: line.ID,
+            Seq: line.Seq,
+            header: line.header,
+            Paragraph: line.Paragraph,
+            Gurmukhi: line.Gurmukhi,
+            Visraam: line.Visraam && typeof line.Visraam === 'object' ? JSON.stringify(line.Visraam) : line.Visraam,
+            Transliterations: line.Transliterations && typeof line.Transliterations === 'object' ? JSON.stringify(line.Transliterations) : line.Transliterations,
+            Translations: line.Translations && typeof line.Translations === 'object' ? JSON.stringify(line.Translations) : line.Translations
+          };
+        });
+    });
 }

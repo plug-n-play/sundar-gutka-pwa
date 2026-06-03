@@ -1,0 +1,974 @@
+[
+  {
+    "ID": 20971,
+    "Seq": 1,
+    "header": 1,
+    "Paragraph": 1,
+    "Gurmukhi": "<> siqgur pRswid ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "ikOankaar satigur prasaadh ||",
+      "hi": "ੴ सतिगुर प्रसादि ॥",
+      "ipa": "ɪk oəŋkɑɾ sət̪ɪGʊr pɹəsɑd̪.",
+      "ur": "اک اونکار ستگر پرساد ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "One Universal Creator God. By The Grace Of The True Guru:",
+        "ms": "There is but One God. By Guru's grace is He obtained.",
+        "ssk": "One Universal Creator God. By The Grace Of The True Guru:"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": "vwihgurU kyvl iek hY[ s¤cy gurW dI dieAw duAwrw auh pwieAw jWdw hY["
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": "ਵਾਹਿਗੁਰੂ ਕੇਵਲ ਇਕ ਹੈ। ਸੱਚੇ ਗੁਰਾਂ ਦੀ ਦਇਆ ਦੁਆਰਾ ਉਹ ਪਾਇਆ ਜਾਂਦਾ ਹੈ।"
+      },
+      "es": {
+        "sn": "Un Dios Creador del Universo, por la Gracia del Verdadero Guru"
+      },
+      "hi": {
+        "ss": "",
+        "sts": "ईश्वर एक है, जिसे सतगुरु की कृपा से पाया जा सकता है।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": "above"
+  },
+  {
+    "ID": 20972,
+    "Seq": 2,
+    "header": 2,
+    "Paragraph": 2,
+    "Gurmukhi": "jYqsrI bwxI Bgqw kI",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 0,
+          "t": "y"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 0,
+          "t": "y"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "jaitasaree baanee bhagataa kee",
+      "hi": "जैतसरी बाणी भगता की",
+      "ipa": "d͡ʒæt̪əsəri bɑɳi ɓəGət̪ɑ ki",
+      "ur": "جَےتسریِ باݨیِ بھگتا کیِ"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Jaitsree, The Word Of The Devotees:",
+        "ms": "Jaitsri Hymns of the saints.",
+        "ssk": "Jaitsree, The Word Of The Devotees:"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": "jYqsrI swDUAW dy Sbd["
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": "ਜੈਤਸਰੀ ਸਾਧੂਆਂ ਦੇ ਸ਼ਬਦ।"
+      },
+      "es": {
+        "sn": "Yaitsri, palabras de los Bhaktas."
+      },
+      "hi": {
+        "ss": "",
+        "sts": "जैतसरी बाणी भगता की"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 20973,
+    "Seq": 3,
+    "header": 1,
+    "Paragraph": 3,
+    "Gurmukhi": "<> siqgur pRswid ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "ikOankaar satigur prasaadh ||",
+      "hi": "ੴ सतिगुर प्रसादि ॥",
+      "ipa": "ɪk oəŋkɑɾ sət̪ɪGʊr pɹəsɑd̪.",
+      "ur": "اک اونکار ستگر پرساد ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "One Universal Creator God. By The Grace Of The True Guru:",
+        "ms": "There is but One God. By Guru's grace is He obtained.",
+        "ssk": "One Universal Creator God. By The Grace Of The True Guru:"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": "vwihgurU kyvl iek hY[ s¤cy gurW dI dieAw duAwrw auh pwieAw jWdw hY["
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": "ਵਾਹਿਗੁਰੂ ਕੇਵਲ ਇਕ ਹੈ। ਸੱਚੇ ਗੁਰਾਂ ਦੀ ਦਇਆ ਦੁਆਰਾ ਉਹ ਪਾਇਆ ਜਾਂਦਾ ਹੈ।"
+      },
+      "es": {
+        "sn": "Un Dios Creador del Universo, por la Gracia del Verdadero Guru"
+      },
+      "hi": {
+        "ss": "",
+        "sts": "ईश्वर एक है, जिसे सतगुरु की कृपा से पाया जा सकता है।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": "current"
+  },
+  {
+    "ID": 20974,
+    "Seq": 4,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "nwQ kCUA n jwnau ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "naath kachhooa na jaanau ||",
+      "hi": "नाथ कछूअ न जानउ ॥",
+      "ipa": "nɑt̪ʰ kəɕuə nə d͡ʒɑno.",
+      "ur": "ناتھ کچھُوا ن جانا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "O my Lord and Master, I know nothing.",
+        "ms": "My Lord, I know nothing.",
+        "ssk": "O my Lord and Master, I know nothing."
+      },
+      "pu": {
+        "ss": null,
+        "ft": "hy nwQ! mYN qo kC nhIN jwnqw hUM]",
+        "bdb": null,
+        "ms": "myry suAwmI, mYN kuJ BI nhIN jwxdw["
+      },
+      "puu": {
+        "ss": null,
+        "ft": "ਹੇ ਨਾਥ! ਮੈਂ ਤੋ ਕਛ ਨਹੀਂ ਜਾਨਤਾ ਹੂੰ॥",
+        "bdb": null,
+        "ms": "ਮੇਰੇ ਸੁਆਮੀ, ਮੈਂ ਕੁਝ ਭੀ ਨਹੀਂ ਜਾਣਦਾ।"
+      },
+      "es": {
+        "sn": "Yaitsri, palabras de los Bhaktas."
+      },
+      "hi": {
+        "ss": "हे प्रभू !मेरी इसके आगे (अब) कोई पेश नहीं चलती।",
+        "sts": "हे मालिक ! मैं कुछ भी नहीं जानता,"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 20975,
+    "Seq": 5,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "mnu mwieAw kY hwiQ ibkwnau ]1] rhwau ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "man maiaa kai haath bikaanau ||1|| rahaau ||",
+      "hi": "मनु माइआ कै हाथि बिकानउ ॥१॥ रहाउ ॥",
+      "ipa": "mən mɑɪɑ kæ hɑt̪ʰ bɪkɑno.1. rəhɑo.",
+      "ur": "من ماایا کَے هاتھ بکانا ۔۔۱۔۔ رهاا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "My mind has sold out, and is in Maya's hands. ||1||Pause||",
+        "ms": "My soul is sold out in the mammon's hand. Pause.",
+        "ssk": "My mind has sold out, and is in Maya's hands. ||1||Pause||"
+      },
+      "pu": {
+        "ss": "hy pRBU! mYN Awpxw mn mwieAw dy h`Q vyc cuikAw hW, myrI ies A`gy (hux) koeI pyS nhIN jWdI [1[rhwau[",
+        "ft": "ikauNik myrw mn qyrI mwieAw ky hwQ ibkw hY]1] rhwau ]",
+        "bdb": "hy pRBU! mYN Awpxw mn mwieAw dy h`Q vyc cuikAw hW, myrI ies A`gy (hux) koeI pyS nhIN jWdI [1[rhwau[",
+        "ms": "suAwmI Awqmw mYN mohnI dy h`Q vyc C`fI hY[ Tihrwau["
+      },
+      "puu": {
+        "ss": "ਹੇ ਪ੍ਰਭੂ! ਮੈਂ ਆਪਣਾ ਮਨ ਮਾਇਆ ਦੇ ਹੱਥ ਵੇਚ ਚੁਕਿਆ ਹਾਂ, ਮੇਰੀ ਇਸ ਅੱਗੇ (ਹੁਣ) ਕੋਈ ਪੇਸ਼ ਨਹੀਂ ਜਾਂਦੀ ।੧।ਰਹਾਉ।",
+        "ft": "ਕਿਉਂਕਿ ਮੇਰਾ ਮਨ ਤੇਰੀ ਮਾਇਆ ਕੇ ਹਾਥ ਬਿਕਾ ਹੈ॥੧॥ ਰਹਾਉ ॥",
+        "bdb": "ਹੇ ਪ੍ਰਭੂ! ਮੈਂ ਆਪਣਾ ਮਨ ਮਾਇਆ ਦੇ ਹੱਥ ਵੇਚ ਚੁਕਿਆ ਹਾਂ, ਮੇਰੀ ਇਸ ਅੱਗੇ (ਹੁਣ) ਕੋਈ ਪੇਸ਼ ਨਹੀਂ ਜਾਂਦੀ ।੧।ਰਹਾਉ।",
+        "ms": "ਸੁਆਮੀ ਆਤਮਾ ਮੈਂ ਮੋਹਨੀ ਦੇ ਹੱਥ ਵੇਚ ਛੱਡੀ ਹੈ। ਠਹਿਰਾਉ।"
+      },
+      "es": {
+        "sn": "Oh Dios, yo no sé nada; mi mente la he vendido a Maya. (1-Pausa)"
+      },
+      "hi": {
+        "ss": "मैं अपना मन माया के हाथ में बेच चुका हूँ। 1।रहाउ।",
+        "sts": "क्योंकि मेरा यह मन माया के हाथ बिक चुका है॥ १॥ रहाउ॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 20976,
+    "Seq": 6,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "qum khIAq hO jgq gur suAwmI ]",
+    "Visraam": {
+      "sttm": [],
+      "igurbani": [],
+      "sttm2": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "tum kaheeat hau jagat gur suaamee ||",
+      "hi": "तुम कहीअत हौ जगत गुर सुआमी ॥",
+      "ipa": "t̪ʊm kəhiət̪ hɒ d͡ʒəGət̪ Gʊr sʊəɑmi.",
+      "ur": "تُم کهیِات هَو جگت گُر سُآمیِ ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "You are called the Lord and Master, the Guru of the World.",
+        "ms": "Thou art called the great Lord of the world,",
+        "ssk": "You are called the Lord and Master, the Guru of the World."
+      },
+      "pu": {
+        "ss": "hy nwQ! qUµ jgq dw Ksm AKvwauNdw hYN",
+        "ft": "hy suAwmI! qum qo jgq ky gur khIqy ho]",
+        "bdb": "hy nwQ! qUµ jgq dw Ksm AKvwauNdw hYN",
+        "ms": "qUM sMswr dw ivSwl swihb AwiKAw jWdw hY,"
+      },
+      "puu": {
+        "ss": "ਹੇ ਨਾਥ! ਤੂੰ ਜਗਤ ਦਾ ਖਸਮ ਅਖਵਾਉਂਦਾ ਹੈਂ",
+        "ft": "ਹੇ ਸੁਆਮੀ! ਤੁਮ ਤੋ ਜਗਤ ਕੇ ਗੁਰ ਕਹੀਤੇ ਹੋ॥",
+        "bdb": "ਹੇ ਨਾਥ! ਤੂੰ ਜਗਤ ਦਾ ਖਸਮ ਅਖਵਾਉਂਦਾ ਹੈਂ",
+        "ms": "ਤੂੰ ਸੰਸਾਰ ਦਾ ਵਿਸ਼ਾਲ ਸਾਹਿਬ ਆਖਿਆ ਜਾਂਦਾ ਹੈ,"
+      },
+      "es": {
+        "sn": "Tú eres el Guru, el Maestro del Universo, "
+      },
+      "hi": {
+        "ss": "हे नाथ ! तू जगत का पति कहलवाता है।",
+        "sts": "हे स्वामी ! तुझे सारे जगत का गुरु कहा जाता है,"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 20977,
+    "Seq": 7,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "hm khIAq kiljug ky kwmI ]1]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "ham kaheeat kalijug ke kaamee ||1||",
+      "hi": "हम कहीअत कलिजुग के कामी ॥१॥",
+      "ipa": "həm kəhiət̪ kəlɪd͡ʒʊG ke kɑmi.1.",
+      "ur": "هم کهیِات کلجگ کے کامیِ ۔۔۱۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "I am called a lustful being of the Dark Age of Kali Yuga. ||1||",
+        "ms": "and I am styled the sensualist of the Darkage.",
+        "ssk": "I am called a lustful being of the Dark Age of Kali Yuga. ||1||"
+      },
+      "pu": {
+        "ss": "AsI kljugI ivSeI jIv hW (myrI shwieqw kr) [1[",
+        "ft": "AOr hm kiljug ky (kwmI) jIv khIqy hYN]1]",
+        "bdb": "AsI kljugI ivSeI jIv hW (myrI shwieqw kr) [1[",
+        "ms": "Aqy mYN kljug dw ivSeI s`idAw jWdw hW["
+      },
+      "puu": {
+        "ss": "ਅਸੀ ਕਲਜੁਗੀ ਵਿਸ਼ਈ ਜੀਵ ਹਾਂ (ਮੇਰੀ ਸਹਾਇਤਾ ਕਰ) ।੧।",
+        "ft": "ਔਰ ਹਮ ਕਲਿਜੁਗ ਕੇ (ਕਾਮੀ) ਜੀਵ ਕਹੀਤੇ ਹੈਂ॥੧॥",
+        "bdb": "ਅਸੀ ਕਲਜੁਗੀ ਵਿਸ਼ਈ ਜੀਵ ਹਾਂ (ਮੇਰੀ ਸਹਾਇਤਾ ਕਰ) ।੧।",
+        "ms": "ਅਤੇ ਮੈਂ ਕਲਜੁਗ ਦਾ ਵਿਸ਼ਈ ਸੱਦਿਆ ਜਾਂਦਾ ਹਾਂ।"
+      },
+      "es": {
+        "sn": "mientras que yo soy un simple ser que comete errores en la Era de Kali Yug. (1) "
+      },
+      "hi": {
+        "ss": "हम कलियुगी विषई जीव हैं (मेरी सहायता कर)। 1।",
+        "sts": "किन्तु मैं कलियुग का कामी कहलाता हूँ॥ १॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 20978,
+    "Seq": 8,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "ien pMcn myro mnu ju ibgwirE ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "ein pa(n)chan mero manu ju bigaario ||",
+      "hi": "इन पंचन मेरो मनु जु बिगारिओ ॥",
+      "ipa": "eɪn pəŋt͡ʃən merɔ mən d͡ʒ bɪGɑrɪo.",
+      "ur": "ِان پںچن مےرو من جُ بگاراو ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "The five vices have corrupted my mind.",
+        "ms": "These five vices have corrupted my mind.",
+        "ssk": "The five vices have corrupted my mind."
+      },
+      "pu": {
+        "ss": "(kwmwidk) iehnW pMjW ny hI myrw mn ieqnw ivgwV id`qw hY",
+        "ft": "ien pMcoN kwm AwidkoN ny myrw mn jo ibgwiVAw hY]",
+        "bdb": "(kwmwidk) iehnW pMjW ny hI myrw mn ieqnw ivgwV id`qw hY",
+        "ms": "eynw pMjW ivkwrW ny myrw ic`q plIq kr id`qw hY["
+      },
+      "puu": {
+        "ss": "(ਕਾਮਾਦਿਕ) ਇਹਨਾਂ ਪੰਜਾਂ ਨੇ ਹੀ ਮੇਰਾ ਮਨ ਇਤਨਾ ਵਿਗਾੜ ਦਿੱਤਾ ਹੈ",
+        "ft": "ਇਨ ਪੰਚੋਂ ਕਾਮ ਆਦਿਕੋਂ ਨੇ ਮੇਰਾ ਮਨ ਜੋ ਬਿਗਾੜਿਆ ਹੈ॥",
+        "bdb": "(ਕਾਮਾਦਿਕ) ਇਹਨਾਂ ਪੰਜਾਂ ਨੇ ਹੀ ਮੇਰਾ ਮਨ ਇਤਨਾ ਵਿਗਾੜ ਦਿੱਤਾ ਹੈ",
+        "ms": "ਏਨਾ ਪੰਜਾਂ ਵਿਕਾਰਾਂ ਨੇ ਮੇਰਾ ਚਿੱਤ ਪਲੀਤ ਕਰ ਦਿੱਤਾ ਹੈ।"
+      },
+      "es": {
+        "sn": "Los cinco enemigos han desviado mi mente "
+      },
+      "hi": {
+        "ss": "(कामादिक) इन पाँचों ने ही मेरा मन इतना बिगाड़ दिया है कि",
+        "sts": "इन कामादिक पाँच विकारों ने मेरा मन दूषित कर दिया है,"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 20979,
+    "Seq": 9,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "plu plu hir jI qy AMqru pwirE ]2]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "pal pal har jee te a(n)tar paario ||2||",
+      "hi": "पलु पलु हरि जी ते अंतरु पारिओ ॥२॥",
+      "ipa": "pəl pəl hər d͡ʒi t̪e əŋt̪ər pɑrɪo.2.",
+      "ur": "پل پل هر جیِ تے اںتر پاراو ۔۔۲۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Moment by moment, they lead me further away from the Lord. ||2||",
+        "ms": "Every moment they remove me away from God.",
+        "ssk": "Moment by moment, they lead me further away from the Lord. ||2||"
+      },
+      "pu": {
+        "ss": "ik hr dm myrI prmwqmw nwloN iv`Q pvw rhy hn [2[",
+        "ft": "so hy hir jI! qyry sy ienoN ny pl pl myN (AMqru) Prk pwieAw hY]2]",
+        "bdb": "ik hr dm myrI prmwqmw nwloN iv`Q pvw rhy hn [2[",
+        "ms": "hr muhq auh myrI Awqmw ƒ pUjX pRBU nwloN pwVdy hn["
+      },
+      "puu": {
+        "ss": "ਕਿ ਹਰ ਦਮ ਮੇਰੀ ਪਰਮਾਤਮਾ ਨਾਲੋਂ ਵਿੱਥ ਪਵਾ ਰਹੇ ਹਨ ।੨।",
+        "ft": "ਸੋ ਹੇ ਹਰਿ ਜੀ! ਤੇਰੇ ਸੇ ਇਨੋਂ ਨੇ ਪਲ ਪਲ ਮੇਂ (ਅੰਤਰੁ) ਫਰਕ ਪਾਇਆ ਹੈ॥੨॥",
+        "bdb": "ਕਿ ਹਰ ਦਮ ਮੇਰੀ ਪਰਮਾਤਮਾ ਨਾਲੋਂ ਵਿੱਥ ਪਵਾ ਰਹੇ ਹਨ ।੨।",
+        "ms": "ਹਰ ਮੁਹਤ ਉਹ ਮੇਰੀ ਆਤਮਾ ਨੂੰ ਪੂਜਯ ਪ੍ਰਭੂ ਨਾਲੋਂ ਪਾੜਦੇ ਹਨ।"
+      },
+      "es": {
+        "sn": "y me han apartado muy lejos de Ti, oh mi Dios. (2)"
+      },
+      "hi": {
+        "ss": "हर दम मेरी परमात्मा से दूरियाँ डलवा रहे हैं। 2।",
+        "sts": "क्योंकि ये हर क्षण प्रभु से मेरी अंतरात्मा को दूर करते रहते हैं।॥ २ ॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 20980,
+    "Seq": 10,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "jq dyKau qq duK kI rwsI ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "jat dhekhau tat dhukh kee raasee ||",
+      "hi": "जत देखउ तत दुख की रासी ॥",
+      "ipa": "d͡ʒət̪ d̪ekʰo t̪ət̪ d̪ʊkʰ ki rɑsi.",
+      "ur": "جت دےکھا تت دُکھ کیِ راسیِ ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Wherever I look, I see loads of pain and suffering.",
+        "ms": "Withersoever I look, there is a stock of troubles.",
+        "ssk": "Wherever I look, I see loads of pain and suffering."
+      },
+      "pu": {
+        "ss": "(iehnW ny jgq ƒ bVw ^uAwr kIqw hY) mYN ij`Dr vyKdw hW, au~Dr du`KW dI rwis-pUMjI bxI peI hY ",
+        "ft": "jhW jhW mYN dyKqw hUM qUM qhW iehI ivkwr duKoN kI rws hY]",
+        "bdb": "(iehnW ny jgq ƒ bVw ^uAwr kIqw hY) mYN ij`Dr vyKdw hW, au~Dr du`KW dI rwis-pUMjI bxI peI hY ",
+        "ms": "ij¤Qy ikqy BI mYN vyKdw hW, auQy hI du`KW dI pUMjI hY["
+      },
+      "puu": {
+        "ss": "(ਇਹਨਾਂ ਨੇ ਜਗਤ ਨੂੰ ਬੜਾ ਖ਼ੁਆਰ ਕੀਤਾ ਹੈ) ਮੈਂ ਜਿੱਧਰ ਵੇਖਦਾ ਹਾਂ, ਉੱਧਰ ਦੁੱਖਾਂ ਦੀ ਰਾਸਿ-ਪੂੰਜੀ ਬਣੀ ਪਈ ਹੈ ",
+        "ft": "ਜਹਾਂ ਜਹਾਂ ਮੈਂ ਦੇਖਤਾ ਹੂੰ ਤੂੰ ਤਹਾਂ ਇਹੀ ਵਿਕਾਰ ਦੁਖੋਂ ਕੀ ਰਾਸ ਹੈ॥",
+        "bdb": "(ਇਹਨਾਂ ਨੇ ਜਗਤ ਨੂੰ ਬੜਾ ਖ਼ੁਆਰ ਕੀਤਾ ਹੈ) ਮੈਂ ਜਿੱਧਰ ਵੇਖਦਾ ਹਾਂ, ਉੱਧਰ ਦੁੱਖਾਂ ਦੀ ਰਾਸਿ-ਪੂੰਜੀ ਬਣੀ ਪਈ ਹੈ ",
+        "ms": "ਜਿੱਥੇ ਕਿਤੇ ਭੀ ਮੈਂ ਵੇਖਦਾ ਹਾਂ, ਉਥੇ ਹੀ ਦੁੱਖਾਂ ਦੀ ਪੂੰਜੀ ਹੈ।"
+      },
+      "es": {
+        "sn": "Donde sea que volteo a ver, sólo veo dolor, y aunque los Vedas Te atestiguan, mi mente no cree en Ti. "
+      },
+      "hi": {
+        "ss": "(इन्होंने जगत को बहुत दुखी किया हुआ है) मैं जिधर देखता हूँ।उधर दुखों की राशि-पूँजी बनी हुई है।",
+        "sts": "मैं जिधर भी देखता हूँ, उधर ही दु:खों की राशि है।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 20981,
+    "Seq": 11,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "AjON n pq´wie ingm Bey swKI ]3]",
+    "Visraam": {
+      "sttm": [],
+      "igurbani": [],
+      "sttm2": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "ajaua(n) na patayeai nigam bhe saakhee ||3||",
+      "hi": "अजौं न पत्याइ निगम भए साखी ॥३॥",
+      "ipa": "əd͡ʒɒəⁿ nə pət̪əjɑeɪ nɪGəm ɓee sɑkʰi.3.",
+      "ur": "اجَوں ن پتےاا نگم بھاے ساکھیِ ۔۔۳۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "I do not have faith, even though the Vedas bear witness to the Lord. ||3||",
+        "ms": "Though the Vedas bear testimony, even then my mind believers not in God.",
+        "ssk": "I do not have faith, even though the Vedas bear witness to the Lord. ||3||"
+      },
+      "pu": {
+        "ss": "ieh vyK ky BI (ik ivkwrW dw is`tw hY du`K) myrw mn mMinAw nhIN, vydwidk Drm-pusqk BI (swKIAW dI rwhIN) iehI gvwhI dy rhy hn [3[",
+        "ft": "ies bwq ky vyd BI swKI Bey hYN ArQwq gvwhI dyqy Bey hYN, prMqU Ajy BI mn pqIAwvqw nhIN hY]3]",
+        "bdb": "ieh vyK ky BI (ik ivkwrW dw is`tw hY du`K) myrw mn mMinAw nhIN, vydwidk Drm-pusqk BI (swKIAW dI rwhIN) iehI gvwhI dy rhy hn [3[",
+        "ms": "BwvyN vyd gvwhI idMdy hn, qW BI myrw mn vwihgurU qy Brosw nhIN Dwrdw["
+      },
+      "puu": {
+        "ss": "ਇਹ ਵੇਖ ਕੇ ਭੀ (ਕਿ ਵਿਕਾਰਾਂ ਦਾ ਸਿੱਟਾ ਹੈ ਦੁੱਖ) ਮੇਰਾ ਮਨ ਮੰਨਿਆ ਨਹੀਂ, ਵੇਦਾਦਿਕ ਧਰਮ-ਪੁਸਤਕ ਭੀ (ਸਾਖੀਆਂ ਦੀ ਰਾਹੀਂ) ਇਹੀ ਗਵਾਹੀ ਦੇ ਰਹੇ ਹਨ ।੩।",
+        "ft": "ਇਸ ਬਾਤ ਕੇ ਵੇਦ ਭੀ ਸਾਖੀ ਭਏ ਹੈਂ ਅਰਥਾਤ ਗਵਾਹੀ ਦੇਤੇ ਭਏ ਹੈਂ, ਪਰੰਤੂ ਅਜੇ ਭੀ ਮਨ ਪਤੀਆਵਤਾ ਨਹੀਂ ਹੈ॥੩॥",
+        "bdb": "ਇਹ ਵੇਖ ਕੇ ਭੀ (ਕਿ ਵਿਕਾਰਾਂ ਦਾ ਸਿੱਟਾ ਹੈ ਦੁੱਖ) ਮੇਰਾ ਮਨ ਮੰਨਿਆ ਨਹੀਂ, ਵੇਦਾਦਿਕ ਧਰਮ-ਪੁਸਤਕ ਭੀ (ਸਾਖੀਆਂ ਦੀ ਰਾਹੀਂ) ਇਹੀ ਗਵਾਹੀ ਦੇ ਰਹੇ ਹਨ ।੩।",
+        "ms": "ਭਾਵੇਂ ਵੇਦ ਗਵਾਹੀ ਦਿੰਦੇ ਹਨ, ਤਾਂ ਭੀ ਮੇਰਾ ਮਨ ਵਾਹਿਗੁਰੂ ਤੇ ਭਰੋਸਾ ਨਹੀਂ ਧਾਰਦਾ।"
+      },
+      "es": {
+        "sn": "Así como Shiva trató de cortar la cabeza de Brahma, pero se quedó con la cabeza pegada a su mano. (3)"
+      },
+      "hi": {
+        "ss": "ये देख के भी (कि विकारों का नतीजा है दुख) मेरा मन नहीं माना।वेदादिक धर्म-पुस्तकें भी (कथाओं के माध्यम से) यही गवाही दे रहे हैं। 3।",
+        "sts": "चाहे वेद इस बात के साक्षी हैं, परन्तु अभी भी मेरा मन इस सत्य को स्वीकार नहीं कर रहा कि विकारों का फल दु:ख हैं।॥ ३॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 20982,
+    "Seq": 12,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "goqm nwir aumwpiq sÍwmI ] sIsu Drin shs Bg gWmI ]4]",
+    "Visraam": {
+      "sttm": [],
+      "igurbani": [],
+      "sttm2": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "gotam naar umaapat savaiaamee || sees dharan sahas bhag gaa(n)mee ||4||",
+      "hi": "गोतम नारि उमापति स्वामी ॥ सीसु धरनि सहस भग गाँमी ॥४॥",
+      "ipa": "Gɔt̪əm nɑr oʊmɑpət̪ sʋɑmi. sis t̪ərən səhəs ɓəG Gɑⁿəmi.4.",
+      "ur": "گوتم نار اُماپت سوامیِ ۔۔ سیِس دھرن سهس بھگ گاںمیِ ۔۔۴۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Shiva cut off Brahma's head, and Gautam's wife and the Lord Indra mated; Brahma's head got stuck to Shiva's hand, and Indra came to bear the marks of a thousand female organs. ||4||",
+        "ms": "O Lord, the body of Indar, who mated with Gautam's wife, came to bear a thousands vaginal marks.",
+        "ssk": "Shiva cut off Brahma's head, and Gautam's wife and the Lord Indra mated;"
+      },
+      "pu": {
+        "ss": "gOqm dI vhutI Ah`ilAw, pwrvqI dw pqI iSv, bRhmw, hzwr BgW dy icMnH vwlw ieMdr—(iehnW sBnW ƒ iehnW pMjW ny hI ^uAwr kIqw) [4[",
+        "ft": "hy sÍwmI vw ibSn jI! ibRdw, Bwv jlMDr kI iesqRI ky vwsqy duKI hUey, goqm irKI kI iesqRI AihilAw swQ pRym krny sy, (aumwpiq) iSvjI mohxI Avqwr smyN ivAwklu hUey]",
+        "bdb": "gOqm dI vhutI Ah`ilAw, pwrvqI dw pqI iSv, bRhmw, hzwr BgW dy icMnH vwlw ieMdr—(iehnW sBnW ƒ iehnW pMjW ny hI ^uAwr kIqw) [4[",
+        "ms": "hy pRBU! goqm dI pqnI ƒ Bogx vwly ieMdr dI dyh auqy Bog dy hjwr icMnH ho gey["
+      },
+      "puu": {
+        "ss": "ਗੌਤਮ ਦੀ ਵਹੁਟੀ ਅਹੱਲਿਆ, ਪਾਰਵਤੀ ਦਾ ਪਤੀ ਸ਼ਿਵ, ਬ੍ਰਹਮਾ, ਹਜ਼ਾਰ ਭਗਾਂ ਦੇ ਚਿੰਨ੍ਹ ਵਾਲਾ ਇੰਦਰ—(ਇਹਨਾਂ ਸਭਨਾਂ ਨੂੰ ਇਹਨਾਂ ਪੰਜਾਂ ਨੇ ਹੀ ਖ਼ੁਆਰ ਕੀਤਾ) ।੪।",
+        "ft": "ਹੇ ਸ੍ਵਾਮੀ ਵਾ ਬਿਸ਼ਨ ਜੀ! ਬ੍ਰਿਦਾ, ਭਾਵ ਜਲੰਧਰ ਕੀ ਇਸਤ੍ਰੀ ਕੇ ਵਾਸਤੇ ਦੁਖੀ ਹੂਏ, ਗੋਤਮ ਰਿਖੀ ਕੀ ਇਸਤ੍ਰੀ ਅਹਿਲਿਆ ਸਾਥ ਪ੍ਰੇਮ ਕਰਨੇ ਸੇ, (ਉਮਾਪਤਿ) ਸ਼ਿਵਜੀ ਮੋਹਣੀ ਅਵਤਾਰ ਸਮੇਂ ਵਿਆਕਲੁ ਹੂਏ॥",
+        "bdb": "ਗੌਤਮ ਦੀ ਵਹੁਟੀ ਅਹੱਲਿਆ, ਪਾਰਵਤੀ ਦਾ ਪਤੀ ਸ਼ਿਵ, ਬ੍ਰਹਮਾ, ਹਜ਼ਾਰ ਭਗਾਂ ਦੇ ਚਿੰਨ੍ਹ ਵਾਲਾ ਇੰਦਰ—(ਇਹਨਾਂ ਸਭਨਾਂ ਨੂੰ ਇਹਨਾਂ ਪੰਜਾਂ ਨੇ ਹੀ ਖ਼ੁਆਰ ਕੀਤਾ) ।੪।",
+        "ms": "ਹੇ ਪ੍ਰਭੂ! ਗੋਤਮ ਦੀ ਪਤਨੀ ਨੂੰ ਭੋਗਣ ਵਾਲੇ ਇੰਦਰ ਦੀ ਦੇਹ ਉਤੇ ਭੋਗ ਦੇ ਹਜਾਰ ਚਿੰਨ੍ਹ ਹੋ ਗਏ।"
+      },
+      "es": {
+        "sn": "Así como Indra fue maldecido por Gautama por haber seducido a su esposa, y mil órganos femeninos se pegaron a su cuerpo sólo para humillarlo. (4)"
+      },
+      "hi": {
+        "ss": "गौतम की पत्नी अहिल्या।पार्वती का पति शिव। ब्रहमा। हजारों भगों वाला इन्द्र - (इन सभी को इन पाँचों ने ही ख्वार किया)। 4।",
+        "sts": "गौतम ऋषि की पत्नी अहल्या एवं पार्वती के स्वामी शिव का क्या हाल हुआ ? (गौतम ऋषि के शाप से अहल्या पत्थर बन गई थी और अहल्या से देवराज इन्द्र द्वारा छलपूर्वक भोग करने के कारण उसके शरीर पर हजारों भग के चिन्ह बन गए थे।) ब्रह्मा का अपनी कन्या पर कुदृष्टि रखने के कारण उमापति शिव ने जब ब्रह्मा का पाँचवाँ सिर काटा तो वह सिर शिव के हाथ से ही चिपक गया था॥ ४॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 20983,
+    "Seq": 13,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "ien dUqn Klu bDu kir mwirE ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 1,
+          "t": "v"
+        },
+        {
+          "p": 2,
+          "t": "y"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 1,
+          "t": "v"
+        },
+        {
+          "p": 2,
+          "t": "y"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "ein dhootan khal badh kar maario ||",
+      "hi": "इन दूतन खलु बधु करि मारिओ ॥",
+      "ipa": "eɪn d̪ut̪ən kʰəl bət̪ kər mɑrɪo.",
+      "ur": "ِان دُوتن کھل بدھ کر ماراو ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "These demons have fooled, bound and destroyed me.",
+        "ms": "These demons have bound and destroyed me, a fool.",
+        "ssk": "These demons have fooled, bound and destroyed me."
+      },
+      "pu": {
+        "ss": "iehnW cMid®AW ny (myry) mUrK (mn) ƒ burI qrHW mwr kIqI hY",
+        "ft": "ien ivkwr rUpI dUqoN ny ies mUrK mn ko bMDn kr ky mwirAw hY]",
+        "bdb": "iehnW cMid®AW ny (myry) mUrK (mn) ƒ burI qrHW mwr kIqI hY",
+        "ms": "ienHW BUqinAW ny, mYN mUrK ƒ bMnH ky mwr su`itAw hY["
+      },
+      "puu": {
+        "ss": "ਇਹਨਾਂ ਚੰਦ੍ਰਿਆਂ ਨੇ (ਮੇਰੇ) ਮੂਰਖ (ਮਨ) ਨੂੰ ਬੁਰੀ ਤਰ੍ਹਾਂ ਮਾਰ ਕੀਤੀ ਹੈ",
+        "ft": "ਇਨ ਵਿਕਾਰ ਰੂਪੀ ਦੂਤੋਂ ਨੇ ਇਸ ਮੂਰਖ ਮਨ ਕੋ ਬੰਧਨ ਕਰ ਕੇ ਮਾਰਿਆ ਹੈ॥",
+        "bdb": "ਇਹਨਾਂ ਚੰਦ੍ਰਿਆਂ ਨੇ (ਮੇਰੇ) ਮੂਰਖ (ਮਨ) ਨੂੰ ਬੁਰੀ ਤਰ੍ਹਾਂ ਮਾਰ ਕੀਤੀ ਹੈ",
+        "ms": "ਇਨ੍ਹਾਂ ਭੂਤਨਿਆਂ ਨੇ, ਮੈਂ ਮੂਰਖ ਨੂੰ ਬੰਨ੍ਹ ਕੇ ਮਾਰ ਸੁੱਟਿਆ ਹੈ।"
+      },
+      "es": {
+        "sn": "Así he sido engañado por los cinco enemigos, "
+      },
+      "hi": {
+        "ss": "इन दुष्टों ने (विकारों ने) (मेरे) मूर्ख (मन) को बुरी तरह से मार रखा है।",
+        "sts": "इन कामादिक विकारों ने मेरे मूर्ख मन पर बड़े आक्रमण किए हैं किन्तु"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 20984,
+    "Seq": 14,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "bfo inlwju AjhU nhI hwirE ]5]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "baddo nilaaj ajahoo nahee haario ||5||",
+      "hi": "बडो निलाजु अजहू नही हारिओ ॥५॥",
+      "ipa": "bəɖɔ nɪlɑd͡ʒ əd͡ʒəhu nəhi hɑrɪo.5.",
+      "ur": "بڈو نلاج اجهُو نهیِ هاراو ۔۔۵۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "I am very shameless - even now, I am not tired of them. ||5||",
+        "ms": "I am every shameless, for, even now, I grow not weary of their company.",
+        "ssk": "I am very shameless - even now, I am not tired of them. ||5||"
+      },
+      "pu": {
+        "ss": " pr ieh mn bVw by-Srm hY, Ajy BI ivkwrW vloN muiVAw nhIN [5[",
+        "ft": "prMqU ieh mn vfw inlwj hY, Ajy qk ienoN kI qrPoN hwirAw nhIN hY, Bwv punw ienoN myN hI pRivrq hoqw hY]5]",
+        "bdb": " pr ieh mn bVw by-Srm hY, Ajy BI ivkwrW vloN muiVAw nhIN [5[",
+        "ms": "mYN v`fw bySrm hW[ Ajy BI mYN aunHW dI sMgq nwloN hMBdw nhIN["
+      },
+      "puu": {
+        "ss": " ਪਰ ਇਹ ਮਨ ਬੜਾ ਬੇ-ਸ਼ਰਮ ਹੈ, ਅਜੇ ਭੀ ਵਿਕਾਰਾਂ ਵਲੋਂ ਮੁੜਿਆ ਨਹੀਂ ।੫।",
+        "ft": "ਪਰੰਤੂ ਇਹ ਮਨ ਵਡਾ ਨਿਲਾਜ ਹੈ, ਅਜੇ ਤਕ ਇਨੋਂ ਕੀ ਤਰਫੋਂ ਹਾਰਿਆ ਨਹੀਂ ਹੈ, ਭਾਵ ਪੁਨਾ ਇਨੋਂ ਮੇਂ ਹੀ ਪ੍ਰਵਿਰਤ ਹੋਤਾ ਹੈ॥੫॥",
+        "bdb": " ਪਰ ਇਹ ਮਨ ਬੜਾ ਬੇ-ਸ਼ਰਮ ਹੈ, ਅਜੇ ਭੀ ਵਿਕਾਰਾਂ ਵਲੋਂ ਮੁੜਿਆ ਨਹੀਂ ।੫।",
+        "ms": "ਮੈਂ ਵੱਡਾ ਬੇਸ਼ਰਮ ਹਾਂ। ਅਜੇ ਭੀ ਮੈਂ ਉਨ੍ਹਾਂ ਦੀ ਸੰਗਤ ਨਾਲੋਂ ਹੰਭਦਾ ਨਹੀਂ।"
+      },
+      "es": {
+        "sn": "pero qué sinvergüenza soy que no los abandono. (5)"
+      },
+      "hi": {
+        "ss": "पर ये मन बड़ा बेशर्म है।अभी भी विकारों की ओर से नहीं मुड़ा। 5।",
+        "sts": "यह मन बड़ा निर्लज्ज है, जो अभी भी इसकी संगति नहीं छोड़ रहा ॥ ५ ॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 20985,
+    "Seq": 15,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "kih rivdws khw kYsy kIjY ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "keh ravidhaas kahaa kaise keejai ||",
+      "hi": "कहि रविदास कहा कैसे कीजै ॥",
+      "ipa": "kəh rəʋɪd̪ɑs kəhɑ kæse kid͡ʒæ.",
+      "ur": "کهِ روداس کها کَےسے کیِجَے ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Says Ravi Daas, what am I to do now?",
+        "ms": "Says Ravidas, what way should I adopt now.",
+        "ssk": "Says Ravi Daas, what am I to do now?"
+      },
+      "pu": {
+        "ss": "rivdws AwKdw hY—hor ik`Qy jwvW? hor kIh krW? ",
+        "ft": "sRI rivdws jI khqy hYN: hy hrI! ien sy Bwj kr khW jweIey AO kYsy kIjIey?",
+        "bdb": "rivdws AwKdw hY—hor ik`Qy jwvW? hor kIh krW? ",
+        "ms": "rivdws jI AwKdy hn, mYN hux iks qrHW krW?"
+      },
+      "puu": {
+        "ss": "ਰਵਿਦਾਸ ਆਖਦਾ ਹੈ—ਹੋਰ ਕਿੱਥੇ ਜਾਵਾਂ? ਹੋਰ ਕੀਹ ਕਰਾਂ? ",
+        "ft": "ਸ੍ਰੀ ਰਵਿਦਾਸ ਜੀ ਕਹਤੇ ਹੈਂ: ਹੇ ਹਰੀ! ਇਨ ਸੇ ਭਾਜ ਕਰ ਕਹਾਂ ਜਾਈਏ ਔ ਕੈਸੇ ਕੀਜੀਏ?",
+        "bdb": "ਰਵਿਦਾਸ ਆਖਦਾ ਹੈ—ਹੋਰ ਕਿੱਥੇ ਜਾਵਾਂ? ਹੋਰ ਕੀਹ ਕਰਾਂ? ",
+        "ms": "ਰਵਿਦਾਸ ਜੀ ਆਖਦੇ ਹਨ, ਮੈਂ ਹੁਣ ਕਿਸ ਤਰ੍ਹਾਂ ਕਰਾਂ?"
+      },
+      "es": {
+        "sn": "Dice Ravi Das, "
+      },
+      "hi": {
+        "ss": "रविदास कहता है– और कहाँ जाऊँ।और क्या करूँ।",
+        "sts": "रविदास जी कहते हैं कि अब मैं कहाँ जाऊँ और क्या करूँ ?"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 20986,
+    "Seq": 16,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "ibnu rGunwQ srin kw kI lIjY ]6]1]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "bin raghunaath saran kaa kee leejai ||6||1||",
+      "hi": "बिनु रघुनाथ सरनि का की लीजै ॥६॥१॥",
+      "ipa": "bɪn rəGʰʊnɑt̪ʰ sərən kɑ ki lid͡ʒæ.6.1.",
+      "ur": "بٍن رگھناتھ سرن کا کیِ لیِجَے ۔۔۶۔۔۱۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Without the Sanctuary of the Lord's Protection, who else's should I seek? ||6||1||",
+        "ms": "Except God's protection, whose else should I seek.",
+        "ssk": "Without the Sanctuary of the Lord's Protection, who else's should I seek? ||6||1||"
+      },
+      "pu": {
+        "ss": "(iehnW ivkwrW qoN bcx leI) prmwqmw qoN ibnw hor iksy dw Awsrw ilAw nhIN jw skdw [6[1[",
+        "ft": "qW qy hy rGunwQ! ien sy bcxy hyq qyry sy ibnW AOr iks kI Srx leIey, Bwv sy qyrI Srn hUM, ien ivkwroN sy qum hI myrI riKAw kro]6]1]Çinj mn kw pRym jnwvqy hYN:",
+        "bdb": "(iehnW ivkwrW qoN bcx leI) prmwqmw qoN ibnw hor iksy dw Awsrw ilAw nhIN jw skdw [6[1[",
+        "ms": "vwihgurU dI pnwh dy bgYr mYN hor kIhdI pnwh lvW?"
+      },
+      "puu": {
+        "ss": "(ਇਹਨਾਂ ਵਿਕਾਰਾਂ ਤੋਂ ਬਚਣ ਲਈ) ਪਰਮਾਤਮਾ ਤੋਂ ਬਿਨਾ ਹੋਰ ਕਿਸੇ ਦਾ ਆਸਰਾ ਲਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ ।੬।੧।",
+        "ft": "ਤਾਂ ਤੇ ਹੇ ਰਘੁਨਾਥ! ਇਨ ਸੇ ਬਚਣੇ ਹੇਤ ਤੇਰੇ ਸੇ ਬਿਨਾਂ ਔਰ ਕਿਸ ਕੀ ਸ਼ਰਣ ਲਈਏ, ਭਾਵ ਸੇ ਤੇਰੀ ਸ਼ਰਨ ਹੂੰ, ਇਨ ਵਿਕਾਰੋਂ ਸੇ ਤੁਮ ਹੀ ਮੇਰੀ ਰਖਿਆ ਕਰੋ॥੬॥੧॥☬ਨਿਜ ਮਨ ਕਾ ਪ੍ਰੇਮ ਜਨਾਵਤੇ ਹੈਂ:",
+        "bdb": "(ਇਹਨਾਂ ਵਿਕਾਰਾਂ ਤੋਂ ਬਚਣ ਲਈ) ਪਰਮਾਤਮਾ ਤੋਂ ਬਿਨਾ ਹੋਰ ਕਿਸੇ ਦਾ ਆਸਰਾ ਲਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ ।੬।੧।",
+        "ms": "ਵਾਹਿਗੁਰੂ ਦੀ ਪਨਾਹ ਦੇ ਬਗੈਰ ਮੈਂ ਹੋਰ ਕੀਹਦੀ ਪਨਾਹ ਲਵਾਂ?"
+      },
+      "es": {
+        "sn": "¿Qué voy a hacer ahora sin Ti, oh mi Dios? (6-1) "
+      },
+      "hi": {
+        "ss": "(इन विकारों से बचने के लिए) परमात्मा के बिना और किसी का आसरा लिया नहीं जा सकता। 6। 1।",
+        "sts": "अब परमेश्वर के सिवाय किस की शरण ली जाए॥ ६॥ १ ॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  }
+]

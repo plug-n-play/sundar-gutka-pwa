@@ -1,0 +1,2699 @@
+[
+  {
+    "ID": 9600,
+    "Seq": 1,
+    "header": 1,
+    "Paragraph": 1,
+    "Gurmukhi": "<> siqgur pRswid ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "ikOankaar satigur prasaadh ||",
+      "hi": "ੴ सतिगुर प्रसादि ॥",
+      "ipa": "ɪk oəŋkɑɾ sət̪ɪGʊr pɹəsɑd̪.",
+      "ur": "اک اونکار ستگر پرساد ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "One Universal Creator God. By The Grace Of The True Guru:",
+        "ms": "There is but one God. By true Guru's grace He is obtained.",
+        "ssk": "One Universal Creator God. By The Grace Of The True Guru:"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": "vwihgurU kyvl ie`k hY[ s¤cy gurW dI imhr sdkw auh pRwpq huMdw hY["
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": "ਵਾਹਿਗੁਰੂ ਕੇਵਲ ਇੱਕ ਹੈ। ਸੱਚੇ ਗੁਰਾਂ ਦੀ ਮਿਹਰ ਸਦਕਾ ਉਹ ਪ੍ਰਾਪਤ ਹੁੰਦਾ ਹੈ।"
+      },
+      "es": {
+        "sn": "Rag Asa, Mejl Guru Amar Das, Tercer Canal Divino, Patti. El Alfabeto"
+      },
+      "hi": {
+        "ss": "",
+        "sts": "ईश्वर एक है, जिसे सतगुरु की कृपा से पाया जा सकता है।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9601,
+    "Seq": 2,
+    "header": 0,
+    "Paragraph": 2,
+    "Gurmukhi": "AXo AM|Y sBu jgu AwieAw kwKY GM|Y kwlu BieAw ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 4,
+          "t": "v"
+        },
+        {
+          "p": 1,
+          "t": "y"
+        },
+        {
+          "p": 6,
+          "t": "y"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 4,
+          "t": "v"
+        },
+        {
+          "p": 1,
+          "t": "y"
+        },
+        {
+          "p": 6,
+          "t": "y"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "ayo a(n)n(g)ai sabh jag aaiaa kaakhai gha(n)n(g)ai kaal bhiaa ||",
+      "hi": "अयो अंङै सभु जगु आइआ काखै घंङै कालु भइआ ॥",
+      "ipa": "əjɔ əŋNæ səɓ d͡ʒəG əɑɪɑ kɑkʰæ GʰəŋNæ kɑl ɓɪɑ.",
+      "ur": "اےو اںنگَے سبھ جگ آایا کاکھَے گھںنگَے کال بھایا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Ayo, Angai: The whole world which was created - Kaahkai, Ghangai: It shall pass away.",
+        "ms": "Ayu Ange and kakhe Ghane, the whole world that is born, shall pass away.",
+        "ssk": "Ayo, Angai: The whole world which was created - Kaahkai, Ghangai: It shall pass away."
+      },
+      "pu": {
+        "ss": "(ieh) swrw jgq (jo) hoNd ivc AwieAw hoieAw hY, (ies dy isr auqy) mOq (BI) mOjUd hY ",
+        "ft": "jo AM|Y, Bwv srb srIroN myN AwXw ArQwq bÎwpÎw hUAw hY, iqs sy sB jgu auqipq hoie AwXw hY[ Ar (AM|Y) Gr myN moh kr ky ijs ny aumr kw (KY) nws kIAw hY iqs kw kwl hUAw hY ArQwq vhu jnmqw mrqw hY]",
+        "bdb": "(ieh) swrw jgq (jo) hoNd ivc AwieAw hoieAw hY, (ies dy isr auqy) mOq (BI) mOjUd hY ",
+        "ms": "AXo AM|Y Aqy kKY hY GM|y[ swrw sMswr jo jnimAw hY mr vMygw["
+      },
+      "puu": {
+        "ss": "(ਇਹ) ਸਾਰਾ ਜਗਤ (ਜੋ) ਹੋਂਦ ਵਿਚ ਆਇਆ ਹੋਇਆ ਹੈ, (ਇਸ ਦੇ ਸਿਰ ਉਤੇ) ਮੌਤ (ਭੀ) ਮੌਜੂਦ ਹੈ ",
+        "ft": "ਜੋ ਅੰਙੈ, ਭਾਵ ਸਰਬ ਸਰੀਰੋਂ ਮੇਂ ਆਯਾ ਅਰਥਾਤ ਬ੍ਯਾਪ੍ਯਾ ਹੂਆ ਹੈ, ਤਿਸ ਸੇ ਸਭ ਜਗੁ ਉਤਪਿਤ ਹੋਇ ਆਯਾ ਹੈ। ਅਰ (ਅੰਙੈ) ਘਰ ਮੇਂ ਮੋਹ ਕਰ ਕੇ ਜਿਸ ਨੇ ਉਮਰ ਕਾ (ਖੈ) ਨਾਸ ਕੀਆ ਹੈ ਤਿਸ ਕਾ ਕਾਲ ਹੂਆ ਹੈ ਅਰਥਾਤ ਵਹੁ ਜਨਮਤਾ ਮਰਤਾ ਹੈ॥",
+        "bdb": "(ਇਹ) ਸਾਰਾ ਜਗਤ (ਜੋ) ਹੋਂਦ ਵਿਚ ਆਇਆ ਹੋਇਆ ਹੈ, (ਇਸ ਦੇ ਸਿਰ ਉਤੇ) ਮੌਤ (ਭੀ) ਮੌਜੂਦ ਹੈ ",
+        "ms": "ਅਯੋ ਅੰਙੈ ਅਤੇ ਕਖੈ ਹੈ ਘੰਙੇ। ਸਾਰਾ ਸੰਸਾਰ ਜੋ ਜਨਮਿਆ ਹੈ ਮਰ ਵੰੇਗਾ।"
+      },
+      "es": {
+        "sn": "Ayo Angue: El mundo entero que ha sido creado.Kajkhe Ghangue: Polvo se volverá."
+      },
+      "hi": {
+        "ss": "(ये) सारा जगत (जो) अस्तित्व में आया हुआ है।(इसके सिर पर) मौत (भी) मौजूद है",
+        "sts": "अयो अंडै का अर्थ यह वर्णित किया गया है कि यह समूचा जगत परमात्मा के हुक्म से पैदा हुआ है, काखे घंडै का यह अर्थ बताया गया है कि यह जगत काल (मृत्यु) के वश में पड़ गया है।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9602,
+    "Seq": 3,
+    "header": 0,
+    "Paragraph": 2,
+    "Gurmukhi": "rIrI llI pwp kmwxy piV Avgx gux vIsirAw ]1]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 3,
+          "t": "v"
+        },
+        {
+          "p": 5,
+          "t": "y"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 3,
+          "t": "v"
+        },
+        {
+          "p": 5,
+          "t": "y"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "reeree lalee paap kamaane paR avagan gun veesariaa ||1||",
+      "hi": "रीरी लली पाप कमाणे पड़ि अवगण गुण वीसरिआ ॥१॥",
+      "ipa": "riri ləli pɑp kəmɑɳe pəɽ əʋəGəɳ Gʊɳ ʋisərɪəɑ.1.",
+      "ur": "ریِریِ للیِ پاپ کماݨے پڑ اوگݨ گُݨ ویِسرآ ۔۔۱۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Reeree, Laalee: People commit sins, and falling into vice, forget virtue. ||1||",
+        "ms": "Riri Lali, the mortal commits sins and falling in vices forgets virtues.",
+        "ssk": "Reeree, Laalee: People commit sins, and falling into vice, forget virtue. ||1||"
+      },
+      "pu": {
+        "ss": "(pr jIv mOq ƒ Bulw ky) AOgux pYdw krn vwlIAW g`lW pVH ky gux ivswr dyNdy hn, qy pwp kmWdy rihMdy hn [1[",
+        "ft": "(rIrI) rI sKI rI ieMdRIEN ky pwlny ky vwsqy (llI) lwlc kr ky jo pwp kmwey hYN, so iqs ko AvguxoN ky pVny kr guxoN kw smdwie ivsirAw hY vw AvguxoN ky vwsqy pVqw rhw hY]1]",
+        "bdb": "(pr jIv mOq ƒ Bulw ky) AOgux pYdw krn vwlIAW g`lW pVH ky gux ivswr dyNdy hn, qy pwp kmWdy rihMdy hn [1[",
+        "ms": "rIrI llI pRwxI gunwh krdw hY Aqy bdIAW iv`c pY ky nykIAW ƒ Bun jWdw hY["
+      },
+      "puu": {
+        "ss": "(ਪਰ ਜੀਵ ਮੌਤ ਨੂੰ ਭੁਲਾ ਕੇ) ਔਗੁਣ ਪੈਦਾ ਕਰਨ ਵਾਲੀਆਂ ਗੱਲਾਂ ਪੜ੍ਹ ਕੇ ਗੁਣ ਵਿਸਾਰ ਦੇਂਦੇ ਹਨ, ਤੇ ਪਾਪ ਕਮਾਂਦੇ ਰਹਿੰਦੇ ਹਨ ।੧।",
+        "ft": "(ਰੀਰੀ) ਰੀ ਸਖੀ ਰੀ ਇੰਦ੍ਰੀਓਂ ਕੇ ਪਾਲਨੇ ਕੇ ਵਾਸਤੇ (ਲਲੀ) ਲਾਲਚ ਕਰ ਕੇ ਜੋ ਪਾਪ ਕਮਾਏ ਹੈਂ, ਸੋ ਤਿਸ ਕੋ ਅਵਗੁਣੋਂ ਕੇ ਪੜਨੇ ਕਰ ਗੁਣੋਂ ਕਾ ਸਮਦਾਇ ਵਿਸਰਿਆ ਹੈ ਵਾ ਅਵਗੁਣੋਂ ਕੇ ਵਾਸਤੇ ਪੜਤਾ ਰਹਾ ਹੈ॥੧॥",
+        "bdb": "(ਪਰ ਜੀਵ ਮੌਤ ਨੂੰ ਭੁਲਾ ਕੇ) ਔਗੁਣ ਪੈਦਾ ਕਰਨ ਵਾਲੀਆਂ ਗੱਲਾਂ ਪੜ੍ਹ ਕੇ ਗੁਣ ਵਿਸਾਰ ਦੇਂਦੇ ਹਨ, ਤੇ ਪਾਪ ਕਮਾਂਦੇ ਰਹਿੰਦੇ ਹਨ ।੧।",
+        "ms": "ਰੀਰੀ ਲਲੀ ਪ੍ਰਾਣੀ ਗੁਨਾਹ ਕਰਦਾ ਹੈ ਅਤੇ ਬਦੀਆਂ ਵਿੱਚ ਪੈ ਕੇ ਨੇਕੀਆਂ ਨੂੰ ਭੁਨ ਜਾਂਦਾ ਹੈ।"
+      },
+      "es": {
+        "sn": "Rirri Lalli: El mundo entero está en falta, cae en el error y se olvida de Dios. (1)"
+      },
+      "hi": {
+        "ss": "(पर जीव मौत को भुला के) अवगुण पैदा करने वाली बातें पढ़ के गुण विसार देते हैं।और पाप कमाते रहते हैं। 1।",
+        "sts": "री री लली का अर्थ यह वर्णित है कि नश्वर प्राणी पाप कर्म करता जा रहा है और अवगुणों में फॅसकर गुणों को विस्मृत किए जा रहा है॥ १॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9603,
+    "Seq": 4,
+    "header": 0,
+    "Paragraph": 3,
+    "Gurmukhi": "mn AYsw lyKw qUM kI piVAw ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 2,
+          "t": "v"
+        },
+        {
+          "p": 0,
+          "t": "y"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 2,
+          "t": "v"
+        },
+        {
+          "p": 0,
+          "t": "y"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "man aaisaa lekhaa too(n) kee paRiaa ||",
+      "hi": "मन ऐसा लेखा तूँ की पड़िआ ॥",
+      "ipa": "mən æsɑ lekʰɑ t̪uŋ ki pəɽɪəɑ.",
+      "ur": "من اَےسا لےکھا تُوں کیِ پڑآ ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "O mortal, why have you studied such an account,",
+        "ms": "O my soul why hasty thou learnt such an account,",
+        "ssk": "O mortal, why have you studied such an account,"
+      },
+      "pu": {
+        "ss": "hy mn! (isr&) Ajyhw lyKw pVHn dw qYƒ koeI lwB nhIN ho skdw (ijs ivc ru`J ky qUµ jIvn dw shI rsqw nwh is`iKAw, kurwhy hI ipAw irhw) ",
+        "ft": "hy (mn) pÎwry pWDy! AYsw lyKw qUM kI pVw hY, Bwv kCu nhIN pVw]",
+        "bdb": "hy mn! (isr&) Ajyhw lyKw pVHn dw qYƒ koeI lwB nhIN ho skdw (ijs ivc ru`J ky qUµ jIvn dw shI rsqw nwh is`iKAw, kurwhy hI ipAw irhw) ",
+        "ms": "hy myrI ijMdVIey! qUM AYho ijhw ihswb ikqwb ikauN is`iKAw hY,"
+      },
+      "puu": {
+        "ss": "ਹੇ ਮਨ! (ਸਿਰਫ਼) ਅਜੇਹਾ ਲੇਖਾ ਪੜ੍ਹਨ ਦਾ ਤੈਨੂੰ ਕੋਈ ਲਾਭ ਨਹੀਂ ਹੋ ਸਕਦਾ (ਜਿਸ ਵਿਚ ਰੁੱਝ ਕੇ ਤੂੰ ਜੀਵਨ ਦਾ ਸਹੀ ਰਸਤਾ ਨਾਹ ਸਿੱਖਿਆ, ਕੁਰਾਹੇ ਹੀ ਪਿਆ ਰਿਹਾ) ",
+        "ft": "ਹੇ (ਮਨ) ਪ੍ਯਾਰੇ ਪਾਂਧੇ! ਐਸਾ ਲੇਖਾ ਤੂੰ ਕੀ ਪੜਾ ਹੈ, ਭਾਵ ਕਛੁ ਨਹੀਂ ਪੜਾ॥",
+        "bdb": "ਹੇ ਮਨ! (ਸਿਰਫ਼) ਅਜੇਹਾ ਲੇਖਾ ਪੜ੍ਹਨ ਦਾ ਤੈਨੂੰ ਕੋਈ ਲਾਭ ਨਹੀਂ ਹੋ ਸਕਦਾ (ਜਿਸ ਵਿਚ ਰੁੱਝ ਕੇ ਤੂੰ ਜੀਵਨ ਦਾ ਸਹੀ ਰਸਤਾ ਨਾਹ ਸਿੱਖਿਆ, ਕੁਰਾਹੇ ਹੀ ਪਿਆ ਰਿਹਾ) ",
+        "ms": "ਹੇ ਮੇਰੀ ਜਿੰਦੜੀਏ! ਤੂੰ ਐਹੋ ਜਿਹਾ ਹਿਸਾਬ ਕਿਤਾਬ ਕਿਉਂ ਸਿੱਖਿਆ ਹੈ,"
+      },
+      "es": {
+        "sn": "Oh mortal, ¿por qué has aprendido aquella lección "
+      },
+      "hi": {
+        "ss": "हे मन ! (सिर्फ) ऐसा लेखा पढ़ने का तुझे कोई लाभ नहीं हो सकता (जिसमें उलझ के तू जीवन का सही रास्ता ना सीख सका।",
+        "sts": "हे मेरे मन ! तूने भला ऐसा लेखा क्यों पढ़ा है,"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9604,
+    "Seq": 5,
+    "header": 0,
+    "Paragraph": 3,
+    "Gurmukhi": "lyKw dyxw qyrY isir rihAw ]1] rhwau ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 1,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "lekhaa dhenaa terai sir rahiaa ||1|| rahaau ||",
+      "hi": "लेखा देणा तेरै सिरि रहिआ ॥१॥ रहाउ ॥",
+      "ipa": "lekʰɑ d̪eɳɑ t̪eræ sɪr rəhɪəɑ.1. rəhɑo.",
+      "ur": "لےکھا دےݨا تےرَے سر رهِآ ۔۔۱۔۔ رهاا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "which shall call you to answer for payment? ||1||Pause||",
+        "ms": "by which rendering of account still remains due from thee? Pause.",
+        "ssk": "which shall call you to answer for payment? ||1||Pause||"
+      },
+      "pu": {
+        "ss": "qy Awpxy kIqy AmlW dw ihswb dyxw qyry isr auqy itikAw hI irhw [rhwau[",
+        "ft": "ijs pVny kr ky BI jmwidkoN kw lyKw dynw qyry isr pur rhw hY]1] rhwau ]Çjy khY vhu lyKw kOx hY ijs sy jmoN kw lyKw CUt jwvY? so khqy hYN:",
+        "bdb": "qy Awpxy kIqy AmlW dw ihswb dyxw qyry isr auqy itikAw hI irhw [rhwau[",
+        "ms": "ijs krky ihswb ikqwb dyxw Ajy BI qyry ijMmy bwkI hY, Tihrwau["
+      },
+      "puu": {
+        "ss": "ਤੇ ਆਪਣੇ ਕੀਤੇ ਅਮਲਾਂ ਦਾ ਹਿਸਾਬ ਦੇਣਾ ਤੇਰੇ ਸਿਰ ਉਤੇ ਟਿਕਿਆ ਹੀ ਰਿਹਾ ।ਰਹਾਉ।",
+        "ft": "ਜਿਸ ਪੜਨੇ ਕਰ ਕੇ ਭੀ ਜਮਾਦਿਕੋਂ ਕਾ ਲੇਖਾ ਦੇਨਾ ਤੇਰੇ ਸਿਰ ਪੁਰ ਰਹਾ ਹੈ॥੧॥ ਰਹਾਉ ॥☬ਜੇ ਕਹੈ ਵਹੁ ਲੇਖਾ ਕੌਣ ਹੈ ਜਿਸ ਸੇ ਜਮੋਂ ਕਾ ਲੇਖਾ ਛੂਟ ਜਾਵੈ? ਸੋ ਕਹਤੇ ਹੈਂ:",
+        "bdb": "ਤੇ ਆਪਣੇ ਕੀਤੇ ਅਮਲਾਂ ਦਾ ਹਿਸਾਬ ਦੇਣਾ ਤੇਰੇ ਸਿਰ ਉਤੇ ਟਿਕਿਆ ਹੀ ਰਿਹਾ ।ਰਹਾਉ।",
+        "ms": "ਜਿਸ ਕਰਕੇ ਹਿਸਾਬ ਕਿਤਾਬ ਦੇਣਾ ਅਜੇ ਭੀ ਤੇਰੇ ਜਿੰਮੇ ਬਾਕੀ ਹੈ, ਠਹਿਰਾਉ।"
+      },
+      "es": {
+        "sn": "que te llevará a enfrentar cuentas? (1‑Pausa)"
+      },
+      "hi": {
+        "ss": "गलत रास्ते पर ही पड़ा रहा) और अपने किए कर्मों का हिसाब तेरे सिर पे टिका ही रहा।रहाउ।",
+        "sts": "क्योंकि तेरे सिर पर लेखा देना अभी भी शेष है॥ १॥ रहाउ ॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9605,
+    "Seq": 6,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "isDM|wieAY ismrih nwhI nµnY nw quDu nwmu lieAw ]",
+    "Visraam": {
+      "sttm": [],
+      "igurbani": [],
+      "sttm2": [
+        {
+          "p": 2,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "sidha(n)n(g)aiaai simareh naahee na(n)nai naa tudh naam liaa ||",
+      "hi": "सिधंङाइऐ सिमरहि नाही नंनै ना तुधु नामु लइआ ॥",
+      "ipa": "sɪt̪əŋNɑɪæ sɪmərəh nɑhi nəⁿnæ nɑ t̪ʊt̪ nɑm lɪɑ.",
+      "ur": "سِدھںنگاااَے سمره ناهیِ نµنَے نا تُدھ نام لایا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Sidhan, Ngaayiyai: You do not remember the Lord. Nanna: You do not take the Lord's Name.",
+        "ms": "Sidhan Naiain. Thou O man, rememberest not God. N: --- Neither thou takest the Name.",
+        "ssk": "Sidhan, Ngaayiyai: You do not remember the Lord. Nanna: You do not take the Lord's Name."
+      },
+      "pu": {
+        "ss": "(hy mn! inry dunIAwvI lyKy is`Kx dy Awhry l`g ky) qUµ (prmwqmw ƒ) cyqy nhIN krdw, qUµ prmwqmw dw nwm Xwd nhIN krdw [ ",
+        "ft": "(isDM|wieAY) pRgt hI jo srIroN myN bÎwpÎw hUAw hY iqs ko qUM irdy kr ky ismrqw nhIN hY[ Aru (nMnY) nMny dÍwrw kihqy hYN: n qYny bwxI kr ky hI nwm lIAw hY vw AwXo AM|Y sy Awidk kw KKw rwrw llw ien AKroN kr ky BI aupdys jwx lYxw]",
+        "bdb": "(hy mn! inry dunIAwvI lyKy is`Kx dy Awhry l`g ky) qUµ (prmwqmw ƒ) cyqy nhIN krdw, qUµ prmwqmw dw nwm Xwd nhIN krdw [ ",
+        "ms": "isMD |wieAY qUM hy bMdy vwihgurU ƒ nhIN AwrwDdw[ n-nW hI qUM nwm lYNdw hY["
+      },
+      "puu": {
+        "ss": "(ਹੇ ਮਨ! ਨਿਰੇ ਦੁਨੀਆਵੀ ਲੇਖੇ ਸਿੱਖਣ ਦੇ ਆਹਰੇ ਲੱਗ ਕੇ) ਤੂੰ (ਪਰਮਾਤਮਾ ਨੂੰ) ਚੇਤੇ ਨਹੀਂ ਕਰਦਾ, ਤੂੰ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਯਾਦ ਨਹੀਂ ਕਰਦਾ । ",
+        "ft": "(ਸਿਧੰਙਾਇਐ) ਪ੍ਰਗਟ ਹੀ ਜੋ ਸਰੀਰੋਂ ਮੇਂ ਬ੍ਯਾਪ੍ਯਾ ਹੂਆ ਹੈ ਤਿਸ ਕੋ ਤੂੰ ਰਿਦੇ ਕਰ ਕੇ ਸਿਮਰਤਾ ਨਹੀਂ ਹੈ। ਅਰੁ (ਨੰਨੈ) ਨੰਨੇ ਦ੍ਵਾਰਾ ਕਹਿਤੇ ਹੈਂ: ਨ ਤੈਨੇ ਬਾਣੀ ਕਰ ਕੇ ਹੀ ਨਾਮ ਲੀਆ ਹੈ ਵਾ ਆਯੋ ਅੰਙੈ ਸੇ ਆਦਿਕ ਕਾ ਖਖਾ ਰਾਰਾ ਲਲਾ ਇਨ ਅਖਰੋਂ ਕਰ ਕੇ ਭੀ ਉਪਦੇਸ ਜਾਣ ਲੈਣਾ॥",
+        "bdb": "(ਹੇ ਮਨ! ਨਿਰੇ ਦੁਨੀਆਵੀ ਲੇਖੇ ਸਿੱਖਣ ਦੇ ਆਹਰੇ ਲੱਗ ਕੇ) ਤੂੰ (ਪਰਮਾਤਮਾ ਨੂੰ) ਚੇਤੇ ਨਹੀਂ ਕਰਦਾ, ਤੂੰ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਯਾਦ ਨਹੀਂ ਕਰਦਾ । ",
+        "ms": "ਸਿੰਧ ਙਾਇਐ ਤੂੰ ਹੇ ਬੰਦੇ ਵਾਹਿਗੁਰੂ ਨੂੰ ਨਹੀਂ ਆਰਾਧਦਾ। ਨ-ਨਾਂ ਹੀ ਤੂੰ ਨਾਮ ਲੈਂਦਾ ਹੈ।"
+      },
+      "es": {
+        "sn": "Sidjan Ngayiye: No alabas a tu Señor; sí, no recitas el Naam, el Nombre del Señor."
+      },
+      "hi": {
+        "ss": "(हे मन ! सिर्फ दुनियावी लेखे सीखने की कोशिशें करने से) तू (परमात्मा को) याद नहीं करता।तू परमात्मा का नाम याद नहीं करता।",
+        "sts": "सिघंडाइऐ - हे जीव ! तुम प्रभु को याद नहीं करते। न-न ही तुम उसका नाम लेते हो।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9606,
+    "Seq": 7,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "CCY CIjih Aihinis mUVy ikau CUtih jim pwkiVAw ]2]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 3,
+          "t": "v"
+        },
+        {
+          "p": 0,
+          "t": "y"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 3,
+          "t": "v"
+        },
+        {
+          "p": 0,
+          "t": "y"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 0,
+          "t": "v"
+        },
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "chhachhai chheejeh ahinis mooRe kiau chhooTeh jam paakaRiaa ||2||",
+      "hi": "छछै छीजहि अहिनिसि मूड़े किउ छूटहि जमि पाकड़िआ ॥२॥",
+      "ipa": "ɕəɕæ ɕid͡ʒəh əhɪnɪs muɽe kɪo ɕuʈəh d͡ʒəm pɑkəɽɪəɑ.2.",
+      "ur": "چھچھَے چھیِجه اهٍنس مُوڑے کا چھُوٹه جمِ پاکڑآ ۔۔۲۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Chhachha: You are wearing away, every night and day; you fool, how will you find release? You are held in the grip of death. ||2||",
+        "ms": "Chh:-- Day and night thou art wearing off, O fool. seized by Death's myrmidon, how wilt thou be released?",
+        "ssk": "Chhachha: You are wearing away, every night and day; you fool, how will you find release? You are held in the grip of death. ||2||"
+      },
+      "pu": {
+        "ss": "hy mUrK! (pRBU ƒ Bulw ky) idn rwq qUµ (Awqmk jIvn ivc) kmzor ho irhw hYN, jdoN jm ny (ies KunwmI dy kwrn) PV ilAw, qW aus qoN ^lwsI ikvyN hovygI? [2[",
+        "ft": "(CCY) CCy dÍwrw kihqy hYN: hy mUrK! rwiq idn qyrI Awrblw nws hoqI jwqI hY[ jm kw pkVw hUAw qUM kYsy CutyNgw]2]",
+        "bdb": "hy mUrK! (pRBU ƒ Bulw ky) idn rwq qUµ (Awqmk jIvn ivc) kmzor ho irhw hYN, jdoN jm ny (ies KunwmI dy kwrn) PV ilAw, qW aus qoN ^lwsI ikvyN hovygI? [2[",
+        "ms": "C- idhuM rYx qUM nws huMdw jw irhw hY[ hy mUrK! mOq dy dUq dw PiVAw hoieAw qUM iks qrHW Cutkwrw pwvygW?"
+      },
+      "puu": {
+        "ss": "ਹੇ ਮੂਰਖ! (ਪ੍ਰਭੂ ਨੂੰ ਭੁਲਾ ਕੇ) ਦਿਨ ਰਾਤ ਤੂੰ (ਆਤਮਕ ਜੀਵਨ ਵਿਚ) ਕਮਜ਼ੋਰ ਹੋ ਰਿਹਾ ਹੈਂ, ਜਦੋਂ ਜਮ ਨੇ (ਇਸ ਖੁਨਾਮੀ ਦੇ ਕਾਰਨ) ਫੜ ਲਿਆ, ਤਾਂ ਉਸ ਤੋਂ ਖ਼ਲਾਸੀ ਕਿਵੇਂ ਹੋਵੇਗੀ? ।੨।",
+        "ft": "(ਛਛੈ) ਛਛੇ ਦ੍ਵਾਰਾ ਕਹਿਤੇ ਹੈਂ: ਹੇ ਮੂਰਖ! ਰਾਤਿ ਦਿਨ ਤੇਰੀ ਆਰਬਲਾ ਨਾਸ ਹੋਤੀ ਜਾਤੀ ਹੈ। ਜਮ ਕਾ ਪਕੜਾ ਹੂਆ ਤੂੰ ਕੈਸੇ ਛੁਟੇਂਗਾ॥੨॥",
+        "bdb": "ਹੇ ਮੂਰਖ! (ਪ੍ਰਭੂ ਨੂੰ ਭੁਲਾ ਕੇ) ਦਿਨ ਰਾਤ ਤੂੰ (ਆਤਮਕ ਜੀਵਨ ਵਿਚ) ਕਮਜ਼ੋਰ ਹੋ ਰਿਹਾ ਹੈਂ, ਜਦੋਂ ਜਮ ਨੇ (ਇਸ ਖੁਨਾਮੀ ਦੇ ਕਾਰਨ) ਫੜ ਲਿਆ, ਤਾਂ ਉਸ ਤੋਂ ਖ਼ਲਾਸੀ ਕਿਵੇਂ ਹੋਵੇਗੀ? ।੨।",
+        "ms": "ਛ- ਦਿਹੁੰ ਰੈਣ ਤੂੰ ਨਾਸ ਹੁੰਦਾ ਜਾ ਰਿਹਾ ਹੈ। ਹੇ ਮੂਰਖ! ਮੌਤ ਦੇ ਦੂਤ ਦਾ ਫੜਿਆ ਹੋਇਆ ਤੂੰ ਕਿਸ ਤਰ੍ਹਾਂ ਛੁਟਕਾਰਾ ਪਾਵੇਗਾਂ?"
+      },
+      "es": {
+        "sn": "Chhachha: Oh ignorante, tu vida se acaba día con día; cuando la muerte te atrape, ¿cómo te vas a liberar? (2)"
+      },
+      "hi": {
+        "ss": "हे मूर्ख ! (प्रभू को भुला के) दिन रात तेरा (आत्मिक जीवन) कमजोर हो रहा है।जब जम ने (इस खुनामी के कारण) पकड़ लिया।तो उससे खलासी कैसे होगी। 2।",
+        "sts": "छ - हे मुर्ख जीव ! तुम रात दिन नाश होते जा रहे हो अर्थात अपना गवां रहे हो। जब यमदूत ने तुझे पकड़ लिया तो फिर कैसे मुक्त होवोगे। ॥२॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9607,
+    "Seq": 8,
+    "header": 0,
+    "Paragraph": 5,
+    "Gurmukhi": "bbY bUJih nwhI mUVy Brim Buly qyrw jnmu gieAw ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "babai boojheh naahee mooRe bharam bhule teraa janam giaa ||",
+      "hi": "बबै बूझहि नाही मूड़े भरमि भुले तेरा जनमु गइआ ॥",
+      "ipa": "bəbæ buɖ͡ʐəh nɑhi muɽe ɓərəm ɓʊle t̪erɑ d͡ʒənəm Gɪɑ.",
+      "ur": "ببَے بُوجھه ناهیِ مُوڑے بھرم بھُلے تےرا جنم گایا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Babba: You do not understand, you fool; deluded by doubt, you are wasting your life.",
+        "ms": "B:- Thou understand not O stupid and led astray by doubt, thou art wasting away thy life",
+        "ssk": "Babba: You do not understand, you fool; deluded by doubt, you are wasting your life."
+      },
+      "pu": {
+        "ss": "hy mUrK! (inry dunIAwvI lyKy pVHn pVHwn ivc ru`J ky) qUµ (jIvn dw shI rsqw) nhIN smJdw, iesy BulyKy ivc kurwhy pY ky qUµ Awpxw mnu`Kw jIvn ivArQ gvw irhw hYN [ ",
+        "ft": "bby AKr dÍwrw khqy hYN: hy mUrK! qUM buJqw nhIN hYN qyrw Brm myN BUly hUey kw jnm ibqIq hoie igAw hY]",
+        "bdb": "hy mUrK! (inry dunIAwvI lyKy pVHn pVHwn ivc ru`J ky) qUµ (jIvn dw shI rsqw) nhIN smJdw, iesy BulyKy ivc kurwhy pY ky qUµ Awpxw mnu`Kw jIvn ivArQ gvw irhw hYN [ ",
+        "ms": "b -qUM smJdw nhIN hy bysmJ bMdy! sMdyh dw kurwhy pwieAw hoieAw qUM Awpxw jIvn gvw irhw hYN["
+      },
+      "puu": {
+        "ss": "ਹੇ ਮੂਰਖ! (ਨਿਰੇ ਦੁਨੀਆਵੀ ਲੇਖੇ ਪੜ੍ਹਨ ਪੜ੍ਹਾਨ ਵਿਚ ਰੁੱਝ ਕੇ) ਤੂੰ (ਜੀਵਨ ਦਾ ਸਹੀ ਰਸਤਾ) ਨਹੀਂ ਸਮਝਦਾ, ਇਸੇ ਭੁਲੇਖੇ ਵਿਚ ਕੁਰਾਹੇ ਪੈ ਕੇ ਤੂੰ ਆਪਣਾ ਮਨੁੱਖਾ ਜੀਵਨ ਵਿਅਰਥ ਗਵਾ ਰਿਹਾ ਹੈਂ । ",
+        "ft": "ਬਬੇ ਅਖਰ ਦ੍ਵਾਰਾ ਕਹਤੇ ਹੈਂ: ਹੇ ਮੂਰਖ! ਤੂੰ ਬੁਝਤਾ ਨਹੀਂ ਹੈਂ ਤੇਰਾ ਭਰਮ ਮੇਂ ਭੂਲੇ ਹੂਏ ਕਾ ਜਨਮ ਬਿਤੀਤ ਹੋਇ ਗਿਆ ਹੈ॥",
+        "bdb": "ਹੇ ਮੂਰਖ! (ਨਿਰੇ ਦੁਨੀਆਵੀ ਲੇਖੇ ਪੜ੍ਹਨ ਪੜ੍ਹਾਨ ਵਿਚ ਰੁੱਝ ਕੇ) ਤੂੰ (ਜੀਵਨ ਦਾ ਸਹੀ ਰਸਤਾ) ਨਹੀਂ ਸਮਝਦਾ, ਇਸੇ ਭੁਲੇਖੇ ਵਿਚ ਕੁਰਾਹੇ ਪੈ ਕੇ ਤੂੰ ਆਪਣਾ ਮਨੁੱਖਾ ਜੀਵਨ ਵਿਅਰਥ ਗਵਾ ਰਿਹਾ ਹੈਂ । ",
+        "ms": "ਬ -ਤੂੰ ਸਮਝਦਾ ਨਹੀਂ ਹੇ ਬੇਸਮਝ ਬੰਦੇ! ਸੰਦੇਹ ਦਾ ਕੁਰਾਹੇ ਪਾਇਆ ਹੋਇਆ ਤੂੰ ਆਪਣਾ ਜੀਵਨ ਗਵਾ ਰਿਹਾ ਹੈਂ।"
+      },
+      "es": {
+        "sn": "Babba: No conoces lo Real, eres desviado por la duda y así desperdicias tu vida, "
+      },
+      "hi": {
+        "ss": "हे मूर्ख ! (सिर्फ दुनियावी लेखे पढ़ने-पढ़ाने में उलझ के) तू (जीवन का सही रास्ता) नहीं समझता।इसी भुलेखे में गलत रास्ते पर पड़ के तू अपना मानस जीवन व्यर्थ गवा रहा है।",
+        "sts": "व-हे मूर्ख ! तुम सन्मार्ग नहीं समझते और भ्रम में कुमार्गगामी होकर तुम अपना जन्म व्यर्थ गंवा रहे हो।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9608,
+    "Seq": 9,
+    "header": 0,
+    "Paragraph": 5,
+    "Gurmukhi": "Axhodw nwau DrwieE pwDw Avrw kw Bwru quDu lieAw ]3]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "anahodhaa naau dharaio paadhaa avaraa kaa bhaar tudh liaa ||3||",
+      "hi": "अणहोदा नाउ धराइओ पाधा अवरा का भारु तुधु लइआ ॥३॥",
+      "ipa": "əɳəhɔd̪ɑ nɑo t̪ərɑeɪo pɑt̪ɑ əʋərɑ kɑ ɓɑr t̪ʊt̪ lɪɑ.3.",
+      "ur": "اݨهودا ناا دھراااو پادھا اورا کا بھار تُدھ لایا ۔۔۳۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Without justification, you call yourself a teacher; thus you take on the loads of others. ||3||",
+        "ms": "Without cause thou callest thyself a teacher, and takest on thee the load of others.",
+        "ssk": "Without justification, you call yourself a teacher; thus you take on the loads of others. ||3||"
+      },
+      "pu": {
+        "ss": "(Awqmk jIvn dw rsqw d`sx vwly pWDy dy) gux qyry ivc nhIN hn, (iPr BI) qUµ Awpxw nwm pWDw rKwieAw hoieAw hY [ qUµ Awpxy cwtiVAW ƒ jIvn-rwh isKwx dI izMmyvwrI dw Bwr Awpxy auqy cu`ikAw hoieAw hY [3[",
+        "ft": "An hoqw hI qYny Awpnw nwm pWDw rKwieAw hY, Bwv qUM sq Asq dy ivcwr rUpI ihswb sy rihq hYN Ar dUsroN kw pwp rUp Bwr qYny Apny isr lIAw hY]3]",
+        "bdb": "(Awqmk jIvn dw rsqw d`sx vwly pWDy dy) gux qyry ivc nhIN hn, (iPr BI) qUµ Awpxw nwm pWDw rKwieAw hoieAw hY [ qUµ Awpxy cwtiVAW ƒ jIvn-rwh isKwx dI izMmyvwrI dw Bwr Awpxy auqy cu`ikAw hoieAw hY [3[",
+        "ms": "qUM ibnW vjwA Awpxy Awp ƒ ausqwd AKvwauNdw hY, Aqy hornW dw boJ Awpxy auqy lYNdw hY["
+      },
+      "puu": {
+        "ss": "(ਆਤਮਕ ਜੀਵਨ ਦਾ ਰਸਤਾ ਦੱਸਣ ਵਾਲੇ ਪਾਂਧੇ ਦੇ) ਗੁਣ ਤੇਰੇ ਵਿਚ ਨਹੀਂ ਹਨ, (ਫਿਰ ਭੀ) ਤੂੰ ਆਪਣਾ ਨਾਮ ਪਾਂਧਾ ਰਖਾਇਆ ਹੋਇਆ ਹੈ । ਤੂੰ ਆਪਣੇ ਚਾਟੜਿਆਂ ਨੂੰ ਜੀਵਨ-ਰਾਹ ਸਿਖਾਣ ਦੀ ਜ਼ਿੰਮੇਵਾਰੀ ਦਾ ਭਾਰ ਆਪਣੇ ਉਤੇ ਚੁੱਕਿਆ ਹੋਇਆ ਹੈ ।੩।",
+        "ft": "ਅਨ ਹੋਤਾ ਹੀ ਤੈਨੇ ਆਪਨਾ ਨਾਮ ਪਾਂਧਾ ਰਖਾਇਆ ਹੈ, ਭਾਵ ਤੂੰ ਸਤ ਅਸਤ ਦੇ ਵਿਚਾਰ ਰੂਪੀ ਹਿਸਾਬ ਸੇ ਰਹਿਤ ਹੈਂ ਅਰ ਦੂਸਰੋਂ ਕਾ ਪਾਪ ਰੂਪ ਭਾਰ ਤੈਨੇ ਅਪਨੇ ਸਿਰ ਲੀਆ ਹੈ॥੩॥",
+        "bdb": "(ਆਤਮਕ ਜੀਵਨ ਦਾ ਰਸਤਾ ਦੱਸਣ ਵਾਲੇ ਪਾਂਧੇ ਦੇ) ਗੁਣ ਤੇਰੇ ਵਿਚ ਨਹੀਂ ਹਨ, (ਫਿਰ ਭੀ) ਤੂੰ ਆਪਣਾ ਨਾਮ ਪਾਂਧਾ ਰਖਾਇਆ ਹੋਇਆ ਹੈ । ਤੂੰ ਆਪਣੇ ਚਾਟੜਿਆਂ ਨੂੰ ਜੀਵਨ-ਰਾਹ ਸਿਖਾਣ ਦੀ ਜ਼ਿੰਮੇਵਾਰੀ ਦਾ ਭਾਰ ਆਪਣੇ ਉਤੇ ਚੁੱਕਿਆ ਹੋਇਆ ਹੈ ।੩।",
+        "ms": "ਤੂੰ ਬਿਨਾਂ ਵਜਾਅ ਆਪਣੇ ਆਪ ਨੂੰ ਉਸਤਾਦ ਅਖਵਾਉਂਦਾ ਹੈ, ਅਤੇ ਹੋਰਨਾਂ ਦਾ ਬੋਝ ਆਪਣੇ ਉਤੇ ਲੈਂਦਾ ਹੈ।"
+      },
+      "es": {
+        "sn": "sin causa alguna te haces llamar maestro cuando el peso de la dualidad está sobre tu cabeza. (3)"
+      },
+      "hi": {
+        "ss": "(आत्मिक जीवन का रास्ता बताने वाले शिक्षक के) गुण तेरे में नहीं हैं।(फिर भी) तूने अपना नाम शिक्षक।पण्डित रखाया हुआ है।तूने अपने चेलों को जीवन-राह सिखाने की जिंमेवारी का भार अपने ऊपर उठाया हुआ है। 3।",
+        "sts": "तुमने निरर्थक ही अपना नाम पण्डित (पांधा) रखवाया है, जबकि दूसरों का भार अपने सिर पर लादा हुआ है।॥ ३॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9609,
+    "Seq": 10,
+    "header": 0,
+    "Paragraph": 6,
+    "Gurmukhi": "jjY joiq ihir leI qyrI mUVy AMiq gieAw pCuqwvihgw ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 5,
+          "t": "v"
+        },
+        {
+          "p": 0,
+          "t": "y"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 5,
+          "t": "v"
+        },
+        {
+          "p": 0,
+          "t": "y"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 4,
+          "t": "v"
+        },
+        {
+          "p": 5,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "jajai jot hir liee teree mooRe a(n)t giaa pachhutaavahigaa ||",
+      "hi": "जजै जोति हिरि लई तेरी मूड़े अंति गइआ पछुतावहिगा ॥",
+      "ipa": "d͡ʒəd͡ʒæ d͡ʒɔt̪ hɪr lei t̪eri muɽe əŋt̪ Gɪɑ pəɕʊt̪ɑʋəhɪGɑ.",
+      "ur": "ججَے جوت هر لای تےریِ مُوڑے اںت گایا پچھتاوهگا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Jajja: You have been robbed of your Light, you fool; in the end, you shall have to depart, and you shall regret and repent.",
+        "ms": "J:-- Thou hast been robbed of thy Divine light, O fool and when departing, in the end, thou shalt repent.",
+        "ssk": "Jajja: You have been robbed of your Light, you fool; in the end, you shall have to depart, and you shall regret and repent."
+      },
+      "pu": {
+        "ss": "hy mUrK! (inry mwiek lyKy pq®y ny Awqmk jIvn isKlwx vwlI) qyrI Akl Koh leI hY, A^Ir vyly jdoN ieQoN qurn lgoN, qW A&sos kryNgw [",
+        "ft": "jjy dÍwrw khqy hYN: hy mUrK! jo jo joq Awqm igAwq hY, so qyrI AigAwn ny curwie leI hY, qW qy AMq ko prlok myN igAw hUAw pscwqwp kryNgw]",
+        "bdb": "hy mUrK! (inry mwiek lyKy pq®y ny Awqmk jIvn isKlwx vwlI) qyrI Akl Koh leI hY, A^Ir vyly jdoN ieQoN qurn lgoN, qW A&sos kryNgw [",
+        "ms": "j -qyrw eISvrI nUr luitAw puitAw igAw hY, hy byvkUP! AKIr ƒ jWdw hoieAw qUM pScwqwp krygw["
+      },
+      "puu": {
+        "ss": "ਹੇ ਮੂਰਖ! (ਨਿਰੇ ਮਾਇਕ ਲੇਖੇ ਪਤ੍ਰੇ ਨੇ ਆਤਮਕ ਜੀਵਨ ਸਿਖਲਾਣ ਵਾਲੀ) ਤੇਰੀ ਅਕਲ ਖੋਹ ਲਈ ਹੈ, ਅਖ਼ੀਰ ਵੇਲੇ ਜਦੋਂ ਇਥੋਂ ਤੁਰਨ ਲਗੋਂ, ਤਾਂ ਅਫ਼ਸੋਸ ਕਰੇਂਗਾ ।",
+        "ft": "ਜਜੇ ਦ੍ਵਾਰਾ ਕਹਤੇ ਹੈਂ: ਹੇ ਮੂਰਖ! ਜੋ ਜੋ ਜੋਤ ਆਤਮ ਗਿਆਤ ਹੈ, ਸੋ ਤੇਰੀ ਅਗਿਆਨ ਨੇ ਚੁਰਾਇ ਲਈ ਹੈ, ਤਾਂ ਤੇ ਅੰਤ ਕੋ ਪਰਲੋਕ ਮੇਂ ਗਿਆ ਹੂਆ ਪਸਚਾਤਾਪ ਕਰੇਂਗਾ॥",
+        "bdb": "ਹੇ ਮੂਰਖ! (ਨਿਰੇ ਮਾਇਕ ਲੇਖੇ ਪਤ੍ਰੇ ਨੇ ਆਤਮਕ ਜੀਵਨ ਸਿਖਲਾਣ ਵਾਲੀ) ਤੇਰੀ ਅਕਲ ਖੋਹ ਲਈ ਹੈ, ਅਖ਼ੀਰ ਵੇਲੇ ਜਦੋਂ ਇਥੋਂ ਤੁਰਨ ਲਗੋਂ, ਤਾਂ ਅਫ਼ਸੋਸ ਕਰੇਂਗਾ ।",
+        "ms": "ਜ -ਤੇਰਾ ਈਸ਼ਵਰੀ ਨੂਰ ਲੁਟਿਆ ਪੁਟਿਆ ਗਿਆ ਹੈ, ਹੇ ਬੇਵਕੂਫ! ਅਖੀਰ ਨੂੰ ਜਾਂਦਾ ਹੋਇਆ ਤੂੰ ਪਸ਼ਚਾਤਾਪ ਕਰੇਗਾ।"
+      },
+      "es": {
+        "sn": "Yayya: Has sido despojado de tu luz, oh tonto desnudo. Al final te vas a lamentar, "
+      },
+      "hi": {
+        "ss": "हेमूर्ख ! (निरे मायावी लेखे वाले पत्रों ने आत्मिक जीवन सिखाने वाली) तेरी बुद्धि छीन ली है।आखिरी समय जब तू यहाँ से जाने लगेगा तब तू पछताएगा।",
+        "sts": "ज-हे मूर्ख ! तेरी सुमति मोह-माया ने छीन ली है, अन्तिम समय जब संसार से गमन करोगे तो पश्चाताप करोगे।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9610,
+    "Seq": 11,
+    "header": 0,
+    "Paragraph": 6,
+    "Gurmukhi": "eyku sbdu qUM cInih nwhI iPir iPir jUnI Awvihgw ]4]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "ek sabadh too(n) cheeneh naahee fir fir joonee aavahigaa ||4||",
+      "hi": "एकु सबदु तूँ चीनहि नाही फिरि फिरि जूनी आवहिगा ॥४॥",
+      "ipa": "eek səbəd̪ t̪uŋ t͡ʃinəh nɑhi fɪr fɪr d͡ʒuni əɑʋəhɪGɑ.4.",
+      "ur": "اےک سبد تُوں چیٍنه ناهیِ پھر پھرِ جٌیِ آوهگا ۔۔۴۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "You have not remembered the One Word of the Shabad, and so you shall have to enter the womb over and over again. ||4||",
+        "ms": "The one Lord thou rememberest not, so thou shalt enter the womb, again and again.",
+        "ssk": "You have not remembered the One Word of the Shabad, and so you shall have to enter the womb over and over again. ||4||"
+      },
+      "pu": {
+        "ss": "(hux ies vyly) qUµ pRBU dI is&iq-swlwh dI bwxI nwl sWJ nhIN pWdw, (is`tw ieh inklygw ik) muV muV jUnW ivc ipAw rhyNgw [4[",
+        "ft": "eyk sbd AduqI bRhm qUM cInqw nhIN hY qW qy bwrMbwr jUnI, Bwv jnm mrn myN AwvYgw]4]",
+        "bdb": "(hux ies vyly) qUµ pRBU dI is&iq-swlwh dI bwxI nwl sWJ nhIN pWdw, (is`tw ieh inklygw ik) muV muV jUnW ivc ipAw rhyNgw [4[",
+        "ms": "ie`k pRBU dw qUM ismrn nhIN krdw, ies leI qUM muV muV ky grB iv`c pvygW["
+      },
+      "puu": {
+        "ss": "(ਹੁਣ ਇਸ ਵੇਲੇ) ਤੂੰ ਪ੍ਰਭੂ ਦੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਦੀ ਬਾਣੀ ਨਾਲ ਸਾਂਝ ਨਹੀਂ ਪਾਂਦਾ, (ਸਿੱਟਾ ਇਹ ਨਿਕਲੇਗਾ ਕਿ) ਮੁੜ ਮੁੜ ਜੂਨਾਂ ਵਿਚ ਪਿਆ ਰਹੇਂਗਾ ।੪।",
+        "ft": "ਏਕ ਸਬਦ ਅਦੁਤੀ ਬ੍ਰਹਮ ਤੂੰ ਚੀਨਤਾ ਨਹੀਂ ਹੈ ਤਾਂ ਤੇ ਬਾਰੰਬਾਰ ਜੂਨੀ, ਭਾਵ ਜਨਮ ਮਰਨ ਮੇਂ ਆਵੈਗਾ॥੪॥",
+        "bdb": "(ਹੁਣ ਇਸ ਵੇਲੇ) ਤੂੰ ਪ੍ਰਭੂ ਦੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਦੀ ਬਾਣੀ ਨਾਲ ਸਾਂਝ ਨਹੀਂ ਪਾਂਦਾ, (ਸਿੱਟਾ ਇਹ ਨਿਕਲੇਗਾ ਕਿ) ਮੁੜ ਮੁੜ ਜੂਨਾਂ ਵਿਚ ਪਿਆ ਰਹੇਂਗਾ ।੪।",
+        "ms": "ਇੱਕ ਪ੍ਰਭੂ ਦਾ ਤੂੰ ਸਿਮਰਨ ਨਹੀਂ ਕਰਦਾ, ਇਸ ਲਈ ਤੂੰ ਮੁੜ ਮੁੜ ਕੇ ਗਰਭ ਵਿੱਚ ਪਵੇਗਾਂ।"
+      },
+      "es": {
+        "sn": "pues no concibes la Esencia de la Palabra y así, serás vertido en alguna matriz una y otra vez. (4)"
+      },
+      "hi": {
+        "ss": "(अब इस समय) तू प्रभू की सिफत सालाह की बाणी के साथ सांझ नहीं डालता।(नतीजा ये निकलेगा कि) बार-बार जूनियों में पड़ा रहेगा। 4।",
+        "sts": "एक शब्द (अर्थात् परमात्मा के नाम) की तुम पहचान नहीं करते जिसके परिणामस्वरूप बार-बार योनियों में आते रहोगे ॥ ४ ॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9611,
+    "Seq": 12,
+    "header": 0,
+    "Paragraph": 7,
+    "Gurmukhi": "quDu isir iliKAw so pVu pMifq Avrw no n isKwil ibiKAw ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 5,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 5,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 5,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "tudh sir likhiaa so paR pa(n)ddit avaraa no na sikhaal bikhiaa ||",
+      "hi": "तुधु सिरि लिखिआ सो पड़ु पंडित अवरा नो न सिखालि बिखिआ ॥",
+      "ipa": "t̪ʊt̪ sɪr lɪkʰɪəɑ sɔ pəɽ pəŋɖɪt̪ əʋərɑ nɔ nə sɪkʰɑl bɪkʰɪəɑ.",
+      "ur": "تُدھ سر لکھِآ سو پڑ پںڈت اورا نو ن سکھال بکھِآ ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Read that which is written on your forehead, O Pandit, and do not teach wickedness to others.",
+        "ms": "Red thou that what is written on thy forehead, O scholar and teach not wickedness to others.",
+        "ssk": "Read that which is written on your forehead, O Pandit, and do not teach wickedness to others."
+      },
+      "pu": {
+        "ss": "hy pMifq! qyry Awpxy m`Qy auqy jo (mwieAw vwlw) lyK iliKAw hoieAw hY, pihlW qUµ aus lyK ƒ pVH (Bwv, ipCly kIqy krmW Anuswr jo sMskwr qyry AMdr iek`Ty hoey pey hn, auhnW dy ADIn qUµ inrI mwieAw dI ^wqr aumr guzwr irhw hYN, pr Awpxy Awp ƒ pMifq smJdw qy pMifq AKvWdw hYN [ pMifq dw ieh krq`b nhIN ik aus ƒ Awpxy Awqmk jIvn dI rqw BI sUJ n hovy [ inrI mwieAw dI ^wqr dOV-B`j C`f, qy) hornW (cwtiVAW) ƒ BI inrI mwieAw dw lyKw-pq®w nwh isKwl [",
+        "ft": "hy pMfq! jo ibsÎoN ky ihswb myN privrqI rUp lyK qyry isr pr ilKw hY, so qUM hIN pF AOr dUsroN ko ibKXoN ky ihswb nw isKlwE]",
+        "bdb": "hy pMifq! qyry Awpxy m`Qy auqy jo (mwieAw vwlw) lyK iliKAw hoieAw hY, pihlW qUµ aus lyK ƒ pVH (Bwv, ipCly kIqy krmW Anuswr jo sMskwr qyry AMdr iek`Ty hoey pey hn, auhnW dy ADIn qUµ inrI mwieAw dI ^wqr aumr guzwr irhw hYN, pr Awpxy Awp ƒ pMifq smJdw qy pMifq AKvWdw hYN [ pMifq dw ieh krq`b nhIN ik aus ƒ Awpxy Awqmk jIvn dI rqw BI sUJ n hovy [ inrI mwieAw dI ^wqr dOV-B`j C`f, qy) hornW (cwtiVAW) ƒ BI inrI mwieAw dw lyKw-pq®w nwh isKwl [",
+        "ms": "qUM aus ƒ vwc ijhVw qyry msqk qy iliKAw hoieAw hY hy ivdvwn! qUM hornW ƒ kukrm nW pVHw["
+      },
+      "puu": {
+        "ss": "ਹੇ ਪੰਡਿਤ! ਤੇਰੇ ਆਪਣੇ ਮੱਥੇ ਉਤੇ ਜੋ (ਮਾਇਆ ਵਾਲਾ) ਲੇਖ ਲਿਖਿਆ ਹੋਇਆ ਹੈ, ਪਹਿਲਾਂ ਤੂੰ ਉਸ ਲੇਖ ਨੂੰ ਪੜ੍ਹ (ਭਾਵ, ਪਿਛਲੇ ਕੀਤੇ ਕਰਮਾਂ ਅਨੁਸਾਰ ਜੋ ਸੰਸਕਾਰ ਤੇਰੇ ਅੰਦਰ ਇਕੱਠੇ ਹੋਏ ਪਏ ਹਨ, ਉਹਨਾਂ ਦੇ ਅਧੀਨ ਤੂੰ ਨਿਰੀ ਮਾਇਆ ਦੀ ਖ਼ਾਤਰ ਉਮਰ ਗੁਜ਼ਾਰ ਰਿਹਾ ਹੈਂ, ਪਰ ਆਪਣੇ ਆਪ ਨੂੰ ਪੰਡਿਤ ਸਮਝਦਾ ਤੇ ਪੰਡਿਤ ਅਖਵਾਂਦਾ ਹੈਂ । ਪੰਡਿਤ ਦਾ ਇਹ ਕਰਤੱਬ ਨਹੀਂ ਕਿ ਉਸ ਨੂੰ ਆਪਣੇ ਆਤਮਕ ਜੀਵਨ ਦੀ ਰਤਾ ਭੀ ਸੂਝ ਨ ਹੋਵੇ । ਨਿਰੀ ਮਾਇਆ ਦੀ ਖ਼ਾਤਰ ਦੌੜ-ਭੱਜ ਛੱਡ, ਤੇ) ਹੋਰਨਾਂ (ਚਾਟੜਿਆਂ) ਨੂੰ ਭੀ ਨਿਰੀ ਮਾਇਆ ਦਾ ਲੇਖਾ-ਪਤ੍ਰਾ ਨਾਹ ਸਿਖਾਲ ।",
+        "ft": "ਹੇ ਪੰਡਤ! ਜੋ ਬਿਸ੍ਯੋਂ ਕੇ ਹਿਸਾਬ ਮੇਂ ਪਰਵਿਰਤੀ ਰੂਪ ਲੇਖ ਤੇਰੇ ਸਿਰ ਪਰ ਲਿਖਾ ਹੈ, ਸੋ ਤੂੰ ਹੀਂ ਪਢ ਔਰ ਦੂਸਰੋਂ ਕੋ ਬਿਖਯੋਂ ਕੇ ਹਿਸਾਬ ਨਾ ਸਿਖਲਾਓ॥",
+        "bdb": "ਹੇ ਪੰਡਿਤ! ਤੇਰੇ ਆਪਣੇ ਮੱਥੇ ਉਤੇ ਜੋ (ਮਾਇਆ ਵਾਲਾ) ਲੇਖ ਲਿਖਿਆ ਹੋਇਆ ਹੈ, ਪਹਿਲਾਂ ਤੂੰ ਉਸ ਲੇਖ ਨੂੰ ਪੜ੍ਹ (ਭਾਵ, ਪਿਛਲੇ ਕੀਤੇ ਕਰਮਾਂ ਅਨੁਸਾਰ ਜੋ ਸੰਸਕਾਰ ਤੇਰੇ ਅੰਦਰ ਇਕੱਠੇ ਹੋਏ ਪਏ ਹਨ, ਉਹਨਾਂ ਦੇ ਅਧੀਨ ਤੂੰ ਨਿਰੀ ਮਾਇਆ ਦੀ ਖ਼ਾਤਰ ਉਮਰ ਗੁਜ਼ਾਰ ਰਿਹਾ ਹੈਂ, ਪਰ ਆਪਣੇ ਆਪ ਨੂੰ ਪੰਡਿਤ ਸਮਝਦਾ ਤੇ ਪੰਡਿਤ ਅਖਵਾਂਦਾ ਹੈਂ । ਪੰਡਿਤ ਦਾ ਇਹ ਕਰਤੱਬ ਨਹੀਂ ਕਿ ਉਸ ਨੂੰ ਆਪਣੇ ਆਤਮਕ ਜੀਵਨ ਦੀ ਰਤਾ ਭੀ ਸੂਝ ਨ ਹੋਵੇ । ਨਿਰੀ ਮਾਇਆ ਦੀ ਖ਼ਾਤਰ ਦੌੜ-ਭੱਜ ਛੱਡ, ਤੇ) ਹੋਰਨਾਂ (ਚਾਟੜਿਆਂ) ਨੂੰ ਭੀ ਨਿਰੀ ਮਾਇਆ ਦਾ ਲੇਖਾ-ਪਤ੍ਰਾ ਨਾਹ ਸਿਖਾਲ ।",
+        "ms": "ਤੂੰ ਉਸ ਨੂੰ ਵਾਚ ਜਿਹੜਾ ਤੇਰੇ ਮਸਤਕ ਤੇ ਲਿਖਿਆ ਹੋਇਆ ਹੈ ਹੇ ਵਿਦਵਾਨ! ਤੂੰ ਹੋਰਨਾਂ ਨੂੰ ਕੁਕਰਮ ਨਾਂ ਪੜ੍ਹਾ।"
+      },
+      "es": {
+        "sn": "Eso que está en tu destino, léelo, y no enseñes la maldad a otros. "
+      },
+      "hi": {
+        "ss": "हे पण्डित ! तेरे अपने माथे पे जो (माया का) लेख लिखा हुआ है।पहले तू उस लेख को पढ़ (भाव।पिछले किए कर्मों के अनुसार जो संसकार तेरे अंदर इकट्ठे हुए पड़े हैं।",
+        "sts": "हे पण्डित ! जो तेरे सिर पर तकदीर का लेख लिखा हुआ है, उसे पढ़ और दूसरों को विष रूपी माया का लेखा मत पढ़ा।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9612,
+    "Seq": 13,
+    "header": 0,
+    "Paragraph": 7,
+    "Gurmukhi": "pihlw Pwhw pieAw pwDy ipCo dy gil cwtiVAw ]5]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "pahilaa faahaa piaa paadhe pichho dhe gal chaaTaRiaa ||5||",
+      "hi": "पहिला फाहा पइआ पाधे पिछो दे गलि चाटड़िआ ॥५॥",
+      "ipa": "pəhɪlɑ fɑhɑ pɪɑ pɑt̪e pɪɕɔ d̪e Gəl t͡ʃɑʈəɽɪəɑ.5.",
+      "ur": "پهِلا پھاها پایا پادھے پچھو دے گل چاٹڑآ ۔۔۵۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "First, the teacher is tied down, and then, the noose is placed around the pupil's neck. ||5||",
+        "ms": "To begin with the teacher is roped, and afterward the noose is put around the pupil neck.",
+        "ssk": "First, the teacher is tied down, and then, the noose is placed around the pupil's neck. ||5||"
+      },
+      "pu": {
+        "ss": "(inrI mwieAw dw lyKw pVHwn vwly) pWDy ny pihlW Awpxy gl ivc (mwieAw dI) PwhI pweI hoeI hY, iPr auhI PwhI Awpxy ividAwrQIAW dy gl ivc pw dyNdw hY [5[",
+        "ft": "hy pWDy! pihly ivSXoN myN privrqI rUp Pwhw qyry gl myN qo pVw hI hUAw hY ipCy sy vohI Pwhw cwtiVEN ky gl myN dyqw, Bwv pwvqw hYN]5]",
+        "bdb": "(inrI mwieAw dw lyKw pVHwn vwly) pWDy ny pihlW Awpxy gl ivc (mwieAw dI) PwhI pweI hoeI hY, iPr auhI PwhI Awpxy ividAwrQIAW dy gl ivc pw dyNdw hY [5[",
+        "ms": "Avl qW muriSd PwihAw jWdw hY[ Aqy mgroN PwhI SigrdW dI grdn duAwly pweI jWdI hY["
+      },
+      "puu": {
+        "ss": "(ਨਿਰੀ ਮਾਇਆ ਦਾ ਲੇਖਾ ਪੜ੍ਹਾਨ ਵਾਲੇ) ਪਾਂਧੇ ਨੇ ਪਹਿਲਾਂ ਆਪਣੇ ਗਲ ਵਿਚ (ਮਾਇਆ ਦੀ) ਫਾਹੀ ਪਾਈ ਹੋਈ ਹੈ, ਫਿਰ ਉਹੀ ਫਾਹੀ ਆਪਣੇ ਵਿਦਿਆਰਥੀਆਂ ਦੇ ਗਲ ਵਿਚ ਪਾ ਦੇਂਦਾ ਹੈ ।੫।",
+        "ft": "ਹੇ ਪਾਂਧੇ! ਪਹਿਲੇ ਵਿਸ਼ਯੋਂ ਮੇਂ ਪਰਵਿਰਤੀ ਰੂਪ ਫਾਹਾ ਤੇਰੇ ਗਲ ਮੇਂ ਤੋ ਪੜਾ ਹੀ ਹੂਆ ਹੈ ਪਿਛੇ ਸੇ ਵੋਹੀ ਫਾਹਾ ਚਾਟੜਿਓਂ ਕੇ ਗਲ ਮੇਂ ਦੇਤਾ, ਭਾਵ ਪਾਵਤਾ ਹੈਂ॥੫॥",
+        "bdb": "(ਨਿਰੀ ਮਾਇਆ ਦਾ ਲੇਖਾ ਪੜ੍ਹਾਨ ਵਾਲੇ) ਪਾਂਧੇ ਨੇ ਪਹਿਲਾਂ ਆਪਣੇ ਗਲ ਵਿਚ (ਮਾਇਆ ਦੀ) ਫਾਹੀ ਪਾਈ ਹੋਈ ਹੈ, ਫਿਰ ਉਹੀ ਫਾਹੀ ਆਪਣੇ ਵਿਦਿਆਰਥੀਆਂ ਦੇ ਗਲ ਵਿਚ ਪਾ ਦੇਂਦਾ ਹੈ ।੫।",
+        "ms": "ਅਵਲ ਤਾਂ ਮੁਰਸ਼ਿਦ ਫਾਹਿਆ ਜਾਂਦਾ ਹੈ। ਅਤੇ ਮਗਰੋਂ ਫਾਹੀ ਸ਼ਗਿਰਦਾਂ ਦੀ ਗਰਦਨ ਦੁਆਲੇ ਪਾਈ ਜਾਂਦੀ ਹੈ।"
+      },
+      "es": {
+        "sn": "Primero el maestro es atrapado, y después el dogal es puesto alrededor del cuello de los alumnos que lo siguen. (5) "
+      },
+      "hi": {
+        "ss": "उनके तहत तू सिर्फ माया की खातिर उम्र गुजार रहा है।पर अपने आप को पण्डित समझता और पण्डित कहलवाता है।निरी माया की खातिर दौड़-भाग छोड़।और) औरों (चेलों) को भी सिर्फ माया का लेखा-पत्रा ना सिखा।(सिर्फ माया का लेखा पढ़ने वाले) पण्डित ने पहले अपने गले में (माया की) फांसी डाली हुई है।फिर वही फांसी अपने विद्यार्थियों के गले में डाल देता है। 5।",
+        "sts": "क्योंकि पहले तो पण्डित के अपने गले में माया का फन्दा पड़ता है और तदुपरांत अपने शिष्यों के गले में भी वही फाँसी पड़ जाती है॥ ५॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9613,
+    "Seq": 14,
+    "header": 0,
+    "Paragraph": 8,
+    "Gurmukhi": "ssY sMjmu gieE mUVy eyku dwnu quDu kuQwie lieAw ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 3,
+          "t": "v"
+        },
+        {
+          "p": 0,
+          "t": "y"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 3,
+          "t": "v"
+        },
+        {
+          "p": 0,
+          "t": "y"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 0,
+          "t": "v"
+        },
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "sasai sa(n)jam gio mooRe ek dhaan tudh kuthai liaa ||",
+      "hi": "ससै संजमु गइओ मूड़े एकु दानु तुधु कुथाइ लइआ ॥",
+      "ipa": "səsæ səŋd͡ʒəm Geɪo muɽe eek d̪ɑn t̪ʊt̪ kʊt̪ʰɑeɪ lɪɑ.",
+      "ur": "سسَے سںجم گِااو مُوڑے اےک دان تُدھ کُتھاا لایا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Sassa: You have lost your self-discipline, you fool, and you have accepted an offering under false pretenses.",
+        "ms": "S:-- Thou hast lost self discipline, O stupid and thou hast taken an improper charity.",
+        "ssk": "Sassa: You have lost your self-discipline, you fool, and you have accepted an offering under false pretenses."
+      },
+      "pu": {
+        "ss": "(Awpxy Awp ƒ pMifq smJx vwly) hy mUrK! (inrI mwieAw dI ^wqr pVHx pVHwn dy kwrn lwlc-v`s ho ky) qUµ jIvn-jugiq BI gvw bYTw hYN [ prohq hox krky qUµ Awpxy jjmwn pwsoN hr idn-idhwr qy dwn lYNdw hYN, (pr) iek dwn qUµ Awpxy jjmwn qoN Zlq QW lYNdw hYN [ ",
+        "ft": "hy pMfq! ssy AKr kw eyh qwqprX hY[ hy mUrK! qyrw sB sMjm jwqw rhw hY, ikauNik eyk dwn qYny Koty AsQwn kw lIAw hY]",
+        "bdb": "(Awpxy Awp ƒ pMifq smJx vwly) hy mUrK! (inrI mwieAw dI ^wqr pVHx pVHwn dy kwrn lwlc-v`s ho ky) qUµ jIvn-jugiq BI gvw bYTw hYN [ prohq hox krky qUµ Awpxy jjmwn pwsoN hr idn-idhwr qy dwn lYNdw hYN, (pr) iek dwn qUµ Awpxy jjmwn qoN Zlq QW lYNdw hYN [ ",
+        "ms": "s -qUM Awpxw svY jgq guAw ilAw hY hy byvkUP bMdy! qYN ie`k nwmunwisb KYrwq leI hY["
+      },
+      "puu": {
+        "ss": "(ਆਪਣੇ ਆਪ ਨੂੰ ਪੰਡਿਤ ਸਮਝਣ ਵਾਲੇ) ਹੇ ਮੂਰਖ! (ਨਿਰੀ ਮਾਇਆ ਦੀ ਖ਼ਾਤਰ ਪੜ੍ਹਣ ਪੜ੍ਹਾਨ ਦੇ ਕਾਰਨ ਲਾਲਚ-ਵੱਸ ਹੋ ਕੇ) ਤੂੰ ਜੀਵਨ-ਜੁਗਤਿ ਭੀ ਗਵਾ ਬੈਠਾ ਹੈਂ । ਪਰੋਹਤ ਹੋਣ ਕਰਕੇ ਤੂੰ ਆਪਣੇ ਜਜਮਾਨ ਪਾਸੋਂ ਹਰ ਦਿਨ-ਦਿਹਾਰ ਤੇ ਦਾਨ ਲੈਂਦਾ ਹੈਂ, (ਪਰ) ਇਕ ਦਾਨ ਤੂੰ ਆਪਣੇ ਜਜਮਾਨ ਤੋਂ ਗ਼ਲਤ ਥਾਂ ਲੈਂਦਾ ਹੈਂ । ",
+        "ft": "ਹੇ ਪੰਡਤ! ਸਸੇ ਅਖਰ ਕਾ ਏਹ ਤਾਤਪਰਯ ਹੈ। ਹੇ ਮੂਰਖ! ਤੇਰਾ ਸਭ ਸੰਜਮ ਜਾਤਾ ਰਹਾ ਹੈ, ਕਿਉਂਕਿ ਏਕ ਦਾਨ ਤੈਨੇ ਖੋਟੇ ਅਸਥਾਨ ਕਾ ਲੀਆ ਹੈ॥",
+        "bdb": "(ਆਪਣੇ ਆਪ ਨੂੰ ਪੰਡਿਤ ਸਮਝਣ ਵਾਲੇ) ਹੇ ਮੂਰਖ! (ਨਿਰੀ ਮਾਇਆ ਦੀ ਖ਼ਾਤਰ ਪੜ੍ਹਣ ਪੜ੍ਹਾਨ ਦੇ ਕਾਰਨ ਲਾਲਚ-ਵੱਸ ਹੋ ਕੇ) ਤੂੰ ਜੀਵਨ-ਜੁਗਤਿ ਭੀ ਗਵਾ ਬੈਠਾ ਹੈਂ । ਪਰੋਹਤ ਹੋਣ ਕਰਕੇ ਤੂੰ ਆਪਣੇ ਜਜਮਾਨ ਪਾਸੋਂ ਹਰ ਦਿਨ-ਦਿਹਾਰ ਤੇ ਦਾਨ ਲੈਂਦਾ ਹੈਂ, (ਪਰ) ਇਕ ਦਾਨ ਤੂੰ ਆਪਣੇ ਜਜਮਾਨ ਤੋਂ ਗ਼ਲਤ ਥਾਂ ਲੈਂਦਾ ਹੈਂ । ",
+        "ms": "ਸ -ਤੂੰ ਆਪਣਾ ਸਵੈ ਜਗਤ ਗੁਆ ਲਿਆ ਹੈ ਹੇ ਬੇਵਕੂਫ ਬੰਦੇ! ਤੈਂ ਇੱਕ ਨਾਮੁਨਾਸਿਬ ਖੈਰਾਤ ਲਈ ਹੈ।"
+      },
+      "es": {
+        "sn": "Sassa: Has abandonado la disciplina, oh Brahmán; el regalo que recibiste de tu cliente va en contra de las buenas maneras, "
+      },
+      "hi": {
+        "ss": "(अपने आप को पण्डित समझने वाले) हे मूख ! (निरी माया की खातिर पड़ने-पढ़ाने के कारण लालच-वश हो के) तू जीवन-जुगति भी गवा बैठा है।परोहित होने के कारण तू अपने जजमान से हर दिन-दिहाड़े के दान लेता है।",
+        "sts": "स-हे मूर्ख ! तूने अपना संयम गंवा दिया है। एक तो तूने अयोग्य दान ले लिया है।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9614,
+    "Seq": 15,
+    "header": 0,
+    "Paragraph": 8,
+    "Gurmukhi": "sweI puqRI jjmwn kI sw qyrI eyqu Dwin KwDY qyrw jnmu gieAw ]6]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 5,
+          "t": "v"
+        },
+        {
+          "p": 3,
+          "t": "y"
+        },
+        {
+          "p": 8,
+          "t": "y"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 5,
+          "t": "v"
+        },
+        {
+          "p": 3,
+          "t": "y"
+        },
+        {
+          "p": 8,
+          "t": "y"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 5,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "saiee putree jajamaan kee saa teree et dhaan khaadhai teraa janam giaa ||6||",
+      "hi": "साई पुत्री जजमान की सा तेरी एतु धानि खाधै तेरा जनमु गइआ ॥६॥",
+      "ipa": "sɑei pʊt̪ɹi d͡ʒəd͡ʒəmɑn ki sɑ t̪eri eet̪ t̪ɑn kʰɑt̪ə̀æ t̪erɑ d͡ʒənəm Gɪɑ.6.",
+      "ur": "ساای پُتریِ ججمان کیِ سا تےریِ اےت دھان کھادھَے تےرا جنم گایا ۔۔۶۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "The daughter of the alms-giver is just like your own; by accepting this payment for performing the wedding ceremony, you have cursed your own life. ||6||",
+        "ms": "As is the daughter of thy almsgiver, so is the thine. By taking this payment (for performing wedding ceremony } thou hast wasted thy life.",
+        "ssk": "The daughter of the alms-giver is just like your own; by accepting this payment for performing the wedding ceremony, you have cursed your own life. ||6||"
+      },
+      "pu": {
+        "ss": "jjmwn dI DI qyrI hI DI hY (DI dy ivAwh qy jjmwn pwsoN dwn lYxw DI dw pYsw Kwxw hY) [ ieh AMn Kwx nwl (ieh pYsw Kwx nwl) qUµ Awpxw Awqmk jIvn gvw lYNdw hYN [6[",
+        "ft": "soeI jjmwn kI kMnÎW hY, so qyrI BI kMnÎW hI hY[ qW qy kMnÎW dwn krwie kr jjmwn sy iPr jo qUM kMnÎW ky pqI sy dwn lyqw hYN, ies Dwn ky Kwny sy qyrw jnm ibArQ ho igAw hY; vw iesI qrh Kotw Dwn Kwqy hUey qyrw jnm hI bqIq hUAw hY]6]",
+        "bdb": "jjmwn dI DI qyrI hI DI hY (DI dy ivAwh qy jjmwn pwsoN dwn lYxw DI dw pYsw Kwxw hY) [ ieh AMn Kwx nwl (ieh pYsw Kwx nwl) qUµ Awpxw Awqmk jIvn gvw lYNdw hYN [6[",
+        "ms": "ijho ijhI auh DI hY dwn dyx vwly dI Eho ijhI hI auh qyrI hY[ ies lwg ƒ lYx duAwrw qUM Awpxy jIvn dw s`iqAwnws kr ilAw hY["
+      },
+      "puu": {
+        "ss": "ਜਜਮਾਨ ਦੀ ਧੀ ਤੇਰੀ ਹੀ ਧੀ ਹੈ (ਧੀ ਦੇ ਵਿਆਹ ਤੇ ਜਜਮਾਨ ਪਾਸੋਂ ਦਾਨ ਲੈਣਾ ਧੀ ਦਾ ਪੈਸਾ ਖਾਣਾ ਹੈ) । ਇਹ ਅੰਨ ਖਾਣ ਨਾਲ (ਇਹ ਪੈਸਾ ਖਾਣ ਨਾਲ) ਤੂੰ ਆਪਣਾ ਆਤਮਕ ਜੀਵਨ ਗਵਾ ਲੈਂਦਾ ਹੈਂ ।੬।",
+        "ft": "ਸੋਈ ਜਜਮਾਨ ਕੀ ਕੰਨ੍ਯਾਂ ਹੈ, ਸੋ ਤੇਰੀ ਭੀ ਕੰਨ੍ਯਾਂ ਹੀ ਹੈ। ਤਾਂ ਤੇ ਕੰਨ੍ਯਾਂ ਦਾਨ ਕਰਾਇ ਕਰ ਜਜਮਾਨ ਸੇ ਫਿਰ ਜੋ ਤੂੰ ਕੰਨ੍ਯਾਂ ਕੇ ਪਤੀ ਸੇ ਦਾਨ ਲੇਤਾ ਹੈਂ, ਇਸ ਧਾਨ ਕੇ ਖਾਨੇ ਸੇ ਤੇਰਾ ਜਨਮ ਬਿਅਰਥ ਹੋ ਗਿਆ ਹੈ; ਵਾ ਇਸੀ ਤਰਹ ਖੋਟਾ ਧਾਨ ਖਾਤੇ ਹੂਏ ਤੇਰਾ ਜਨਮ ਹੀ ਬਤੀਤ ਹੂਆ ਹੈ॥੬॥",
+        "bdb": "ਜਜਮਾਨ ਦੀ ਧੀ ਤੇਰੀ ਹੀ ਧੀ ਹੈ (ਧੀ ਦੇ ਵਿਆਹ ਤੇ ਜਜਮਾਨ ਪਾਸੋਂ ਦਾਨ ਲੈਣਾ ਧੀ ਦਾ ਪੈਸਾ ਖਾਣਾ ਹੈ) । ਇਹ ਅੰਨ ਖਾਣ ਨਾਲ (ਇਹ ਪੈਸਾ ਖਾਣ ਨਾਲ) ਤੂੰ ਆਪਣਾ ਆਤਮਕ ਜੀਵਨ ਗਵਾ ਲੈਂਦਾ ਹੈਂ ।੬।",
+        "ms": "ਜਿਹੋ ਜਿਹੀ ਉਹ ਧੀ ਹੈ ਦਾਨ ਦੇਣ ਵਾਲੇ ਦੀ ਓਹੋ ਜਿਹੀ ਹੀ ਉਹ ਤੇਰੀ ਹੈ। ਇਸ ਲਾਗ ਨੂੰ ਲੈਣ ਦੁਆਰਾ ਤੂੰ ਆਪਣੇ ਜੀਵਨ ਦਾ ਸੱਤਿਆਨਾਸ ਕਰ ਲਿਆ ਹੈ।"
+      },
+      "es": {
+        "sn": "porque su hija es como la tuya. Recibiendo salario por conducir su matrimonio, tu vida es maldecida. (6)"
+      },
+      "hi": {
+        "ss": "(पर) एक दान तू अपने जजमान से गलत जगह पर लेता है।जजमान की बेटी तेरी ही बेटी है (बेटी के विवाह पर जजमान से दान लेना बेटी का पैसा खाना है)।ये अन्न खाने से (ये पैसा खाने से) तू अपना आत्मिक जीवन गवा लेता है। 6।",
+        "sts": "यजमान की पुत्री तेरी अपनी ही पुत्री है और उसका विवाह कराकर दान लेकर पाप किया है। इस धन को लेकर तूने अपने जन्म का सत्यनाश कर लिया है॥ ६॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9615,
+    "Seq": 16,
+    "header": 0,
+    "Paragraph": 9,
+    "Gurmukhi": "mMmY miq ihir leI qyrI mUVy haumY vfw rogu pieAw ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 5,
+          "t": "v"
+        },
+        {
+          "p": 0,
+          "t": "y"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 5,
+          "t": "v"
+        },
+        {
+          "p": 0,
+          "t": "y"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 0,
+          "t": "v"
+        },
+        {
+          "p": 5,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "ma(n)mai mat hir liee teree mooRe haumai vaddaa rog piaa ||",
+      "hi": "मंमै मति हिरि लई तेरी मूड़े हउमै वडा रोगु पइआ ॥",
+      "ipa": "məŋmæ mət̪ hɪr lei t̪eri muɽe hoʊmæ ʋəɖɑ rɔG pɪɑ.",
+      "ur": "مںمَے مت هرِ لای تےریِ مُوڑے هامَے وڈا روگ پایا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Mamma: You have been cheated out your intellect, you fool, and you are afflicted with the great disease of ego.",
+        "ms": "M:-- Thou hast been denuded of thy intellect, O fool, and art infested with the great malady of self-conceit.",
+        "ssk": "Mamma: You have been cheated out your intellect, you fool, and you are afflicted with the great disease of ego."
+      },
+      "pu": {
+        "ss": "hy mUrK! (iek pwsy mwieAw dy lwlc ny) qyrI Akl mwrI hoeI hY (qYƒ ‘kuQwie dwn’ lYx qoN BI sMkoc nhIN hY [ dUjy pwsy) qYƒ ieh v`fw (Awqmk) rog cMbiVAw hoieAw hY ik mYN (ivdvwn) hW, mYN (ivdvwn) hW [",
+        "ft": "mMmY AKr ny eyh khw hY: hy mUrK! qyrI buD haumY ny (ihir leI) curw leI hY[ ieh hMkwr hI quJy bfw rog hoqw BÎw hY ArQwq AswD rog BÎw hY]",
+        "bdb": "hy mUrK! (iek pwsy mwieAw dy lwlc ny) qyrI Akl mwrI hoeI hY (qYƒ ‘kuQwie dwn’ lYx qoN BI sMkoc nhIN hY [ dUjy pwsy) qYƒ ieh v`fw (Awqmk) rog cMbiVAw hoieAw hY ik mYN (ivdvwn) hW, mYN (ivdvwn) hW [",
+        "ms": "m-qyrI Akl mwrI geI hY hy mUrK! qYƒ svY hMgqw dI BwrI ibmwrI icMbV geI hY["
+      },
+      "puu": {
+        "ss": "ਹੇ ਮੂਰਖ! (ਇਕ ਪਾਸੇ ਮਾਇਆ ਦੇ ਲਾਲਚ ਨੇ) ਤੇਰੀ ਅਕਲ ਮਾਰੀ ਹੋਈ ਹੈ (ਤੈਨੂੰ ‘ਕੁਥਾਇ ਦਾਨ’ ਲੈਣ ਤੋਂ ਭੀ ਸੰਕੋਚ ਨਹੀਂ ਹੈ । ਦੂਜੇ ਪਾਸੇ) ਤੈਨੂੰ ਇਹ ਵੱਡਾ (ਆਤਮਕ) ਰੋਗ ਚੰਬੜਿਆ ਹੋਇਆ ਹੈ ਕਿ ਮੈਂ (ਵਿਦਵਾਨ) ਹਾਂ, ਮੈਂ (ਵਿਦਵਾਨ) ਹਾਂ ।",
+        "ft": "ਮੰਮੈ ਅਖਰ ਨੇ ਏਹ ਕਹਾ ਹੈ: ਹੇ ਮੂਰਖ! ਤੇਰੀ ਬੁਧ ਹਉਮੈ ਨੇ (ਹਿਰਿ ਲਈ) ਚੁਰਾ ਲਈ ਹੈ। ਇਹ ਹੰਕਾਰ ਹੀ ਤੁਝੇ ਬਡਾ ਰੋਗ ਹੋਤਾ ਭ੍ਯਾ ਹੈ ਅਰਥਾਤ ਅਸਾਧ ਰੋਗ ਭ੍ਯਾ ਹੈ॥",
+        "bdb": "ਹੇ ਮੂਰਖ! (ਇਕ ਪਾਸੇ ਮਾਇਆ ਦੇ ਲਾਲਚ ਨੇ) ਤੇਰੀ ਅਕਲ ਮਾਰੀ ਹੋਈ ਹੈ (ਤੈਨੂੰ ‘ਕੁਥਾਇ ਦਾਨ’ ਲੈਣ ਤੋਂ ਭੀ ਸੰਕੋਚ ਨਹੀਂ ਹੈ । ਦੂਜੇ ਪਾਸੇ) ਤੈਨੂੰ ਇਹ ਵੱਡਾ (ਆਤਮਕ) ਰੋਗ ਚੰਬੜਿਆ ਹੋਇਆ ਹੈ ਕਿ ਮੈਂ (ਵਿਦਵਾਨ) ਹਾਂ, ਮੈਂ (ਵਿਦਵਾਨ) ਹਾਂ ।",
+        "ms": "ਮ-ਤੇਰੀ ਅਕਲ ਮਾਰੀ ਗਈ ਹੈ ਹੇ ਮੂਰਖ! ਤੈਨੂੰ ਸਵੈ ਹੰਗਤਾ ਦੀ ਭਾਰੀ ਬਿਮਾਰੀ ਚਿੰਬੜ ਗਈ ਹੈ।"
+      },
+      "es": {
+        "sn": "Mamma: Tu intelecto ha sido engañado, y estás infestado de ego. "
+      },
+      "hi": {
+        "ss": "हे मूर्ख ! (एक तरफ माया के लालच ने) तेरी लालच मारी हुई है (तुझे ‘कुथाय दान’-गलत जगह से दान लेने में भी संकोच नहीं है।दूसरी तरफ) तुझे ये बड़ा आत्मिक रोग चिपका हुआ है कि मैं (विद्वान) हूँ।मैं (विद्वान) हूँ।",
+        "sts": "म-हे मुर्ख ! तेरी बुद्धि भष्ट हो गई है, अहंकार का बड़ा रोग तुझे लग गया है।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9616,
+    "Seq": 17,
+    "header": 0,
+    "Paragraph": 9,
+    "Gurmukhi": "AMqr AwqmY bRhmu n cIin@Aw mwieAw kw muhqwju BieAw ]7]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 4,
+          "t": "v"
+        },
+        {
+          "p": 1,
+          "t": "y"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 4,
+          "t": "v"
+        },
+        {
+          "p": 1,
+          "t": "y"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "a(n)tar aatamai braham na cheeni(h)aa maiaa kaa muhataaj bhiaa ||7||",
+      "hi": "अंतर आतमै ब्रहमु न चीनि्िआ माइआ का मुहताजु भइआ ॥७॥",
+      "ipa": "əŋt̪ər əɑt̪əmæ bɹəhəm nə t͡ʃinɪ@əɑ mɑɪɑ kɑ mʊhət̪ɑd͡ʒ ɓɪɑ.7.",
+      "ur": "اںتر آتمَے برهم ن چیٍنھآ ماایا کا مُهتاج بھایا ۔۔۷۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Within your innermost self, you do not recognize God, and you compromise yourself for the sake of Maya. ||7||",
+        "ms": "Within thy mind, thou seest not the Lord and demeanest thyself for wealth.",
+        "ssk": "Within your innermost self, you do not recognize God, and you compromise yourself for the sake of Maya. ||7||"
+      },
+      "pu": {
+        "ss": "qUµ Awpxy AMdr (v`sdy) prmwqmw ƒ pCwx nhIN sikAw, (iesy vwsqy qyrw Awpw) mwieAw (dy lwlc) dy ADIn hY [7[",
+        "ft": "mn ky bIc Awp ko bRhm rUp nhIN jwnw AOr mwieAw kw kIAw hUAw dIn hoqw BieAw hY]7]",
+        "bdb": "qUµ Awpxy AMdr (v`sdy) prmwqmw ƒ pCwx nhIN sikAw, (iesy vwsqy qyrw Awpw) mwieAw (dy lwlc) dy ADIn hY [7[",
+        "ms": "Awpxy ihrdy AMdr qUM pRBU ƒ nhIN vyKdw Aqy Dn dOlq dI Kwqr Awpxy Awp ƒ byiejq krdw hY["
+      },
+      "puu": {
+        "ss": "ਤੂੰ ਆਪਣੇ ਅੰਦਰ (ਵੱਸਦੇ) ਪਰਮਾਤਮਾ ਨੂੰ ਪਛਾਣ ਨਹੀਂ ਸਕਿਆ, (ਇਸੇ ਵਾਸਤੇ ਤੇਰਾ ਆਪਾ) ਮਾਇਆ (ਦੇ ਲਾਲਚ) ਦੇ ਅਧੀਨ ਹੈ ।੭।",
+        "ft": "ਮਨ ਕੇ ਬੀਚ ਆਪ ਕੋ ਬ੍ਰਹਮ ਰੂਪ ਨਹੀਂ ਜਾਨਾ ਔਰ ਮਾਇਆ ਕਾ ਕੀਆ ਹੂਆ ਦੀਨ ਹੋਤਾ ਭਇਆ ਹੈ॥੭॥",
+        "bdb": "ਤੂੰ ਆਪਣੇ ਅੰਦਰ (ਵੱਸਦੇ) ਪਰਮਾਤਮਾ ਨੂੰ ਪਛਾਣ ਨਹੀਂ ਸਕਿਆ, (ਇਸੇ ਵਾਸਤੇ ਤੇਰਾ ਆਪਾ) ਮਾਇਆ (ਦੇ ਲਾਲਚ) ਦੇ ਅਧੀਨ ਹੈ ।੭।",
+        "ms": "ਆਪਣੇ ਹਿਰਦੇ ਅੰਦਰ ਤੂੰ ਪ੍ਰਭੂ ਨੂੰ ਨਹੀਂ ਵੇਖਦਾ ਅਤੇ ਧਨ ਦੌਲਤ ਦੀ ਖਾਤਰ ਆਪਣੇ ਆਪ ਨੂੰ ਬੇਇਜਤ ਕਰਦਾ ਹੈ।"
+      },
+      "es": {
+        "sn": "No concibes a tu Señor en tu ser interior y te apoyas en Maya. (7)"
+      },
+      "hi": {
+        "ss": "तू अपने अंदर (बसते) परमात्मा को पहचान नहीं सका।(इस वास्ते तेरा स्वै) माया (के लालच) के अधीन है। 7।",
+        "sts": "अपनी अन्तरात्मा में तुम ब्रह्म को नहीं पहचानते और माया के मोहताज बनकर रह गए हो ॥ ७ ॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9617,
+    "Seq": 18,
+    "header": 0,
+    "Paragraph": 10,
+    "Gurmukhi": "kkY kwim k®oiD BrimEhu mUVy mmqw lwgy quDu hir ivsirAw ]",
+    "Visraam": {
+      "sttm": [],
+      "igurbani": [],
+      "sttm2": [
+        {
+          "p": 0,
+          "t": "v"
+        },
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "kakai kaam karodh bharamioh mooRe mamataa laage tudh har visariaa ||",
+      "hi": "ककै कामि क्रोधि भरमिओहु मूड़े ममता लागे तुधु हरि विसरिआ ॥",
+      "ipa": "kəkæ kɑm kəʳɔt̪ə̀ ɓərəmɪoəh muɽe məmət̪ɑ lɑGe t̪ʊt̪ hər ʋɪsərɪəɑ.",
+      "ur": "ککَے کام ک®ودھ بھرماوهُ مُوڑے ممتا لاگے تُدھ هر وسرآ ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Kakka: You wander around in sexual desire and anger, you fool; attached to possessiveness, you have forgotten the Lord.",
+        "ms": "K:-- In lust and wrath, thou wanderest, O fool. Attached to worldly love, thou hast forgotten God.",
+        "ssk": "Kakka: You wander around in sexual desire and anger, you fool; attached to possessiveness, you have forgotten the Lord."
+      },
+      "pu": {
+        "ss": "hy mUrK! (hornW ƒ m`qW dyNdw) qUµ Awp kwm vwsnw ivc k®oD ivc (Ps ky) kurwhy ipAw hoieAw hYN [",
+        "ft": "kkY AKr dÍwry khqy hYN: kwm kRoD kr Brm hUAw hY, hy mUrK! mmqw myN lgy hUey quJ ko hir ibsr igAw hY]",
+        "bdb": "hy mUrK! (hornW ƒ m`qW dyNdw) qUµ Awp kwm vwsnw ivc k®oD ivc (Ps ky) kurwhy ipAw hoieAw hYN [",
+        "ms": "k -imQn hulws Aqy gusy AMdr qUM Btkdw iPrdw hYN hy mUrK! sMswrI moh nwl juV ky qUM vwihgurU ƒ Bulw id`qw hY["
+      },
+      "puu": {
+        "ss": "ਹੇ ਮੂਰਖ! (ਹੋਰਨਾਂ ਨੂੰ ਮੱਤਾਂ ਦੇਂਦਾ) ਤੂੰ ਆਪ ਕਾਮ ਵਾਸਨਾ ਵਿਚ ਕ੍ਰੋਧ ਵਿਚ (ਫਸ ਕੇ) ਕੁਰਾਹੇ ਪਿਆ ਹੋਇਆ ਹੈਂ ।",
+        "ft": "ਕਕੈ ਅਖਰ ਦ੍ਵਾਰੇ ਕਹਤੇ ਹੈਂ: ਕਾਮ ਕ੍ਰੋਧ ਕਰ ਭਰਮ ਹੂਆ ਹੈ, ਹੇ ਮੂਰਖ! ਮਮਤਾ ਮੇਂ ਲਗੇ ਹੂਏ ਤੁਝ ਕੋ ਹਰਿ ਬਿਸਰ ਗਿਆ ਹੈ॥",
+        "bdb": "ਹੇ ਮੂਰਖ! (ਹੋਰਨਾਂ ਨੂੰ ਮੱਤਾਂ ਦੇਂਦਾ) ਤੂੰ ਆਪ ਕਾਮ ਵਾਸਨਾ ਵਿਚ ਕ੍ਰੋਧ ਵਿਚ (ਫਸ ਕੇ) ਕੁਰਾਹੇ ਪਿਆ ਹੋਇਆ ਹੈਂ ।",
+        "ms": "ਕ -ਮਿਥਨ ਹੁਲਾਸ ਅਤੇ ਗੁਸੇ ਅੰਦਰ ਤੂੰ ਭਟਕਦਾ ਫਿਰਦਾ ਹੈਂ ਹੇ ਮੂਰਖ! ਸੰਸਾਰੀ ਮੋਹ ਨਾਲ ਜੁੜ ਕੇ ਤੂੰ ਵਾਹਿਗੁਰੂ ਨੂੰ ਭੁਲਾ ਦਿੱਤਾ ਹੈ।"
+      },
+      "es": {
+        "sn": "Kakka: Eres desviado por la lujuria, el enojo y el apego, y así abandonas a tu Señor. "
+      },
+      "hi": {
+        "ss": "हेमूर्ख ! (औरों को समझाता) तू स्वयं काम वासना में।क्रोध में (फस के) गलत राह पर पड़ा हुआ है।",
+        "sts": "क-हे मूर्ख ! तुम कामवासना एवं क्रोध में भटकते फिरते हो और सांसारिक ममता के साथ लग कर तूने हरि को भुला दिया है।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9618,
+    "Seq": 19,
+    "header": 0,
+    "Paragraph": 10,
+    "Gurmukhi": "pVih guxih qUM bhuqu pukwrih ivxu bUJy qUM fUib muAw ]8]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 4,
+          "t": "v"
+        },
+        {
+          "p": 6,
+          "t": "y"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 4,
+          "t": "v"
+        },
+        {
+          "p": 6,
+          "t": "y"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "paReh guneh too(n) bahut pukaareh vin boojhe too(n) ddoob muaa ||8||",
+      "hi": "पड़हि गुणहि तूँ बहुतु पुकारहि विणु बूझे तूँ डूबि मुआ ॥८॥",
+      "ipa": "pəɽəh Gʊɳəh t̪uŋ bəhʊt̪ pʊkɑrəh ʋɪɳ buɖ͡ʐe t̪uŋ ɖub mʊəɑ.8.",
+      "ur": "پڑه گُݨه تُوں بهُت پُکاره وݨ بُوجھے تُوں ڈُوب مُآ ۔۔۸۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "You read, and reflect, and proclaim out loud, but without understanding, you are drowned to death. ||8||",
+        "ms": "Thou readest reflectest and proclaimest much, but without knowing, thou art drowned to death.",
+        "ssk": "You read, and reflect, and proclaim out loud, but without understanding, you are drowned to death. ||8||"
+      },
+      "pu": {
+        "ss": "qUµ (Drm pusqk) pVHdw hYN, ArQ ivcwrdw hYN, qy hornW ƒ suxWdw BI hYN, pr (shI jIvn-rwh) smJx qoN ibnw qUµ (lwlc dy hVH ivc) fu`b ky Awqmk mOqy mr cukw hYN [8[",
+        "ft": "SwsqRoN ko pVqw hY Ar guxqw bIcwrqw BI hY Ar bhuq pukwrqw, Bwv lokoN ko sunwvqw hY, prMqU iqn ky isDWq bUJy sy ibnw qUM ies sMswr smuMdr myN fUb mrw hY]8]",
+        "bdb": "qUµ (Drm pusqk) pVHdw hYN, ArQ ivcwrdw hYN, qy hornW ƒ suxWdw BI hYN, pr (shI jIvn-rwh) smJx qoN ibnw qUµ (lwlc dy hVH ivc) fu`b ky Awqmk mOqy mr cukw hYN [8[",
+        "ms": "qUM vwcdw vIcwrdw Aqy Gxyrw kUkdw hYN, pRMqU igAwq dy bwJoN qUM fu`b ky mr igAw hY["
+      },
+      "puu": {
+        "ss": "ਤੂੰ (ਧਰਮ ਪੁਸਤਕ) ਪੜ੍ਹਦਾ ਹੈਂ, ਅਰਥ ਵਿਚਾਰਦਾ ਹੈਂ, ਤੇ ਹੋਰਨਾਂ ਨੂੰ ਸੁਣਾਂਦਾ ਭੀ ਹੈਂ, ਪਰ (ਸਹੀ ਜੀਵਨ-ਰਾਹ) ਸਮਝਣ ਤੋਂ ਬਿਨਾ ਤੂੰ (ਲਾਲਚ ਦੇ ਹੜ੍ਹ ਵਿਚ) ਡੁੱਬ ਕੇ ਆਤਮਕ ਮੌਤੇ ਮਰ ਚੁਕਾ ਹੈਂ ।੮।",
+        "ft": "ਸ਼ਾਸਤ੍ਰੋਂ ਕੋ ਪੜਤਾ ਹੈ ਅਰ ਗੁਣਤਾ ਬੀਚਾਰਤਾ ਭੀ ਹੈ ਅਰ ਬਹੁਤ ਪੁਕਾਰਤਾ, ਭਾਵ ਲੋਕੋਂ ਕੋ ਸੁਨਾਵਤਾ ਹੈ, ਪਰੰਤੂ ਤਿਨ ਕੇ ਸਿਧਾਂਤ ਬੂਝੇ ਸੇ ਬਿਨਾ ਤੂੰ ਇਸ ਸੰਸਾਰ ਸਮੁੰਦਰ ਮੇਂ ਡੂਬ ਮਰਾ ਹੈ॥੮॥",
+        "bdb": "ਤੂੰ (ਧਰਮ ਪੁਸਤਕ) ਪੜ੍ਹਦਾ ਹੈਂ, ਅਰਥ ਵਿਚਾਰਦਾ ਹੈਂ, ਤੇ ਹੋਰਨਾਂ ਨੂੰ ਸੁਣਾਂਦਾ ਭੀ ਹੈਂ, ਪਰ (ਸਹੀ ਜੀਵਨ-ਰਾਹ) ਸਮਝਣ ਤੋਂ ਬਿਨਾ ਤੂੰ (ਲਾਲਚ ਦੇ ਹੜ੍ਹ ਵਿਚ) ਡੁੱਬ ਕੇ ਆਤਮਕ ਮੌਤੇ ਮਰ ਚੁਕਾ ਹੈਂ ।੮।",
+        "ms": "ਤੂੰ ਵਾਚਦਾ ਵੀਚਾਰਦਾ ਅਤੇ ਘਣੇਰਾ ਕੂਕਦਾ ਹੈਂ, ਪ੍ਰੰਤੂ ਗਿਆਤ ਦੇ ਬਾਝੋਂ ਤੂੰ ਡੁੱਬ ਕੇ ਮਰ ਗਿਆ ਹੈ।"
+      },
+      "es": {
+        "sn": "Lees, meditas y alardeas también, pero sin saber, te hundes. (8)"
+      },
+      "hi": {
+        "ss": "तू (धर्म-पुस्तकें) पढ़ता है।अर्थ विचारता है।और औरों को सुनाता भी है।पर (सही जीवन राह) समझे बिना तू (लालच की बाढ़ में) डूब के आत्मिक मौत मर चुका है। 8।",
+        "sts": "तुम धार्मिक ग्रंथ पढ़ते रहते हो, उनके गुणों के बारे में सोचते रहते हो और बहुत ऊँची-ऊँची बोलकर दूसरों को सुनाते रहते हो। परन्तु ज्ञान को समझे बिना तुम डूब कर मर चुके हो॥ ८॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9619,
+    "Seq": 20,
+    "header": 0,
+    "Paragraph": 11,
+    "Gurmukhi": "qqY qwmis jilEhu mUVy QQY Qwn Birstu hoAw ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 3,
+          "t": "v"
+        },
+        {
+          "p": 0,
+          "t": "y"
+        },
+        {
+          "p": 4,
+          "t": "y"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 3,
+          "t": "v"
+        },
+        {
+          "p": 0,
+          "t": "y"
+        },
+        {
+          "p": 4,
+          "t": "y"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 0,
+          "t": "v"
+        },
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "tatai taamas jalioh mooRe thathai thaan bharisaT hoaa ||",
+      "hi": "ततै तामसि जलिओहु मूड़े थथै थान भरिसटु होआ ॥",
+      "ipa": "t̪ət̪æ t̪ɑməs d͡ʒəlɪoəh muɽe t̪ʰət̪ʰæ t̪ʰɑn ɓərɪsəʈ hɔəɑ.",
+      "ur": "تتَے تامس جلاوهُ مُوڑے تھتھَے تھان بھرِسٹ هوآ ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Tatta: In anger, you are burnt, you fool. T'hat'ha: That place where you live, is cursed.",
+        "ms": "T:-- In wrath thou art burnt, O ignorant man. Th:-- The place thou livest in, has become accursed.",
+        "ssk": "Tatta: In anger, you are burnt, you fool. T'hat'ha: That place where you live, is cursed."
+      },
+      "pu": {
+        "ss": "hy mUrK (pMifq!) qUµ (AMdroN) ko®D nwl siVAw hoieAw hYN, qyrw ihrdw-QW (lwlc nwl) gMdw hoieAw ipAw hY [",
+        "ft": "qqY kw isDWq: hy mUrK! qUM qmo gux kr jl igAw hYN, (QQY) kw isDWq: iesI kr ky qUM Awpny sQwn sy BRSt ho igAw hY, Bwv sÍrUp sy igr igAw hY]",
+        "bdb": "hy mUrK (pMifq!) qUµ (AMdroN) ko®D nwl siVAw hoieAw hYN, qyrw ihrdw-QW (lwlc nwl) gMdw hoieAw ipAw hY [",
+        "ms": "q-roh ny qYƒ swV PUk C`ifAw hY, hy byvkUP bMdy! Q-ijs jgHw qy qUM rihMdw hYN, auh BI lwxHq mwrI ho geI hY["
+      },
+      "puu": {
+        "ss": "ਹੇ ਮੂਰਖ (ਪੰਡਿਤ!) ਤੂੰ (ਅੰਦਰੋਂ) ਕੋ੍ਰਧ ਨਾਲ ਸੜਿਆ ਹੋਇਆ ਹੈਂ, ਤੇਰਾ ਹਿਰਦਾ-ਥਾਂ (ਲਾਲਚ ਨਾਲ) ਗੰਦਾ ਹੋਇਆ ਪਿਆ ਹੈ ।",
+        "ft": "ਤਤੈ ਕਾ ਸਿਧਾਂਤ: ਹੇ ਮੂਰਖ! ਤੂੰ ਤਮੋ ਗੁਣ ਕਰ ਜਲ ਗਿਆ ਹੈਂ, (ਥਥੈ) ਕਾ ਸਿਧਾਂਤ: ਇਸੀ ਕਰ ਕੇ ਤੂੰ ਆਪਨੇ ਸਥਾਨ ਸੇ ਭ੍ਰਸ਼ਟ ਹੋ ਗਿਆ ਹੈ, ਭਾਵ ਸ੍ਵਰੂਪ ਸੇ ਗਿਰ ਗਿਆ ਹੈ॥",
+        "bdb": "ਹੇ ਮੂਰਖ (ਪੰਡਿਤ!) ਤੂੰ (ਅੰਦਰੋਂ) ਕੋ੍ਰਧ ਨਾਲ ਸੜਿਆ ਹੋਇਆ ਹੈਂ, ਤੇਰਾ ਹਿਰਦਾ-ਥਾਂ (ਲਾਲਚ ਨਾਲ) ਗੰਦਾ ਹੋਇਆ ਪਿਆ ਹੈ ।",
+        "ms": "ਤ-ਰੋਹ ਨੇ ਤੈਨੂੰ ਸਾੜ ਫੂਕ ਛੱਡਿਆ ਹੈ, ਹੇ ਬੇਵਕੂਫ ਬੰਦੇ! ਥ-ਜਿਸ ਜਗ੍ਹਾ ਤੇ ਤੂੰ ਰਹਿੰਦਾ ਹੈਂ, ਉਹ ਭੀ ਲਾਣ੍ਹਤ ਮਾਰੀ ਹੋ ਗਈ ਹੈ।"
+      },
+      "es": {
+        "sn": "Tatta: El enojo te ha quemado, oh tonto, Tata: El lugar en el que habitas es maldito."
+      },
+      "hi": {
+        "ss": "हेमूर्ख (पण्डित !) तू (अंदर से) क्रोध से जला हुआ है।तेरा हृदय-स्थल (लालच से) गंदा हुआ पड़ा है।",
+        "sts": "त-हे मूर्ख ! क्रोधाग्नि ने तुझे जला कर रख दिया है। थ-जिस स्थान पर तुम रहते हो, वह भी भृष्ट हो गया है।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9620,
+    "Seq": 21,
+    "header": 0,
+    "Paragraph": 11,
+    "Gurmukhi": "GGY Gir Gir iPrih qUM mUVy ddY dwnu n quDu lieAw ]9]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 0,
+          "t": "v"
+        },
+        {
+          "p": 5,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 0,
+          "t": "v"
+        },
+        {
+          "p": 5,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 0,
+          "t": "v"
+        },
+        {
+          "p": 5,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "ghaghai ghar ghar fireh too(n) mooRe dhadhai dhaan na tudh liaa ||9||",
+      "hi": "घघै घरि घरि फिरहि तूँ मूड़े ददै दानु न तुधु लइआ ॥९॥",
+      "ipa": "GʰəGʰə̀æ Gʰər Gʰər fɪrəh t̪uŋ muɽe d̪əd̪æ d̪ɑn nə t̪ʊt̪ lɪɑ.9.",
+      "ur": "گھگھَے گھر گھرِ پھره تُوں مُوڑے ددَے دان ن تُدھ لایا ۔۔۹۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Ghagha: You go begging from door to door, you fool. Dadda: But still, you do not receive the gift. ||9||",
+        "ms": "Gh:-- Thou beggest from door to door, O fool. D:-- Thou receivest not the Name's gift.",
+        "ssk": "Ghagha: You go begging from door to door, you fool. Dadda: But still, you do not receive the gift. ||9||"
+      },
+      "pu": {
+        "ss": "hy mUrK! qUµ hryk (jjmwn dy) Gr ivc (mwiek d`Cxw vwsqy qW) quirAw iPrdw hYN, pr pRBU dy nwm dI d`Cxw qUµ Ajy qk iksy pwsoN nhIN leI [9[",
+        "ft": "GGY kw isDWq: hy mUrK! qUM Gr Gr myN GUmqw iPrqw hYN, ddY kw isDWq: qYny guroN sy nwm dwn nhIN lIAw hY]9]",
+        "bdb": "hy mUrK! qUµ hryk (jjmwn dy) Gr ivc (mwiek d`Cxw vwsqy qW) quirAw iPrdw hYN, pr pRBU dy nwm dI d`Cxw qUµ Ajy qk iksy pwsoN nhIN leI [9[",
+        "ms": "G-qUM bUhy qy mMgdw iPrdw hYN, hy mUrK! d-qUM nwm dI dwq ƒ pRwpq nhIN krdw["
+      },
+      "puu": {
+        "ss": "ਹੇ ਮੂਰਖ! ਤੂੰ ਹਰੇਕ (ਜਜਮਾਨ ਦੇ) ਘਰ ਵਿਚ (ਮਾਇਕ ਦੱਛਣਾ ਵਾਸਤੇ ਤਾਂ) ਤੁਰਿਆ ਫਿਰਦਾ ਹੈਂ, ਪਰ ਪ੍ਰਭੂ ਦੇ ਨਾਮ ਦੀ ਦੱਛਣਾ ਤੂੰ ਅਜੇ ਤਕ ਕਿਸੇ ਪਾਸੋਂ ਨਹੀਂ ਲਈ ।੯।",
+        "ft": "ਘਘੈ ਕਾ ਸਿਧਾਂਤ: ਹੇ ਮੂਰਖ! ਤੂੰ ਘਰ ਘਰ ਮੇਂ ਘੂਮਤਾ ਫਿਰਤਾ ਹੈਂ, ਦਦੈ ਕਾ ਸਿਧਾਂਤ: ਤੈਨੇ ਗੁਰੋਂ ਸੇ ਨਾਮ ਦਾਨ ਨਹੀਂ ਲੀਆ ਹੈ॥੯॥",
+        "bdb": "ਹੇ ਮੂਰਖ! ਤੂੰ ਹਰੇਕ (ਜਜਮਾਨ ਦੇ) ਘਰ ਵਿਚ (ਮਾਇਕ ਦੱਛਣਾ ਵਾਸਤੇ ਤਾਂ) ਤੁਰਿਆ ਫਿਰਦਾ ਹੈਂ, ਪਰ ਪ੍ਰਭੂ ਦੇ ਨਾਮ ਦੀ ਦੱਛਣਾ ਤੂੰ ਅਜੇ ਤਕ ਕਿਸੇ ਪਾਸੋਂ ਨਹੀਂ ਲਈ ।੯।",
+        "ms": "ਘ-ਤੂੰ ਬੂਹੇ ਤੇ ਮੰਗਦਾ ਫਿਰਦਾ ਹੈਂ, ਹੇ ਮੂਰਖ! ਦ-ਤੂੰ ਨਾਮ ਦੀ ਦਾਤ ਨੂੰ ਪ੍ਰਾਪਤ ਨਹੀਂ ਕਰਦਾ।"
+      },
+      "es": {
+        "sn": "Ghagha: Limosneas de puerta en puerta, Dadda: Pero ni así recibes el Regalo. (9)"
+      },
+      "hi": {
+        "ss": "हे मूर्ख ! तू हरेक (जजमान के) घर में (मायावी दक्षिणा के लिए तो) चलता फिरता है।पर प्रभू के नाम की दक्षिणा तूने अभी तक किसी से नहीं ली। 9।",
+        "sts": "घ-हे मूर्ख (पण्डित) ! तुम घर-घर पर माँगते फिरते हो। द-प्रभु नाम का दान तूने अभी तक किसी गुरु से नहीं लिया।॥९॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9621,
+    "Seq": 22,
+    "header": 0,
+    "Paragraph": 12,
+    "Gurmukhi": "ppY pwir n pvhI mUVy prpMic qUM plic rihAw ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 4,
+          "t": "v"
+        },
+        {
+          "p": 0,
+          "t": "y"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 4,
+          "t": "v"
+        },
+        {
+          "p": 0,
+          "t": "y"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 0,
+          "t": "v"
+        },
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "papai paar na pavahee mooRe parapa(n)ch too(n) palach rahiaa ||",
+      "hi": "पपै पारि न पवही मूड़े परपंचि तूँ पलचि रहिआ ॥",
+      "ipa": "pəpæ pɑr nə pəʋəhi muɽe pərəpəŋt͡ʃ t̪uŋ pələt͡ʃ rəhɪəɑ.",
+      "ur": "پپَے پار ن پوهیِ مُوڑے پرپںچ تُوں پلچ رهِآ ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Pappa: You shall not be able to swim across, you fool, since you are engrossed in worldly affairs.",
+        "ms": "P:-- Thou shalt not swim across, O fool, as thou art engrossed in the worldly affairs.",
+        "ssk": "Pappa: You shall not be able to swim across, you fool, since you are engrossed in worldly affairs."
+      },
+      "pu": {
+        "ss": "hy mUrK! qUµ sMswr (dy moh-jwl) ivc (ieqnw) aulJ irhw hYN ik ies ivcoN pwrly pwsy nhIN lMG skdw [",
+        "ft": "ppY kw isDWq hY: mUrKu qUM ijs prpMc myN (plic) Ps rhw hY ies Bvjl sy qUM pwr nhIN pVYNgw]",
+        "bdb": "hy mUrK! qUµ sMswr (dy moh-jwl) ivc (ieqnw) aulJ irhw hYN ik ies ivcoN pwrly pwsy nhIN lMG skdw [",
+        "ms": "p-qyrw pwr auqwrw nhIN hoxw hy mUrK! ikauN jo qUM sMswr AMdr K`cq ho irhw hY["
+      },
+      "puu": {
+        "ss": "ਹੇ ਮੂਰਖ! ਤੂੰ ਸੰਸਾਰ (ਦੇ ਮੋਹ-ਜਾਲ) ਵਿਚ (ਇਤਨਾ) ਉਲਝ ਰਿਹਾ ਹੈਂ ਕਿ ਇਸ ਵਿਚੋਂ ਪਾਰਲੇ ਪਾਸੇ ਨਹੀਂ ਲੰਘ ਸਕਦਾ ।",
+        "ft": "ਪਪੈ ਕਾ ਸਿਧਾਂਤ ਹੈ: ਮੂਰਖੁ ਤੂੰ ਜਿਸ ਪਰਪੰਚ ਮੇਂ (ਪਲਚਿ) ਫਸ ਰਹਾ ਹੈ ਇਸ ਭਵਜਲ ਸੇ ਤੂੰ ਪਾਰ ਨਹੀਂ ਪੜੈਂਗਾ॥",
+        "bdb": "ਹੇ ਮੂਰਖ! ਤੂੰ ਸੰਸਾਰ (ਦੇ ਮੋਹ-ਜਾਲ) ਵਿਚ (ਇਤਨਾ) ਉਲਝ ਰਿਹਾ ਹੈਂ ਕਿ ਇਸ ਵਿਚੋਂ ਪਾਰਲੇ ਪਾਸੇ ਨਹੀਂ ਲੰਘ ਸਕਦਾ ।",
+        "ms": "ਪ-ਤੇਰਾ ਪਾਰ ਉਤਾਰਾ ਨਹੀਂ ਹੋਣਾ ਹੇ ਮੂਰਖ! ਕਿਉਂ ਜੋ ਤੂੰ ਸੰਸਾਰ ਅੰਦਰ ਖੱਚਤ ਹੋ ਰਿਹਾ ਹੈ।"
+      },
+      "es": {
+        "sn": "Pappa: No eres iluminado, pues estás involucrado en el mundo; "
+      },
+      "hi": {
+        "ss": "हे मूर्ख ! तू संसार (के मोह जाल) में (इतना) उलझ रहा है कि इस में से परले पासे नहीं पहुँच सकता।",
+        "sts": "प-हे मूर्ख ! तुम दुनिया के प्रपंचों में इतने लिपटे हुए हो कि तुम्हारा भवसागर से पार उतारा नहीं होना।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9622,
+    "Seq": 23,
+    "header": 0,
+    "Paragraph": 12,
+    "Gurmukhi": "scY Awip KuAwieEhu mUVy iehu isir qyrY lyKu pieAw ]10]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "sachai aap khuaaioh mooRe ih sir terai lekh piaa ||10||",
+      "hi": "सचै आपि खुआइओहु मूड़े इहु सिरि तेरै लेखु पइआ ॥१०॥",
+      "ipa": "sət͡ʃæ əɑp kʰʊəɑeɪoəh muɽe eɪh sɪr t̪eræ lekʰ pɪɑ.1ə0.",
+      "ur": "سچَے آپ کھُآااوهُ مُوڑے اهُ سر تےرَے لےکھ پایا ۔۔۱۰۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "The True Lord Himself has ruined you, you fool; this is the destiny written on your forehead. ||10||",
+        "ms": "The True Lord has Himself beguiled thee, O fool. It was so ordained on thy brow.",
+        "ssk": "The True Lord Himself has ruined you, you fool; this is the destiny written on your forehead. ||10||"
+      },
+      "pu": {
+        "ss": "hy mUrK! (qyry Awpxy kIqy krmW Anuswr) krqwr ny qYƒ (ausy) kurwhy pw id`qw hY (ijDr qyrI rucI bxI hoeI hY, qy) auhnW kIqy krmW dy sMskwrW dy iek`T dw lyK qyry m`Qy auqy (ieqnw) aukirAw ipAw hY (ik qYƒ shI rsqy dI sUJ nhIN pYNdI, pr qUµ hornW ƒ m`qW dyNdw iPrdw hYN) [10[",
+        "ft": "hy mUrK! scy prmwqmW ny ApnI Er sy quJy Awip Bulwie dIAw hY, so qyry isr pr XhI lyK pVw hY]10]",
+        "bdb": "hy mUrK! (qyry Awpxy kIqy krmW Anuswr) krqwr ny qYƒ (ausy) kurwhy pw id`qw hY (ijDr qyrI rucI bxI hoeI hY, qy) auhnW kIqy krmW dy sMskwrW dy iek`T dw lyK qyry m`Qy auqy (ieqnw) aukirAw ipAw hY (ik qYƒ shI rsqy dI sUJ nhIN pYNdI, pr qUµ hornW ƒ m`qW dyNdw iPrdw hYN) [10[",
+        "ms": "s¤cy suAwmI ny Kud qYƒ gumrwh kIqw hY, hy mUrK! qyry m¤Qy auqy eyho hI iliKAw hoieAw sI["
+      },
+      "puu": {
+        "ss": "ਹੇ ਮੂਰਖ! (ਤੇਰੇ ਆਪਣੇ ਕੀਤੇ ਕਰਮਾਂ ਅਨੁਸਾਰ) ਕਰਤਾਰ ਨੇ ਤੈਨੂੰ (ਉਸੇ) ਕੁਰਾਹੇ ਪਾ ਦਿੱਤਾ ਹੈ (ਜਿਧਰ ਤੇਰੀ ਰੁਚੀ ਬਣੀ ਹੋਈ ਹੈ, ਤੇ) ਉਹਨਾਂ ਕੀਤੇ ਕਰਮਾਂ ਦੇ ਸੰਸਕਾਰਾਂ ਦੇ ਇਕੱਠ ਦਾ ਲੇਖ ਤੇਰੇ ਮੱਥੇ ਉਤੇ (ਇਤਨਾ) ਉਕਰਿਆ ਪਿਆ ਹੈ (ਕਿ ਤੈਨੂੰ ਸਹੀ ਰਸਤੇ ਦੀ ਸੂਝ ਨਹੀਂ ਪੈਂਦੀ, ਪਰ ਤੂੰ ਹੋਰਨਾਂ ਨੂੰ ਮੱਤਾਂ ਦੇਂਦਾ ਫਿਰਦਾ ਹੈਂ) ।੧੦।",
+        "ft": "ਹੇ ਮੂਰਖ! ਸਚੇ ਪਰਮਾਤਮਾਂ ਨੇ ਅਪਨੀ ਓਰ ਸੇ ਤੁਝੇ ਆਪਿ ਭੁਲਾਇ ਦੀਆ ਹੈ, ਸੋ ਤੇਰੇ ਸਿਰ ਪਰ ਯਹੀ ਲੇਖ ਪੜਾ ਹੈ॥੧੦॥",
+        "bdb": "ਹੇ ਮੂਰਖ! (ਤੇਰੇ ਆਪਣੇ ਕੀਤੇ ਕਰਮਾਂ ਅਨੁਸਾਰ) ਕਰਤਾਰ ਨੇ ਤੈਨੂੰ (ਉਸੇ) ਕੁਰਾਹੇ ਪਾ ਦਿੱਤਾ ਹੈ (ਜਿਧਰ ਤੇਰੀ ਰੁਚੀ ਬਣੀ ਹੋਈ ਹੈ, ਤੇ) ਉਹਨਾਂ ਕੀਤੇ ਕਰਮਾਂ ਦੇ ਸੰਸਕਾਰਾਂ ਦੇ ਇਕੱਠ ਦਾ ਲੇਖ ਤੇਰੇ ਮੱਥੇ ਉਤੇ (ਇਤਨਾ) ਉਕਰਿਆ ਪਿਆ ਹੈ (ਕਿ ਤੈਨੂੰ ਸਹੀ ਰਸਤੇ ਦੀ ਸੂਝ ਨਹੀਂ ਪੈਂਦੀ, ਪਰ ਤੂੰ ਹੋਰਨਾਂ ਨੂੰ ਮੱਤਾਂ ਦੇਂਦਾ ਫਿਰਦਾ ਹੈਂ) ।੧੦।",
+        "ms": "ਸੱਚੇ ਸੁਆਮੀ ਨੇ ਖੁਦ ਤੈਨੂੰ ਗੁਮਰਾਹ ਕੀਤਾ ਹੈ, ਹੇ ਮੂਰਖ! ਤੇਰੇ ਮੱਥੇ ਉਤੇ ਏਹੋ ਹੀ ਲਿਖਿਆ ਹੋਇਆ ਸੀ।"
+      },
+      "es": {
+        "sn": "te has desperdiciado por el Mismo Señor Verdadero, pues así era tu destino. (10) "
+      },
+      "hi": {
+        "ss": "हे मूर्ख ! (तेरे अपने किए कर्मों के अनुसार) करतार ने तुझे (उसे) गलत राह पर डाल दिया है (जिधर तेरी रुची बनी हुई है।और) उनके किए कर्मों के संस्कारों के संचय का लेख तेरे माथे पे (इतना) करा पड़ा है (कि तुझे सही रास्ते की समझ नहीं रहती।पर तू औरों को सलाहें देता फिरता है)। 10।",
+        "sts": "सत्य (प्रभु) ने तुझे स्वयं मोह-माया में कुमार्गगामी किया है। हे मूर्ख ! तेरे सिर पर यही भाग्य लेख लिखा हुआ था ॥ १०॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9623,
+    "Seq": 24,
+    "header": 0,
+    "Paragraph": 13,
+    "Gurmukhi": "BBY Bvjil fubohu mUVy mwieAw ivic glqwnu BieAw ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 3,
+          "t": "v"
+        },
+        {
+          "p": 0,
+          "t": "y"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 3,
+          "t": "v"
+        },
+        {
+          "p": 0,
+          "t": "y"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 0,
+          "t": "v"
+        },
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "bhabhai bhavajal dduboh mooRe maiaa vich galataan bhiaa ||",
+      "hi": "भभै भवजलि डुबोहु मूड़े माइआ विचि गलतानु भइआ ॥",
+      "ipa": "ɓəɓæ ɓəʋəd͡ʒəl ɖʊbɔh muɽe mɑɪɑ ʋɪt͡ʃ Gələt̪ɑn ɓɪɑ.",
+      "ur": "بھبھَے بھوجل ڈُبوهُ مُوڑے ماایا وچ گلتان بھایا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Bhabha: You have drowned in the terrifying world-ocean, you fool, and you have become engrossed in Maya.",
+        "ms": "Bh:-- O fool, thou art drowned in the terrible world ocean, and art engrossed in the worldly valuables.",
+        "ssk": "Bhabha: You have drowned in the terrifying world-ocean, you fool, and you have become engrossed in Maya."
+      },
+      "pu": {
+        "ss": "hy mUrK! qUµ mwieAw (dy moh) ivc ieqnw msq hYN ik qYƒ hor kuJ su`Jdw hI nhIN, qUµ sMswr-smuMdr (dIAW moh dIAW lhrW) ivc goqy Kw irhw hYN (Awpxy bcwau vwsqy qUµ koeI au~dm nhIN krdw) [",
+        "ft": "BBY kw isDWq: hy mUrK! qUM Bvjl myN fUb rhw hYN, ikauNik mwieAw myN jo glqwn ho rhw hY]",
+        "bdb": "hy mUrK! qUµ mwieAw (dy moh) ivc ieqnw msq hYN ik qYƒ hor kuJ su`Jdw hI nhIN, qUµ sMswr-smuMdr (dIAW moh dIAW lhrW) ivc goqy Kw irhw hYN (Awpxy bcwau vwsqy qUµ koeI au~dm nhIN krdw) [",
+        "ms": "B-hy mUrK qUM iBAwnk sMswr smuMdr AMdr fu`b igAw hY[ Aqy sMswrI pdwrQW iv`c K`cq ho irhw hY["
+      },
+      "puu": {
+        "ss": "ਹੇ ਮੂਰਖ! ਤੂੰ ਮਾਇਆ (ਦੇ ਮੋਹ) ਵਿਚ ਇਤਨਾ ਮਸਤ ਹੈਂ ਕਿ ਤੈਨੂੰ ਹੋਰ ਕੁਝ ਸੁੱਝਦਾ ਹੀ ਨਹੀਂ, ਤੂੰ ਸੰਸਾਰ-ਸਮੁੰਦਰ (ਦੀਆਂ ਮੋਹ ਦੀਆਂ ਲਹਰਾਂ) ਵਿਚ ਗੋਤੇ ਖਾ ਰਿਹਾ ਹੈਂ (ਆਪਣੇ ਬਚਾਉ ਵਾਸਤੇ ਤੂੰ ਕੋਈ ਉੱਦਮ ਨਹੀਂ ਕਰਦਾ) ।",
+        "ft": "ਭਭੈ ਕਾ ਸਿਧਾਂਤ: ਹੇ ਮੂਰਖ! ਤੂੰ ਭਵਜਲ ਮੇਂ ਡੂਬ ਰਹਾ ਹੈਂ, ਕਿਉਂਕਿ ਮਾਇਆ ਮੇਂ ਜੋ ਗਲਤਾਨ ਹੋ ਰਹਾ ਹੈ॥",
+        "bdb": "ਹੇ ਮੂਰਖ! ਤੂੰ ਮਾਇਆ (ਦੇ ਮੋਹ) ਵਿਚ ਇਤਨਾ ਮਸਤ ਹੈਂ ਕਿ ਤੈਨੂੰ ਹੋਰ ਕੁਝ ਸੁੱਝਦਾ ਹੀ ਨਹੀਂ, ਤੂੰ ਸੰਸਾਰ-ਸਮੁੰਦਰ (ਦੀਆਂ ਮੋਹ ਦੀਆਂ ਲਹਰਾਂ) ਵਿਚ ਗੋਤੇ ਖਾ ਰਿਹਾ ਹੈਂ (ਆਪਣੇ ਬਚਾਉ ਵਾਸਤੇ ਤੂੰ ਕੋਈ ਉੱਦਮ ਨਹੀਂ ਕਰਦਾ) ।",
+        "ms": "ਭ-ਹੇ ਮੂਰਖ ਤੂੰ ਭਿਆਨਕ ਸੰਸਾਰ ਸਮੁੰਦਰ ਅੰਦਰ ਡੁੱਬ ਗਿਆ ਹੈ। ਅਤੇ ਸੰਸਾਰੀ ਪਦਾਰਥਾਂ ਵਿੱਚ ਖੱਚਤ ਹੋ ਰਿਹਾ ਹੈ।"
+      },
+      "es": {
+        "sn": "Bhabbha: Oh tonto, fuiste ahogado en el mar de las existencias materiales y te involucraste en la Maya. "
+      },
+      "hi": {
+        "ss": "हे मूर्ख ! तू माया (के मोह) में इतना मस्त है कि तुझे और कुछ सूझता ही नहीं।तू संसार समुंद्र (की मोह की लहरों) में गोते खा रहा है (अपने बचाव के लिए तू कोई उद्यम नहीं करता)।",
+        "sts": "भ-हे मूर्ख ! तू माया में इतना लीन हो चुका है कि भवसागर में डूबता जा रहा है।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9624,
+    "Seq": 25,
+    "header": 0,
+    "Paragraph": 13,
+    "Gurmukhi": "gur prswdI eyko jwxY eyk GVI mih pwir pieAw ]11]",
+    "Visraam": {
+      "sttm": [],
+      "igurbani": [],
+      "sttm2": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "gur parasaadhee eko jaanai ek ghaRee meh paar piaa ||11||",
+      "hi": "गुर परसादी एको जाणै एक घड़ी महि पारि पइआ ॥११॥",
+      "ipa": "Gʊr pərəsɑd̪i eekɔ d͡ʒɑɳæ eek Gʰəɽi məh pɑr pɪɑ.1ə1.",
+      "ur": "گُر پرسادیِ اےکو جاݨَے اےک گھڑیِ مهِ پار پایا ۔۔۱۱۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "One who comes to know the One Lord, by Guru's Grace, is carried across in an instant. ||11||",
+        "ms": "He, who by Guru's grace knows the One Lord, crosses the world ocean in a moment.",
+        "ssk": "One who comes to know the One Lord, by Guru's Grace, is carried across in an instant. ||11||"
+      },
+      "pu": {
+        "ss": "(gurU dI srn pY ky) gurU dI ikrpw nwl jyhVw mnu`K prmwqmw nwl sWJ pWdw hY, auh ies sMswr-smuMdr qoN iek pl ivc pwr lMG jWdw hY [11[",
+        "ft": "jy kr guroN kI ikRpw sy qUM eyk hI ko jwxY qo sMswr smuMdr myN Awp ko iek GVI myN pwr ipAw, Bwv hoieAw jwx]11]",
+        "bdb": "(gurU dI srn pY ky) gurU dI ikrpw nwl jyhVw mnu`K prmwqmw nwl sWJ pWdw hY, auh ies sMswr-smuMdr qoN iek pl ivc pwr lMG jWdw hY [11[",
+        "ms": "jo gurW dI dieAw duAwrw ie`k sweIN ƒ smJdw hY, auh ie`k muhq AMdr jgq smuMdr qoN qr jWdw hY["
+      },
+      "puu": {
+        "ss": "(ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਕੇ) ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਜੇਹੜਾ ਮਨੁੱਖ ਪਰਮਾਤਮਾ ਨਾਲ ਸਾਂਝ ਪਾਂਦਾ ਹੈ, ਉਹ ਇਸ ਸੰਸਾਰ-ਸਮੁੰਦਰ ਤੋਂ ਇਕ ਪਲ ਵਿਚ ਪਾਰ ਲੰਘ ਜਾਂਦਾ ਹੈ ।੧੧।",
+        "ft": "ਜੇ ਕਰ ਗੁਰੋਂ ਕੀ ਕ੍ਰਿਪਾ ਸੇ ਤੂੰ ਏਕ ਹੀ ਕੋ ਜਾਣੈ ਤੋ ਸੰਸਾਰ ਸਮੁੰਦਰ ਮੇਂ ਆਪ ਕੋ ਇਕ ਘੜੀ ਮੇਂ ਪਾਰ ਪਿਆ, ਭਾਵ ਹੋਇਆ ਜਾਣ॥੧੧॥",
+        "bdb": "(ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਕੇ) ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਜੇਹੜਾ ਮਨੁੱਖ ਪਰਮਾਤਮਾ ਨਾਲ ਸਾਂਝ ਪਾਂਦਾ ਹੈ, ਉਹ ਇਸ ਸੰਸਾਰ-ਸਮੁੰਦਰ ਤੋਂ ਇਕ ਪਲ ਵਿਚ ਪਾਰ ਲੰਘ ਜਾਂਦਾ ਹੈ ।੧੧।",
+        "ms": "ਜੋ ਗੁਰਾਂ ਦੀ ਦਇਆ ਦੁਆਰਾ ਇੱਕ ਸਾਈਂ ਨੂੰ ਸਮਝਦਾ ਹੈ, ਉਹ ਇੱਕ ਮੁਹਤ ਅੰਦਰ ਜਗਤ ਸਮੁੰਦਰ ਤੋਂ ਤਰ ਜਾਂਦਾ ਹੈ।"
+      },
+      "es": {
+        "sn": "Si por la Gracia del Guru conoces al Único Señor, podrás nadar a través en un instante. (11)"
+      },
+      "hi": {
+        "ss": "(गुरू की शरण पड़ कर) गुरू की कृपा से जो मनुष्य परमात्मा से सांझ डालता है।वह इस संसार समुंद्र से एक पल में पार लांघ जाता है। 11।",
+        "sts": "जो गुरु की कृपा से एक ईश्वर को समझता है, वह एक क्षण में ही भवसागर से पार हो जाता है॥ ११॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9625,
+    "Seq": 26,
+    "header": 0,
+    "Paragraph": 14,
+    "Gurmukhi": "vvY vwrI AweIAw mUVy vwsudyau quDu vIsirAw ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 3,
+          "t": "v"
+        },
+        {
+          "p": 0,
+          "t": "y"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 3,
+          "t": "v"
+        },
+        {
+          "p": 0,
+          "t": "y"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 0,
+          "t": "v"
+        },
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "vavai vaaree aaieeaa mooRe vaasudheau tudh veesariaa ||",
+      "hi": "ववै वारी आईआ मूड़े वासुदेउ तुधु वीसरिआ ॥",
+      "ipa": "ʋəʋæ ʋɑri əɑeiɑ muɽe ʋɑsʊd̪eo t̪ʊt̪ ʋisərɪəɑ.",
+      "ur": "ووَے واریِ آایآ مُوڑے واسدےا تُدھ ویِسرآ ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Wawa: Your turn has come, you fool, but you have forgotten the Lord of Light.",
+        "ms": "W:-- Thy turn has come, O ignorant man. But thou hast forgotten the Luminous Lord.",
+        "ssk": "Wawa: Your turn has come, you fool, but you have forgotten the Lord of Light."
+      },
+      "pu": {
+        "ss": "hy mUrK (BwgW nwl) mnu`KW jnm (imlx) dI vwrI AweI sI, pr (ies Amolk jnm ivc BI) qYƒ prmwqmw Bu`ilAw hI irhw [",
+        "ft": "vvY dÍwry khqy hYN: hy mUFy! eyh mwnuK jnm qyry qrny kI vwrI Awie geI QI, prMqU ies myN BI vwsdyau qyry sy ibsr gÎw hY]",
+        "bdb": "hy mUrK (BwgW nwl) mnu`KW jnm (imlx) dI vwrI AweI sI, pr (ies Amolk jnm ivc BI) qYƒ prmwqmw Bu`ilAw hI irhw [",
+        "ms": "v-qyrI vwrI Aw geI hY, hy byvkUP bMdy! qUM pRkwSvwn pRBU ƒ BulwieAw hoieAw hY["
+      },
+      "puu": {
+        "ss": "ਹੇ ਮੂਰਖ (ਭਾਗਾਂ ਨਾਲ) ਮਨੁੱਖਾਂ ਜਨਮ (ਮਿਲਣ) ਦੀ ਵਾਰੀ ਆਈ ਸੀ, ਪਰ (ਇਸ ਅਮੋਲਕ ਜਨਮ ਵਿਚ ਭੀ) ਤੈਨੂੰ ਪਰਮਾਤਮਾ ਭੁੱਲਿਆ ਹੀ ਰਿਹਾ ।",
+        "ft": "ਵਵੈ ਦ੍ਵਾਰੇ ਕਹਤੇ ਹੈਂ: ਹੇ ਮੂਢੇ! ਏਹ ਮਾਨੁਖ ਜਨਮ ਤੇਰੇ ਤਰਨੇ ਕੀ ਵਾਰੀ ਆਇ ਗਈ ਥੀ, ਪਰੰਤੂ ਇਸ ਮੇਂ ਭੀ ਵਾਸਦੇਉ ਤੇਰੇ ਸੇ ਬਿਸਰ ਗ੍ਯਾ ਹੈ॥",
+        "bdb": "ਹੇ ਮੂਰਖ (ਭਾਗਾਂ ਨਾਲ) ਮਨੁੱਖਾਂ ਜਨਮ (ਮਿਲਣ) ਦੀ ਵਾਰੀ ਆਈ ਸੀ, ਪਰ (ਇਸ ਅਮੋਲਕ ਜਨਮ ਵਿਚ ਭੀ) ਤੈਨੂੰ ਪਰਮਾਤਮਾ ਭੁੱਲਿਆ ਹੀ ਰਿਹਾ ।",
+        "ms": "ਵ-ਤੇਰੀ ਵਾਰੀ ਆ ਗਈ ਹੈ, ਹੇ ਬੇਵਕੂਫ ਬੰਦੇ! ਤੂੰ ਪ੍ਰਕਾਸ਼ਵਾਨ ਪ੍ਰਭੂ ਨੂੰ ਭੁਲਾਇਆ ਹੋਇਆ ਹੈ।"
+      },
+      "es": {
+        "sn": "Wawa: Oh tonto, tu hora ha llegado para Amarlo, pero has olvidado a tu Señor."
+      },
+      "hi": {
+        "ss": "हेमूर्ख ! (सौभाग्य से) मानस जन्म (मिलने) की बारी आई थी।पर (इस अमोलक जनम में भी) तुझे परमात्मा भूला ही रहा।",
+        "sts": "व-हे मूर्ख ! किस्मत से तेरी अब मानव जन्म में गोविन्द मिलन की बारी आई है। लेकिन तूने वासुदेव को भुला दिया।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9626,
+    "Seq": 27,
+    "header": 0,
+    "Paragraph": 14,
+    "Gurmukhi": "eyh vylw n lhsih mUVy iPir qUM jm kY vis pieAw ]12]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 4,
+          "t": "v"
+        },
+        {
+          "p": 1,
+          "t": "y"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 4,
+          "t": "v"
+        },
+        {
+          "p": 1,
+          "t": "y"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "eh velaa na lahaseh mooRe fir too(n) jam kai vas piaa ||12||",
+      "hi": "एह वेला न लहसहि मूड़े फिरि तूँ जम कै वसि पइआ ॥१२॥",
+      "ipa": "eeh ʋelɑ nə ləhəsəh muɽe fɪr t̪uŋ d͡ʒəm kæ ʋəs pɪɑ.1ə2.",
+      "ur": "اےه وےلا ن لهسه مُوڑے پھر تُوں جم کَے وسِ پایا ۔۔۱۲۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "This opportunity shall not come again, you fool; you shall fall under the power of the Messenger of Death. ||12||",
+        "ms": "This opportunity thou shalt not get again. Thou shalt fall in the power of Death's myrmidons, O fool.",
+        "ssk": "This opportunity shall not come again, you fool; you shall fall under the power of the Messenger of Death. ||12||"
+      },
+      "pu": {
+        "ss": "hy mUrK! (jy KuMiJAw hI irhoN qW) ieh smW muV nhIN l`B skyNgw (qy mwieAw dy moh ivc PisAw rih ky) qUµ jm dy v`s pY jwihˆgw (jnm mrn dy gyV ivc jw peyNgw) [12[",
+        "ft": "hy mUrK! jb qUM jm ky vs pVw hovyNgw, iPr Xh mwnuK jnm vylw nhIN pwvYNgw]12]",
+        "bdb": "hy mUrK! (jy KuMiJAw hI irhoN qW) ieh smW muV nhIN l`B skyNgw (qy mwieAw dy moh ivc PisAw rih ky) qUµ jm dy v`s pY jwihˆgw (jnm mrn dy gyV ivc jw peyNgw) [12[",
+        "ms": "mOkw qYƒ muV ky nhIN imlxw[ qUM mOq dy PirSiqAW dy kwbU iv`c Aw jwvygW, hy mUrK!"
+      },
+      "puu": {
+        "ss": "ਹੇ ਮੂਰਖ! (ਜੇ ਖੁੰਝਿਆ ਹੀ ਰਿਹੋਂ ਤਾਂ) ਇਹ ਸਮਾਂ ਮੁੜ ਨਹੀਂ ਲੱਭ ਸਕੇਂਗਾ (ਤੇ ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ ਫਸਿਆ ਰਹਿ ਕੇ) ਤੂੰ ਜਮ ਦੇ ਵੱਸ ਪੈ ਜਾਹਿਂਗਾ (ਜਨਮ ਮਰਨ ਦੇ ਗੇੜ ਵਿਚ ਜਾ ਪਏਂਗਾ) ।੧੨।",
+        "ft": "ਹੇ ਮੂਰਖ! ਜਬ ਤੂੰ ਜਮ ਕੇ ਵਸ ਪੜਾ ਹੋਵੇਂਗਾ, ਫਿਰ ਯਹ ਮਾਨੁਖ ਜਨਮ ਵੇਲਾ ਨਹੀਂ ਪਾਵੈਂਗਾ॥੧੨॥",
+        "bdb": "ਹੇ ਮੂਰਖ! (ਜੇ ਖੁੰਝਿਆ ਹੀ ਰਿਹੋਂ ਤਾਂ) ਇਹ ਸਮਾਂ ਮੁੜ ਨਹੀਂ ਲੱਭ ਸਕੇਂਗਾ (ਤੇ ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ ਫਸਿਆ ਰਹਿ ਕੇ) ਤੂੰ ਜਮ ਦੇ ਵੱਸ ਪੈ ਜਾਹਿਂਗਾ (ਜਨਮ ਮਰਨ ਦੇ ਗੇੜ ਵਿਚ ਜਾ ਪਏਂਗਾ) ।੧੨।",
+        "ms": "ਮੌਕਾ ਤੈਨੂੰ ਮੁੜ ਕੇ ਨਹੀਂ ਮਿਲਣਾ। ਤੂੰ ਮੌਤ ਦੇ ਫਰਿਸ਼ਤਿਆਂ ਦੇ ਕਾਬੂ ਵਿੱਚ ਆ ਜਾਵੇਗਾਂ, ਹੇ ਮੂਰਖ!"
+      },
+      "es": {
+        "sn": "Esta oportunidad no volverá a ti, y caerás atrapado en las garras de la muerte. (12)"
+      },
+      "hi": {
+        "ss": "हे मूर्ख ! (अगर भटकता ही रहा तो) ये समय दुबारा नहीं मिलेगा (और माया के मोह में फसा रह के) तू जम के वश में पड़ जाएगा (जनम-मरण के चक्कर में पड़ जाएगा)। 12।",
+        "sts": "हे मूर्ख ! यह शुभावसर तुझे दोबारा प्राप्त नहीं होना, तुम यमदूतों के वश में आ जाओगे॥ १२ ॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9627,
+    "Seq": 28,
+    "header": 0,
+    "Paragraph": 15,
+    "Gurmukhi": "JJY kdy n JUrih mUVy siqgur kw aupdysu suix qUM ivKw ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 4,
+          "t": "v"
+        },
+        {
+          "p": 0,
+          "t": "y"
+        },
+        {
+          "p": 9,
+          "t": "y"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 4,
+          "t": "v"
+        },
+        {
+          "p": 0,
+          "t": "y"
+        },
+        {
+          "p": 9,
+          "t": "y"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 0,
+          "t": "v"
+        },
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "jhajhai kadhe na jhooreh mooRe satigur kaa upadhes sun too(n) vikhaa ||",
+      "hi": "झझै कदे न झूरहि मूड़े सतिगुर का उपदेसु सुणि तूँ विखा ॥",
+      "ipa": "ɖ͡ʐəɖ͡ʐæ kəd̪e nə ɖ͡ʐurəh muɽe sət̪ɪGʊr kɑ oʊpəd̪es sʊɳ t̪uŋ ʋɪkʰɑ.",
+      "ur": "جھجھَے کدے ن جھُوره مُوڑے ستگر کا اُپدےس سُݨ تُوں وکھا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Jhajha: You shall never have to regret and repent, you fool, if you listen to the Teachings of the True Guru, for even an instant.",
+        "ms": "Jh:-- Thou shalt never repent, O fool, if thou hearest the True Guru's instruction even a little.",
+        "ssk": "Jhajha: You shall never have to regret and repent, you fool, if you listen to the Teachings of the True Guru, for even an instant."
+      },
+      "pu": {
+        "ss": "hy mUrK! qUµ pUry gurU dw aupdyS Dwrn kr ky vyK lY, (mwieAw Awidk dI ^wqr) qYƒ kdy hwhuky nhIN lYxy pYxgy (ikauNik mwieAw-moh dw jwl hI tu`t jwiegw)",
+        "ft": "JJy kw eyh isDWq: hy mUrK! Pyr qUM kdI BI nhIN JUrYNgw, sqguroN ko aupdyS sux kr qo ByK, Bwv aupdyS kw AwnMd Awvy qo Pyr sunI; vw (ivKw) kdm sy Fl kr guroN kw aupdyS sux; vw (ivKw) rMck mwqr qo sux]",
+        "bdb": "hy mUrK! qUµ pUry gurU dw aupdyS Dwrn kr ky vyK lY, (mwieAw Awidk dI ^wqr) qYƒ kdy hwhuky nhIN lYxy pYxgy (ikauNik mwieAw-moh dw jwl hI tu`t jwiegw)",
+        "ms": "J-qUM kdwicq pscwqwp nhIN krygW, hy mUrK! jykr qUM s¤cy gurW dI isKmq Borw Br BI sux lvy["
+      },
+      "puu": {
+        "ss": "ਹੇ ਮੂਰਖ! ਤੂੰ ਪੂਰੇ ਗੁਰੂ ਦਾ ਉਪਦੇਸ਼ ਧਾਰਨ ਕਰ ਕੇ ਵੇਖ ਲੈ, (ਮਾਇਆ ਆਦਿਕ ਦੀ ਖ਼ਾਤਰ) ਤੈਨੂੰ ਕਦੇ ਹਾਹੁਕੇ ਨਹੀਂ ਲੈਣੇ ਪੈਣਗੇ (ਕਿਉਂਕਿ ਮਾਇਆ-ਮੋਹ ਦਾ ਜਾਲ ਹੀ ਟੁੱਟ ਜਾਇਗਾ)",
+        "ft": "ਝਝੇ ਕਾ ਏਹ ਸਿਧਾਂਤ: ਹੇ ਮੂਰਖ! ਫੇਰ ਤੂੰ ਕਦੀ ਭੀ ਨਹੀਂ ਝੂਰੈਂਗਾ, ਸਤਗੁਰੋਂ ਕੋ ਉਪਦੇਸ਼ ਸੁਣ ਕਰ ਤੋ ਭੇਖ, ਭਾਵ ਉਪਦੇਸ਼ ਕਾ ਆਨੰਦ ਆਵੇ ਤੋ ਫੇਰ ਸੁਨੀ; ਵਾ (ਵਿਖਾ) ਕਦਮ ਸੇ ਢਲ ਕਰ ਗੁਰੋਂ ਕਾ ਉਪਦੇਸ਼ ਸੁਣ; ਵਾ (ਵਿਖਾ) ਰੰਚਕ ਮਾਤਰ ਤੋ ਸੁਣ॥",
+        "bdb": "ਹੇ ਮੂਰਖ! ਤੂੰ ਪੂਰੇ ਗੁਰੂ ਦਾ ਉਪਦੇਸ਼ ਧਾਰਨ ਕਰ ਕੇ ਵੇਖ ਲੈ, (ਮਾਇਆ ਆਦਿਕ ਦੀ ਖ਼ਾਤਰ) ਤੈਨੂੰ ਕਦੇ ਹਾਹੁਕੇ ਨਹੀਂ ਲੈਣੇ ਪੈਣਗੇ (ਕਿਉਂਕਿ ਮਾਇਆ-ਮੋਹ ਦਾ ਜਾਲ ਹੀ ਟੁੱਟ ਜਾਇਗਾ)",
+        "ms": "ਝ-ਤੂੰ ਕਦਾਚਿਤ ਪਸਚਾਤਾਪ ਨਹੀਂ ਕਰੇਗਾਂ, ਹੇ ਮੂਰਖ! ਜੇਕਰ ਤੂੰ ਸੱਚੇ ਗੁਰਾਂ ਦੀ ਸਿਖਮਤ ਭੋਰਾ ਭਰ ਭੀ ਸੁਣ ਲਵੇ।"
+      },
+      "es": {
+        "sn": "Yhayha: Si escuchas la Palabra del Verdadero Guru y la compartes con otros, nunca te lamentarás. "
+      },
+      "hi": {
+        "ss": "हे मूर्ख ! तू पूरे गुरू का उपदेश धारण करके देख ले।(माया आदि की खातिर) तुझे कभी झुरना नहीं पड़ेगा (क्योंकि माया-मोह का जाल टूट जाएगा) पर अगर पूरे गुरू की शरण नहीं पड़ेगा तो कोई (रस्मी) गुरू (इन चिंताओं से सिसकियों से बचा) नहीं (सकता)।",
+        "sts": "झ-हे मूर्ख ! तुझे कभी दु:ख क्लेश नहीं होगा यदि तू सच्चे गुरु का उपदेश सुनकर देख ले।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9628,
+    "Seq": 29,
+    "header": 0,
+    "Paragraph": 15,
+    "Gurmukhi": "siqgur bwJhu guru nhI koeI ingury kw hY nwau burw ]13]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "satigur baajhahu gur nahee koiee nigure kaa hai naau buraa ||13||",
+      "hi": "सतिगुर बाझहु गुरु नही कोई निगुरे का है नाउ बुरा ॥१३॥",
+      "ipa": "sət̪ɪGʊr bɑɖ͡ʐəh Gʊr nəhi kɔei nɪGʊre kɑ hæ nɑo bʊrɑ.1ə3.",
+      "ur": "ستگر باجھهُ گُر نهیِ کوای نگرے کا هَے ناا بُرا ۔۔۱۳۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Without the True Guru, there is no Guru at all; one who is without a Guru has a bad reputation. ||13||",
+        "ms": "Without the True Guru, there is not another Guru, and the one without the Guru has a bad name.",
+        "ssk": "Without the True Guru, there is no Guru at all; one who is without a Guru has a bad reputation. ||13||"
+      },
+      "pu": {
+        "ss": "pr jy pUry gurU dI srn nhIN peyNgw qW koeI (rsmI) gurU (iehnW hwhuikAW qoN bcw) nhIN (skdw) [ jyhVw mnu`K pUry gurU dy d`sy rsqy auqy nhIN qurdw, (kurwhy pYx kr ky) auh bdnwmI hI K`tdw hY [13[",
+        "ft": "ibnW sqguroN sy koeI (guru) bfw nhIN hUAw hY AOr jo inguroN hYN iqn kw nwm lynw BI burw hY]13]",
+        "bdb": "pr jy pUry gurU dI srn nhIN peyNgw qW koeI (rsmI) gurU (iehnW hwhuikAW qoN bcw) nhIN (skdw) [ jyhVw mnu`K pUry gurU dy d`sy rsqy auqy nhIN qurdw, (kurwhy pYx kr ky) auh bdnwmI hI K`tdw hY [13[",
+        "ms": "s¤cy gurW dy bgYr hor koeI gurU nhIN[ Aqy gurU-ibhUn (ingury) dw nwm hI mMdw hY["
+      },
+      "puu": {
+        "ss": "ਪਰ ਜੇ ਪੂਰੇ ਗੁਰੂ ਦੀ ਸਰਨ ਨਹੀਂ ਪਏਂਗਾ ਤਾਂ ਕੋਈ (ਰਸਮੀ) ਗੁਰੂ (ਇਹਨਾਂ ਹਾਹੁਕਿਆਂ ਤੋਂ ਬਚਾ) ਨਹੀਂ (ਸਕਦਾ) । ਜੇਹੜਾ ਮਨੁੱਖ ਪੂਰੇ ਗੁਰੂ ਦੇ ਦੱਸੇ ਰਸਤੇ ਉਤੇ ਨਹੀਂ ਤੁਰਦਾ, (ਕੁਰਾਹੇ ਪੈਣ ਕਰ ਕੇ) ਉਹ ਬਦਨਾਮੀ ਹੀ ਖੱਟਦਾ ਹੈ ।੧੩।",
+        "ft": "ਬਿਨਾਂ ਸਤਗੁਰੋਂ ਸੇ ਕੋਈ (ਗੁਰੁ) ਬਡਾ ਨਹੀਂ ਹੂਆ ਹੈ ਔਰ ਜੋ ਨਿਗੁਰੋਂ ਹੈਂ ਤਿਨ ਕਾ ਨਾਮ ਲੇਨਾ ਭੀ ਬੁਰਾ ਹੈ॥੧੩॥",
+        "bdb": "ਪਰ ਜੇ ਪੂਰੇ ਗੁਰੂ ਦੀ ਸਰਨ ਨਹੀਂ ਪਏਂਗਾ ਤਾਂ ਕੋਈ (ਰਸਮੀ) ਗੁਰੂ (ਇਹਨਾਂ ਹਾਹੁਕਿਆਂ ਤੋਂ ਬਚਾ) ਨਹੀਂ (ਸਕਦਾ) । ਜੇਹੜਾ ਮਨੁੱਖ ਪੂਰੇ ਗੁਰੂ ਦੇ ਦੱਸੇ ਰਸਤੇ ਉਤੇ ਨਹੀਂ ਤੁਰਦਾ, (ਕੁਰਾਹੇ ਪੈਣ ਕਰ ਕੇ) ਉਹ ਬਦਨਾਮੀ ਹੀ ਖੱਟਦਾ ਹੈ ।੧੩।",
+        "ms": "ਸੱਚੇ ਗੁਰਾਂ ਦੇ ਬਗੈਰ ਹੋਰ ਕੋਈ ਗੁਰੂ ਨਹੀਂ। ਅਤੇ ਗੁਰੂ-ਬਿਹੂਨ (ਨਿਗੁਰੇ) ਦਾ ਨਾਮ ਹੀ ਮੰਦਾ ਹੈ।"
+      },
+      "es": {
+        "sn": "Sin el Verdadero Guru, no hay nadie más, y la reputación de los que no Lo tienen, se deteriora. (13)"
+      },
+      "hi": {
+        "ss": "जो मनुष्य पूरे गुरू के बताए रास्ते पर नहीं चलता।(गलत रास्ते पर पड़ने के कारण) वह बदनामी ही कमाता है। 13।",
+        "sts": "सच्चे गुरु के बिना दूसरा कोई गुरु नहीं और निगुरे का नाम ही बुरा है॥ १३॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9629,
+    "Seq": 30,
+    "header": 0,
+    "Paragraph": 16,
+    "Gurmukhi": "DDY Dwvq vrij rKu mUVy AMqir qyrY inDwnu pieAw ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 4,
+          "t": "v"
+        },
+        {
+          "p": 0,
+          "t": "y"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 4,
+          "t": "v"
+        },
+        {
+          "p": 0,
+          "t": "y"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "dhadhai dhaavat varaj rakh mooRe a(n)tar terai nidhaan piaa ||",
+      "hi": "धधै धावत वरजि रखु मूड़े अंतरि तेरै निधानु पइआ ॥",
+      "ipa": "t̪ət̪ə̀æ t̪ɑʋət̪ ʋərəd͡ʒ rəkʰ muɽe əŋt̪ər t̪eræ nɪt̪ɑn pɪɑ.",
+      "ur": "دھدھَے دھاوت ورج رکھ مُوڑے اںتر تےرَے ندھان پایا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Dhadha: Restrain your wandering mind, you fool; deep within you the treasure is to be found.",
+        "ms": "Dh:-- Restrain thy wandering mind O foolish man. within thee is the Name treasure.",
+        "ssk": "Dhadha: Restrain your wandering mind, you fool; deep within you the treasure is to be found."
+      },
+      "pu": {
+        "ss": "hy mUrK! Awqmk suK dw ^zwnw prmwqmw qyry AMdr v`s irhw hY (pr qUµ suK l`Bx vwsqy bwhr Btkdw iPrdw hYN) bwhr Btkdy mn ƒ rok ky r`K [ ",
+        "ft": "DDy dÍwrw khqy hYN: hy mUrK qUM Dwvqy mn ko rok rK, srb inDoN kw Gr, Bwv swKI rUp cyqn qyry AMqr hI ipAw, Bwv ibrwjmwn hY]Çjy khY AMqr gq hrI hY qO iqs kw AwnMd ikauN nhIN imlqw? so khqy hYN:",
+        "bdb": "hy mUrK! Awqmk suK dw ^zwnw prmwqmw qyry AMdr v`s irhw hY (pr qUµ suK l`Bx vwsqy bwhr Btkdw iPrdw hYN) bwhr Btkdy mn ƒ rok ky r`K [ ",
+        "ms": "D-Awpxy Btkdy hoey mnUey ƒ rok r`K, hy bysmJ bMdy! qyry AMdr nwm dw Kjwnw hY["
+      },
+      "puu": {
+        "ss": "ਹੇ ਮੂਰਖ! ਆਤਮਕ ਸੁਖ ਦਾ ਖ਼ਜ਼ਾਨਾ ਪਰਮਾਤਮਾ ਤੇਰੇ ਅੰਦਰ ਵੱਸ ਰਿਹਾ ਹੈ (ਪਰ ਤੂੰ ਸੁਖ ਲੱਭਣ ਵਾਸਤੇ ਬਾਹਰ ਭਟਕਦਾ ਫਿਰਦਾ ਹੈਂ) ਬਾਹਰ ਭਟਕਦੇ ਮਨ ਨੂੰ ਰੋਕ ਕੇ ਰੱਖ । ",
+        "ft": "ਧਧੇ ਦ੍ਵਾਰਾ ਕਹਤੇ ਹੈਂ: ਹੇ ਮੂਰਖ ਤੂੰ ਧਾਵਤੇ ਮਨ ਕੋ ਰੋਕ ਰਖ, ਸਰਬ ਨਿਧੋਂ ਕਾ ਘਰ, ਭਾਵ ਸਾਖੀ ਰੂਪ ਚੇਤਨ ਤੇਰੇ ਅੰਤਰ ਹੀ ਪਿਆ, ਭਾਵ ਬਿਰਾਜਮਾਨ ਹੈ॥☬ਜੇ ਕਹੈ ਅੰਤਰ ਗਤ ਹਰੀ ਹੈ ਤੌ ਤਿਸ ਕਾ ਆਨੰਦ ਕਿਉਂ ਨਹੀਂ ਮਿਲਤਾ? ਸੋ ਕਹਤੇ ਹੈਂ:",
+        "bdb": "ਹੇ ਮੂਰਖ! ਆਤਮਕ ਸੁਖ ਦਾ ਖ਼ਜ਼ਾਨਾ ਪਰਮਾਤਮਾ ਤੇਰੇ ਅੰਦਰ ਵੱਸ ਰਿਹਾ ਹੈ (ਪਰ ਤੂੰ ਸੁਖ ਲੱਭਣ ਵਾਸਤੇ ਬਾਹਰ ਭਟਕਦਾ ਫਿਰਦਾ ਹੈਂ) ਬਾਹਰ ਭਟਕਦੇ ਮਨ ਨੂੰ ਰੋਕ ਕੇ ਰੱਖ । ",
+        "ms": "ਧ-ਆਪਣੇ ਭਟਕਦੇ ਹੋਏ ਮਨੂਏ ਨੂੰ ਰੋਕ ਰੱਖ, ਹੇ ਬੇਸਮਝ ਬੰਦੇ! ਤੇਰੇ ਅੰਦਰ ਨਾਮ ਦਾ ਖਜਾਨਾ ਹੈ।"
+      },
+      "es": {
+        "sn": "Dhaddha: Calma tu mente, oh tonto; en tu interior está el Tesoro del Señor. "
+      },
+      "hi": {
+        "ss": "हेमूर्ख ! आत्मिक सुख का खजाना परमात्मा तेरे अंदर बस रहा है (पर।तू सुख की तलाश में बाहर भटकता फिरता है) बाहर भटकते मन को रोक के रख।",
+        "sts": "ध-हे मूर्ख ! विषय-विकारों में भटकते हुए मन को अंकुश लगा क्योंकि तेरे अन्तर्मन में ही प्रभु नाम का खजाना है।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9630,
+    "Seq": 31,
+    "header": 0,
+    "Paragraph": 16,
+    "Gurmukhi": "gurmuiK hovih qw hir rsu pIvih jugw jugMqir Kwih pieAw ]14]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 5,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 5,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 5,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "gurmukh hoveh taa har ras peeveh jugaa juga(n)tar khaeh piaa ||14||",
+      "hi": "गुरमुखि होवहि ता हरि रसु पीवहि जुगा जुगंतरि खाहि पइआ ॥१४॥",
+      "ipa": "Gʊrəmʊkʰ hɔʋəh t̪ɑ hər rəs piʋəh d͡ʒʊGɑ d͡ʒʊGəŋt̪ər kʰɑh pɪɑ.1ə4.",
+      "ur": "گُرمکھ هووه تا هر رس پیِوه جُگا جُگںتر کھاه پایا ۔۔۱۴۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "When one becomes Gurmukh, then he drinks in the sublime essence of the Lord; throughout the ages, he continues to drink it in. ||14||",
+        "ms": "If man becomes a Guru-ward, then does he drink God's elixir, and continues he, to quaff if, all the ages through.",
+        "ssk": "When one becomes Gurmukh, then he drinks in the sublime essence of the Lord; throughout the ages, he continues to drink it in. ||14||"
+      },
+      "pu": {
+        "ss": "jy qUµ gurU dy d`sy rsqy auqy quryN qW (AMdr v`sdy) prmwqmw dy nwm dw rs pIvyNgw, sdw leI ieh nwm-rs vrqdw rhyNgw (kdy mu`kygw nhIN) [14[",
+        "ft": "jb gurmuK hovY, qO hir rs ko pwn kr jugh jugMqr myN pVw Kwihgw]14]",
+        "bdb": "jy qUµ gurU dy d`sy rsqy auqy quryN qW (AMdr v`sdy) prmwqmw dy nwm dw rs pIvyNgw, sdw leI ieh nwm-rs vrqdw rhyNgw (kdy mu`kygw nhIN) [14[",
+        "ms": "jykr ienswn gurU AnswrI QI vMy, qd hI auh vwihgurU dy AMimRq ƒ pINdw hY Aqy swirAW XugW AMdr hI auh ies ƒ pwn krdw rihMdw hY["
+      },
+      "puu": {
+        "ss": "ਜੇ ਤੂੰ ਗੁਰੂ ਦੇ ਦੱਸੇ ਰਸਤੇ ਉਤੇ ਤੁਰੇਂ ਤਾਂ (ਅੰਦਰ ਵੱਸਦੇ) ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਦਾ ਰਸ ਪੀਵੇਂਗਾ, ਸਦਾ ਲਈ ਇਹ ਨਾਮ-ਰਸ ਵਰਤਦਾ ਰਹੇਂਗਾ (ਕਦੇ ਮੁੱਕੇਗਾ ਨਹੀਂ) ।੧੪।",
+        "ft": "ਜਬ ਗੁਰਮੁਖ ਹੋਵੈ, ਤੌ ਹਰਿ ਰਸ ਕੋ ਪਾਨ ਕਰ ਜੁਗਹ ਜੁਗੰਤਰ ਮੇਂ ਪੜਾ ਖਾਹਿਗਾ॥੧੪॥",
+        "bdb": "ਜੇ ਤੂੰ ਗੁਰੂ ਦੇ ਦੱਸੇ ਰਸਤੇ ਉਤੇ ਤੁਰੇਂ ਤਾਂ (ਅੰਦਰ ਵੱਸਦੇ) ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਦਾ ਰਸ ਪੀਵੇਂਗਾ, ਸਦਾ ਲਈ ਇਹ ਨਾਮ-ਰਸ ਵਰਤਦਾ ਰਹੇਂਗਾ (ਕਦੇ ਮੁੱਕੇਗਾ ਨਹੀਂ) ।੧੪।",
+        "ms": "ਜੇਕਰ ਇਨਸਾਨ ਗੁਰੂ ਅਨਸਾਰੀ ਥੀ ਵੰੇ, ਤਦ ਹੀ ਉਹ ਵਾਹਿਗੁਰੂ ਦੇ ਅੰਮ੍ਰਿਤ ਨੂੰ ਪੀਂਦਾ ਹੈ ਅਤੇ ਸਾਰਿਆਂ ਯੁਗਾਂ ਅੰਦਰ ਹੀ ਉਹ ਇਸ ਨੂੰ ਪਾਨ ਕਰਦਾ ਰਹਿੰਦਾ ਹੈ।"
+      },
+      "es": {
+        "sn": "Aquél que se enfoca hacia Dios, prueba el Néctar del Señor; sí, lo bebe y lo saborea para siempre. (14)"
+      },
+      "hi": {
+        "ss": "अगर तू गुरू के बताए रास्ते पर चले तो (अंदर बसते) परमात्मा के नाम का रस पीएगा।सदा के लिए ये नाम रस बरसता रहेगा (कभी खत्म नहीं होगा)। 14।",
+        "sts": "यदि मनुष्य गुरुमुख बन जाए तो वह हरि रस का पान करता है और युग-युगांतरों तक वह इसका पान करता रहता है॥ १४॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9631,
+    "Seq": 32,
+    "header": 0,
+    "Paragraph": 17,
+    "Gurmukhi": "ggY goibdu iciq kir mUVy glI iknY n pwieAw ]",
+    "Visraam": {
+      "sttm": [],
+      "igurbani": [],
+      "sttm2": [
+        {
+          "p": 0,
+          "t": "v"
+        },
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "gagai gobidh chit kar mooRe galee kinai na paiaa ||",
+      "hi": "गगै गोबिदु चिति करि मूड़े गली किनै न पाइआ ॥",
+      "ipa": "GəGæ Gɔbɪd̪ t͡ʃɪt̪ kər muɽe Gəli kɪnæ nə pɑɪɑ.",
+      "ur": "گگَے گوبد چت کرِ مُوڑے گلیِ کنَے ن پاایا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Gagga: Keep the Lord of the Universe in your mind, you fool; by mere words, no one has ever attained Him.",
+        "ms": "G:-- Think thou of the World-Lord, O fool. By mere talk, none has ever attained Him.",
+        "ssk": "Gagga: Keep the Lord of the Universe in your mind, you fool; by mere words, no one has ever attained Him."
+      },
+      "pu": {
+        "ss": "hy mUrK! prmwqmw (dy nwm) ƒ Awpxy ic`q ivc vsw lY (qdoN hI aus nwl imlwp hovygw), inrIAW g`lW nwl iksy ƒ pRBU nhIN imilAw [",
+        "ft": "ggY dÍwrw khqy hYN: hy mUrK! jo goibMd ko pwvxw hY, qo (iciq) Xwd kr, ibnw icMqn qy bwqoN sy iksI ny nhIN pwXw hY]",
+        "bdb": "hy mUrK! prmwqmw (dy nwm) ƒ Awpxy ic`q ivc vsw lY (qdoN hI aus nwl imlwp hovygw), inrIAW g`lW nwl iksy ƒ pRBU nhIN imilAw [",
+        "ms": "g-isRStI dy suAwmI ƒ Xwd kr, hy mUrK! inrIAW g`lW bwqW duAwrw kdy BI iksy ny aus ƒ pRwpq nhIN kIqw["
+      },
+      "puu": {
+        "ss": "ਹੇ ਮੂਰਖ! ਪਰਮਾਤਮਾ (ਦੇ ਨਾਮ) ਨੂੰ ਆਪਣੇ ਚਿੱਤ ਵਿਚ ਵਸਾ ਲੈ (ਤਦੋਂ ਹੀ ਉਸ ਨਾਲ ਮਿਲਾਪ ਹੋਵੇਗਾ), ਨਿਰੀਆਂ ਗੱਲਾਂ ਨਾਲ ਕਿਸੇ ਨੂੰ ਪ੍ਰਭੂ ਨਹੀਂ ਮਿਲਿਆ ।",
+        "ft": "ਗਗੈ ਦ੍ਵਾਰਾ ਕਹਤੇ ਹੈਂ: ਹੇ ਮੂਰਖ! ਜੋ ਗੋਬਿੰਦ ਕੋ ਪਾਵਣਾ ਹੈ, ਤੋ (ਚਿਤਿ) ਯਾਦ ਕਰ, ਬਿਨਾ ਚਿੰਤਨ ਤੇ ਬਾਤੋਂ ਸੇ ਕਿਸੀ ਨੇ ਨਹੀਂ ਪਾਯਾ ਹੈ॥",
+        "bdb": "ਹੇ ਮੂਰਖ! ਪਰਮਾਤਮਾ (ਦੇ ਨਾਮ) ਨੂੰ ਆਪਣੇ ਚਿੱਤ ਵਿਚ ਵਸਾ ਲੈ (ਤਦੋਂ ਹੀ ਉਸ ਨਾਲ ਮਿਲਾਪ ਹੋਵੇਗਾ), ਨਿਰੀਆਂ ਗੱਲਾਂ ਨਾਲ ਕਿਸੇ ਨੂੰ ਪ੍ਰਭੂ ਨਹੀਂ ਮਿਲਿਆ ।",
+        "ms": "ਗ-ਸ੍ਰਿਸ਼ਟੀ ਦੇ ਸੁਆਮੀ ਨੂੰ ਯਾਦ ਕਰ, ਹੇ ਮੂਰਖ! ਨਿਰੀਆਂ ਗੱਲਾਂ ਬਾਤਾਂ ਦੁਆਰਾ ਕਦੇ ਭੀ ਕਿਸੇ ਨੇ ਉਸ ਨੂੰ ਪ੍ਰਾਪਤ ਨਹੀਂ ਕੀਤਾ।"
+      },
+      "es": {
+        "sn": "Gagga: Enaltece a tu Señor en tu mente, oh tonto; con sólo hablar, Él no es obtenido."
+      },
+      "hi": {
+        "ss": "हे मूर्ख ! परमात्मा (के नाम) को अपने चित्त में बसा ले (तभी उससे मिलाप होगा)।सिर्फ बातों से किसी ने प्रभू को नहीं पाया।",
+        "sts": "ग-हे मूर्ख ! गोबिन्द को याद कर, केवल निरर्थक बातें करने से ही किसी ने कभी उसे प्राप्त नहीं किया।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9632,
+    "Seq": 33,
+    "header": 0,
+    "Paragraph": 17,
+    "Gurmukhi": "gur ky crn ihrdY vswie mUVy ipCly gunh sB bKis lieAw ]15]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 5,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 5,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 5,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "gur ke charan hiradhai vasai mooRe pichhale guneh sabh bakhas liaa ||15||",
+      "hi": "गुर के चरन हिरदै वसाइ मूड़े पिछले गुनह सभ बखसि लइआ ॥१५॥",
+      "ipa": "Gʊr ke t͡ʃərən hɪrəd̪æ ʋəsɑeɪ muɽe pɪɕəle Gʊnəh səɓ bəkʰəs lɪɑ.1ə5.",
+      "ur": "گُر کے چرن هردَے وساا مُوڑے پچھلے گُنه سبھ بکھس لایا ۔۔۱۵۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Enshrine the Guru's feet within your heart, you fool, and all your past sins shall be forgiven. ||15||",
+        "ms": "Guru's feet abide thou in thy mind, O stupid person. All thine past sins, he shall forgive.",
+        "ssk": "Enshrine the Guru's feet within your heart, you fool, and all your past sins shall be forgiven. ||15||"
+      },
+      "pu": {
+        "ss": "hy mUrK! gurU dy crn ihrdy ivc itkweI r`K, ipCly kIqy hoey swry pwp b^Sy jwxgy [15[",
+        "ft": "hy mUrK! guroN ky crn Apny ihrdy myN bswau, qb ipCly AOgnoN sy bKS lXw jwvYNgw]15]",
+        "bdb": "hy mUrK! gurU dy crn ihrdy ivc itkweI r`K, ipCly kIqy hoey swry pwp b^Sy jwxgy [15[",
+        "ms": "gurW dy pYr qUM Awpxy AMqSkrn iv`c itkw bysmJ bMdy! qyry pUrbly pwp auh swry mwP kr dyvygw["
+      },
+      "puu": {
+        "ss": "ਹੇ ਮੂਰਖ! ਗੁਰੂ ਦੇ ਚਰਨ ਹਿਰਦੇ ਵਿਚ ਟਿਕਾਈ ਰੱਖ, ਪਿਛਲੇ ਕੀਤੇ ਹੋਏ ਸਾਰੇ ਪਾਪ ਬਖ਼ਸ਼ੇ ਜਾਣਗੇ ।੧੫।",
+        "ft": "ਹੇ ਮੂਰਖ! ਗੁਰੋਂ ਕੇ ਚਰਨ ਅਪਨੇ ਹਿਰਦੇ ਮੇਂ ਬਸਾਉ, ਤਬ ਪਿਛਲੇ ਔਗਨੋਂ ਸੇ ਬਖਸ਼ ਲਯਾ ਜਾਵੈਂਗਾ॥੧੫॥",
+        "bdb": "ਹੇ ਮੂਰਖ! ਗੁਰੂ ਦੇ ਚਰਨ ਹਿਰਦੇ ਵਿਚ ਟਿਕਾਈ ਰੱਖ, ਪਿਛਲੇ ਕੀਤੇ ਹੋਏ ਸਾਰੇ ਪਾਪ ਬਖ਼ਸ਼ੇ ਜਾਣਗੇ ।੧੫।",
+        "ms": "ਗੁਰਾਂ ਦੇ ਪੈਰ ਤੂੰ ਆਪਣੇ ਅੰਤਸ਼ਕਰਨ ਵਿੱਚ ਟਿਕਾ ਬੇਸਮਝ ਬੰਦੇ! ਤੇਰੇ ਪੂਰਬਲੇ ਪਾਪ ਉਹ ਸਾਰੇ ਮਾਫ ਕਰ ਦੇਵੇਗਾ।"
+      },
+      "es": {
+        "sn": "Enaltece los Pies del Señor en tu corazón para que tus errores pasados sean borrados. (15)"
+      },
+      "hi": {
+        "ss": "हे मूर्ख ! गुरू के चरण हृदय में टिकाए रख।पिछले किए हुए सारे पाप बख्शे जाएंगे। 15।",
+        "sts": "हे मूर्ख ! गुरु के चरण अपने हृदय में बसा, वह तेरे पिछले गुनाह सब क्षमा कर देंगे॥ १५॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9633,
+    "Seq": 34,
+    "header": 0,
+    "Paragraph": 18,
+    "Gurmukhi": "hwhY hir kQw bUJu qUM mUVy qw sdw suKu hoeI ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 5,
+          "t": "v"
+        },
+        {
+          "p": 0,
+          "t": "y"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 5,
+          "t": "v"
+        },
+        {
+          "p": 0,
+          "t": "y"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 0,
+          "t": "v"
+        },
+        {
+          "p": 5,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "haahai har kathaa boojh too(n) mooRe taa sadhaa sukh hoiee ||",
+      "hi": "हाहै हरि कथा बूझु तूँ मूड़े ता सदा सुखु होई ॥",
+      "ipa": "hɑhæ hər kət̪ʰɑ buɖ͡ʐ t̪uŋ muɽe t̪ɑ səd̪ɑ sʊkʰ hɔei.",
+      "ur": "هاهَے هر کتھا بُوجھ تُوں مُوڑے تا سدا سُکھ هوای ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Haha: Understand the Lord's Sermon, you fool; only then shall you attain eternal peace.",
+        "ms": "H:-- God's discourse understand thou, O fool, then alone shalt thou attain eternal peace.",
+        "ssk": "Haha: Understand the Lord's Sermon, you fool; only then shall you attain eternal peace."
+      },
+      "pu": {
+        "ss": "hy mUrK! jy qUµ prmwqmw dI is&iq-swlwh krnI is`K leyN qW qYƒ sdw Awqmk AnMd imilAw rhy [",
+        "ft": "hwhY dÍwrw khqy hYN: hy mUVy! qUM hir kI kQw ko (buJu) smJ, jb smJygw qb quJ ko sdw kw suK hovygw]",
+        "bdb": "hy mUrK! jy qUµ prmwqmw dI is&iq-swlwh krnI is`K leyN qW qYƒ sdw Awqmk AnMd imilAw rhy [",
+        "ms": "h-vwihgurU dI kQw-vwrqw ƒ smJ qUM hy mUrK! qW hI qYƒ sdIvI Awrwm pRwpq hovygw["
+      },
+      "puu": {
+        "ss": "ਹੇ ਮੂਰਖ! ਜੇ ਤੂੰ ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਕਰਨੀ ਸਿੱਖ ਲਏਂ ਤਾਂ ਤੈਨੂੰ ਸਦਾ ਆਤਮਕ ਅਨੰਦ ਮਿਲਿਆ ਰਹੇ ।",
+        "ft": "ਹਾਹੈ ਦ੍ਵਾਰਾ ਕਹਤੇ ਹੈਂ: ਹੇ ਮੂੜੇ! ਤੂੰ ਹਰਿ ਕੀ ਕਥਾ ਕੋ (ਬੁਝੁ) ਸਮਝ, ਜਬ ਸਮਝੇਗਾ ਤਬ ਤੁਝ ਕੋ ਸਦਾ ਕਾ ਸੁਖ ਹੋਵੇਗਾ॥",
+        "bdb": "ਹੇ ਮੂਰਖ! ਜੇ ਤੂੰ ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਕਰਨੀ ਸਿੱਖ ਲਏਂ ਤਾਂ ਤੈਨੂੰ ਸਦਾ ਆਤਮਕ ਅਨੰਦ ਮਿਲਿਆ ਰਹੇ ।",
+        "ms": "ਹ-ਵਾਹਿਗੁਰੂ ਦੀ ਕਥਾ-ਵਾਰਤਾ ਨੂੰ ਸਮਝ ਤੂੰ ਹੇ ਮੂਰਖ! ਤਾਂ ਹੀ ਤੈਨੂੰ ਸਦੀਵੀ ਆਰਾਮ ਪ੍ਰਾਪਤ ਹੋਵੇਗਾ।"
+      },
+      "es": {
+        "sn": "Jaja: Conoce la Esencia del Evangelio del Señor y obtendrás el Éxtasis. "
+      },
+      "hi": {
+        "ss": "हे मूर्ख ! अगर तू परमात्मा की सिफत सालाह करनी सीख ले तो तुझे सदा आत्मिक आनंद मिला रहे।",
+        "sts": "ह-हे मूर्ख ! हरि की कथा को समझ, तभी तुझे सदैव सुख प्राप्त होगा।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9634,
+    "Seq": 35,
+    "header": 0,
+    "Paragraph": 18,
+    "Gurmukhi": "mnmuiK pVih qyqw duKu lwgY ivxu siqgur mukiq n hoeI ]16]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "manmukh paReh tetaa dhukh laagai vin satigur mukat na hoiee ||16||",
+      "hi": "मनमुखि पड़हि तेता दुखु लागै विणु सतिगुर मुकति न होई ॥१६॥",
+      "ipa": "mənəmʊkʰ pəɽəh t̪et̪ɑ d̪ʊkʰ lɑGæ ʋɪɳ sət̪ɪGʊr mʊkət̪ nə hɔei.1ə6.",
+      "ur": "منمکھ پڑه تےتا دُکھ لاگَے وݨ ستگر مُکت ن هوای ۔۔۱۶۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "The more the self-willed manmukhs read, the more pain they suffer. Without the True Guru, liberation is not obtained. ||16||",
+        "ms": "The more the perverse read, more the anguish they suffer. Without the True Guru there is no salvation.",
+        "ssk": "The more the self-willed manmukhs read, the more pain they suffer. Without the True Guru, liberation is not obtained. ||16||"
+      },
+      "pu": {
+        "ss": "Awpxy mn dy ip`Cy qurn vwly bMdy ijqnw hI (pRBU dI is&iq-swlwh qoN KuMJ ky mwieAw sMbMDI hor hor lyKy) pVHdy hn, auqnI hI vDIk ASWqI K`tdy hn, qy gurU dI srn qoN ibnw (ies ASWqI qoN) ^lwsI nhIN hMudI [16[",
+        "ft": "ApnI mnmuKqw sy ijqnw pVYgw iqqnw duK hI lgYgw, sqguroN ibnW mukq nhIN hoeygI]16]",
+        "bdb": "Awpxy mn dy ip`Cy qurn vwly bMdy ijqnw hI (pRBU dI is&iq-swlwh qoN KuMJ ky mwieAw sMbMDI hor hor lyKy) pVHdy hn, auqnI hI vDIk ASWqI K`tdy hn, qy gurU dI srn qoN ibnw (ies ASWqI qoN) ^lwsI nhIN hMudI [16[",
+        "ms": "ijMnw bhuqw mn m`qIey pVHdy hn, aunHW bhuqw auhnW ƒ kSt huMdw hY[ s¤cy gurW dy bgYr moKS pRwpq nhIN huMdI["
+      },
+      "puu": {
+        "ss": "ਆਪਣੇ ਮਨ ਦੇ ਪਿੱਛੇ ਤੁਰਨ ਵਾਲੇ ਬੰਦੇ ਜਿਤਨਾ ਹੀ (ਪ੍ਰਭੂ ਦੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਤੋਂ ਖੁੰਝ ਕੇ ਮਾਇਆ ਸੰਬੰਧੀ ਹੋਰ ਹੋਰ ਲੇਖੇ) ਪੜ੍ਹਦੇ ਹਨ, ਉਤਨੀ ਹੀ ਵਧੀਕ ਅਸ਼ਾਂਤੀ ਖੱਟਦੇ ਹਨ, ਤੇ ਗੁਰੂ ਦੀ ਸਰਨ ਤੋਂ ਬਿਨਾ (ਇਸ ਅਸ਼ਾਂਤੀ ਤੋਂ) ਖ਼ਲਾਸੀ ਨਹੀਂ ਹੰੁਦੀ ।੧੬।",
+        "ft": "ਅਪਨੀ ਮਨਮੁਖਤਾ ਸੇ ਜਿਤਨਾ ਪੜੈਗਾ ਤਿਤਨਾ ਦੁਖ ਹੀ ਲਗੈਗਾ, ਸਤਗੁਰੋਂ ਬਿਨਾਂ ਮੁਕਤ ਨਹੀਂ ਹੋਏਗੀ॥੧੬॥",
+        "bdb": "ਆਪਣੇ ਮਨ ਦੇ ਪਿੱਛੇ ਤੁਰਨ ਵਾਲੇ ਬੰਦੇ ਜਿਤਨਾ ਹੀ (ਪ੍ਰਭੂ ਦੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਤੋਂ ਖੁੰਝ ਕੇ ਮਾਇਆ ਸੰਬੰਧੀ ਹੋਰ ਹੋਰ ਲੇਖੇ) ਪੜ੍ਹਦੇ ਹਨ, ਉਤਨੀ ਹੀ ਵਧੀਕ ਅਸ਼ਾਂਤੀ ਖੱਟਦੇ ਹਨ, ਤੇ ਗੁਰੂ ਦੀ ਸਰਨ ਤੋਂ ਬਿਨਾ (ਇਸ ਅਸ਼ਾਂਤੀ ਤੋਂ) ਖ਼ਲਾਸੀ ਨਹੀਂ ਹੰੁਦੀ ।੧੬।",
+        "ms": "ਜਿੰਨਾ ਬਹੁਤਾ ਮਨ ਮੱਤੀਏ ਪੜ੍ਹਦੇ ਹਨ, ਉਨ੍ਹਾਂ ਬਹੁਤਾ ਉਹਨਾਂ ਨੂੰ ਕਸ਼ਟ ਹੁੰਦਾ ਹੈ। ਸੱਚੇ ਗੁਰਾਂ ਦੇ ਬਗੈਰ ਮੋਖਸ਼ ਪ੍ਰਾਪਤ ਨਹੀਂ ਹੁੰਦੀ।"
+      },
+      "es": {
+        "sn": "Mientras más lee el arrogante Manmukj más sufre, y sin el Verdadero Guru, no es emancipado. (16)"
+      },
+      "hi": {
+        "ss": "अपने मन के पीछे चलने वाले बंदे जितना ही (प्रभू की सिफत सालाह से टूट के माया संबंधी और ही लेखे) पढ़ते रहते हैं।उतनी ही ज्यादा अशांति कमाते हैं।और गुरू की शरण के बिना (इस अशांति से) खलासी नहीं मिलती। 16।",
+        "sts": "मनमुख जितना भी पढ़ते हैं उतना ही अधिक दु:ख प्राप्त करते हैं, सच्चे गुरु के बिना उनकी जीवन-मृत्यु से मुक्ति नहीं होती।॥ १६ ॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9635,
+    "Seq": 36,
+    "header": 0,
+    "Paragraph": 19,
+    "Gurmukhi": "rwrY rwmu iciq kir mUVy ihrdY ijn@ kY riv rihAw ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 4,
+          "t": "v"
+        },
+        {
+          "p": 0,
+          "t": "y"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 4,
+          "t": "v"
+        },
+        {
+          "p": 0,
+          "t": "y"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 0,
+          "t": "v"
+        },
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "raarai raam chit kar mooRe hiradhai jin(h) kai rav rahiaa ||",
+      "hi": "रारै रामु चिति करि मूड़े हिरदै जिन्न कै रवि रहिआ ॥",
+      "ipa": "rɑræ rɑm t͡ʃɪt̪ kər muɽe hɪrəd̪æ d͡ʒɪn@ kæ rəʋ rəhɪəɑ.",
+      "ur": "رارَے رام چت کرِ مُوڑے هردَے جنھ کَے روِ رهِآ ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Rarra: Center your consciousness on the Lord, you fool; abide with those whose hearts are filled with the Lord.",
+        "ms": "R:-- O fool, remember thou the Lord, through the persons in whose heart He is abiding.",
+        "ssk": "Rarra: Center your consciousness on the Lord, you fool; abide with those whose hearts are filled with the Lord."
+      },
+      "pu": {
+        "ss": "hy mUrK! prmwqmw ƒ Awpxy ihrdy ivc vsweI r`K [ ijnHW bMidAW dy ihrdy ivc prmwqmw sdw v`sdw rihMdw hY (ijnHW ƒ pRBU sdw Xwd hY, auhnW dI sMgiq ivc rih ky) ",
+        "ft": "rwrY dÍwry khqy hYN: ijn ky ihrdy myN rmx kr rhw hY, Bwv swiKAwq hUAw hY[ hy mUrK! iqnoN duAwry rwm nwm kw icMqn kr]",
+        "bdb": "hy mUrK! prmwqmw ƒ Awpxy ihrdy ivc vsweI r`K [ ijnHW bMidAW dy ihrdy ivc prmwqmw sdw v`sdw rihMdw hY (ijnHW ƒ pRBU sdw Xwd hY, auhnW dI sMgiq ivc rih ky) ",
+        "ms": "r-hy bysmJ bMdy! qUM aunHW dy rwhIN suAwmI ƒ cyqy kr, ijnHW dy idl AMdr auh v`sdw hY["
+      },
+      "puu": {
+        "ss": "ਹੇ ਮੂਰਖ! ਪਰਮਾਤਮਾ ਨੂੰ ਆਪਣੇ ਹਿਰਦੇ ਵਿਚ ਵਸਾਈ ਰੱਖ । ਜਿਨ੍ਹਾਂ ਬੰਦਿਆਂ ਦੇ ਹਿਰਦੇ ਵਿਚ ਪਰਮਾਤਮਾ ਸਦਾ ਵੱਸਦਾ ਰਹਿੰਦਾ ਹੈ (ਜਿਨ੍ਹਾਂ ਨੂੰ ਪ੍ਰਭੂ ਸਦਾ ਯਾਦ ਹੈ, ਉਹਨਾਂ ਦੀ ਸੰਗਤਿ ਵਿਚ ਰਹਿ ਕੇ) ",
+        "ft": "ਰਾਰੈ ਦ੍ਵਾਰੇ ਕਹਤੇ ਹੈਂ: ਜਿਨ ਕੇ ਹਿਰਦੇ ਮੇਂ ਰਮਣ ਕਰ ਰਹਾ ਹੈ, ਭਾਵ ਸਾਖਿਆਤ ਹੂਆ ਹੈ। ਹੇ ਮੂਰਖ! ਤਿਨੋਂ ਦੁਆਰੇ ਰਾਮ ਨਾਮ ਕਾ ਚਿੰਤਨ ਕਰ॥",
+        "bdb": "ਹੇ ਮੂਰਖ! ਪਰਮਾਤਮਾ ਨੂੰ ਆਪਣੇ ਹਿਰਦੇ ਵਿਚ ਵਸਾਈ ਰੱਖ । ਜਿਨ੍ਹਾਂ ਬੰਦਿਆਂ ਦੇ ਹਿਰਦੇ ਵਿਚ ਪਰਮਾਤਮਾ ਸਦਾ ਵੱਸਦਾ ਰਹਿੰਦਾ ਹੈ (ਜਿਨ੍ਹਾਂ ਨੂੰ ਪ੍ਰਭੂ ਸਦਾ ਯਾਦ ਹੈ, ਉਹਨਾਂ ਦੀ ਸੰਗਤਿ ਵਿਚ ਰਹਿ ਕੇ) ",
+        "ms": "ਰ-ਹੇ ਬੇਸਮਝ ਬੰਦੇ! ਤੂੰ ਉਨ੍ਹਾਂ ਦੇ ਰਾਹੀਂ ਸੁਆਮੀ ਨੂੰ ਚੇਤੇ ਕਰ, ਜਿਨ੍ਹਾਂ ਦੇ ਦਿਲ ਅੰਦਰ ਉਹ ਵੱਸਦਾ ਹੈ।"
+      },
+      "es": {
+        "sn": "Rarra: Centra tu Conciencia en el Señor, oh tonto, habita con quienes tienen el corazón lleno del Señor. "
+      },
+      "hi": {
+        "ss": "हे मूर्ख ! परमात्मा को अपने हृदय में बसाए रख।जिन लोगों के दिल में परमात्मा सदा बसता रहता है (जिन्हें प्रभू सदा याद है। उनकी संगति में रह के)",
+        "sts": "र-हे मूर्ख ! जिनके हृदय में राम बस रहा है, उनकी संगति करके तू राम को याद कर।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9636,
+    "Seq": 37,
+    "header": 0,
+    "Paragraph": 19,
+    "Gurmukhi": "gur prswdI ijn@I rwmu pCwqw inrgux rwmu iqn@I bUiJ lihAw ]17]",
+    "Visraam": {
+      "sttm": [],
+      "igurbani": [],
+      "sttm2": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "gur parasaadhee jin(h)ee raam pachhaataa niragun raam tin(h)ee boojh lahiaa ||17||",
+      "hi": "गुर परसादी जिन्नी रामु पछाता निरगुण रामु तिन्नी बूझि लहिआ ॥१७॥",
+      "ipa": "Gʊr pərəsɑd̪i d͡ʒɪn@i rɑm pəɕɑt̪ɑ nɪrəGʊɳ rɑm t̪ɪn@i buɖ͡ʐ ləhɪəɑ.1ə7.",
+      "ur": "گُر پرسادیِ جنھیِ رام پچھاتا نرگݨ رام تنھیِ بُوجھ لهِآ ۔۔۱۷۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "By Guru's Grace, those who recognize the Lord, understand the absolute Lord. ||17||",
+        "ms": "By Guru's grace they, who recognise the Lord, they understand their Absolute God.",
+        "ssk": "By Guru's Grace, those who recognize the Lord, understand the absolute Lord. ||17||"
+      },
+      "pu": {
+        "ss": "gurU dI ikrpw nwl ijnHW (hor) bMidAW ny prmwqmw nwl sWJ pweI, auhnW mwieAw qoN inrlyp pRBU (dw Aslw) smJ ky aus nwl imlwp pRwpq kr ilAw [17[",
+        "ft": "ies pRkwr guroN kI ikRpw sy ijnoN ny srgux rUp rwm ko pCwnw hY, iqnoN gurmuKoN ny inrgux rwm ko BI bUJ lIAw hY]17]",
+        "bdb": "gurU dI ikrpw nwl ijnHW (hor) bMidAW ny prmwqmw nwl sWJ pweI, auhnW mwieAw qoN inrlyp pRBU (dw Aslw) smJ ky aus nwl imlwp pRwpq kr ilAw [17[",
+        "ms": "gurW dI dieAw duAwrw jo suAwmI ƒ isMAwxdy hn, auh suqMqr vwihgurU ƒ smJ lYNdy hn["
+      },
+      "puu": {
+        "ss": "ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਜਿਨ੍ਹਾਂ (ਹੋਰ) ਬੰਦਿਆਂ ਨੇ ਪਰਮਾਤਮਾ ਨਾਲ ਸਾਂਝ ਪਾਈ, ਉਹਨਾਂ ਮਾਇਆ ਤੋਂ ਨਿਰਲੇਪ ਪ੍ਰਭੂ (ਦਾ ਅਸਲਾ) ਸਮਝ ਕੇ ਉਸ ਨਾਲ ਮਿਲਾਪ ਪ੍ਰਾਪਤ ਕਰ ਲਿਆ ।੧੭।",
+        "ft": "ਇਸ ਪ੍ਰਕਾਰ ਗੁਰੋਂ ਕੀ ਕ੍ਰਿਪਾ ਸੇ ਜਿਨੋਂ ਨੇ ਸਰਗੁਣ ਰੂਪ ਰਾਮ ਕੋ ਪਛਾਨਾ ਹੈ, ਤਿਨੋਂ ਗੁਰਮੁਖੋਂ ਨੇ ਨਿਰਗੁਣ ਰਾਮ ਕੋ ਭੀ ਬੂਝ ਲੀਆ ਹੈ॥੧੭॥",
+        "bdb": "ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਜਿਨ੍ਹਾਂ (ਹੋਰ) ਬੰਦਿਆਂ ਨੇ ਪਰਮਾਤਮਾ ਨਾਲ ਸਾਂਝ ਪਾਈ, ਉਹਨਾਂ ਮਾਇਆ ਤੋਂ ਨਿਰਲੇਪ ਪ੍ਰਭੂ (ਦਾ ਅਸਲਾ) ਸਮਝ ਕੇ ਉਸ ਨਾਲ ਮਿਲਾਪ ਪ੍ਰਾਪਤ ਕਰ ਲਿਆ ।੧੭।",
+        "ms": "ਗੁਰਾਂ ਦੀ ਦਇਆ ਦੁਆਰਾ ਜੋ ਸੁਆਮੀ ਨੂੰ ਸਿੰਆਣਦੇ ਹਨ, ਉਹ ਸੁਤੰਤਰ ਵਾਹਿਗੁਰੂ ਨੂੰ ਸਮਝ ਲੈਂਦੇ ਹਨ।"
+      },
+      "es": {
+        "sn": "Por la Gracia del Guru, quienes reconocen al Señor entienden al Señor Absoluto. (17)"
+      },
+      "hi": {
+        "ss": "गुरू की कृपा से जिन (और) लोगों ने परमात्मा के साथ सांझ डाली।उन्होंने माया से निर्लिप प्रभू (की अस्लियत) समझ के उस से मिलाप प्राप्त कर लिया। 17।",
+        "sts": "गुरु की कृपा से जिन्होंने राम को पहचान लिया है, उन्होंने समझकर निर्गुण राम को पा लिया है॥ १७ ॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9637,
+    "Seq": 38,
+    "header": 0,
+    "Paragraph": 20,
+    "Gurmukhi": "qyrw AMqu n jweI liKAw AkQu n jweI hir kiQAw ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "teraa a(n)t na jaiee lakhiaa akath na jaiee har kathiaa ||",
+      "hi": "तेरा अंतु न जाई लखिआ अकथु न जाई हरि कथिआ ॥",
+      "ipa": "t̪erɑ əŋt̪ nə d͡ʒɑei ləkʰɪəɑ əkət̪ʰ nə d͡ʒɑei hər kət̪ʰɪəɑ.",
+      "ur": "تےرا اںت ن جاای لکھآ اکتھ ن جاای هرِ کتھِآ ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Your limits cannot be known; the indescribable Lord cannot be described.",
+        "ms": "My Master, Thine limit cannot be known. The Indescribable God cannot be described.",
+        "ssk": "Your limits cannot be known; the indescribable Lord cannot be described."
+      },
+      "pu": {
+        "ss": "hy pRBU! qyry guxW dw AMq nhIN pwieAw jw skdw [ prmwqmw dw srUp ibAwn qoN pry hY, ibAwn nhIN kIqw jw skdw [",
+        "ft": "qyrw sÍwmI jo hir hY iqs kw AMq lKw nhIN jwqw hY AOr AkQ hY, bwxI kr ky ieMdqw sy kQn nhIN kIAw jwqw hY]",
+        "bdb": "hy pRBU! qyry guxW dw AMq nhIN pwieAw jw skdw [ prmwqmw dw srUp ibAwn qoN pry hY, ibAwn nhIN kIqw jw skdw [",
+        "ms": "myry mwlk qyrw EVk jwieAw nhIN jw skdw[ nW ibAwn hox vwlw vwihgurU ibAwn nhIN kIqw jw skdw["
+      },
+      "puu": {
+        "ss": "ਹੇ ਪ੍ਰਭੂ! ਤੇਰੇ ਗੁਣਾਂ ਦਾ ਅੰਤ ਨਹੀਂ ਪਾਇਆ ਜਾ ਸਕਦਾ । ਪਰਮਾਤਮਾ ਦਾ ਸਰੂਪ ਬਿਆਨ ਤੋਂ ਪਰੇ ਹੈ, ਬਿਆਨ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ ।",
+        "ft": "ਤੇਰਾ ਸ੍ਵਾਮੀ ਜੋ ਹਰਿ ਹੈ ਤਿਸ ਕਾ ਅੰਤ ਲਖਾ ਨਹੀਂ ਜਾਤਾ ਹੈ ਔਰ ਅਕਥ ਹੈ, ਬਾਣੀ ਕਰ ਕੇ ਇੰਦਤਾ ਸੇ ਕਥਨ ਨਹੀਂ ਕੀਆ ਜਾਤਾ ਹੈ॥",
+        "bdb": "ਹੇ ਪ੍ਰਭੂ! ਤੇਰੇ ਗੁਣਾਂ ਦਾ ਅੰਤ ਨਹੀਂ ਪਾਇਆ ਜਾ ਸਕਦਾ । ਪਰਮਾਤਮਾ ਦਾ ਸਰੂਪ ਬਿਆਨ ਤੋਂ ਪਰੇ ਹੈ, ਬਿਆਨ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ ।",
+        "ms": "ਮੇਰੇ ਮਾਲਕ ਤੇਰਾ ਓੜਕ ਜਾਇਆ ਨਹੀਂ ਜਾ ਸਕਦਾ। ਨਾਂ ਬਿਆਨ ਹੋਣ ਵਾਲਾ ਵਾਹਿਗੁਰੂ ਬਿਆਨ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ।"
+      },
+      "es": {
+        "sn": "Oh Señor, Tus Límites nadie los conoce; Tu Misterio es Indescifrable."
+      },
+      "hi": {
+        "ss": "हे प्रभू ! तेरे गुणों का अंत नहीं पाया जा सकता।परमात्मा का स्वरूप बयान से परे है।बयान नहीं किया जा सकता।",
+        "sts": "हे प्रभु ! तेरा अन्त नहीं पाया जा सकता। अकथनीय हरि का कथन नहीं किया जा सकता।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9638,
+    "Seq": 39,
+    "header": 0,
+    "Paragraph": 20,
+    "Gurmukhi": "nwnk ijn@ kau siqguru imilAw iqn@ kw lyKw inbiVAw ]18]1]2]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 4,
+          "t": "v"
+        },
+        {
+          "p": 0,
+          "t": "y"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 4,
+          "t": "v"
+        },
+        {
+          "p": 0,
+          "t": "y"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "naanak jin(h) kau satigur miliaa tin(h) kaa lekhaa nibaRiaa ||18||1||2||",
+      "hi": "नानक जिन्न कउ सतिगुरु मिलिआ तिन्न का लेखा निबड़िआ ॥१८॥१॥२॥",
+      "ipa": "nɑnək d͡ʒɪn@ ko sət̪ɪGʊr mɪlɪəɑ t̪ɪn@ kɑ lekʰɑ nɪbəɽɪəɑ.1ə8.1.2.",
+      "ur": "نانک جنھ کا ستگر ملِآ تنھ کا لےکھا نبڑآ ۔۔۱۸۔۔۱۔۔۲۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "O Nanak, whose who have met the True Guru, have their accounts settled. ||18||1||2||",
+        "ms": "Nanak, they whom the True Guru meets have their account settled.",
+        "ssk": "O Nanak, whose who have met the True Guru, have their accounts settled. ||18||1||2||"
+      },
+      "pu": {
+        "ss": "hy nwnk! ijnHW ƒ siqgurU iml pey (auh inrI mwieAw dy lyKy ilKx pVHn dy QW prmwqmw dI is&iq-swlwh krn l`g pYNdy hn, ies qrHW) auhnW dy AMdroN mwieAw dy moh dy sMskwrW dw ihswb mu`k jWdw hY [18[",
+        "ft": "sRI gurU jI khqy hYN: ijn ko sqgur imlw hY, iqn sy suBwsuB krm kw lyKw inbV igAw hY ArQwq jnm mrx sy rihq hUey hYN]18]1]2]ÇCMq sbdoN kI cwl hY vw js hY AOroN ko aupdys hY[ Ar qINn pOVI myN Apnw ibrh AO cOQI myN imlwp hY[ Ar Apny ko iesqRI rUp mwn kr prmysÍr pqI pws bynqI hY:",
+        "bdb": "hy nwnk! ijnHW ƒ siqgurU iml pey (auh inrI mwieAw dy lyKy ilKx pVHn dy QW prmwqmw dI is&iq-swlwh krn l`g pYNdy hn, ies qrHW) auhnW dy AMdroN mwieAw dy moh dy sMskwrW dw ihswb mu`k jWdw hY [18[",
+        "ms": "nwnk, ijMnW ƒ s¤cy gurU jI iml pYdy hn, aunHW dw ihswb ikqwb bybwk ho jWdw hY["
+      },
+      "puu": {
+        "ss": "ਹੇ ਨਾਨਕ! ਜਿਨ੍ਹਾਂ ਨੂੰ ਸਤਿਗੁਰੂ ਮਿਲ ਪਏ (ਉਹ ਨਿਰੀ ਮਾਇਆ ਦੇ ਲੇਖੇ ਲਿਖਣ ਪੜ੍ਹਨ ਦੇ ਥਾਂ ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਕਰਨ ਲੱਗ ਪੈਂਦੇ ਹਨ, ਇਸ ਤਰ੍ਹਾਂ) ਉਹਨਾਂ ਦੇ ਅੰਦਰੋਂ ਮਾਇਆ ਦੇ ਮੋਹ ਦੇ ਸੰਸਕਾਰਾਂ ਦਾ ਹਿਸਾਬ ਮੁੱਕ ਜਾਂਦਾ ਹੈ ।੧੮।",
+        "ft": "ਸ੍ਰੀ ਗੁਰੂ ਜੀ ਕਹਤੇ ਹੈਂ: ਜਿਨ ਕੋ ਸਤਗੁਰ ਮਿਲਾ ਹੈ, ਤਿਨ ਸੇ ਸੁਭਾਸੁਭ ਕਰਮ ਕਾ ਲੇਖਾ ਨਿਬੜ ਗਿਆ ਹੈ ਅਰਥਾਤ ਜਨਮ ਮਰਣ ਸੇ ਰਹਿਤ ਹੂਏ ਹੈਂ॥੧੮॥੧॥੨॥☬ਛੰਤ ਸਬਦੋਂ ਕੀ ਚਾਲ ਹੈ ਵਾ ਜਸ ਹੈ ਔਰੋਂ ਕੋ ਉਪਦੇਸ ਹੈ। ਅਰ ਤੀਂਨ ਪੌੜੀ ਮੇਂ ਅਪਨਾ ਬਿਰਹ ਔ ਚੌਥੀ ਮੇਂ ਮਿਲਾਪ ਹੈ। ਅਰ ਅਪਨੇ ਕੋ ਇਸਤ੍ਰੀ ਰੂਪ ਮਾਨ ਕਰ ਪਰਮੇਸ੍ਵਰ ਪਤੀ ਪਾਸ ਬੇਨਤੀ ਹੈ:",
+        "bdb": "ਹੇ ਨਾਨਕ! ਜਿਨ੍ਹਾਂ ਨੂੰ ਸਤਿਗੁਰੂ ਮਿਲ ਪਏ (ਉਹ ਨਿਰੀ ਮਾਇਆ ਦੇ ਲੇਖੇ ਲਿਖਣ ਪੜ੍ਹਨ ਦੇ ਥਾਂ ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਕਰਨ ਲੱਗ ਪੈਂਦੇ ਹਨ, ਇਸ ਤਰ੍ਹਾਂ) ਉਹਨਾਂ ਦੇ ਅੰਦਰੋਂ ਮਾਇਆ ਦੇ ਮੋਹ ਦੇ ਸੰਸਕਾਰਾਂ ਦਾ ਹਿਸਾਬ ਮੁੱਕ ਜਾਂਦਾ ਹੈ ।੧੮।",
+        "ms": "ਨਾਨਕ, ਜਿੰਨਾਂ ਨੂੰ ਸੱਚੇ ਗੁਰੂ ਜੀ ਮਿਲ ਪੈਦੇ ਹਨ, ਉਨ੍ਹਾਂ ਦਾ ਹਿਸਾਬ ਕਿਤਾਬ ਬੇਬਾਕ ਹੋ ਜਾਂਦਾ ਹੈ।"
+      },
+      "es": {
+        "sn": "Dice Nanak, quien ha encontrado al Guru Verdadero, tiene la cuenta saldada. (18‑1-2)"
+      },
+      "hi": {
+        "ss": "हे नानक ! जिन्हें सतिगुरू मिल जाए (वह निरी माया के लेखे लिखने-पढ़ने की जगह परमात्मा की सिफत सालाह करने लग पड़ते हैं।इस तरह) उनके अंदर से माया के मोह के संस्कारों का हिसाब समाप्त हो जाता है। 18। 1। 2।",
+        "sts": "हे नानक ! जिन्हें सच्चा गुरु मिल गया है उनका (कर्मो का) लेखा मिट गया है॥ १८॥  १॥ २॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  }
+]

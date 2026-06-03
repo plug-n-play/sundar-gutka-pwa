@@ -12,7 +12,7 @@ const ASSETS_TO_CACHE = [
   './fonts/GurbaniAkharThickTrue.ttf',
   './fonts/GurbaniAkharHeavyTrue.ttf',
   './fonts/AnmolLipiSG.ttf',
-  './sql-wasm.wasm'
+  './data/banis.json'
 ];
 
 self.addEventListener('install', (event) => {
@@ -42,8 +42,8 @@ self.addEventListener('activate', (event) => {
 self.addEventListener('fetch', (event) => {
   const url = new URL(event.request.url);
 
-  // Special cache handling for the large database file
-  if (url.pathname.endsWith('gutka_v01.db')) {
+  // Special cache handling for the JSON database files
+  if (url.pathname.includes('/data/')) {
     event.respondWith(
       caches.open(DB_CACHE_NAME).then((cache) => {
         return cache.match(event.request).then((cachedResponse) => {

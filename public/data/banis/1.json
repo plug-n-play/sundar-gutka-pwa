@@ -1,0 +1,373 @@
+[
+  {
+    "ID": 1,
+    "Seq": 1,
+    "header": 0,
+    "Paragraph": 10,
+    "Gurmukhi": "AMimRq vyly dw jwp",
+    "Visraam": {},
+    "Transliterations": {
+      "en": "a(n)mirat vele dhaa jaap",
+      "hi": "अंमृत वेले दा जाप",
+      "ipa": "əŋmɪɹət̪ ʋele d̪ɑ d͡ʒɑp",
+      "ur": "اںمرت وےلے دا جاپ"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Recite in the Early Morning Hours"
+      },
+      "pu": {
+        "ss": null
+      },
+      "puu": {
+        "ss": null
+      },
+      "es": {
+        "sn": null
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 2,
+    "Seq": 2,
+    "header": 1,
+    "Paragraph": 20,
+    "Gurmukhi": "‚ gur mMqR ‚",
+    "Visraam": {},
+    "Transliterations": {
+      "en": " gur ma(n)tr ",
+      "hi": "‚ गुर मंत्र ‚",
+      "ipa": " Gʊr məŋt̪ɹ ",
+      "ur": "‚ گُر مںتر ‚"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "The Guru's Recitation"
+      },
+      "pu": {
+        "ss": null
+      },
+      "puu": {
+        "ss": null
+      },
+      "es": {
+        "sn": null
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 3,
+    "Seq": 3,
+    "header": 0,
+    "Paragraph": 30,
+    "Gurmukhi": "vwihgurU gur mMqR hY jip haumY KoeI[",
+    "Visraam": {
+      "sttm": [],
+      "igurbani": [],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "vaahiguroo gur ma(n)tr hai jap haumai khoiee|",
+      "hi": "वाहिगुरू गुर मंत्र है जपि हउमै खोई।",
+      "ipa": "ʋɑhɪGʊru Gʊr məŋt̪ɹ hæ d͡ʒəp hoʊmæ kʰɔei.",
+      "ur": "واهگرُو گُر مںتر هَے جپ هامَے کھوای۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "His Guru-manta is Vahiguru, whose recitation erases egotism."
+      },
+      "pu": {
+        "ss": "",
+        "ft": "",
+        "bdb": ""
+      },
+      "puu": {
+        "ss": "",
+        "ft": "",
+        "bdb": ""
+      },
+      "es": {
+        "sn": ""
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 4,
+    "Seq": 4,
+    "header": 1,
+    "Paragraph": 35,
+    "Gurmukhi": "vwihgurU",
+    "Visraam": {},
+    "Transliterations": {
+      "en": "vaahiguroo",
+      "hi": "वाहिगुरू",
+      "ipa": "ʋɑhɪGʊru",
+      "ur": "واهگرُو"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Waheguroo! Oh amazing spiritual teacher, dispeller of darkness"
+      },
+      "pu": {
+        "ss": null
+      },
+      "puu": {
+        "ss": null
+      },
+      "es": {
+        "sn": null
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 5,
+    "Seq": 5,
+    "header": 2,
+    "Paragraph": 40,
+    "Gurmukhi": "&urmwn dsmyS jI dw",
+    "Visraam": {},
+    "Transliterations": {
+      "en": "phuramaan dhasamesh jee dhaa",
+      "hi": "फ़ुरमान दसमेश जी दा",
+      "ipa": "ɸʊrəmɑn d̪əsəmeʃ d͡ʒi d̪ɑ",
+      "ur": "فُرمان دسمےش جیِ دا"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Edict of the Tenth Master"
+      },
+      "pu": {
+        "ss": null
+      },
+      "puu": {
+        "ss": null
+      },
+      "es": {
+        "sn": null
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 6,
+    "Seq": 6,
+    "header": 0,
+    "Paragraph": 50,
+    "Gurmukhi": "ibsn pd puMinXwkI kinS† KMBwXc",
+    "Visraam": {},
+    "Transliterations": {
+      "en": "bisan padh pu(n)niyaakee kanishaT kha(n)bhaayach",
+      "hi": "बिसन पद पुँनियाकी कनिश्ट खंभायच",
+      "ipa": "bɪsən pəd̪ pʊŋnɪjɑki kənɪʃəʈ kʰəŋɓɑjt͡ʃ",
+      "ur": "بِسن پد پُنّےاکیِ کنشٹ کھںبھاےچ"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Bisanapadas Raag Puniyakee Kanisht Khandbayach meters"
+      },
+      "pu": {
+        "ss": null
+      },
+      "puu": {
+        "ss": null
+      },
+      "es": {
+        "sn": null
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 7,
+    "Seq": 7,
+    "header": 0,
+    "Paragraph": 50,
+    "Gurmukhi": "klp klp pRiq AKHCr khI ]",
+    "Visraam": {},
+    "Transliterations": {
+      "en": "kalap kalap prat akhhachhar kahee ||",
+      "hi": "कलप कलप प्रति अख्हछर कही ॥",
+      "ipa": "kələp kələp pɹət̪ əkʰʰəɕər kəhi.",
+      "ur": "کلپ کلپ پرت اکھھچھر کهیِ ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "All verses and pages of the Vedas confirm this"
+      },
+      "pu": {
+        "ss": null
+      },
+      "puu": {
+        "ss": null
+      },
+      "es": {
+        "sn": null
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 8,
+    "Seq": 8,
+    "header": 0,
+    "Paragraph": 60,
+    "Gurmukhi": "sRI gur nwnk jpXo shI ]3]",
+    "Visraam": {},
+    "Transliterations": {
+      "en": "sree gur naanak japayo sahee ||3||",
+      "hi": "स्री गुर नानक जपयो सही ॥३॥",
+      "ipa": "sɹi Gʊr nɑnək d͡ʒəpəjɔ səhi.3.",
+      "ur": "سریِ گُر نانک جپےو سهیِ ۔۔۳۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Siri Guru Nanak also repeated upon this"
+      },
+      "pu": {
+        "ss": null
+      },
+      "puu": {
+        "ss": null
+      },
+      "es": {
+        "sn": null
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9,
+    "Seq": 9,
+    "header": 0,
+    "Paragraph": 60,
+    "Gurmukhi": "sw mMqR pRB Kwlsh dInw ]",
+    "Visraam": {},
+    "Transliterations": {
+      "en": "saa ma(n)tr prabh khaalaseh dheenaa ||",
+      "hi": "सा मंत्र प्रभ खालसह दीना ॥",
+      "ipa": "sɑ məŋt̪ɹ pɹəɓ kʰɑləsəh d̪inɑ.",
+      "ur": "سا مںتر پربھ کھالسه دیٍنا ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "This is the same chant [I have] given to the Khalsa"
+      },
+      "pu": {
+        "ss": null
+      },
+      "puu": {
+        "ss": null
+      },
+      "es": {
+        "sn": null
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 10,
+    "Seq": 10,
+    "header": 0,
+    "Paragraph": 60,
+    "Gurmukhi": "vwihgurU pd pwvn kInw ]4]",
+    "Visraam": {},
+    "Transliterations": {
+      "en": "vaahiguroo padh paavan keenaa ||4||",
+      "hi": "वाहिगुरू पद पावन कीना ॥४॥",
+      "ipa": "ʋɑhɪGʊru pəd̪ pɑʋən kinɑ.4.",
+      "ur": "واهگرُو پد پاون کیٍنا ۔۔۴۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "by electing Vaheguru as the most supreme"
+      },
+      "pu": {
+        "ss": null
+      },
+      "puu": {
+        "ss": null
+      },
+      "es": {
+        "sn": null
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 11,
+    "Seq": 11,
+    "header": 6,
+    "Paragraph": 100,
+    "Gurmukhi": "(sRI srb loh gRMQ pw. 10 pMnw 642)",
+    "Visraam": {},
+    "Transliterations": {
+      "en": "(sree sarab loh gra(n)th paa. 10 pa(n)naa 642)",
+      "hi": "(स्री सरब लोह ग्रंथ पा. १० पंना ६४२)",
+      "ipa": "(sɹi sərəb lɔh Gɹəŋt̪ʰ pɑ 1ə0 pəŋnɑ 6ə4ə2)",
+      "ur": "(سریِ سرب لوه گرںتھ پا. ۱۰ پنّا ۶۴۲)"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "(Sri Sarbloh Granth, Tenth Master, Page 642)"
+      },
+      "pu": {
+        "ss": null
+      },
+      "puu": {
+        "ss": null
+      },
+      "es": {
+        "sn": null
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  }
+]

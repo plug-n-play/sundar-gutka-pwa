@@ -1,0 +1,1743 @@
+[
+  {
+    "ID": 9497,
+    "Seq": 1,
+    "header": 1,
+    "Paragraph": 1,
+    "Gurmukhi": "<> siqgur pRswid ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "ikOankaar satigur prasaadh ||",
+      "hi": "ੴ सतिगुर प्रसादि ॥",
+      "ipa": "ɪk oəŋkɑɾ sət̪ɪGʊr pɹəsɑd̪.",
+      "ur": "اک اونکار ستگر پرساد ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "One Universal Creator God. By The Grace Of The True Guru:",
+        "ms": "There is but one God. By True Guru's grace. He is obtained to.",
+        "ssk": "One Universal Creator God. By The Grace Of The True Guru:"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": "vwihgurU kyvl ie`k hY[ s¤cy gurW dI dieAw duAwrw auh pwieAw jWdw hY["
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": "ਵਾਹਿਗੁਰੂ ਕੇਵਲ ਇੱਕ ਹੈ। ਸੱਚੇ ਗੁਰਾਂ ਦੀ ਦਇਆ ਦੁਆਰਾ ਉਹ ਪਾਇਆ ਜਾਂਦਾ ਹੈ।"
+      },
+      "es": {
+        "sn": "Un Dios Creador del Universo, por la Gracia del Verdadero Guru"
+      },
+      "hi": {
+        "ss": "",
+        "sts": "ईश्वर एक है, जिसे सतगुरु की कृपा से पाया जा सकता है।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": "above"
+  },
+  {
+    "ID": 9499,
+    "Seq": 2,
+    "header": 2,
+    "Paragraph": 2,
+    "Gurmukhi": "Awsw mhlw 5 ibrhVy Gru 4 CMqw kI jiq",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 2,
+          "t": "v"
+        },
+        {
+          "p": 5,
+          "t": "v"
+        },
+        {
+          "p": 0,
+          "t": "y"
+        },
+        {
+          "p": 3,
+          "t": "y"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 2,
+          "t": "v"
+        },
+        {
+          "p": 5,
+          "t": "v"
+        },
+        {
+          "p": 0,
+          "t": "y"
+        },
+        {
+          "p": 3,
+          "t": "y"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "aasaa mahalaa panjavaa birahaRe ghar chauthhaa chha(n)taa kee jat",
+      "hi": "आसा महला ५ बिरहड़े घरु ४ छंता की जति",
+      "ipa": "əɑsɑ məhəlɑ pəŋd͡ʒʋɑ bɪrəhəɽe Gʰər 4 ɕəŋt̪ɑ ki d͡ʒət̪",
+      "ur": "آسا مهلا ۵ برهڑے گھر ۴ چھںتا کیِ جت"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Aasaa, Fifth Mehla, Birharray ~ Songs Of Separation, To Be Sung In The Tune Of The Chhants. Fourth House:",
+        "ms": "Asa 5th Guru. Separation hymns on the tune of the Chhands (Metre).",
+        "ssk": "Aasaa, Fifth Mehl, Birharray ~ Songs Of Separation, To Be Sung In The Tune Of The Chhants. Fourth House:"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "jo ivXog dsw myN vwk khy jw my aun kw nwm ibrhVy hYN vw eyh BI eyk CMdo kI jwqI hY[",
+        "bdb": null,
+        "ms": "Awsw pMjvIN pwqSwhI[ ivCoVy dy Sbd, CMdW dI sur auqy["
+      },
+      "puu": {
+        "ss": null,
+        "ft": "ਜੋ ਵਿਯੋਗ ਦਸਾ ਮੇਂ ਵਾਕ ਕਹੇ ਜਾ ਮੇ ਉਨ ਕਾ ਨਾਮ ਬਿਰਹੜੇ ਹੈਂ ਵਾ ਏਹ ਭੀ ਏਕ ਛੰਦੋ ਕੀ ਜਾਤੀ ਹੈ।",
+        "bdb": null,
+        "ms": "ਆਸਾ ਪੰਜਵੀਂ ਪਾਤਸ਼ਾਹੀ। ਵਿਛੋੜੇ ਦੇ ਸ਼ਬਦ, ਛੰਦਾਂ ਦੀ ਸੁਰ ਉਤੇ।"
+      },
+      "es": {
+        "sn": "Asa, Mejl Guru Aryan, Quinto Canal Divino, Bijare. (Cantos de Separación para ser recitados en el tono de Chants, Cuarta Casa)"
+      },
+      "hi": {
+        "ss": "",
+        "sts": "आसा महला ५ बिरहड़े घरु ४ छंता की जति"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9500,
+    "Seq": 3,
+    "header": 1,
+    "Paragraph": 3,
+    "Gurmukhi": "<> siqgur pRswid ]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 0,
+          "t": "v"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "ikOankaar satigur prasaadh ||",
+      "hi": "ੴ सतिगुर प्रसादि ॥",
+      "ipa": "ɪk oəŋkɑɾ sət̪ɪGʊr pɹəsɑd̪.",
+      "ur": "اک اونکار ستگر پرساد ۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "One Universal Creator God. By The Grace Of The True Guru:",
+        "ms": "There is but one God. By True Guru's grace. He is obtained to.",
+        "ssk": "One Universal Creator God. By The Grace Of The True Guru:"
+      },
+      "pu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": "vwihgurU kyvl ie`k hY[ s¤cy gurW dI dieAw duAwrw auh pwieAw jWdw hY["
+      },
+      "puu": {
+        "ss": null,
+        "ft": "",
+        "bdb": null,
+        "ms": "ਵਾਹਿਗੁਰੂ ਕੇਵਲ ਇੱਕ ਹੈ। ਸੱਚੇ ਗੁਰਾਂ ਦੀ ਦਇਆ ਦੁਆਰਾ ਉਹ ਪਾਇਆ ਜਾਂਦਾ ਹੈ।"
+      },
+      "es": {
+        "sn": "Un Dios Creador del Universo, por la Gracia del Verdadero Guru"
+      },
+      "hi": {
+        "ss": "",
+        "sts": "ईश्वर एक है, जिसे सतगुरु की कृपा से पाया जा सकता है।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": "current"
+  },
+  {
+    "ID": 9501,
+    "Seq": 4,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "pwrbRhmu pRBu ismrIAY ipAwry drsn kau bil jwau ]1]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "paarabraham prabh simareeaai piaare dharasan kau bal jaau ||1||",
+      "hi": "पारब्रहमु प्रभु सिमरीऐ पिआरे दरसन कउ बलि जाउ ॥१॥",
+      "ipa": "pɑrəbɹəhəm pɹəɓ sɪməriæ pɪəɑre d̪ərəsən ko bəl d͡ʒɑo.1.",
+      "ur": "پاربرهم پربھ سمریِاَے پآرے درسن کا بل جاا ۔۔۱۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Remember the Supreme Lord God, O Beloved, and make yourself a sacrifice to the Blessed Vision of His Darshan. ||1||",
+        "ms": "Contemplate on the Supreme Lord Master and be a sacrifice unto His sight, O my dear.",
+        "ssk": "Remember the Supreme Lord God, O Beloved, and make yourself a sacrifice to the Blessed Vision of His Darshan. ||1||"
+      },
+      "pu": {
+        "ss": "hy ipAwry! sdw prmwqmw dw ismrn krnw cwhIdw hY, mYN aus prmwqmw dy drsn qoN sdky jWdw hW [1[",
+        "ft": "hy ipAwry! pRBU kw ismrn krIey AOr drsn ky hyq pRB pr sy bilhwr jweIey]1]",
+        "bdb": "hy ipAwry! sdw prmwqmw dw ismrn krnw cwhIdw hY, mYN aus prmwqmw dy drsn qoN sdky jWdw hW [1[",
+        "ms": "SromxI swihb mwlk dw AwrwDn kr Aqy aus dy dIdwr auqoN GolI jw[ hy myry pRIqm!"
+      },
+      "puu": {
+        "ss": "ਹੇ ਪਿਆਰੇ! ਸਦਾ ਪਰਮਾਤਮਾ ਦਾ ਸਿਮਰਨ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ, ਮੈਂ ਉਸ ਪਰਮਾਤਮਾ ਦੇ ਦਰਸਨ ਤੋਂ ਸਦਕੇ ਜਾਂਦਾ ਹਾਂ ।੧।",
+        "ft": "ਹੇ ਪਿਆਰੇ! ਪ੍ਰਭੂ ਕਾ ਸਿਮਰਨ ਕਰੀਏ ਔਰ ਦਰਸਨ ਕੇ ਹੇਤ ਪ੍ਰਭ ਪਰ ਸੇ ਬਲਿਹਾਰ ਜਾਈਏ॥੧॥",
+        "bdb": "ਹੇ ਪਿਆਰੇ! ਸਦਾ ਪਰਮਾਤਮਾ ਦਾ ਸਿਮਰਨ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ, ਮੈਂ ਉਸ ਪਰਮਾਤਮਾ ਦੇ ਦਰਸਨ ਤੋਂ ਸਦਕੇ ਜਾਂਦਾ ਹਾਂ ।੧।",
+        "ms": "ਸ਼ਰੋਮਣੀ ਸਾਹਿਬ ਮਾਲਕ ਦਾ ਆਰਾਧਨ ਕਰ ਅਤੇ ਉਸ ਦੇ ਦੀਦਾਰ ਉਤੋਂ ਘੋਲੀ ਜਾ। ਹੇ ਮੇਰੇ ਪ੍ਰੀਤਮ!"
+      },
+      "es": {
+        "sn": "Vamos a contemplar a nuestro Señor Trascendente, a nuestro Maestro Verdadero y ofrezcamos nuestro ser en sacrificio a la Visión de Su Darshan. (1)"
+      },
+      "hi": {
+        "ss": "हे प्यारे ! सदा परमात्मा का सिमरन करना चाहिए।मैं उस परमात्मा के दर्शन से सदके जाता हूँ। 1।",
+        "sts": "हे प्यारे ! हमेशा परब्रह्म प्रभु को ही याद करना चाहिए। मैं उस भगवान् के दर्शनों पर बलिहारी जाता हूँ। १॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9502,
+    "Seq": 5,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "ijsu ismrq duK bIsrih ipAwry so ikau qjxw jwie ]2]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "jis simarat dhukh beesareh piaare so kiau tajanaa jai ||2||",
+      "hi": "जिसु सिमरत दुख बीसरहि पिआरे सो किउ तजणा जाइ ॥२॥",
+      "ipa": "d͡ʒɪs sɪmərət̪ d̪ʊkʰ bisərəh pɪəɑre sɔ kɪo t̪əd͡ʒəɳɑ d͡ʒɑeɪ.2.",
+      "ur": "جِس سمرت دُکھ بیِسره پآرے سو کا تجݨا جاِا ۔۔۲۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Remembering Him, sorrows are forgotten, O Beloved; how can one forsake Him? ||2||",
+        "ms": "How can He be forsaken, O dear, by remembering whom sorrow are forgotten?",
+        "ssk": "Remembering Him, sorrows are forgotten, O Beloved; how can one forsake Him? ||2||"
+      },
+      "pu": {
+        "ss": "hy ipAwry! ijs prmwqmw dw ismrn kIiqAW swry du`K Bu`l jWdy hn, aus ƒ C`fxw nhIN cwhIdw [2[",
+        "ft": "hy ipAwry! ijs ky ismrny sy sB duK BUl jwqy hYN aus ky ismrn ko kYsy iqAwgÎw jwvY ArQwq nw qXwgIXy]2]",
+        "bdb": "hy ipAwry! ijs prmwqmw dw ismrn kIiqAW swry du`K Bu`l jWdy hn, aus ƒ C`fxw nhIN cwhIdw [2[",
+        "ms": "auh iks qrHW iqAwigAw jw skdw hY hy pRIqm! ijsdw icMqn krn duAwrw gm Bu`l jWdy hn["
+      },
+      "puu": {
+        "ss": "ਹੇ ਪਿਆਰੇ! ਜਿਸ ਪਰਮਾਤਮਾ ਦਾ ਸਿਮਰਨ ਕੀਤਿਆਂ ਸਾਰੇ ਦੁੱਖ ਭੁੱਲ ਜਾਂਦੇ ਹਨ, ਉਸ ਨੂੰ ਛੱਡਣਾ ਨਹੀਂ ਚਾਹੀਦਾ ।੨।",
+        "ft": "ਹੇ ਪਿਆਰੇ! ਜਿਸ ਕੇ ਸਿਮਰਨੇ ਸੇ ਸਭ ਦੁਖ ਭੂਲ ਜਾਤੇ ਹੈਂ ਉਸ ਕੇ ਸਿਮਰਨ ਕੋ ਕੈਸੇ ਤਿਆਗ੍ਯਾ ਜਾਵੈ ਅਰਥਾਤ ਨਾ ਤਯਾਗੀਯੇ॥੨॥",
+        "bdb": "ਹੇ ਪਿਆਰੇ! ਜਿਸ ਪਰਮਾਤਮਾ ਦਾ ਸਿਮਰਨ ਕੀਤਿਆਂ ਸਾਰੇ ਦੁੱਖ ਭੁੱਲ ਜਾਂਦੇ ਹਨ, ਉਸ ਨੂੰ ਛੱਡਣਾ ਨਹੀਂ ਚਾਹੀਦਾ ।੨।",
+        "ms": "ਉਹ ਕਿਸ ਤਰ੍ਹਾਂ ਤਿਆਗਿਆ ਜਾ ਸਕਦਾ ਹੈ ਹੇ ਪ੍ਰੀਤਮ! ਜਿਸਦਾ ਚਿੰਤਨ ਕਰਨ ਦੁਆਰਾ ਗਮ ਭੁੱਲ ਜਾਂਦੇ ਹਨ।"
+      },
+      "es": {
+        "sn": "Meditando en Él, nuestra aflicción termina; oh hermano, ¿por qué abandonar a tal Señor? (2)"
+      },
+      "hi": {
+        "ss": "हे प्यारे ! जिस परमात्मा का सिमरन करने से सारे दुख भूल जाते हैं।उसे त्यागना नहीं चाहिए। 2।",
+        "sts": "जिस भगवान् का सिमरन करने से दु:ख-क्लेश भूल जाते हैं, उसे कैसे त्यागा जा सकता है। २॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9503,
+    "Seq": 6,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "iehu qnu vycI sMq pih ipAwry pRIqmu dyie imlwie ]3]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 5,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 5,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 5,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "eih tan vechee sa(n)t peh piaare preetam dhei milai ||3||",
+      "hi": "इहु तनु वेची संत पहि पिआरे प्रीतमु देइ मिलाइ ॥३॥",
+      "ipa": "eɪh t̪ən ʋet͡ʃi səŋt̪ pəh pɪəɑre pɹit̪əm d̪eeɪ mɪlɑeɪ.3.",
+      "ur": "ِاهُ تن وےچیِ سںت پهِ پآرے پریِتم دےا ملاا ۔۔۳۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "I would sell this body to the Saint, O Beloved, if he would lead me to my Dear Lord. ||3||",
+        "ms": "O dear, I would sell this body to the saint, if he causes me to meet my Beloved.",
+        "ssk": "I would sell this body to the Saint, O Beloved, if he would lead me to my Dear Lord. ||3||"
+      },
+      "pu": {
+        "ss": "hy ipAwry! mYN qW Awpxw ieh srIr aus gurU dy pws vycx ƒ iqAwr hW ijhVw pRIqm-pRBU nwl imlw dyNdw hY [3[",
+        "ft": "hy ipAwry! ies srIr ko gurU sMq ky pws byc dIjIey ArQwq Apnw sÍqÍ iesmyN nw rKIey AOr ieh Ardws sMqoN sy krIey ik muJy ipAwry sy imlwp krwie dyhu]3]",
+        "bdb": "hy ipAwry! mYN qW Awpxw ieh srIr aus gurU dy pws vycx ƒ iqAwr hW ijhVw pRIqm-pRBU nwl imlw dyNdw hY [3[",
+        "ms": "myry ipAwirAw! ieh dyh mYN swDUAW kol &roKq kr idAWgw[ jykr auh mYƒ myry idlbr nwl imlw dyx["
+      },
+      "puu": {
+        "ss": "ਹੇ ਪਿਆਰੇ! ਮੈਂ ਤਾਂ ਆਪਣਾ ਇਹ ਸਰੀਰ ਉਸ ਗੁਰੂ ਦੇ ਪਾਸ ਵੇਚਣ ਨੂੰ ਤਿਆਰ ਹਾਂ ਜਿਹੜਾ ਪ੍ਰੀਤਮ-ਪ੍ਰਭੂ ਨਾਲ ਮਿਲਾ ਦੇਂਦਾ ਹੈ ।੩।",
+        "ft": "ਹੇ ਪਿਆਰੇ! ਇਸ ਸਰੀਰ ਕੋ ਗੁਰੂ ਸੰਤ ਕੇ ਪਾਸ ਬੇਚ ਦੀਜੀਏ ਅਰਥਾਤ ਅਪਨਾ ਸ੍ਵਤ੍ਵ ਇਸਮੇਂ ਨਾ ਰਖੀਏ ਔਰ ਇਹ ਅਰਦਾਸ ਸੰਤੋਂ ਸੇ ਕਰੀਏ ਕਿ ਮੁਝੇ ਪਿਆਰੇ ਸੇ ਮਿਲਾਪ ਕਰਾਇ ਦੇਹੁ॥੩॥",
+        "bdb": "ਹੇ ਪਿਆਰੇ! ਮੈਂ ਤਾਂ ਆਪਣਾ ਇਹ ਸਰੀਰ ਉਸ ਗੁਰੂ ਦੇ ਪਾਸ ਵੇਚਣ ਨੂੰ ਤਿਆਰ ਹਾਂ ਜਿਹੜਾ ਪ੍ਰੀਤਮ-ਪ੍ਰਭੂ ਨਾਲ ਮਿਲਾ ਦੇਂਦਾ ਹੈ ।੩।",
+        "ms": "ਮੇਰੇ ਪਿਆਰਿਆ! ਇਹ ਦੇਹ ਮੈਂ ਸਾਧੂਆਂ ਕੋਲ ਫ਼ਰੋਖਤ ਕਰ ਦਿਆਂਗਾ। ਜੇਕਰ ਉਹ ਮੈਨੂੰ ਮੇਰੇ ਦਿਲਬਰ ਨਾਲ ਮਿਲਾ ਦੇਣ।"
+      },
+      "es": {
+        "sn": "Entrégate al Santo, Él te puede guiar hacia tu Amor. (3)"
+      },
+      "hi": {
+        "ss": "हे प्यारे ! मैं तो अपना ये शरीर उस गुरू के पास बेचने को तैयार हूँ जो प्रीतम-प्रभू से मिला देता है। 3।",
+        "sts": "अपना यह तन मैं उस संत के पास बेचने को तत्पर हूँ यदि वह मुझे मेरे प्रियतम प्रभु से मिला दे। ३॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9504,
+    "Seq": 7,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "suK sIgwr ibiKAw ky PIky qij Cofy myrI mwie ]4]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "sukh seegaar bikhiaa ke feeke taj chhodde meree mai ||4||",
+      "hi": "सुख सीगार बिखिआ के फीके तजि छोडे मेरी माइ ॥४॥",
+      "ipa": "sʊkʰ siGɑr bɪkʰɪəɑ ke fike t̪əd͡ʒ ɕɔɖe meri mɑeɪ.4.",
+      "ur": "سُکھ سیِگار بکھآ کے پھیِکے تجِ چھوڈے مےریِ ماا ۔۔۴۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "The pleasures and adornments of corruption are insipid and useless; I have forsaken and abandoned them, O my Mother. ||4||",
+        "ms": "The pleasures and decoration of sin are futile and I have forsaken and abandoned them, O Mother.",
+        "ssk": "The pleasures and adornments of corruption are insipid and useless; I have forsaken and abandoned them, O my Mother. ||4||"
+      },
+      "pu": {
+        "ss": "hy myrI mW! mYN mwieAw dy suK mwieAw dy suhj sB C`f id`qy hn (nwm-rs dy twkry qy ieh swry) by-suAwdy hn [4[",
+        "ft": "hy (myrI mwie) myry BweI sMq jno! ibKÎoN ky ijqny suK AOr isMgwr hYN sB (PIky) inrs hYN, qW qy hy myrI mwie! mYny iqAwg Cofy hYN]4]",
+        "bdb": "hy myrI mW! mYN mwieAw dy suK mwieAw dy suhj sB C`f id`qy hn (nwm-rs dy twkry qy ieh swry) by-suAwdy hn [4[",
+        "ms": "pwpW dIAW KuSIAW Aqy hwr iSMgwr iPkly hn[ auhnW dI PwrKqI Aqy qlWjlI dy id`qI hY, hy mwqw!"
+      },
+      "puu": {
+        "ss": "ਹੇ ਮੇਰੀ ਮਾਂ! ਮੈਂ ਮਾਇਆ ਦੇ ਸੁਖ ਮਾਇਆ ਦੇ ਸੁਹਜ ਸਭ ਛੱਡ ਦਿੱਤੇ ਹਨ (ਨਾਮ-ਰਸ ਦੇ ਟਾਕਰੇ ਤੇ ਇਹ ਸਾਰੇ) ਬੇ-ਸੁਆਦੇ ਹਨ ।੪।",
+        "ft": "ਹੇ (ਮੇਰੀ ਮਾਇ) ਮੇਰੇ ਭਾਈ ਸੰਤ ਜਨੋ! ਬਿਖ੍ਯੋਂ ਕੇ ਜਿਤਨੇ ਸੁਖ ਔਰ ਸਿੰਗਾਰ ਹੈਂ ਸਭ (ਫੀਕੇ) ਨਿਰਸ ਹੈਂ, ਤਾਂ ਤੇ ਹੇ ਮੇਰੀ ਮਾਇ! ਮੈਨੇ ਤਿਆਗ ਛੋਡੇ ਹੈਂ॥੪॥",
+        "bdb": "ਹੇ ਮੇਰੀ ਮਾਂ! ਮੈਂ ਮਾਇਆ ਦੇ ਸੁਖ ਮਾਇਆ ਦੇ ਸੁਹਜ ਸਭ ਛੱਡ ਦਿੱਤੇ ਹਨ (ਨਾਮ-ਰਸ ਦੇ ਟਾਕਰੇ ਤੇ ਇਹ ਸਾਰੇ) ਬੇ-ਸੁਆਦੇ ਹਨ ।੪।",
+        "ms": "ਪਾਪਾਂ ਦੀਆਂ ਖੁਸ਼ੀਆਂ ਅਤੇ ਹਾਰ ਸ਼ਿੰਗਾਰ ਫਿਕਲੇ ਹਨ। ਉਹਨਾਂ ਦੀ ਫਾਰਖਤੀ ਅਤੇ ਤਲਾਂਜਲੀ ਦੇ ਦਿੱਤੀ ਹੈ, ਹੇ ਮਾਤਾ!"
+      },
+      "es": {
+        "sn": "Y deja ya los placeres insípidos de Maya y sus dulces embrujos. (4)"
+      },
+      "hi": {
+        "ss": "हे मेरी माँ ! मैंने माया के सुख माया के सुहज सभ त्याग दिए हैं (नाम-रस के मुकाबले में ये सारे) बेस्वादे हैं। 4।",
+        "sts": "हे मेरी माता! विकारों से युक्त मोह-माया के सभी सुख-सौन्दर्य फीके मानते हुए मैंने त्याग दिए हैं॥ ४॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9505,
+    "Seq": 8,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "kwmu k®oDu loBu qij gey ipAwry siqgur crnI pwie ]5]",
+    "Visraam": {
+      "sttm": [],
+      "igurbani": [],
+      "sttm2": [
+        {
+          "p": 5,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "kaam karodh lobh taj ge piaare satigur charanee pai ||5||",
+      "hi": "कामु क्रोधु लोभु तजि गए पिआरे सतिगुर चरनी पाइ ॥५॥",
+      "ipa": "kɑm kəʳɔt̪ lɔɓ t̪əd͡ʒ Gee pɪəɑre sət̪ɪGʊr t͡ʃərəni pɑeɪ.5.",
+      "ur": "کام ک®ودھ لوبھ تج گاے پآرے ستِگر چرنیِ پاا ۔۔۵۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Lust, anger and greed left me, O Beloved, when I fell at the Feet of the True Guru. ||5||",
+        "ms": "Lust, wrath and avarice forsook me O dear when I fell at the feet of the True Guru.",
+        "ssk": "Lust, anger and greed left me, O Beloved, when I fell at the Feet of the True Guru. ||5||"
+      },
+      "pu": {
+        "ss": "hy ipAwry! jdoN dw mYN gurU dI crnIN jw ipAw hW, kwm kRoD loB Awidk swry myrw KihVw C`f gey hn [5[",
+        "ft": "hy ipAwry! jb sqguroN ny crnI pwie lIey qb kwm kRoDwid sBI hm ko Cof kr cly gey hYN]5]",
+        "bdb": "hy ipAwry! jdoN dw mYN gurU dI crnIN jw ipAw hW, kwm kRoD loB Awidk swry myrw KihVw C`f gey hn [5[",
+        "ms": "jd mYN s¤cy gurW dy pYrW qy Fih ipAw, hy pRIqm! qW imQn hulws hrK Aqy lwlc mYƒ C`f gey["
+      },
+      "puu": {
+        "ss": "ਹੇ ਪਿਆਰੇ! ਜਦੋਂ ਦਾ ਮੈਂ ਗੁਰੂ ਦੀ ਚਰਨੀਂ ਜਾ ਪਿਆ ਹਾਂ, ਕਾਮ ਕ੍ਰੋਧ ਲੋਭ ਆਦਿਕ ਸਾਰੇ ਮੇਰਾ ਖਹਿੜਾ ਛੱਡ ਗਏ ਹਨ ।੫।",
+        "ft": "ਹੇ ਪਿਆਰੇ! ਜਬ ਸਤਗੁਰੋਂ ਨੇ ਚਰਨੀ ਪਾਇ ਲੀਏ ਤਬ ਕਾਮ ਕ੍ਰੋਧਾਦਿ ਸਭੀ ਹਮ ਕੋ ਛੋਡ ਕਰ ਚਲੇ ਗਏ ਹੈਂ॥੫॥",
+        "bdb": "ਹੇ ਪਿਆਰੇ! ਜਦੋਂ ਦਾ ਮੈਂ ਗੁਰੂ ਦੀ ਚਰਨੀਂ ਜਾ ਪਿਆ ਹਾਂ, ਕਾਮ ਕ੍ਰੋਧ ਲੋਭ ਆਦਿਕ ਸਾਰੇ ਮੇਰਾ ਖਹਿੜਾ ਛੱਡ ਗਏ ਹਨ ।੫।",
+        "ms": "ਜਦ ਮੈਂ ਸੱਚੇ ਗੁਰਾਂ ਦੇ ਪੈਰਾਂ ਤੇ ਢਹਿ ਪਿਆ, ਹੇ ਪ੍ਰੀਤਮ! ਤਾਂ ਮਿਥਨ ਹੁਲਾਸ ਹਰਖ ਅਤੇ ਲਾਲਚ ਮੈਨੂੰ ਛੱਡ ਗਏ।"
+      },
+      "es": {
+        "sn": "Deja ya tu lujuria, tu enojo, tu envidia y póstrate a los Pies del Guru. (5)"
+      },
+      "hi": {
+        "ss": "हे प्यारे ! जब से मैं गुरू के चरणों में जा लगा हूँ।काम।क्रोध।लोभ।मोह सारे मेरा पीछा छोड़ गए हैं। 5।",
+        "sts": "सच्चे गुरु के चरणों में लगने से काम, क्रोध एवं लोभ मुझे छोड़कर चले गए हैं। ५॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9506,
+    "Seq": 9,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "jo jn rwqy rwm isau ipAwry Anq n kwhU jwie ]6]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 5,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 5,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 5,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "jo jan raate raam siau piaare anat na kaahoo jai ||6||",
+      "hi": "जो जन राते राम सिउ पिआरे अनत न काहू जाइ ॥६॥",
+      "ipa": "d͡ʒɔ d͡ʒən rɑt̪e rɑm sɪo pɪəɑre ənət̪ nə kɑhu d͡ʒɑeɪ.6.",
+      "ur": "جو جن راتے رام سا پآرے انت ن کاهُو جاا ۔۔۶۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Those humble beings who are imbued with the Lord, O Beloved, do not go anywhere else. ||6||",
+        "ms": "The persons, who are imbued with the Lord, O dear, go not anywhere else.",
+        "ssk": "Those humble beings who are imbued with the Lord, O Beloved, do not go anywhere else. ||6||"
+      },
+      "pu": {
+        "ss": "hy ipAwry! jyhVy mnu`K prmwqmw dy pRym-rMg nwl rMgy jWdy hn (prmwqmw ƒ C`f ky auhnW ivcoN koeI BI) iksy hor QW nhIN jWdw ",
+        "ft": "hy ipAwry! jo dws rwm ky swQ rwqy hYN, so iPr AOr jgW nhIN jwqy hYN]6]",
+        "bdb": "hy ipAwry! jyhVy mnu`K prmwqmw dy pRym-rMg nwl rMgy jWdy hn (prmwqmw ƒ C`f ky auhnW ivcoN koeI BI) iksy hor QW nhIN jWdw ",
+        "ms": "ijhVy purS pRBU nwl rMgIjy hn hy pRIqm! auh hor ikDry nhIN jWdy["
+      },
+      "puu": {
+        "ss": "ਹੇ ਪਿਆਰੇ! ਜੇਹੜੇ ਮਨੁੱਖ ਪਰਮਾਤਮਾ ਦੇ ਪ੍ਰੇਮ-ਰੰਗ ਨਾਲ ਰੰਗੇ ਜਾਂਦੇ ਹਨ (ਪਰਮਾਤਮਾ ਨੂੰ ਛੱਡ ਕੇ ਉਹਨਾਂ ਵਿਚੋਂ ਕੋਈ ਭੀ) ਕਿਸੇ ਹੋਰ ਥਾਂ ਨਹੀਂ ਜਾਂਦਾ ",
+        "ft": "ਹੇ ਪਿਆਰੇ! ਜੋ ਦਾਸ ਰਾਮ ਕੇ ਸਾਥ ਰਾਤੇ ਹੈਂ, ਸੋ ਫਿਰ ਔਰ ਜਗਾਂ ਨਹੀਂ ਜਾਤੇ ਹੈਂ॥੬॥",
+        "bdb": "ਹੇ ਪਿਆਰੇ! ਜੇਹੜੇ ਮਨੁੱਖ ਪਰਮਾਤਮਾ ਦੇ ਪ੍ਰੇਮ-ਰੰਗ ਨਾਲ ਰੰਗੇ ਜਾਂਦੇ ਹਨ (ਪਰਮਾਤਮਾ ਨੂੰ ਛੱਡ ਕੇ ਉਹਨਾਂ ਵਿਚੋਂ ਕੋਈ ਭੀ) ਕਿਸੇ ਹੋਰ ਥਾਂ ਨਹੀਂ ਜਾਂਦਾ ",
+        "ms": "ਜਿਹੜੇ ਪੁਰਸ਼ ਪ੍ਰਭੂ ਨਾਲ ਰੰਗੀਜੇ ਹਨ ਹੇ ਪ੍ਰੀਤਮ! ਉਹ ਹੋਰ ਕਿਧਰੇ ਨਹੀਂ ਜਾਂਦੇ।"
+      },
+      "es": {
+        "sn": "Aquéllos que están imbuidos en su Señor no vacilan más. (6)"
+      },
+      "hi": {
+        "ss": "हे प्यारे ! जो मनुष्य परमात्मा के प्रेम रंग से रंगे जाते हैं (परमात्मा को छोड़ के उनमें से कोई भी) किसी और जगह नहीं जाता। 6।",
+        "sts": "जो लोग राम के साथ अनुरक्त हुए हैं, वे अन्य कहीं नहीं जाते। ६।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9507,
+    "Seq": 10,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "hir rsu ijn@I cwiKAw ipAwry iqRpiq rhy AwGwie ]7]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "har ras jin(h)ee chaakhiaa piaare tirapat rahe aaghai ||7||",
+      "hi": "हरि रसु जिन्नी चाखिआ पिआरे तृपति रहे आघाइ ॥७॥",
+      "ipa": "hər rəs d͡ʒɪn@i t͡ʃɑkʰɪəɑ pɪəɑre t̪ɪɹəpət̪ rəhe əɑGʰɑeɪ.7.",
+      "ur": "هر رس جنھیِ چاکھآ پآرے ترپت رهے آگھاِا ۔۔۷۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Those who have tasted the Lord's sublime essence, O Beloved, remain satisfied and satiated. ||7||",
+        "ms": "They who have tasted God's essence, O dear, remain satiated and sated.",
+        "ssk": "Those who have tasted the Lord's sublime essence, O Beloved, remain satisfied and satiated. ||7||"
+      },
+      "pu": {
+        "ss": "hy BweI! jyhVy mnu`K prmwqmw dy nwm dw suAwd c`K lYNdy hn auh (mwiek pdwrQW vloN) iq®pq ho jWdy hn, r`j jWdy hn ",
+        "ft": "hy ipAwry! ijnoN ny hir rs kw sÍwd ciKAw hY, so sMq mn bwxI kr iqRpq ho rhy hYN]7]",
+        "bdb": "hy BweI! jyhVy mnu`K prmwqmw dy nwm dw suAwd c`K lYNdy hn auh (mwiek pdwrQW vloN) iq®pq ho jWdy hn, r`j jWdy hn ",
+        "ms": "ijhnW ny vwihgurU dy jOhr ƒ c`iKAw hY auh r¤jy qy DRwpy rihMdy hn, hy ipAwirAw!"
+      },
+      "puu": {
+        "ss": "ਹੇ ਭਾਈ! ਜੇਹੜੇ ਮਨੁੱਖ ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਦਾ ਸੁਆਦ ਚੱਖ ਲੈਂਦੇ ਹਨ ਉਹ (ਮਾਇਕ ਪਦਾਰਥਾਂ ਵਲੋਂ) ਤ੍ਰਿਪਤ ਹੋ ਜਾਂਦੇ ਹਨ, ਰੱਜ ਜਾਂਦੇ ਹਨ ",
+        "ft": "ਹੇ ਪਿਆਰੇ! ਜਿਨੋਂ ਨੇ ਹਰਿ ਰਸ ਕਾ ਸ੍ਵਾਦ ਚਖਿਆ ਹੈ, ਸੋ ਸੰਤ ਮਨ ਬਾਣੀ ਕਰ ਤ੍ਰਿਪਤ ਹੋ ਰਹੇ ਹੈਂ॥੭॥",
+        "bdb": "ਹੇ ਭਾਈ! ਜੇਹੜੇ ਮਨੁੱਖ ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਦਾ ਸੁਆਦ ਚੱਖ ਲੈਂਦੇ ਹਨ ਉਹ (ਮਾਇਕ ਪਦਾਰਥਾਂ ਵਲੋਂ) ਤ੍ਰਿਪਤ ਹੋ ਜਾਂਦੇ ਹਨ, ਰੱਜ ਜਾਂਦੇ ਹਨ ",
+        "ms": "ਜਿਹਨਾਂ ਨੇ ਵਾਹਿਗੁਰੂ ਦੇ ਜੌਹਰ ਨੂੰ ਚੱਖਿਆ ਹੈ ਉਹ ਰੱਜੇ ਤੇ ਧ੍ਰਾਪੇ ਰਹਿੰਦੇ ਹਨ, ਹੇ ਪਿਆਰਿਆ!"
+      },
+      "es": {
+        "sn": "Sí, aquéllos que probaron la Esencia del Señor fueron saciados e iluminados. (7)"
+      },
+      "hi": {
+        "ss": "हे भाई ! जो मनुष्य परमात्मा के नाम का स्वाद चख लेते हैं वह (मायावी पदार्थों से) तृप्त हो जाते हैं।अघा जाते हैं। 7।",
+        "sts": "जिन्होंने हरि रस को चखा है, वे तृप्त एवं संतुष्ट रहते हैं। ७ ॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9508,
+    "Seq": 11,
+    "header": 0,
+    "Paragraph": 4,
+    "Gurmukhi": "AMclu gihAw swD kw nwnk BY swgru pwir prwie ]8]1]3]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 4,
+          "t": "v"
+        },
+        {
+          "p": 3,
+          "t": "y"
+        },
+        {
+          "p": 6,
+          "t": "y"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 4,
+          "t": "v"
+        },
+        {
+          "p": 3,
+          "t": "y"
+        },
+        {
+          "p": 6,
+          "t": "y"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 3,
+          "t": "v"
+        },
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "a(n)chal gahiaa saadh kaa naanak bhai saagar paar parai ||8||1||3||",
+      "hi": "अंचलु गहिआ साध का नानक भै सागरु पारि पराइ ॥८॥१॥३॥",
+      "ipa": "əŋt͡ʃəl Gəhɪəɑ sɑt̪ə̀ kɑ nɑnək ɓæ sɑGər pɑr pərɑeɪ.8.1.3.",
+      "ur": "اںچل گهِآ سادھ کا نانک بھَے ساگر پار پراا ۔۔۸۔۔۱۔۔۳۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "One who grasps the Hem of the Gown of the Holy Saint, O Nanak, crosses over the terrible world-ocean. ||8||1||3||",
+        "ms": "He, who seizes the skirt of the saint, O Nanak, crosses over the terrible world ocean.",
+        "ssk": "One who grasps the Hem of the Gown of the Holy Saint, O Nanak, crosses over the terrible world-ocean. ||8||1||3||"
+      },
+      "pu": {
+        "ss": "hy nwnk! ijs mnu`K ny gurU dw p`lw PV ilAw auh ies iBAwnk sMswr-smuMdr qoN pwr lMG jWdw hY [8[1[3[",
+        "ft": "sRI gurU jI khqy hYN: ijnoN ny swDUEN kw (AMclu) plw pkVw hY, so sMswr rUp smuMdr sy pwr pVy hYN]8]1]3]ÇbynqI kw prkwr idKwvqy hUey khqy hYN:",
+        "bdb": "hy nwnk! ijs mnu`K ny gurU dw p`lw PV ilAw auh ies iBAwnk sMswr-smuMdr qoN pwr lMG jWdw hY [8[1[3[",
+        "ms": "jo sMqW dy p¤ly ƒ pkVdy hn, hy nwnk! auh iBAwnk sMswr dy smuMdr qoN pwr ho jWdy hn["
+      },
+      "puu": {
+        "ss": "ਹੇ ਨਾਨਕ! ਜਿਸ ਮਨੁੱਖ ਨੇ ਗੁਰੂ ਦਾ ਪੱਲਾ ਫੜ ਲਿਆ ਉਹ ਇਸ ਭਿਆਨਕ ਸੰਸਾਰ-ਸਮੁੰਦਰ ਤੋਂ ਪਾਰ ਲੰਘ ਜਾਂਦਾ ਹੈ ।੮।੧।੩।",
+        "ft": "ਸ੍ਰੀ ਗੁਰੂ ਜੀ ਕਹਤੇ ਹੈਂ: ਜਿਨੋਂ ਨੇ ਸਾਧੂਓਂ ਕਾ (ਅੰਚਲੁ) ਪਲਾ ਪਕੜਾ ਹੈ, ਸੋ ਸੰਸਾਰ ਰੂਪ ਸਮੁੰਦਰ ਸੇ ਪਾਰ ਪੜੇ ਹੈਂ॥੮॥੧॥੩॥☬ਬੇਨਤੀ ਕਾ ਪਰਕਾਰ ਦਿਖਾਵਤੇ ਹੂਏ ਕਹਤੇ ਹੈਂ:",
+        "bdb": "ਹੇ ਨਾਨਕ! ਜਿਸ ਮਨੁੱਖ ਨੇ ਗੁਰੂ ਦਾ ਪੱਲਾ ਫੜ ਲਿਆ ਉਹ ਇਸ ਭਿਆਨਕ ਸੰਸਾਰ-ਸਮੁੰਦਰ ਤੋਂ ਪਾਰ ਲੰਘ ਜਾਂਦਾ ਹੈ ।੮।੧।੩।",
+        "ms": "ਜੋ ਸੰਤਾਂ ਦੇ ਪੱਲੇ ਨੂੰ ਪਕੜਦੇ ਹਨ, ਹੇ ਨਾਨਕ! ਉਹ ਭਿਆਨਕ ਸੰਸਾਰ ਦੇ ਸਮੁੰਦਰ ਤੋਂ ਪਾਰ ਹੋ ਜਾਂਦੇ ਹਨ।"
+      },
+      "es": {
+        "sn": "Aquél que se aferra a la Túnica del Santo, nada a través del mar del miedo. (8‑1-3)"
+      },
+      "hi": {
+        "ss": "हे नानक ! जिस मनुष्य ने गुरू का पल्ला पकड़ लिया वह इस भयानक संसार-समुंदर से पार लंघ जाता है। 8। 1। 3।",
+        "sts": "हे नानक ! जो साधु का आंचल पकड़ते हैं, वे भवसागर से पार हो जाते हैं। ॥८॥१॥३॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9509,
+    "Seq": 12,
+    "header": 0,
+    "Paragraph": 5,
+    "Gurmukhi": "jnm mrx duKu ktIAY ipAwry jb BytY hir rwie ]1]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "janam maran dhukh kaTeeaai piaare jab bheTai har rai ||1||",
+      "hi": "जनम मरण दुखु कटीऐ पिआरे जब भेटै हरि राइ ॥१॥",
+      "ipa": "d͡ʒənəm mərəɳ d̪ʊkʰ kəʈiæ pɪəɑre d͡ʒəb ɓeʈæ hər rɑeɪ.1.",
+      "ur": "جنم مرݨ دُکھ کٹیِاَے پآرے جب بھےٹَے هر راا ۔۔۱۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "The pains of birth and death are removed, O Beloved, when the mortal meets with the Lord, the King. ||1||",
+        "ms": "The pain of birth and death is removed, O dear, when man meets God, the King.",
+        "ssk": "The pains of birth and death are removed, O Beloved, when the mortal meets with the Lord, the King. ||1||"
+      },
+      "pu": {
+        "ss": "hy ipAwry! jdoN pRBU-pwiqSwh iml pYNdw hY qdoN jnm mrn dy gyV dw du`K k`itAw jWdw hY [1[",
+        "ft": "hy ipAwry hir rwie! jb jIv qyry ko (BytY) imly qb iqs kw jnm mrn kw duK kwtw jwqw hY]1]",
+        "bdb": "hy ipAwry! jdoN pRBU-pwiqSwh iml pYNdw hY qdoN jnm mrn dy gyV dw du`K k`itAw jWdw hY [1[",
+        "ms": "jd AwdmI vwihgurU pwqSwh ƒ iml pYNdw hY[ aus dI jMmx Aqy mrn dI pIV dUr ho jWdI hY["
+      },
+      "puu": {
+        "ss": "ਹੇ ਪਿਆਰੇ! ਜਦੋਂ ਪ੍ਰਭੂ-ਪਾਤਿਸ਼ਾਹ ਮਿਲ ਪੈਂਦਾ ਹੈ ਤਦੋਂ ਜਨਮ ਮਰਨ ਦੇ ਗੇੜ ਦਾ ਦੁੱਖ ਕੱਟਿਆ ਜਾਂਦਾ ਹੈ ।੧।",
+        "ft": "ਹੇ ਪਿਆਰੇ ਹਰਿ ਰਾਇ! ਜਬ ਜੀਵ ਤੇਰੇ ਕੋ (ਭੇਟੈ) ਮਿਲੇ ਤਬ ਤਿਸ ਕਾ ਜਨਮ ਮਰਨ ਕਾ ਦੁਖ ਕਾਟਾ ਜਾਤਾ ਹੈ॥੧॥",
+        "bdb": "ਹੇ ਪਿਆਰੇ! ਜਦੋਂ ਪ੍ਰਭੂ-ਪਾਤਿਸ਼ਾਹ ਮਿਲ ਪੈਂਦਾ ਹੈ ਤਦੋਂ ਜਨਮ ਮਰਨ ਦੇ ਗੇੜ ਦਾ ਦੁੱਖ ਕੱਟਿਆ ਜਾਂਦਾ ਹੈ ।੧।",
+        "ms": "ਜਦ ਆਦਮੀ ਵਾਹਿਗੁਰੂ ਪਾਤਸ਼ਾਹ ਨੂੰ ਮਿਲ ਪੈਂਦਾ ਹੈ। ਉਸ ਦੀ ਜੰਮਣ ਅਤੇ ਮਰਨ ਦੀ ਪੀੜ ਦੂਰ ਹੋ ਜਾਂਦੀ ਹੈ।"
+      },
+      "es": {
+        "sn": "Cuando uno encuentra a su Señor, las penas de nacimientos y muertes son disipadas. (1)"
+      },
+      "hi": {
+        "ss": "हे प्यारे ! जब प्रभू-पातशाह मिल जाता है तब जनम-मरण के चक्कर का दुख काटा जाता है। 1।",
+        "sts": "हे प्यारे ! जब जगत का बादशाह हरि मिल जाता है तो जन्म-मरण का दु:ख दूर हो जाता है। १॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9510,
+    "Seq": 13,
+    "header": 0,
+    "Paragraph": 5,
+    "Gurmukhi": "suMdru suGru sujwxu pRBu myrw jIvnu drsu idKwie ]2]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "su(n)dhar sughar sujaan prabh meraa jeevan dharas dhikhai ||2||",
+      "hi": "सुँदरु सुघरु सुजाणु प्रभु मेरा जीवनु दरसु दिखाइ ॥२॥",
+      "ipa": "sʊŋd̪ər sʊGʰər sʊd͡ʒɑɳ pɹəɓ merɑ d͡ʒiʋən d̪ərəs d̪ɪkʰɑeɪ.2.",
+      "ur": "سُںدر سُگھر سُجاݨ پربھ مےرا جیِون درس دکھاِا ۔۔۲۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "God is so Beautiful, so Refined, so Wise - He is my very life! Reveal to me Your Darshan! ||2||",
+        "ms": "The beauteous, accomplished and Omniscient Lord is my very life. Show me Thy vision, O Master.",
+        "ssk": "God is so Beautiful, so Refined, so Wise - He is my very life! Reveal to me Your Darshan! ||2||"
+      },
+      "pu": {
+        "ss": "hy BweI! (myrw) pRBU (-pwiqSwh) sohxw hY suc`jw hY isAwxw hY, jdoN auh mYƒ dIdwr dyNdw hY myry AMdr jwn pY jWdI hY (pRBU dw dIdwr hI myrI izMdgI hY) [2[",
+        "ft": "hy suMdr AOr (suGru) cqur! qUM (sujwxu) sustU igAwq vwlw myrw jIvn rUp sÍwmI hYN myry ko Apnw drsn idKlwau]2]",
+        "bdb": "hy BweI! (myrw) pRBU (-pwiqSwh) sohxw hY suc`jw hY isAwxw hY, jdoN auh mYƒ dIdwr dyNdw hY myry AMdr jwn pY jWdI hY (pRBU dw dIdwr hI myrI izMdgI hY) [2[",
+        "ms": "suhxw kwml Aqy srb`g suAwmI myrI ijMd jwn hY, mYƒ Awpxw drSn ivKwl hy mwlk!"
+      },
+      "puu": {
+        "ss": "ਹੇ ਭਾਈ! (ਮੇਰਾ) ਪ੍ਰਭੂ (-ਪਾਤਿਸ਼ਾਹ) ਸੋਹਣਾ ਹੈ ਸੁਚੱਜਾ ਹੈ ਸਿਆਣਾ ਹੈ, ਜਦੋਂ ਉਹ ਮੈਨੂੰ ਦੀਦਾਰ ਦੇਂਦਾ ਹੈ ਮੇਰੇ ਅੰਦਰ ਜਾਨ ਪੈ ਜਾਂਦੀ ਹੈ (ਪ੍ਰਭੂ ਦਾ ਦੀਦਾਰ ਹੀ ਮੇਰੀ ਜ਼ਿੰਦਗੀ ਹੈ) ।੨।",
+        "ft": "ਹੇ ਸੁੰਦਰ ਔਰ (ਸੁਘਰੁ) ਚਤੁਰ! ਤੂੰ (ਸੁਜਾਣੁ) ਸੁਸਟੂ ਗਿਆਤ ਵਾਲਾ ਮੇਰਾ ਜੀਵਨ ਰੂਪ ਸ੍ਵਾਮੀ ਹੈਂ ਮੇਰੇ ਕੋ ਅਪਨਾ ਦਰਸਨ ਦਿਖਲਾਉ॥੨॥",
+        "bdb": "ਹੇ ਭਾਈ! (ਮੇਰਾ) ਪ੍ਰਭੂ (-ਪਾਤਿਸ਼ਾਹ) ਸੋਹਣਾ ਹੈ ਸੁਚੱਜਾ ਹੈ ਸਿਆਣਾ ਹੈ, ਜਦੋਂ ਉਹ ਮੈਨੂੰ ਦੀਦਾਰ ਦੇਂਦਾ ਹੈ ਮੇਰੇ ਅੰਦਰ ਜਾਨ ਪੈ ਜਾਂਦੀ ਹੈ (ਪ੍ਰਭੂ ਦਾ ਦੀਦਾਰ ਹੀ ਮੇਰੀ ਜ਼ਿੰਦਗੀ ਹੈ) ।੨।",
+        "ms": "ਸੁਹਣਾ ਕਾਮਲ ਅਤੇ ਸਰਬੱਗ ਸੁਆਮੀ ਮੇਰੀ ਜਿੰਦ ਜਾਨ ਹੈ, ਮੈਨੂੰ ਆਪਣਾ ਦਰਸ਼ਨ ਵਿਖਾਲ ਹੇ ਮਾਲਕ!"
+      },
+      "es": {
+        "sn": "El Bello, Virtuoso y Omnisapiente Señor es la Vida de mi vida; me muero por tener Su Visión. (2)"
+      },
+      "hi": {
+        "ss": "हे भाई ! (मेरा) प्रभू (-पातशाह) सुंदर है सुचॅजा है सियाना है।जब वह मुझे दीदार देता है तो मेरे अंदर जान पड़ जाती है (प्रभू का दीदार ही मेरी जिंदगी है)। 2।",
+        "sts": "मेरा प्रभु सुन्दर, चतुर, सुजान एवं मेरे जीवन का आधार है, जब उसके दर्शन होते हैं तो मानो प्राण दाखिल हो गए हैं। २ ।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9511,
+    "Seq": 14,
+    "header": 0,
+    "Paragraph": 5,
+    "Gurmukhi": "jo jIA quJ qy bICury ipAwry jnim mrih ibKu Kwie ]3]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 5,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 5,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 5,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "jo jeea tujh te beechhure piaare janam mareh bikh khai ||3||",
+      "hi": "जो जीअ तुझ ते बीछुरे पिआरे जनमि मरहि बिखु खाइ ॥३॥",
+      "ipa": "d͡ʒɔ d͡ʒiə t̪ʊɖ͡ʐ t̪e biɕʊre pɪəɑre d͡ʒənəm mərəh bɪkʰ kʰɑeɪ.3.",
+      "ur": "جو جیِا تُجھ تے بیِچھرے پآرے جنم مره بکھ کھاِا ۔۔۳۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Those beings who are separated from You, O Beloved, are born only to die; they eat the poison of corruption. ||3||",
+        "ms": "The mortals who are separated from Thee, O my Beloved, are born only to die and eat the poison of sins.",
+        "ssk": "Those beings who are separated from You, O Beloved, are born only to die; they eat the poison of corruption. ||3||"
+      },
+      "pu": {
+        "ss": "hy ipAwry pRBU! jyhVy jIv qYQoN ivCuV jWdy hn auh (mwieAw dy moh dw) zhr Kw ky mnu`Kw jnm ivc Awey hoey BI Awqmk mOqy mr jWdy hn [3[",
+        "ft": "hy ipAwry! jo jIv qyry sy bICry hYN, so ibiKEN rUp ibK ko Kwie kr, Bwv Bogqy hUey jnmqy mrqy hYN]3]",
+        "bdb": "hy ipAwry pRBU! jyhVy jIv qYQoN ivCuV jWdy hn auh (mwieAw dy moh dw) zhr Kw ky mnu`Kw jnm ivc Awey hoey BI Awqmk mOqy mr jWdy hn [3[",
+        "ms": "ijhVy jIv qyry nwloN ivCVy hn, hy myry pRIqm! auh kyvl mrn leI hI jMmy hn["
+      },
+      "puu": {
+        "ss": "ਹੇ ਪਿਆਰੇ ਪ੍ਰਭੂ! ਜੇਹੜੇ ਜੀਵ ਤੈਥੋਂ ਵਿਛੁੜ ਜਾਂਦੇ ਹਨ ਉਹ (ਮਾਇਆ ਦੇ ਮੋਹ ਦਾ) ਜ਼ਹਰ ਖਾ ਕੇ ਮਨੁੱਖਾ ਜਨਮ ਵਿਚ ਆਏ ਹੋਏ ਭੀ ਆਤਮਕ ਮੌਤੇ ਮਰ ਜਾਂਦੇ ਹਨ ।੩।",
+        "ft": "ਹੇ ਪਿਆਰੇ! ਜੋ ਜੀਵ ਤੇਰੇ ਸੇ ਬੀਛਰੇ ਹੈਂ, ਸੋ ਬਿਖਿਓਂ ਰੂਪ ਬਿਖ ਕੋ ਖਾਇ ਕਰ, ਭਾਵ ਭੋਗਤੇ ਹੂਏ ਜਨਮਤੇ ਮਰਤੇ ਹੈਂ॥੩॥",
+        "bdb": "ਹੇ ਪਿਆਰੇ ਪ੍ਰਭੂ! ਜੇਹੜੇ ਜੀਵ ਤੈਥੋਂ ਵਿਛੁੜ ਜਾਂਦੇ ਹਨ ਉਹ (ਮਾਇਆ ਦੇ ਮੋਹ ਦਾ) ਜ਼ਹਰ ਖਾ ਕੇ ਮਨੁੱਖਾ ਜਨਮ ਵਿਚ ਆਏ ਹੋਏ ਭੀ ਆਤਮਕ ਮੌਤੇ ਮਰ ਜਾਂਦੇ ਹਨ ।੩।",
+        "ms": "ਜਿਹੜੇ ਜੀਵ ਤੇਰੇ ਨਾਲੋਂ ਵਿਛੜੇ ਹਨ, ਹੇ ਮੇਰੇ ਪ੍ਰੀਤਮ! ਉਹ ਕੇਵਲ ਮਰਨ ਲਈ ਹੀ ਜੰਮੇ ਹਨ।"
+      },
+      "es": {
+        "sn": "Oh Amor, aquél que se separa de Ti, ha nacido sólo para morir, y lame sólo el veneno. (3)"
+      },
+      "hi": {
+        "ss": "हे प्यारे प्रभू ! जो जीव तुझसे विछुड़ जाते हैं वे (माया के मोह का) जहर खा के मानस जनम में आए हुए भी आत्मिक मौत मर जाते हैं। 3।",
+        "sts": "हे प्यारे स्वामी ! जो जीव तुझ से बिछुड़े हैं, वे माया रूपी विष खाकर जन्मते-मरते रहते हैं। ३ ॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9512,
+    "Seq": 15,
+    "header": 0,
+    "Paragraph": 5,
+    "Gurmukhi": "ijsu qUM mylih so imlY ipAwry iqs kY lwgau pwie ]4]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 5,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 5,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 5,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "jis too(n) meleh so milai piaare tis kai laagau pai ||4||",
+      "hi": "जिसु तूँ मेलहि सो मिलै पिआरे तिस कै लागउ पाइ ॥४॥",
+      "ipa": "d͡ʒɪs t̪uŋ meləh sɔ mɪlæ pɪəɑre t̪ɪs kæ lɑGo pɑeɪ.4.",
+      "ur": "جِس تُوں مےله سو ملَے پآرے تس کَے لاگا پاِا ۔۔۴۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "He alone meets You, whom You cause to meet, O Beloved; I fall at his feet. ||4||",
+        "ms": "He alone meets Thee, O my Love, whom Thou causeth to meet. I fall at his feet.",
+        "ssk": "He alone meets You, whom You cause to meet, O Beloved; I fall at his feet. ||4||"
+      },
+      "pu": {
+        "ss": "(pr,) hy ipAwry jIv! (jIvW dy kIh v`s?) ijs jIv ƒ qUM Awp (Awpxy nwl) imlWdw hYN auhI qYƒ imldw hY [ mYN aus (vf-BwgI) dy crnIN l`gdw hW [4[",
+        "ft": "hy ipAwry! ijs ko qUM imlw lyqw hYN, so imlqw hY, jo imlw hY mYN iqs ky crnI lwgqw hUM]4]",
+        "bdb": "(pr,) hy ipAwry jIv! (jIvW dy kIh v`s?) ijs jIv ƒ qUM Awp (Awpxy nwl) imlWdw hYN auhI qYƒ imldw hY [ mYN aus (vf-BwgI) dy crnIN l`gdw hW [4[",
+        "ms": "auh pwpW dI zihr KWdy hn[ kyvl EhI qYƒ imldw hY, hy jwnI! ijs ƒ qUM imlwauNdw hY["
+      },
+      "puu": {
+        "ss": "(ਪਰ,) ਹੇ ਪਿਆਰੇ ਜੀਵ! (ਜੀਵਾਂ ਦੇ ਕੀਹ ਵੱਸ?) ਜਿਸ ਜੀਵ ਨੂੰ ਤੂੰ ਆਪ (ਆਪਣੇ ਨਾਲ) ਮਿਲਾਂਦਾ ਹੈਂ ਉਹੀ ਤੈਨੂੰ ਮਿਲਦਾ ਹੈ । ਮੈਂ ਉਸ (ਵਡ-ਭਾਗੀ) ਦੇ ਚਰਨੀਂ ਲੱਗਦਾ ਹਾਂ ।੪।",
+        "ft": "ਹੇ ਪਿਆਰੇ! ਜਿਸ ਕੋ ਤੂੰ ਮਿਲਾ ਲੇਤਾ ਹੈਂ, ਸੋ ਮਿਲਤਾ ਹੈ, ਜੋ ਮਿਲਾ ਹੈ ਮੈਂ ਤਿਸ ਕੇ ਚਰਨੀ ਲਾਗਤਾ ਹੂੰ॥੪॥",
+        "bdb": "(ਪਰ,) ਹੇ ਪਿਆਰੇ ਜੀਵ! (ਜੀਵਾਂ ਦੇ ਕੀਹ ਵੱਸ?) ਜਿਸ ਜੀਵ ਨੂੰ ਤੂੰ ਆਪ (ਆਪਣੇ ਨਾਲ) ਮਿਲਾਂਦਾ ਹੈਂ ਉਹੀ ਤੈਨੂੰ ਮਿਲਦਾ ਹੈ । ਮੈਂ ਉਸ (ਵਡ-ਭਾਗੀ) ਦੇ ਚਰਨੀਂ ਲੱਗਦਾ ਹਾਂ ।੪।",
+        "ms": "ਉਹ ਪਾਪਾਂ ਦੀ ਜ਼ਹਿਰ ਖਾਂਦੇ ਹਨ। ਕੇਵਲ ਓਹੀ ਤੈਨੂੰ ਮਿਲਦਾ ਹੈ, ਹੇ ਜਾਨੀ! ਜਿਸ ਨੂੰ ਤੂੰ ਮਿਲਾਉਂਦਾ ਹੈ।"
+      },
+      "es": {
+        "sn": "Pero aquél que Tú deseas encontrar, Te encuentra; y yo me postro a Sus Pies. (4)"
+      },
+      "hi": {
+        "ss": "(पर) हे प्यारे जीव ! (जीवों के भी क्या वश। ) जिस जीव को तू स्वयं (अपने साथ) मिलाता है वही तुझे मिलता है।मैं उस (भाग्यशाली) के चरणों में लगता है। 4।",
+        "sts": "हे प्यारे ! जिसे तू अपने साथ मिलाता है केवल वही तुझसे मिलता है। मैं उस भाग्यवान के चरण स्पर्श करता हूँ। ४ ।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9513,
+    "Seq": 16,
+    "header": 0,
+    "Paragraph": 5,
+    "Gurmukhi": "jo suKu drsnu pyKqy ipAwry muK qy khxu n jwie ]5]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "jo sukh dharasan pekhate piaare mukh te kahan na jai ||5||",
+      "hi": "जो सुखु दरसनु पेखते पिआरे मुख ते कहणु न जाइ ॥५॥",
+      "ipa": "d͡ʒɔ sʊkʰ d̪ərəsən pekʰət̪e pɪəɑre mʊkʰ t̪e kəhəɳ nə d͡ʒɑeɪ.5.",
+      "ur": "جو سُکھ درسن پےکھتے پآرے مُکھ تے کهݨ ن جاا ۔۔۵۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "That happiness which one receives by beholding Your Darshan, O Beloved, cannot be described in words. ||5||",
+        "ms": "The happiness, man receives by seeing the sight of the Beloved cannot be told by mouth.",
+        "ssk": "That happiness which one receives by beholding Your Darshan, O Beloved, cannot be described in words. ||5||"
+      },
+      "pu": {
+        "ss": "hy ipAwry (pRBU)! qyrw drsn kIiqAW jyhVw AwnMd (AnuBv huMdw hY) auh mUMhoN d`isAw nhIN jw skdw [5[",
+        "ft": "hy pÎwry! jo suK Awp kw drsn dyKny sy imlqw hY vhu muK sy khw nhIN jwqw hY]5]",
+        "bdb": "hy ipAwry (pRBU)! qyrw drsn kIiqAW jyhVw AwnMd (AnuBv huMdw hY) auh mUMhoN d`isAw nhIN jw skdw [5[",
+        "ms": "mYN aus dy pYrIN pYNdw hW, ijhVI KuSI idlbr dw dIdwr dyK ky bMdw hwsl krdw hY, auh mUMh dy nwl AwKI nhIN jw skdI["
+      },
+      "puu": {
+        "ss": "ਹੇ ਪਿਆਰੇ (ਪ੍ਰਭੂ)! ਤੇਰਾ ਦਰਸਨ ਕੀਤਿਆਂ ਜੇਹੜਾ ਆਨੰਦ (ਅਨੁਭਵ ਹੁੰਦਾ ਹੈ) ਉਹ ਮੂੰਹੋਂ ਦੱਸਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ ।੫।",
+        "ft": "ਹੇ ਪ੍ਯਾਰੇ! ਜੋ ਸੁਖ ਆਪ ਕਾ ਦਰਸਨ ਦੇਖਨੇ ਸੇ ਮਿਲਤਾ ਹੈ ਵਹੁ ਮੁਖ ਸੇ ਕਹਾ ਨਹੀਂ ਜਾਤਾ ਹੈ॥੫॥",
+        "bdb": "ਹੇ ਪਿਆਰੇ (ਪ੍ਰਭੂ)! ਤੇਰਾ ਦਰਸਨ ਕੀਤਿਆਂ ਜੇਹੜਾ ਆਨੰਦ (ਅਨੁਭਵ ਹੁੰਦਾ ਹੈ) ਉਹ ਮੂੰਹੋਂ ਦੱਸਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ ।੫।",
+        "ms": "ਮੈਂ ਉਸ ਦੇ ਪੈਰੀਂ ਪੈਂਦਾ ਹਾਂ, ਜਿਹੜੀ ਖੁਸ਼ੀ ਦਿਲਬਰ ਦਾ ਦੀਦਾਰ ਦੇਖ ਕੇ ਬੰਦਾ ਹਾਸਲ ਕਰਦਾ ਹੈ, ਉਹ ਮੂੰਹ ਦੇ ਨਾਲ ਆਖੀ ਨਹੀਂ ਜਾ ਸਕਦੀ।"
+      },
+      "es": {
+        "sn": "La Dicha que uno recibe al tener la Visión del Señor, nadie la puede expresar. (5)"
+      },
+      "hi": {
+        "ss": "हे प्यारे (प्रभू) ! तेरे दर्शन करके जो आनंद (अनुभव होता है) वह मुंह से बयान नहीं किया जा सकता। 5।",
+        "sts": "हे प्यारे ! तेरे दर्शन करने से जो सुख मिलता है, वह मुँह से मुझसे कहा नहीं जा सकता। ५ ।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9514,
+    "Seq": 17,
+    "header": 0,
+    "Paragraph": 5,
+    "Gurmukhi": "swcI pRIiq n quteI ipAwry jugu jugu rhI smwie ]6]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "saachee preet na tuTiee piaare jug jug rahee samai ||6||",
+      "hi": "साची प्रीति न तुटई पिआरे जुगु जुगु रही समाइ ॥६॥",
+      "ipa": "sɑt͡ʃi pɹit̪ nə t̪ʊʈei pɪəɑre d͡ʒʊG d͡ʒʊG rəhi səmɑeɪ.6.",
+      "ur": "ساچیِ پریِت ن تُٹای پآرے جُگ جُگ رهیِ سماا ۔۔۶۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "True Love cannot be broken, O Beloved; throughout the ages, it remains. ||6||",
+        "ms": "The true love of the Beloved snaps not. It lasts all the ages through.",
+        "ssk": "True Love cannot be broken, O Beloved; throughout the ages, it remains. ||6||"
+      },
+      "pu": {
+        "ss": "hy ipAwry! ijs ny sdw-iQr pRBU nwl p`kw ipAwr pw ilAw, aus dw auh ipAwr kdy t`ut nhIN skdw, auh ipAwr qW jugW pRXMq aus dy ihrdy ivc itikAw rihMdw hY [6[",
+        "ft": "hy pÎwry! ijn kI qyry sy swcI pRIq hY, so kbI nhIN qUtqI, jugoN jugoN myN smwie rhI hY]6]",
+        "bdb": "hy ipAwry! ijs ny sdw-iQr pRBU nwl p`kw ipAwr pw ilAw, aus dw auh ipAwr kdy t`ut nhIN skdw, auh ipAwr qW jugW pRXMq aus dy ihrdy ivc itikAw rihMdw hY [6[",
+        "ms": "idlbr dw s`cw ipAwr tu`tdw nhIN, ieh swirAW jugW AMdr rihMdw hY["
+      },
+      "puu": {
+        "ss": "ਹੇ ਪਿਆਰੇ! ਜਿਸ ਨੇ ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਨਾਲ ਪੱਕਾ ਪਿਆਰ ਪਾ ਲਿਆ, ਉਸ ਦਾ ਉਹ ਪਿਆਰ ਕਦੇ ਟੱੁਟ ਨਹੀਂ ਸਕਦਾ, ਉਹ ਪਿਆਰ ਤਾਂ ਜੁਗਾਂ ਪ੍ਰਯੰਤ ਉਸ ਦੇ ਹਿਰਦੇ ਵਿਚ ਟਿਕਿਆ ਰਹਿੰਦਾ ਹੈ ।੬।",
+        "ft": "ਹੇ ਪ੍ਯਾਰੇ! ਜਿਨ ਕੀ ਤੇਰੇ ਸੇ ਸਾਚੀ ਪ੍ਰੀਤ ਹੈ, ਸੋ ਕਬੀ ਨਹੀਂ ਤੂਟਤੀ, ਜੁਗੋਂ ਜੁਗੋਂ ਮੇਂ ਸਮਾਇ ਰਹੀ ਹੈ॥੬॥",
+        "bdb": "ਹੇ ਪਿਆਰੇ! ਜਿਸ ਨੇ ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਨਾਲ ਪੱਕਾ ਪਿਆਰ ਪਾ ਲਿਆ, ਉਸ ਦਾ ਉਹ ਪਿਆਰ ਕਦੇ ਟੱੁਟ ਨਹੀਂ ਸਕਦਾ, ਉਹ ਪਿਆਰ ਤਾਂ ਜੁਗਾਂ ਪ੍ਰਯੰਤ ਉਸ ਦੇ ਹਿਰਦੇ ਵਿਚ ਟਿਕਿਆ ਰਹਿੰਦਾ ਹੈ ।੬।",
+        "ms": "ਦਿਲਬਰ ਦਾ ਸੱਚਾ ਪਿਆਰ ਟੁੱਟਦਾ ਨਹੀਂ, ਇਹ ਸਾਰਿਆਂ ਜੁਗਾਂ ਅੰਦਰ ਰਹਿੰਦਾ ਹੈ।"
+      },
+      "es": {
+        "sn": "El Verdadero Amor no se puede destruir; perdura a través de todas las épocas. (6)"
+      },
+      "hi": {
+        "ss": "हे प्यारे ! जिसने सदा-स्थिर प्रभू के साथ पक्का प्यार डाल लिया।उसका वह प्यार कभी टूट नहीं सकता।वह प्यार तो युगों-युगों तक उसके हृदय में टिका रहता है। 6।",
+        "sts": "हे प्यारे ! मेरी सच्ची प्रीति तुझसे कभी नहीं टूटती और मेरी यह प्रीति युगों-युगांतरों में मेरे हृदय में समाई रहती है। ६॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9515,
+    "Seq": 18,
+    "header": 0,
+    "Paragraph": 5,
+    "Gurmukhi": "jo quDu BwvY so Blw ipAwry qyrI Amru rjwie ]7]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 5,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 5,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 5,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "jo tudh bhaavai so bhalaa piaare teree amar rajai ||7||",
+      "hi": "जो तुधु भावै सो भला पिआरे तेरी अमरु रजाइ ॥७॥",
+      "ipa": "d͡ʒɔ t̪ʊt̪ ɓɑʋæ sɔ ɓəlɑ pɪəɑre t̪eri əmər rəd͡ʒɑeɪ.7.",
+      "ur": "جو تُدھ بھاوَے سو بھلا پآرے تےریِ امر رجاا ۔۔۷۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Whatever pleases You is good, O Beloved; Your Will is Eternal. ||7||",
+        "ms": "Whatever pleases Thee, that is good, O Love, Eternal is Thy will.",
+        "ssk": "Whatever pleases You is good, O Beloved; Your Will is Eternal. ||7||"
+      },
+      "pu": {
+        "ss": "hy ipAwry (pRBU)! qyrw hukm Aim`t hY, jIvW vwsqy auhI kMm BlweI vwlw hY jyhVw qYƒ cMgw l`gdw hY [7[",
+        "ft": "hy pÎwry! jo quJy Bwvqw hY hmwry ko soeI Blw lwgqw hY Aru qyrI (rjwie) AwgÎw Amr, Bwv Amyt hY]7]",
+        "bdb": "hy ipAwry (pRBU)! qyrw hukm Aim`t hY, jIvW vwsqy auhI kMm BlweI vwlw hY jyhVw qYƒ cMgw l`gdw hY [7[",
+        "ms": "ijhVw kuJ qYƒ cMgw l`gdw hY, EhI srySt hY, hy ipAwirAw! qUM At`l hYN Aqy qyrw Purmwn["
+      },
+      "puu": {
+        "ss": "ਹੇ ਪਿਆਰੇ (ਪ੍ਰਭੂ)! ਤੇਰਾ ਹੁਕਮ ਅਮਿੱਟ ਹੈ, ਜੀਵਾਂ ਵਾਸਤੇ ਉਹੀ ਕੰਮ ਭਲਾਈ ਵਾਲਾ ਹੈ ਜੇਹੜਾ ਤੈਨੂੰ ਚੰਗਾ ਲੱਗਦਾ ਹੈ ।੭।",
+        "ft": "ਹੇ ਪ੍ਯਾਰੇ! ਜੋ ਤੁਝੇ ਭਾਵਤਾ ਹੈ ਹਮਾਰੇ ਕੋ ਸੋਈ ਭਲਾ ਲਾਗਤਾ ਹੈ ਅਰੁ ਤੇਰੀ (ਰਜਾਇ) ਆਗ੍ਯਾ ਅਮਰ, ਭਾਵ ਅਮੇਟ ਹੈ॥੭॥",
+        "bdb": "ਹੇ ਪਿਆਰੇ (ਪ੍ਰਭੂ)! ਤੇਰਾ ਹੁਕਮ ਅਮਿੱਟ ਹੈ, ਜੀਵਾਂ ਵਾਸਤੇ ਉਹੀ ਕੰਮ ਭਲਾਈ ਵਾਲਾ ਹੈ ਜੇਹੜਾ ਤੈਨੂੰ ਚੰਗਾ ਲੱਗਦਾ ਹੈ ।੭।",
+        "ms": "ਜਿਹੜਾ ਕੁਝ ਤੈਨੂੰ ਚੰਗਾ ਲੱਗਦਾ ਹੈ, ਓਹੀ ਸਰੇਸ਼ਟ ਹੈ, ਹੇ ਪਿਆਰਿਆ! ਤੂੰ ਅਟੱਲ ਹੈਂ ਅਤੇ ਤੇਰਾ ਫੁਰਮਾਨ।"
+      },
+      "es": {
+        "sn": "Lo que sea que Te Complace es Bueno, oh Bienamado, Tu Voluntad es Eterna. (7)"
+      },
+      "hi": {
+        "ss": "हे प्यारे (प्रभू) ! तेरा हुकम अमिट है।जीवों के वास्ते वही काम भलाई वाला है जो तुझे अच्छा लगता है। 7।",
+        "sts": "हे प्यारे ! जो कुछ तुझे अच्छा लगता है, वही भला है। तेरा हुक्म अटल है। ७ ॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9516,
+    "Seq": 19,
+    "header": 0,
+    "Paragraph": 5,
+    "Gurmukhi": "nwnk rMig rqy nwrwiexY ipAwry mwqy shij suBwie ]8]2]4]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 0,
+          "t": "v"
+        },
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "naanak ra(n)g rate naarainai piaare maate sahaj subhai ||8||2||4||",
+      "hi": "नानक रंगि रते नाराइणै पिआरे माते सहजि सुभाइ ॥८॥२॥४॥",
+      "ipa": "nɑnək rəŋG rət̪e nɑrɑeɪɳæ pɪəɑre mɑt̪e səhəd͡ʒ sʊɓɑeɪ.8.2.4.",
+      "ur": "نانک رںگ رتے نارااݨَے پآرے ماتے سهج سُبھاا ۔۔۸۔۔۲۔۔۴۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Nanak, those who are imbued with the Love of the All-Pervading Lord, O Beloved, remain intoxicated with His Love, in natural ease. ||8||2||4||",
+        "ms": "Nanak, who are imbued with the love of the All-pervading-Lord, they remain instinctively inebriated, O dear.",
+        "ssk": "Nanak, those who are imbued with the Love of the All-Pervading Lord, O Beloved, remain intoxicated with His Love, in natural ease. ||8||2||4||"
+      },
+      "pu": {
+        "ss": "hy nwnk! (AwK—) hy ipAwry! jyhVy mnu`K nwrwiex dy pRym-rMg ivc rMgy jWdy hn auh Awqmk Afolqw ivc msq rihMdy hn auh aus pRym ivc msq rihMdy hn [8[2[4[",
+        "ft": "sRI gurU jI khqy hYN: hy (nwrwiexY)! Awp ky ipAwry (rMig) pRym myN hm rwqy hUey sWq suBwau kr msq rhqy hYN]8]2]4]",
+        "bdb": "hy nwnk! (AwK—) hy ipAwry! jyhVy mnu`K nwrwiex dy pRym-rMg ivc rMgy jWdy hn auh Awqmk Afolqw ivc msq rihMdy hn auh aus pRym ivc msq rihMdy hn [8[2[4[",
+        "ms": "hy nwnk! jo srv ivAwpk suAwmI dI pRIq nwl rMgy hoey hn, auh suBwvk hI mqvwly rihMdy hn[ hy pRIqm!"
+      },
+      "puu": {
+        "ss": "ਹੇ ਨਾਨਕ! (ਆਖ—) ਹੇ ਪਿਆਰੇ! ਜੇਹੜੇ ਮਨੁੱਖ ਨਾਰਾਇਣ ਦੇ ਪ੍ਰੇਮ-ਰੰਗ ਵਿਚ ਰੰਗੇ ਜਾਂਦੇ ਹਨ ਉਹ ਆਤਮਕ ਅਡੋਲਤਾ ਵਿਚ ਮਸਤ ਰਹਿੰਦੇ ਹਨ ਉਹ ਉਸ ਪ੍ਰੇਮ ਵਿਚ ਮਸਤ ਰਹਿੰਦੇ ਹਨ ।੮।੨।੪।",
+        "ft": "ਸ੍ਰੀ ਗੁਰੂ ਜੀ ਕਹਤੇ ਹੈਂ: ਹੇ (ਨਾਰਾਇਣੈ)! ਆਪ ਕੇ ਪਿਆਰੇ (ਰੰਗਿ) ਪ੍ਰੇਮ ਮੇਂ ਹਮ ਰਾਤੇ ਹੂਏ ਸਾਂਤ ਸੁਭਾਉ ਕਰ ਮਸਤ ਰਹਤੇ ਹੈਂ॥੮॥੨॥੪॥",
+        "bdb": "ਹੇ ਨਾਨਕ! (ਆਖ—) ਹੇ ਪਿਆਰੇ! ਜੇਹੜੇ ਮਨੁੱਖ ਨਾਰਾਇਣ ਦੇ ਪ੍ਰੇਮ-ਰੰਗ ਵਿਚ ਰੰਗੇ ਜਾਂਦੇ ਹਨ ਉਹ ਆਤਮਕ ਅਡੋਲਤਾ ਵਿਚ ਮਸਤ ਰਹਿੰਦੇ ਹਨ ਉਹ ਉਸ ਪ੍ਰੇਮ ਵਿਚ ਮਸਤ ਰਹਿੰਦੇ ਹਨ ।੮।੨।੪।",
+        "ms": "ਹੇ ਨਾਨਕ! ਜੋ ਸਰਵ ਵਿਆਪਕ ਸੁਆਮੀ ਦੀ ਪ੍ਰੀਤ ਨਾਲ ਰੰਗੇ ਹੋਏ ਹਨ, ਉਹ ਸੁਭਾਵਕ ਹੀ ਮਤਵਾਲੇ ਰਹਿੰਦੇ ਹਨ। ਹੇ ਪ੍ਰੀਤਮ!"
+      },
+      "es": {
+        "sn": "Dice Nanak, quienes están imbuidos en el Amor del Todo Prevaleciente Señor, oh Bienamado, permanecen intoxicados en Su Amor, con natural facilidad. (8‑2-4) "
+      },
+      "hi": {
+        "ss": "हे नानक ! (कह–) हे प्यारे ! जो मनुष्य नारायण के प्रेम रंग में रंगे जाते हैं वे आत्मिक अडोलता में मस्त रहते हैं वे उसके प्रेम में मस्त रहते हैं। 8। 2। 4।",
+        "sts": "हे नानक ! जो व्यक्ति नारायण के प्रेम रंग में अनुरक्त रहते हैं, वे सहज ही उसके प्रेम में मस्त रहते हैं। ८ ॥ २ ॥ ४॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9517,
+    "Seq": 20,
+    "header": 0,
+    "Paragraph": 6,
+    "Gurmukhi": "sB ibiD qum hI jwnqy ipAwry iksu pih khau sunwie ]1]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 5,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 5,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 5,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "sabh bidh tum hee jaanate piaare kis peh kahau sunai ||1||",
+      "hi": "सभ बिधि तुम ही जानते पिआरे किसु पहि कहउ सुनाइ ॥१॥",
+      "ipa": "səɓ bɪt̪ə̀ t̪ʊm hi d͡ʒɑnət̪e pɪəɑre kɪs pəh kəho sʊnɑeɪ.1.",
+      "ur": "سبھ بدھ تُم هیِ جانتے پآرے کس پهِ کها سُناا ۔۔۱۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "You know all about my condition, O Beloved; who can I speak to about it? ||1||",
+        "ms": "Thou knowest all the condition of mine, O Love. To whom should I tell and narrate it?",
+        "ssk": "You know all about my condition, O Beloved; who can I speak to about it? ||1||"
+      },
+      "pu": {
+        "ss": "hy ipAwry pRBU! (Awpxy pYdw kIqy jIvW ƒ dwqW dyx dy) swry qrIky qUM Awp hI jwxdw hYN [ mYN hor iks ƒ suxw ky AwKW? ",
+        "ft": "hy pÎwry! qum sB ibiD ko jwnqy ho qyry sy ibnw hm ApnI ibQÎw iks ky pws jwie kr kh ky sunwvYN]1]",
+        "bdb": "hy ipAwry pRBU! (Awpxy pYdw kIqy jIvW ƒ dwqW dyx dy) swry qrIky qUM Awp hI jwxdw hYN [ mYN hor iks ƒ suxw ky AwKW? ",
+        "ms": "qUM myrI swrI dSw ƒ jwxdw hYN, hy ipAwirAw! mYN kIhdy kol iesƒ AwKW qy ibAwn krW?"
+      },
+      "puu": {
+        "ss": "ਹੇ ਪਿਆਰੇ ਪ੍ਰਭੂ! (ਆਪਣੇ ਪੈਦਾ ਕੀਤੇ ਜੀਵਾਂ ਨੂੰ ਦਾਤਾਂ ਦੇਣ ਦੇ) ਸਾਰੇ ਤਰੀਕੇ ਤੂੰ ਆਪ ਹੀ ਜਾਣਦਾ ਹੈਂ । ਮੈਂ ਹੋਰ ਕਿਸ ਨੂੰ ਸੁਣਾ ਕੇ ਆਖਾਂ? ",
+        "ft": "ਹੇ ਪ੍ਯਾਰੇ! ਤੁਮ ਸਭ ਬਿਧਿ ਕੋ ਜਾਨਤੇ ਹੋ ਤੇਰੇ ਸੇ ਬਿਨਾ ਹਮ ਅਪਨੀ ਬਿਥ੍ਯਾ ਕਿਸ ਕੇ ਪਾਸ ਜਾਇ ਕਰ ਕਹ ਕੇ ਸੁਨਾਵੈਂ॥੧॥",
+        "bdb": "ਹੇ ਪਿਆਰੇ ਪ੍ਰਭੂ! (ਆਪਣੇ ਪੈਦਾ ਕੀਤੇ ਜੀਵਾਂ ਨੂੰ ਦਾਤਾਂ ਦੇਣ ਦੇ) ਸਾਰੇ ਤਰੀਕੇ ਤੂੰ ਆਪ ਹੀ ਜਾਣਦਾ ਹੈਂ । ਮੈਂ ਹੋਰ ਕਿਸ ਨੂੰ ਸੁਣਾ ਕੇ ਆਖਾਂ? ",
+        "ms": "ਤੂੰ ਮੇਰੀ ਸਾਰੀ ਦਸ਼ਾ ਨੂੰ ਜਾਣਦਾ ਹੈਂ, ਹੇ ਪਿਆਰਿਆ! ਮੈਂ ਕੀਹਦੇ ਕੋਲ ਇਸਨੂੰ ਆਖਾਂ ਤੇ ਬਿਆਨ ਕਰਾਂ?"
+      },
+      "es": {
+        "sn": "Oh Amor, Tú conoces mi más íntimo estado; ¿quién otro podría ser mi confidente? (1)"
+      },
+      "hi": {
+        "ss": "हे प्यारे प्रभू ! (तू अपने पैदा किए हुए जीवों को दातें देने के) सारे तरीकों को स्वयं ही जानता है।मैं और किसे सुना के कहूँ। 1।",
+        "sts": "हे प्यारे प्रभु! समस्त विधियाँ तुम ही जानते हो, मैं किसके पास इसे सुनाकर कहूँ॥ १॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9518,
+    "Seq": 21,
+    "header": 0,
+    "Paragraph": 6,
+    "Gurmukhi": "qUM dwqw jIAw sBnw kw qyrw idqw pihrih Kwie ]2]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "too(n) dhaataa jeeaa sabhanaa kaa teraa dhitaa pahireh khai ||2||",
+      "hi": "तूँ दाता जीआ सभना का तेरा दिता पहिरहि खाइ ॥२॥",
+      "ipa": "t̪uŋ d̪ɑt̪ɑ d͡ʒiəɑ səɓənɑ kɑ t̪erɑ d̪ɪt̪ɑ pəhɪrəh kʰɑeɪ.2.",
+      "ur": "تُوں داتا جیِآ سبھنا کا تےرا دتا پهِره کھاا ۔۔۲۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "You are the Giver of all beings; they eat and wear what You give them. ||2||",
+        "ms": "Thou art the Giver of all the beings they eat and wear what Thou givest them.",
+        "ssk": "You are the Giver of all beings; they eat and wear what You give them. ||2||"
+      },
+      "pu": {
+        "ss": "hy pRBU! swry jIvW ƒ dwqW dyx vwlw qUM Awp hI hYN [ (swry jIv qyry id`qy bsq® pihndy hn, (hryk jIv qyrw id`qw AMn) KWdw h",
+        "ft": "qUM sB jIvoN kw dwqw hYN, qyrw hI dIAw hm Kwqy pihnqy hYN]2]",
+        "bdb": "hy pRBU! swry jIvW ƒ dwqW dyx vwlw qUM Awp hI hYN [ (swry jIv qyry id`qy bsq® pihndy hn, (hryk jIv qyrw id`qw AMn) KWdw h",
+        "ms": "qUM swirAW jIvW dw dwqwr hYN, ijhVw kuJ qUM idMdw hYN, aus ƒ hI auh KWdy Aqy pihndy hn["
+      },
+      "puu": {
+        "ss": "ਹੇ ਪ੍ਰਭੂ! ਸਾਰੇ ਜੀਵਾਂ ਨੂੰ ਦਾਤਾਂ ਦੇਣ ਵਾਲਾ ਤੂੰ ਆਪ ਹੀ ਹੈਂ । (ਸਾਰੇ ਜੀਵ ਤੇਰੇ ਦਿੱਤੇ ਬਸਤ੍ਰ ਪਹਿਨਦੇ ਹਨ, (ਹਰੇਕ ਜੀਵ ਤੇਰਾ ਦਿੱਤਾ ਅੰਨ) ਖਾਂਦਾ ਹ",
+        "ft": "ਤੂੰ ਸਭ ਜੀਵੋਂ ਕਾ ਦਾਤਾ ਹੈਂ, ਤੇਰਾ ਹੀ ਦੀਆ ਹਮ ਖਾਤੇ ਪਹਿਨਤੇ ਹੈਂ॥੨॥",
+        "bdb": "ਹੇ ਪ੍ਰਭੂ! ਸਾਰੇ ਜੀਵਾਂ ਨੂੰ ਦਾਤਾਂ ਦੇਣ ਵਾਲਾ ਤੂੰ ਆਪ ਹੀ ਹੈਂ । (ਸਾਰੇ ਜੀਵ ਤੇਰੇ ਦਿੱਤੇ ਬਸਤ੍ਰ ਪਹਿਨਦੇ ਹਨ, (ਹਰੇਕ ਜੀਵ ਤੇਰਾ ਦਿੱਤਾ ਅੰਨ) ਖਾਂਦਾ ਹ",
+        "ms": "ਤੂੰ ਸਾਰਿਆਂ ਜੀਵਾਂ ਦਾ ਦਾਤਾਰ ਹੈਂ, ਜਿਹੜਾ ਕੁਝ ਤੂੰ ਦਿੰਦਾ ਹੈਂ, ਉਸ ਨੂੰ ਹੀ ਉਹ ਖਾਂਦੇ ਅਤੇ ਪਹਿਨਦੇ ਹਨ।"
+      },
+      "es": {
+        "sn": "Eres nuestro Señor Benévolo; todos recibimos sustento y albergo en Ti. (2)"
+      },
+      "hi": {
+        "ss": "हे प्रभू ! सारे जीवों को दातें देने वाला तू स्वयं ही है।(सारे जीव तेरे ही दिए वस्त्र) पहनते हैं।(हरेक जीव तेरा ही दिया अन्न) खाता है। 2।",
+        "sts": "हे प्रभु! तू सब जीवों का दाता है, जो कुछ तू देता है, उसे ही वे खाते और पहनते हैं। २॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9519,
+    "Seq": 22,
+    "header": 0,
+    "Paragraph": 6,
+    "Gurmukhi": "suKu duKu qyrI AwigAw ipAwry dUjI nwhI jwie ]3]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "sukh dhukh teree aagiaa piaare dhoojee naahee jai ||3||",
+      "hi": "सुखु दुखु तेरी आगिआ पिआरे दूजी नाही जाइ ॥३॥",
+      "ipa": "sʊkʰ d̪ʊkʰ t̪eri əɑGɪəɑ pɪəɑre d̪ud͡ʒi nɑhi d͡ʒɑeɪ.3.",
+      "ur": "سُکھ دُکھ تےریِ آگآ پآرے دُوجیِ ناهیِ جاا ۔۔۳۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Pleasure and pain come by Your Will, O Beloved; they do not come from any other. ||3||",
+        "ms": "Weal and woe are in They, will, O Beloved There is not another from where they emanate.",
+        "ssk": "Pleasure and pain come by Your Will, O Beloved; they do not come from any other. ||3||"
+      },
+      "pu": {
+        "ss": "hy ipAwry pRBU! qyry hukm ivc hI (jIv ƒ) kdy suK imldw hY kdy du`K [ (qYQoN ibnw jIv vwsqy) koeI hor (Awsry dI) QW nhIN hY ",
+        "ft": "hy pÎwry! suKu duKu sB qyrI hI AwgÎw myN hY, qyry ibnW dUsrI jgw nhIN hY]3]",
+        "bdb": "hy ipAwry pRBU! qyry hukm ivc hI (jIv ƒ) kdy suK imldw hY kdy du`K [ (qYQoN ibnw jIv vwsqy) koeI hor (Awsry dI) QW nhIN hY ",
+        "ms": "KuSI qy ZmI qyrI rjw AMdr hn hy pRIqm! hor koeI nhIN ijQoN auh auqpMn huMdy hn["
+      },
+      "puu": {
+        "ss": "ਹੇ ਪਿਆਰੇ ਪ੍ਰਭੂ! ਤੇਰੇ ਹੁਕਮ ਵਿਚ ਹੀ (ਜੀਵ ਨੂੰ) ਕਦੇ ਸੁਖ ਮਿਲਦਾ ਹੈ ਕਦੇ ਦੁੱਖ । (ਤੈਥੋਂ ਬਿਨਾ ਜੀਵ ਵਾਸਤੇ) ਕੋਈ ਹੋਰ (ਆਸਰੇ ਦੀ) ਥਾਂ ਨਹੀਂ ਹੈ ",
+        "ft": "ਹੇ ਪ੍ਯਾਰੇ! ਸੁਖੁ ਦੁਖੁ ਸਭ ਤੇਰੀ ਹੀ ਆਗ੍ਯਾ ਮੇਂ ਹੈ, ਤੇਰੇ ਬਿਨਾਂ ਦੂਸਰੀ ਜਗਾ ਨਹੀਂ ਹੈ॥੩॥",
+        "bdb": "ਹੇ ਪਿਆਰੇ ਪ੍ਰਭੂ! ਤੇਰੇ ਹੁਕਮ ਵਿਚ ਹੀ (ਜੀਵ ਨੂੰ) ਕਦੇ ਸੁਖ ਮਿਲਦਾ ਹੈ ਕਦੇ ਦੁੱਖ । (ਤੈਥੋਂ ਬਿਨਾ ਜੀਵ ਵਾਸਤੇ) ਕੋਈ ਹੋਰ (ਆਸਰੇ ਦੀ) ਥਾਂ ਨਹੀਂ ਹੈ ",
+        "ms": "ਖੁਸ਼ੀ ਤੇ ਗ਼ਮੀ ਤੇਰੀ ਰਜਾ ਅੰਦਰ ਹਨ ਹੇ ਪ੍ਰੀਤਮ! ਹੋਰ ਕੋਈ ਨਹੀਂ ਜਿਥੋਂ ਉਹ ਉਤਪੰਨ ਹੁੰਦੇ ਹਨ।"
+      },
+      "es": {
+        "sn": "Dolor y placer son Tu Voluntad, oh Amor, no existe otro que lo dé. (3)"
+      },
+      "hi": {
+        "ss": "हे प्यारे प्रभू ! तेरे हुकम में ही (जीव को) कभी सुख मिलता है कभी दुख।(तेरे बिना जीव के वास्ते) कोई और (आसरे की) जगह नहीं है। 3।",
+        "sts": "हे प्यारे ! सुख-दुख तेरे आज्ञाकारी हैं अर्थात् प्राणियों को प्रभु की आज्ञा से ही कभी सुख एवं दु:ख मिलता है। तेरे अलावा दूसरा कोई ठिकाना नहीं। ३॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9520,
+    "Seq": 23,
+    "header": 0,
+    "Paragraph": 6,
+    "Gurmukhi": "jo qUM krwvih so krI ipAwry Avru ikCu krxu n jwie ]4]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 5,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 5,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 5,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "jo too(n) karaaveh so karee piaare avar kichh karan na jai ||4||",
+      "hi": "जो तूँ करावहि सो करी पिआरे अवरु किछु करणु न जाइ ॥४॥",
+      "ipa": "d͡ʒɔ t̪uŋ kərɑʋəh sɔ kəri pɪəɑre əʋər kɪɕ kərəɳ nə d͡ʒɑeɪ.4.",
+      "ur": "جو تُوں کراوه سو کریِ پآرے اور کچھ کرݨ ن جاِا ۔۔۴۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Whatever You cause me to do, that I do, O Beloved; I cannot do anything else. ||4||",
+        "ms": "My Beloved, what Thou causeth me to do, that alone I do Anything else I cannot do.",
+        "ssk": "Whatever You cause me to do, that I do, O Beloved; I cannot do anything else. ||4||"
+      },
+      "pu": {
+        "ss": "hy ipAwry pRBU! mYN auhI kuJ kr skdw hW jo qUM mYQoN krWdw hYN (qYQoN AwkI ho ky) hor kuJ BI kIqw nhIN jw skdw [4[",
+        "ft": "hy pÎwry! jo qUM krwauqw hYN, so hm krqy hYN, ibnW qyrI AwgÎw ky hm sy kCu kIAw nhIN jwqw ]4]",
+        "bdb": "hy ipAwry pRBU! mYN auhI kuJ kr skdw hW jo qUM mYQoN krWdw hYN (qYQoN AwkI ho ky) hor kuJ BI kIqw nhIN jw skdw [4[",
+        "ms": "mYfy idlbrw! ijhVw kuJ qUM krwauNdw hYN, kyvl EhI mYN krdw hW, hor kuJ mYN kr hI nhIN skdw["
+      },
+      "puu": {
+        "ss": "ਹੇ ਪਿਆਰੇ ਪ੍ਰਭੂ! ਮੈਂ ਉਹੀ ਕੁਝ ਕਰ ਸਕਦਾ ਹਾਂ ਜੋ ਤੂੰ ਮੈਥੋਂ ਕਰਾਂਦਾ ਹੈਂ (ਤੈਥੋਂ ਆਕੀ ਹੋ ਕੇ) ਹੋਰ ਕੁਝ ਭੀ ਕੀਤਾ ਨਹੀਂ ਜਾ ਸਕਦਾ ।੪।",
+        "ft": "ਹੇ ਪ੍ਯਾਰੇ! ਜੋ ਤੂੰ ਕਰਾਉਤਾ ਹੈਂ, ਸੋ ਹਮ ਕਰਤੇ ਹੈਂ, ਬਿਨਾਂ ਤੇਰੀ ਆਗ੍ਯਾ ਕੇ ਹਮ ਸੇ ਕਛੁ ਕੀਆ ਨਹੀਂ ਜਾਤਾ ॥੪॥",
+        "bdb": "ਹੇ ਪਿਆਰੇ ਪ੍ਰਭੂ! ਮੈਂ ਉਹੀ ਕੁਝ ਕਰ ਸਕਦਾ ਹਾਂ ਜੋ ਤੂੰ ਮੈਥੋਂ ਕਰਾਂਦਾ ਹੈਂ (ਤੈਥੋਂ ਆਕੀ ਹੋ ਕੇ) ਹੋਰ ਕੁਝ ਭੀ ਕੀਤਾ ਨਹੀਂ ਜਾ ਸਕਦਾ ।੪।",
+        "ms": "ਮੈਡੇ ਦਿਲਬਰਾ! ਜਿਹੜਾ ਕੁਝ ਤੂੰ ਕਰਾਉਂਦਾ ਹੈਂ, ਕੇਵਲ ਓਹੀ ਮੈਂ ਕਰਦਾ ਹਾਂ, ਹੋਰ ਕੁਝ ਮੈਂ ਕਰ ਹੀ ਨਹੀਂ ਸਕਦਾ।"
+      },
+      "es": {
+        "sn": "Y lo que Tú deseas, eso hago y nada más. (4)"
+      },
+      "hi": {
+        "ss": "हे प्यारे प्रभू ! मैं वही कुछ कर सकता हूँ जो तू मुझसे करवाता है (तुझसे आक़ी हो के) और कुछ भी किया नहीं जा सकता। 4।",
+        "sts": "जो कुछ तू करवाता है, मैं वही करता हूँ। अन्य कुछ भी मैं कर नहीं सकता। ४ ।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9521,
+    "Seq": 24,
+    "header": 0,
+    "Paragraph": 6,
+    "Gurmukhi": "idnu rYix sB suhwvxy ipAwry ijqu jpIAY hir nwau ]5]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 4,
+          "t": "v"
+        }
+      ],
+      "sttm2": []
+    },
+    "Transliterations": {
+      "en": "dhin rain sabh suhaavane piaare jit japeeaai har naau ||5||",
+      "hi": "दिनु रैणि सभ सुहावणे पिआरे जितु जपीऐ हरि नाउ ॥५॥",
+      "ipa": "d̪ɪn ræɳ səɓ sʊhɑʋəɳe pɪəɑre d͡ʒɪt̪ d͡ʒəpiæ hər nɑo.5.",
+      "ur": "دٍن رَےݨ سبھ سُهاوݨے پآرے جت جپیِاَے هر ناا ۔۔۵۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "All my days and nights are blessed, O Beloved, when I chant and meditate on the Lord's Name. ||5||",
+        "ms": "Embellished are all the days and nights, O my Love, when God's Name is remembered.",
+        "ssk": "All my days and nights are blessed, O Beloved, when I chant and meditate on the Lord's Name. ||5||"
+      },
+      "pu": {
+        "ss": "hy ipAwry hrI! auh hryk idn rwq swry sohxy l`gdy hn jdoN qyrw nwm ismirAw jWdw hY [5[",
+        "ft": "hy hrI pÎwry! ijn kr qyrw nwm jpIey so idnu rYn sB suhwvxy lgqy hYN]5]",
+        "bdb": "hy ipAwry hrI! auh hryk idn rwq swry sohxy l`gdy hn jdoN qyrw nwm ismirAw jWdw hY [5[",
+        "ms": "suBwiemwn hn swry idhwVy Aqy rwqrIAW hy myry pRIqmW! jd vwihgurU dw nwm ismirAw jWdw hY["
+      },
+      "puu": {
+        "ss": "ਹੇ ਪਿਆਰੇ ਹਰੀ! ਉਹ ਹਰੇਕ ਦਿਨ ਰਾਤ ਸਾਰੇ ਸੋਹਣੇ ਲੱਗਦੇ ਹਨ ਜਦੋਂ ਤੇਰਾ ਨਾਮ ਸਿਮਰਿਆ ਜਾਂਦਾ ਹੈ ।੫।",
+        "ft": "ਹੇ ਹਰੀ ਪ੍ਯਾਰੇ! ਜਿਨ ਕਰ ਤੇਰਾ ਨਾਮ ਜਪੀਏ ਸੋ ਦਿਨੁ ਰੈਨ ਸਭ ਸੁਹਾਵਣੇ ਲਗਤੇ ਹੈਂ॥੫॥",
+        "bdb": "ਹੇ ਪਿਆਰੇ ਹਰੀ! ਉਹ ਹਰੇਕ ਦਿਨ ਰਾਤ ਸਾਰੇ ਸੋਹਣੇ ਲੱਗਦੇ ਹਨ ਜਦੋਂ ਤੇਰਾ ਨਾਮ ਸਿਮਰਿਆ ਜਾਂਦਾ ਹੈ ।੫।",
+        "ms": "ਸੁਭਾਇਮਾਨ ਹਨ ਸਾਰੇ ਦਿਹਾੜੇ ਅਤੇ ਰਾਤਰੀਆਂ ਹੇ ਮੇਰੇ ਪ੍ਰੀਤਮਾਂ! ਜਦ ਵਾਹਿਗੁਰੂ ਦਾ ਨਾਮ ਸਿਮਰਿਆ ਜਾਂਦਾ ਹੈ।"
+      },
+      "es": {
+        "sn": "Benditos son los días y las noches en los que uno habita en el Naam, el Nombre del Señor. (5)"
+      },
+      "hi": {
+        "ss": "हे प्यारे हरी ! वे हरेक दिन-रात सारे सुहाने लगते हैं जब तेरा नाम सिमरा जाता है। 5।",
+        "sts": "सभी दिन-रात सुहावने हैं जब हरि का नाम सुमिरन किया जाता है। ५ ।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9522,
+    "Seq": 25,
+    "header": 0,
+    "Paragraph": 6,
+    "Gurmukhi": "sweI kwr kmwvxI ipAwry Duir msqik lyKu ilKwie ]6]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "saiee kaar kamaavanee piaare dhur masatak lekh likhai ||6||",
+      "hi": "साई कार कमावणी पिआरे धुरि मसतकि लेखु लिखाइ ॥६॥",
+      "ipa": "sɑei kɑr kəmɑʋəɳi pɪəɑre t̪ʊr məsət̪ək lekʰ lɪkʰɑeɪ.6.",
+      "ur": "ساای کار کماوݨیِ پآرے دھُر مستک لےکھ لکھاا ۔۔۶۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "He does the deeds, O Beloved, which are pre-ordained, and inscribed upon his forehead. ||6||",
+        "ms": "The mortal does the deeds, which are pre-ordained on his forehead, O my dear.",
+        "ssk": "He does the deeds, O Beloved, which are pre-ordained, and inscribed upon his forehead. ||6||"
+      },
+      "pu": {
+        "ss": "hy ipAwry pRBU! qyrI Dur drgwh qoN (Awp Awpxy) m`Qy (krmW dw jyhVw) lyKw ilKw ky (AsI jIv Awey hW, aus lyK Anuswr) auhI kMm (AsIN jIv) kr skdy hW [6[",
+        "ft": "hy pÎwry! hm jIv jO Awid sy Apny msqk myN lyKu ilKw Awey hYN soeI kwr kmwvxI krqy hYN]6]",
+        "bdb": "hy ipAwry pRBU! qyrI Dur drgwh qoN (Awp Awpxy) m`Qy (krmW dw jyhVw) lyKw ilKw ky (AsI jIv Awey hW, aus lyK Anuswr) auhI kMm (AsIN jIv) kr skdy hW [6[",
+        "ms": "pRwxI EhI kMm krdw hY, ijhVy muF qoN aus dy m¤Qy qy ilKy hoey hn hy myry snyhIAw!"
+      },
+      "puu": {
+        "ss": "ਹੇ ਪਿਆਰੇ ਪ੍ਰਭੂ! ਤੇਰੀ ਧੁਰ ਦਰਗਾਹ ਤੋਂ (ਆਪ ਆਪਣੇ) ਮੱਥੇ (ਕਰਮਾਂ ਦਾ ਜੇਹੜਾ) ਲੇਖਾ ਲਿਖਾ ਕੇ (ਅਸੀ ਜੀਵ ਆਏ ਹਾਂ, ਉਸ ਲੇਖ ਅਨੁਸਾਰ) ਉਹੀ ਕੰਮ (ਅਸੀਂ ਜੀਵ) ਕਰ ਸਕਦੇ ਹਾਂ ।੬।",
+        "ft": "ਹੇ ਪ੍ਯਾਰੇ! ਹਮ ਜੀਵ ਜੌ ਆਦਿ ਸੇ ਅਪਨੇ ਮਸਤਕ ਮੇਂ ਲੇਖੁ ਲਿਖਾ ਆਏ ਹੈਂ ਸੋਈ ਕਾਰ ਕਮਾਵਣੀ ਕਰਤੇ ਹੈਂ॥੬॥",
+        "bdb": "ਹੇ ਪਿਆਰੇ ਪ੍ਰਭੂ! ਤੇਰੀ ਧੁਰ ਦਰਗਾਹ ਤੋਂ (ਆਪ ਆਪਣੇ) ਮੱਥੇ (ਕਰਮਾਂ ਦਾ ਜੇਹੜਾ) ਲੇਖਾ ਲਿਖਾ ਕੇ (ਅਸੀ ਜੀਵ ਆਏ ਹਾਂ, ਉਸ ਲੇਖ ਅਨੁਸਾਰ) ਉਹੀ ਕੰਮ (ਅਸੀਂ ਜੀਵ) ਕਰ ਸਕਦੇ ਹਾਂ ।੬।",
+        "ms": "ਪ੍ਰਾਣੀ ਓਹੀ ਕੰਮ ਕਰਦਾ ਹੈ, ਜਿਹੜੇ ਮੁਢ ਤੋਂ ਉਸ ਦੇ ਮੱਥੇ ਤੇ ਲਿਖੇ ਹੋਏ ਹਨ ਹੇ ਮੇਰੇ ਸਨੇਹੀਆ!"
+      },
+      "es": {
+        "sn": "Hacemos y vivimos así como está escrito por Él en nuestro destino. (6)"
+      },
+      "hi": {
+        "ss": "हे प्यारे प्रभू ! तेरी धुर-दरगाह से (खुद अपने) माथे पर (कर्मों का जो) लेख लिखा के (हम जीव आए हैं।उस लेख के अनुसार) वही काम (हम जीव) कर सकते हैं। 6।",
+        "sts": "जीव वही कर्म करता है, जो धुर से उसकी तकदीर का लेख उसके मस्तक पर लिखा हुआ है। ६॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9523,
+    "Seq": 26,
+    "header": 0,
+    "Paragraph": 6,
+    "Gurmukhi": "eyko Awip vrqdw ipAwry Git Git rihAw smwie ]7]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 3,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "eko aap varatadhaa piaare ghaT ghaT rahiaa samai ||7||",
+      "hi": "एको आपि वरतदा पिआरे घटि घटि रहिआ समाइ ॥७॥",
+      "ipa": "eekɔ əɑp ʋərət̪əd̪ɑ pɪəɑre Gʰəʈ Gʰəʈ rəhɪəɑ səmɑeɪ.7.",
+      "ur": "اےکو آپ ورتدا پآرے گھٹ گھٹِ رهِآ سماا ۔۔۷۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "The One is Himself prevailing everywhere, O Beloved; He is pervading in each and every heart. ||7||",
+        "ms": "The One Lord Himself is pervading every where, O my dear, in every Heart he is contained.",
+        "ssk": "The One is Himself prevailing everywhere, O Beloved; He is pervading in each and every heart. ||7||"
+      },
+      "pu": {
+        "ss": "hy ipAwry pRBU! qUM iek Awp hI (swry jgq ivc) mOjUd hYN, hryk srIr ivc qUM Awp hI itikAw hoieAw hYN [7[",
+        "ft": "hy pÎwry! qUM eyk hI Awp sB GtoN myN brq rhw hY Aru bwhr BI qUM hI smwie rhw hYN]7]",
+        "bdb": "hy ipAwry pRBU! qUM iek Awp hI (swry jgq ivc) mOjUd hYN, hryk srIr ivc qUM Awp hI itikAw hoieAw hYN [7[",
+        "ms": "ieko sweIN Kud hI hr QW ivAwpk ho irhw hY, hy myry pRIqmW! hr idl AMdr auh rimAw hoieAw hY["
+      },
+      "puu": {
+        "ss": "ਹੇ ਪਿਆਰੇ ਪ੍ਰਭੂ! ਤੂੰ ਇਕ ਆਪ ਹੀ (ਸਾਰੇ ਜਗਤ ਵਿਚ) ਮੌਜੂਦ ਹੈਂ, ਹਰੇਕ ਸਰੀਰ ਵਿਚ ਤੂੰ ਆਪ ਹੀ ਟਿਕਿਆ ਹੋਇਆ ਹੈਂ ।੭।",
+        "ft": "ਹੇ ਪ੍ਯਾਰੇ! ਤੂੰ ਏਕ ਹੀ ਆਪ ਸਭ ਘਟੋਂ ਮੇਂ ਬਰਤ ਰਹਾ ਹੈ ਅਰੁ ਬਾਹਰ ਭੀ ਤੂੰ ਹੀ ਸਮਾਇ ਰਹਾ ਹੈਂ॥੭॥",
+        "bdb": "ਹੇ ਪਿਆਰੇ ਪ੍ਰਭੂ! ਤੂੰ ਇਕ ਆਪ ਹੀ (ਸਾਰੇ ਜਗਤ ਵਿਚ) ਮੌਜੂਦ ਹੈਂ, ਹਰੇਕ ਸਰੀਰ ਵਿਚ ਤੂੰ ਆਪ ਹੀ ਟਿਕਿਆ ਹੋਇਆ ਹੈਂ ।੭।",
+        "ms": "ਇਕੋ ਸਾਈਂ ਖੁਦ ਹੀ ਹਰ ਥਾਂ ਵਿਆਪਕ ਹੋ ਰਿਹਾ ਹੈ, ਹੇ ਮੇਰੇ ਪ੍ਰੀਤਮਾਂ! ਹਰ ਦਿਲ ਅੰਦਰ ਉਹ ਰਮਿਆ ਹੋਇਆ ਹੈ।"
+      },
+      "es": {
+        "sn": "Tú prevaleces en todos los corazones; Tú eres el Único Hacedor. (7)"
+      },
+      "hi": {
+        "ss": "हे प्यारे प्रभू ! तू एक खुद ही (सारे जगत में) मौजूद है।हरेक शरीर में तू खुद ही टिका हुआ है। 7।",
+        "sts": "एक ईश्वर स्वयं ही सर्वव्यापक हो रहा है और वह घट-घट में समाया हुआ है। ७ ।"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  },
+  {
+    "ID": 9524,
+    "Seq": 27,
+    "header": 0,
+    "Paragraph": 6,
+    "Gurmukhi": "sMswr kUp qy auDir lY ipAwry nwnk hir srxwie ]8]3]22]15]2]42]",
+    "Visraam": {
+      "sttm": [
+        {
+          "p": 5,
+          "t": "v"
+        }
+      ],
+      "igurbani": [
+        {
+          "p": 5,
+          "t": "v"
+        }
+      ],
+      "sttm2": [
+        {
+          "p": 5,
+          "t": "v"
+        }
+      ]
+    },
+    "Transliterations": {
+      "en": "sa(n)saar koop te udhar lai piaare naanak har saranai ||8||3||22||15||2||42||",
+      "hi": "संसार कूप ते उधरि लै पिआरे नानक हरि सरणाइ ॥८॥३॥२२॥१५॥२॥४२॥",
+      "ipa": "səŋsɑr kup t̪e oʊt̪ər læ pɪəɑre nɑnək hər sərəɳɑeɪ.8.3.2ə2.1ə5.2.4ə2.",
+      "ur": "سںسار کُوپ تے اُدھر لَے پآرے نانک هر سرݨاا ۔۔۸۔۔۳۔۔۲۲۔۔۱۵۔۔۲۔۔۴۲۔۔"
+    },
+    "Translations": {
+      "en": {
+        "bdb": "Lift me up out of the deep pit of the world, O Beloved; Nanak has taken to Your Sanctuary. ||8||3||22||15||2||42||",
+        "ms": "Nanak has entered Thine sanctuary, O Beloved God. Take him out of the world well.",
+        "ssk": "Lift me up out of the deep pit of the world, O Beloved; Nanak has taken to Your Sanctuary. ||8||3||22||15||2||42||"
+      },
+      "pu": {
+        "ss": "hy nwnk! (AwK—) hy hrI! mYN qyrI srn AwieAw hW mYƒ (mwieAw dy moh-Bry) sMswr-KUh ivcoN k`F lY [8[3[22[15[2[42[",
+        "ft": "sRI gurU jI khqy hYN: hy hrI ipAwry! myry ko sMswr rUp kUp sy auDwr ly ArQwq inkwl ly, Bwv jnm mrn sy rihq kr lyhu, mYN qyrI srxwgiq hUM]8]3]22]15]2]42]Çbwbw kwlU jI sRI gurU nwnk jI ko pMifq ky pws pFwny ko ly gey[ qhW eyk idn pF kr dUsry idn pMifq ko aupdys rUp ptI pVweI[",
+        "bdb": "hy nwnk! (AwK—) hy hrI! mYN qyrI srn AwieAw hW mYƒ (mwieAw dy moh-Bry) sMswr-KUh ivcoN k`F lY [8[3[22[15[2[42[",
+        "ms": "nwnk ny qyrI SrxwgqI sMBwlI hY, pRIqm vwihgurU aus ƒ jgq dy KUh ivcoN bwhr k`F lY["
+      },
+      "puu": {
+        "ss": "ਹੇ ਨਾਨਕ! (ਆਖ—) ਹੇ ਹਰੀ! ਮੈਂ ਤੇਰੀ ਸਰਨ ਆਇਆ ਹਾਂ ਮੈਨੂੰ (ਮਾਇਆ ਦੇ ਮੋਹ-ਭਰੇ) ਸੰਸਾਰ-ਖੂਹ ਵਿਚੋਂ ਕੱਢ ਲੈ ।੮।੩।੨੨।੧੫।੨।੪੨।",
+        "ft": "ਸ੍ਰੀ ਗੁਰੂ ਜੀ ਕਹਤੇ ਹੈਂ: ਹੇ ਹਰੀ ਪਿਆਰੇ! ਮੇਰੇ ਕੋ ਸੰਸਾਰ ਰੂਪ ਕੂਪ ਸੇ ਉਧਾਰ ਲੇ ਅਰਥਾਤ ਨਿਕਾਲ ਲੇ, ਭਾਵ ਜਨਮ ਮਰਨ ਸੇ ਰਹਿਤ ਕਰ ਲੇਹੁ, ਮੈਂ ਤੇਰੀ ਸਰਣਾਗਤਿ ਹੂੰ॥੮॥੩॥੨੨॥੧੫॥੨॥੪੨॥☬ਬਾਬਾ ਕਾਲੂ ਜੀ ਸ੍ਰੀ ਗੁਰੂ ਨਾਨਕ ਜੀ ਕੋ ਪੰਡਿਤ ਕੇ ਪਾਸ ਪਢਾਨੇ ਕੋ ਲੇ ਗਏ। ਤਹਾਂ ਏਕ ਦਿਨ ਪਢ ਕਰ ਦੂਸਰੇ ਦਿਨ ਪੰਡਿਤ ਕੋ ਉਪਦੇਸ ਰੂਪ ਪਟੀ ਪੜਾਈ।",
+        "bdb": "ਹੇ ਨਾਨਕ! (ਆਖ—) ਹੇ ਹਰੀ! ਮੈਂ ਤੇਰੀ ਸਰਨ ਆਇਆ ਹਾਂ ਮੈਨੂੰ (ਮਾਇਆ ਦੇ ਮੋਹ-ਭਰੇ) ਸੰਸਾਰ-ਖੂਹ ਵਿਚੋਂ ਕੱਢ ਲੈ ।੮।੩।੨੨।੧੫।੨।੪੨।",
+        "ms": "ਨਾਨਕ ਨੇ ਤੇਰੀ ਸ਼ਰਣਾਗਤੀ ਸੰਭਾਲੀ ਹੈ, ਪ੍ਰੀਤਮ ਵਾਹਿਗੁਰੂ ਉਸ ਨੂੰ ਜਗਤ ਦੇ ਖੂਹ ਵਿਚੋਂ ਬਾਹਰ ਕੱਢ ਲੈ।"
+      },
+      "es": {
+        "sn": "Sácame del profundo pozo del mundo, oh Bienamado, Nanak ha llegado a Tu Santuario.(8‑3‑22-15-2-42)"
+      },
+      "hi": {
+        "ss": "हे नानक ! (कह–) हे हरी ! मैं तेरी शरण आया हूँ मुझे (माया के मोह भरे) संसार कूँएं में से निकाल ले। 8। 3। 22। 15। 2। 42।",
+        "sts": "हे हरि प्रभु! नानक ने तेरी शरण ली है, इसलिए उसका संसार के कूप में से बाहर निकाल कर उद्धार कर दीजिए ॥ ८ ॥३॥ २२॥ १५॥ २॥ ४२ ॥"
+      }
+    },
+    "existsSGPC": 1,
+    "existsMedium": 1,
+    "existsTaksal": 1,
+    "existsBuddhaDal": 1,
+    "MangalPosition": null
+  }
+]
