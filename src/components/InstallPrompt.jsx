@@ -7,7 +7,7 @@ export default function InstallPrompt({ deferredPrompt, isInstalled }) {
   const [isIos] = useState(() => {
     const userAgent = window.navigator.userAgent.toLowerCase();
     const isIphoneOrIpad = /iphone|ipad|ipod/.test(userAgent);
-    const isMacTouch = navigator.maxTouchPoints && navigator.maxTouchPoints > 2 && /macintosh/.test(userAgent);
+    const isMacTouch = !!(navigator.maxTouchPoints && navigator.maxTouchPoints > 2 && /macintosh/.test(userAgent));
     return isIphoneOrIpad || isMacTouch;
   });
   const isStandalone = typeof window !== 'undefined' && (window.matchMedia('(display-mode: standalone)').matches || window.navigator.standalone);
