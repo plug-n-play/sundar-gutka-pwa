@@ -1,8 +1,8 @@
 import { useState, useEffect } from 'react';
-import { getBaniList } from '../database/db.client';
+import { getBaniList, DEFAULT_BANI_IDS } from '../database/db.client';
 import { Search, Loader2 } from 'lucide-react';
 
-export default function BaniList({ onSelectBani, languageSetting }) {
+export default function BaniList({ onSelectBani, languageSetting, enabledBaniIds }) {
   const [banis, setBanis] = useState([]);
   const [loading, setLoading] = useState(true);
   const [searchQuery, setSearchQuery] = useState('');
@@ -25,13 +25,25 @@ export default function BaniList({ onSelectBani, languageSetting }) {
       });
   }, [languageSetting]);
 
-  const filteredBanis = banis.filter((bani) => {
-    const query = searchQuery.toLowerCase();
-    return (
-      bani.gurmukhi.toLowerCase().includes(query) ||
-      bani.translit.toLowerCase().includes(query)
-    );
-  });
+  const filteredBanis = banis
+    .filter((bani) => {
+      const isBaniVisible = enabledBaniIds && enabledBaniIds.includes(bani.id);
+      if (!isBaniVisible) return false;
+
+      const query = searchQuery.toLowerCase();
+      return (
+        bani.gurmukhi.toLowerCase().includes(query) ||
+        bani.translit.toLowerCase().includes(query)
+      );
+    })
+    .sort((a, b) => {
+      const idxA = DEFAULT_BANI_IDS.indexOf(a.id);
+      const idxB = DEFAULT_BANI_IDS.indexOf(b.id);
+      if (idxA !== -1 && idxB !== -1) return idxA - idxB;
+      if (idxA !== -1) return -1;
+      if (idxB !== -1) return 1;
+      return a.id - b.id;
+    });
 
   return (
     <div className="home-container">
@@ -52,8 +64,15 @@ export default function BaniList({ onSelectBani, languageSetting }) {
           <span>Initializing database & loading prayers...</span>
         </div>
       ) : filteredBanis.length === 0 ? (
-        <div style={{ textAlign: 'center', padding: '40px', color: 'var(--text-muted)' }}>
-          No Banis found matching "{searchQuery}"
+        <div style={{ textAlign: 'center', padding: '40px 20px', color: 'var(--text-muted)', lineHeight: '1.6' }}>
+          {searchQuery ? (
+            `No Banis found matching "${searchQuery}"`
+          ) : (
+            <div>
+              <p style={{ marginBottom: '12px' }}>No prayers are currently enabled.</p>
+              <p style={{ fontSize: '13px' }}>Go to Settings (<span style={{ color: 'var(--accent-gold)' }}>⚙</span>) &gt; Customize Prayer List to choose which prayers appear here.</p>
+            </div>
+          )}
         </div>
       ) : (
         <div className="bani-grid">
