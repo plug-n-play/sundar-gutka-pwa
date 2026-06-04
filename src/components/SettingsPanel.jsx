@@ -1,14 +1,80 @@
 import { useState } from 'react';
-import { X, Download, AlertCircle } from 'lucide-react';
+import { X, Download, AlertCircle, Search, Loader2 } from 'lucide-react';
 
-export default function SettingsPanel({ isOpen, onClose, settings, updateSetting, deferredPrompt, isInstalled }) {
+export default function SettingsPanel({ 
+  isOpen, 
+  onClose, 
+  settings, 
+  updateSetting, 
+  deferredPrompt, 
+  isInstalled,
+  enabledBaniIds,
+  updateEnabledBanis
+}) {
   const [showIosGuide, setShowIosGuide] = useState(false);
+  const [showBaniSelector, setShowBaniSelector] = useState(false);
+  const [allBanis, setAllBanis] = useState([]);
+  const [loadingBanis, setLoadingBanis] = useState(false);
+  const [selectorSearch, setSelectorSearch] = useState('');
+
   const [isIos] = useState(() => {
     const userAgent = window.navigator.userAgent.toLowerCase();
     const isIphoneOrIpad = /iphone|ipad|ipod/.test(userAgent);
-    const isMacTouch = navigator.maxTouchPoints && navigator.maxTouchPoints > 2 && /macintosh/.test(userAgent);
+    const isMacTouch = !!(navigator.maxTouchPoints && navigator.maxTouchPoints > 2 && /macintosh/.test(userAgent));
     return isIphoneOrIpad || isMacTouch;
   });
+
+  const openBaniSelector = () => {
+    setShowBaniSelector(true);
+    if (allBanis.length === 0) {
+      setLoadingBanis(true);
+      fetch('/data/banis.json')
+        .then((res) => res.json())
+        .then((data) => {
+          const formatted = data.map((row) => {
+            let translitVal = "";
+            try {
+              const json = typeof row.Transliterations === 'string'
+                ? JSON.parse(row.Transliterations)
+                : row.Transliterations;
+              if (json) {
+                translitVal = json.en;
+              }
+            } catch {
+              translitVal = row.Transliterations;
+            }
+            return {
+              id: row.ID,
+              gurmukhi: row.Gurmukhi,
+              translit: translitVal || ""
+            };
+          });
+          setAllBanis(formatted);
+          setLoadingBanis(false);
+        })
+        .catch((err) => {
+          console.error("Failed to load Banis for selector:", err);
+          setLoadingBanis(false);
+        });
+    }
+  };
+
+  const handleToggleBani = (id) => {
+    if (enabledBaniIds.includes(id)) {
+      updateEnabledBanis(enabledBaniIds.filter((item) => item !== id));
+    } else {
+      updateEnabledBanis([...enabledBaniIds, id]);
+    }
+  };
+
+  const handleSelectAll = () => {
+    const allIds = allBanis.map((b) => b.id);
+    updateEnabledBanis(allIds);
+  };
+
+  const handleClearAll = () => {
+    updateEnabledBanis([]);
+  };
 
   const handleInstallClick = async () => {
     if (deferredPrompt) {
@@ -17,6 +83,23 @@ export default function SettingsPanel({ isOpen, onClose, settings, updateSetting
       console.log(`User response to settings install prompt: ${outcome}`);
     }
   };
+
+  const optionalBanis = allBanis;
+  const filteredOptionalBanis = optionalBanis.filter((b) => {
+    const q = selectorSearch.toLowerCase();
+    return (
+      b.gurmukhi.toLowerCase().includes(q) ||
+      b.translit.toLowerCase().includes(q)
+    );
+  });
+
+  const sortedOptionalBanis = [...filteredOptionalBanis].sort((a, b) => {
+    const aChecked = enabledBaniIds.includes(a.id);
+    const bChecked = enabledBaniIds.includes(b.id);
+    if (aChecked && !bChecked) return -1;
+    if (!aChecked && bChecked) return 1;
+    return 0;
+  });
   return (
     <div className={`settings-overlay ${isOpen ? 'open' : ''}`} onClick={onClose}>
       <div className="settings-panel" onClick={(e) => e.stopPropagation()}>
@@ -28,6 +111,18 @@ export default function SettingsPanel({ isOpen, onClose, settings, updateSetting
         </div>
 
         <div className="settings-content">
+          {/* Custom Prayer List Option */}
+          <div className="settings-group">
+            <label className="settings-label">Prayers</label>
+            <button className="settings-btn-primary" onClick={openBaniSelector}>
+              Customize Prayer List
+            </button>
+            <span style={{ fontSize: '11px', color: 'var(--text-muted)', marginTop: '4px' }}>
+              Select which optional prayers appear on the home screen.
+            </span>
+          </div>
+
+          <hr style={{ border: '0', borderTop: '1px solid var(--border-color)', margin: '4px 0' }} />
           {/* Theme */}
           <div className="settings-group">
             <label className="settings-label">Theme</label>
@@ -245,31 +340,31 @@ export default function SettingsPanel({ isOpen, onClose, settings, updateSetting
             </div>
           )}
 
-          <hr style={{ border: '0', borderTop: '1px solid var(--border-color)', margin: '8px 0' }} />
+          {!!(isInstalled || deferredPrompt || isIos) && (
+            <>
+              <hr style={{ border: '0', borderTop: '1px solid var(--border-color)', margin: '8px 0' }} />
 
-          {/* PWA App Status / Action */}
-          <div className="settings-group">
-            <label className="settings-label">Application</label>
-            {isInstalled ? (
-              <div className="pwa-status-installed">
-                <span className="status-dot-green"></span>
-                <span>Installed (Offline Ready)</span>
+              {/* PWA App Status / Action */}
+              <div className="settings-group">
+                <label className="settings-label">Application</label>
+                {isInstalled ? (
+                  <div className="pwa-status-installed">
+                    <span className="status-dot-green"></span>
+                    <span>Installed (Offline Ready)</span>
+                  </div>
+                ) : deferredPrompt ? (
+                  <button className="settings-btn-primary" onClick={handleInstallClick}>
+                    <Download size={14} style={{ marginRight: '6px' }} />
+                    Install App (Offline Access)
+                  </button>
+                ) : isIos ? (
+                  <button className="settings-btn-primary" onClick={() => setShowIosGuide(true)}>
+                    How to Install PWA
+                  </button>
+                ) : null}
               </div>
-            ) : deferredPrompt ? (
-              <button className="settings-btn-primary" onClick={handleInstallClick}>
-                <Download size={14} style={{ marginRight: '6px' }} />
-                Install App (Offline Access)
-              </button>
-            ) : isIos ? (
-              <button className="settings-btn-primary" onClick={() => setShowIosGuide(true)}>
-                How to Install PWA
-              </button>
-            ) : (
-              <div className="pwa-status-standalone">
-                <span>Standalone Ready</span>
-              </div>
-            )}
-          </div>
+            </>
+          )}
         </div>
       </div>
 
@@ -336,6 +431,94 @@ export default function SettingsPanel({ isOpen, onClose, settings, updateSetting
 
               <button className="ios-guide-close-btn" onClick={() => setShowIosGuide(false)}>
                 Got It
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
+
+      {/* Customize Prayers Selector Modal */}
+      {showBaniSelector && (
+        <div className="bani-selector-overlay" onClick={() => setShowBaniSelector(false)}>
+          <div className="bani-selector-modal animate-scale-in" onClick={(e) => e.stopPropagation()}>
+            <div className="bani-selector-header">
+              <div className="bani-selector-header-top">
+                <h3>Customize Prayer List</h3>
+                <button className="icon-btn" onClick={() => setShowBaniSelector(false)} aria-label="Close Selector">
+                  <X size={20} />
+                </button>
+              </div>
+              <p className="bani-selector-info">
+                Select which prayers appear on your home screen. Core prayers are checked by default.
+              </p>
+              
+              <div className="bani-selector-controls">
+                <div className="selector-search-wrapper">
+                  <Search className="selector-search-icon" size={16} />
+                  <input
+                    type="text"
+                    className="selector-search-input"
+                    placeholder="Search prayers..."
+                    value={selectorSearch}
+                    onChange={(e) => setSelectorSearch(e.target.value)}
+                  />
+                  {selectorSearch && (
+                    <button className="search-clear-btn" onClick={() => setSelectorSearch('')}>
+                      <X size={14} />
+                    </button>
+                  )}
+                </div>
+                <div className="selector-quick-actions">
+                  <button className="selector-action-btn" onClick={handleSelectAll}>Select All</button>
+                  <button className="selector-action-btn" onClick={handleClearAll}>Clear All</button>
+                </div>
+              </div>
+            </div>
+
+            <div className="bani-selector-body">
+              {loadingBanis ? (
+                <div className="selector-loading">
+                  <Loader2 className="loading-spinner" size={24} />
+                  <span>Loading prayers...</span>
+                </div>
+              ) : filteredOptionalBanis.length === 0 ? (
+                <div className="selector-empty">
+                  No prayers found matching "{selectorSearch}"
+                </div>
+              ) : (
+                <div className="selector-grid">
+                  {sortedOptionalBanis.map((b) => {
+                    const isChecked = enabledBaniIds.includes(b.id);
+                    return (
+                      <label 
+                        key={b.id} 
+                        className={`selector-card ${isChecked ? 'selected' : ''}`}
+                      >
+                        <div className="selector-checkbox-wrapper">
+                          <input
+                            type="checkbox"
+                            checked={isChecked}
+                            onChange={() => handleToggleBani(b.id)}
+                          />
+                          <span className="custom-checkbox"></span>
+                        </div>
+                        <div className="selector-card-details">
+                          <span className="selector-card-gurbani">{b.gurmukhi}</span>
+                          <span className="selector-card-translit">{b.translit}</span>
+                        </div>
+                      </label>
+                    );
+                  })}
+                </div>
+              )}
+            </div>
+
+            <div className="bani-selector-footer">
+              <div className="selector-selected-count">
+                {enabledBaniIds.length} prayer{enabledBaniIds.length !== 1 ? 's' : ''} enabled
+              </div>
+              <button className="selector-save-btn" onClick={() => setShowBaniSelector(false)}>
+                Done
               </button>
             </div>
           </div>
