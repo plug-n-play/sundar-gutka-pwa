@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { Settings, ChevronLeft, Sun, Moon } from 'lucide-react';
+import { Settings, ChevronLeft, Sun, Moon, Menu } from 'lucide-react';
 import BaniList from './components/BaniList';
 import Reader from './components/Reader';
 import SettingsPanel from './components/SettingsPanel';
@@ -23,6 +23,7 @@ const DEFAULT_SETTINGS = {
 export default function App() {
   const [currentView, setCurrentView] = useState('home'); // 'home' or 'reader'
   const [selectedBani, setSelectedBani] = useState({ id: null, gurmukhi: '', translit: '' });
+  const [isReaderIndexOpen, setIsReaderIndexOpen] = useState(false);
   const [settings, setSettings] = useState(() => {
     const saved = localStorage.getItem('sundar_gutka_web_settings');
     if (saved) {
@@ -86,6 +87,7 @@ export default function App() {
     }
 
     const handlePopState = (event) => {
+      setIsReaderIndexOpen(false);
       const state = event.state;
       if (state && state.view === 'reader') {
         setSelectedBani({ id: state.id, gurmukhi: state.gurmukhi, translit: state.translit });
@@ -127,6 +129,7 @@ export default function App() {
   };
 
   const handleSelectBani = (id, gurmukhi, translit) => {
+    setIsReaderIndexOpen(false);
     setSelectedBani({ id, gurmukhi, translit });
     setCurrentView('reader');
 
@@ -138,6 +141,7 @@ export default function App() {
   };
 
   const handleGoHome = () => {
+    setIsReaderIndexOpen(false);
     if (window.history.state && window.history.state.view === 'reader') {
       window.history.back();
     } else {
@@ -185,6 +189,15 @@ export default function App() {
               <button className="icon-btn" onClick={handleGoHome} aria-label="Go Home">
                 <ChevronLeft size={24} />
               </button>
+              {[2, 10, 31, 90].includes(selectedBani.id) && (
+                <button 
+                  className="icon-btn reader-menu-btn" 
+                  onClick={() => setIsReaderIndexOpen(!isReaderIndexOpen)} 
+                  aria-label="Toggle Table of Contents"
+                >
+                  <Menu size={22} />
+                </button>
+              )}
               <span className="logo-text">{selectedBani.translit}</span>
             </div>
 
@@ -212,6 +225,8 @@ export default function App() {
           baniId={selectedBani.id} 
           baniTitle={selectedBani.gurmukhi} 
           settings={settings} 
+          isIndexOpen={isReaderIndexOpen}
+          onCloseIndex={() => setIsReaderIndexOpen(false)}
         />
       )}
 

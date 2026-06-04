@@ -1,8 +1,8 @@
-import { useState, useEffect } from 'react';
-import { getShabad } from '../database/db.client';
-import { Loader2 } from 'lucide-react';
+import { useState, useEffect, useMemo } from 'react';
+import { getShabad, getBaniIndex } from '../database/db.client';
+import { Loader2, X } from 'lucide-react';
 
-export default function Reader({ baniId, settings }) {
+export default function Reader({ baniId, settings, isIndexOpen, onCloseIndex }) {
   const [lines, setLines] = useState([]);
   const [loading, setLoading] = useState(true);
   const [prevBaniId, setPrevBaniId] = useState(null);
@@ -25,6 +25,20 @@ export default function Reader({ baniId, settings }) {
         setLoading(false);
       });
   }, [baniId, settings.baniLength]);
+
+  const indexItems = useMemo(() => {
+    return getBaniIndex(baniId, lines);
+  }, [baniId, lines]);
+
+  const handleScrollToLine = (lineId) => {
+    const element = document.getElementById(`line-${lineId}`);
+    if (element) {
+      element.scrollIntoView({ block: 'start' });
+    }
+    if (onCloseIndex) {
+      onCloseIndex();
+    }
+  };
 
   // Format Gurbani lines with Larivaar and Vishraam styling
   const formatGurmukhi = (text, vishraamJsonString) => {
@@ -113,6 +127,34 @@ export default function Reader({ baniId, settings }) {
 
   return (
     <div className="reader-container">
+      {indexItems.length > 0 && (
+        <>
+          <div 
+            className={`reader-sidebar-backdrop ${isIndexOpen ? 'open' : ''}`}
+            onClick={onCloseIndex}
+          />
+          <div className={`reader-sidebar-drawer ${isIndexOpen ? 'open' : ''}`}>
+            <div className="reader-sidebar-header">
+              <h3>Bani Index / ਤਤਕਰਾ</h3>
+              <button className="reader-sidebar-close-btn" onClick={onCloseIndex} aria-label="Close Index">
+                <X size={20} />
+              </button>
+            </div>
+            <div className="reader-sidebar-content">
+              {indexItems.map((item, idx) => (
+                <button
+                  key={idx}
+                  className="reader-sidebar-item"
+                  onClick={() => handleScrollToLine(item.lineId)}
+                >
+                  <span className="reader-sidebar-item-label">{item.label}</span>
+                </button>
+              ))}
+            </div>
+          </div>
+        </>
+      )}
+
       {loading ? (
         <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', flex: 1, padding: '40px', color: 'var(--text-muted)' }}>
           <Loader2 className="loading-spinner" size={32} style={{ marginBottom: '12px' }} />
@@ -132,6 +174,7 @@ export default function Reader({ baniId, settings }) {
             return (
               <div 
                 key={line.ID} 
+                id={`line-${line.ID}`}
                 className={`shabad-line ${isHeader ? 'header-section' : ''}`}
               >
                 <div 
