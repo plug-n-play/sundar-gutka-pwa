@@ -60,6 +60,30 @@ export default function App() {
     };
   }, []);
 
+  // Handle history popstate events for hardware/browser back button support
+  useEffect(() => {
+    // Initialize the root state so back button knows where home is
+    if (!window.history.state) {
+      window.history.replaceState({ view: 'home' }, '');
+    }
+
+    const handlePopState = (event) => {
+      const state = event.state;
+      if (state && state.view === 'reader') {
+        setSelectedBani({ id: state.id, gurmukhi: state.gurmukhi, translit: state.translit });
+        setCurrentView('reader');
+      } else {
+        setCurrentView('home');
+        setSelectedBani({ id: null, gurmukhi: '', translit: '' });
+      }
+    };
+
+    window.addEventListener('popstate', handlePopState);
+    return () => {
+      window.removeEventListener('popstate', handlePopState);
+    };
+  }, []);
+
   // Sync theme attribute with HTML document tag
   useEffect(() => {
     document.documentElement.setAttribute('data-theme', settings.theme);
@@ -87,11 +111,21 @@ export default function App() {
   const handleSelectBani = (id, gurmukhi, translit) => {
     setSelectedBani({ id, gurmukhi, translit });
     setCurrentView('reader');
+
+    // Push new state to history if we're not already in reader for this shabad
+    const currentState = window.history.state;
+    if (!currentState || currentState.view !== 'reader' || currentState.id !== id) {
+      window.history.pushState({ view: 'reader', id, gurmukhi, translit }, '');
+    }
   };
 
   const handleGoHome = () => {
-    setCurrentView('home');
-    setSelectedBani({ id: null, gurmukhi: '', translit: '' });
+    if (window.history.state && window.history.state.view === 'reader') {
+      window.history.back();
+    } else {
+      setCurrentView('home');
+      setSelectedBani({ id: null, gurmukhi: '', translit: '' });
+    }
   };
 
   const toggleTheme = () => {
