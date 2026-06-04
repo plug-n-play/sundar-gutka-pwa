@@ -4,7 +4,7 @@ import BaniList from './components/BaniList';
 import Reader from './components/Reader';
 import SettingsPanel from './components/SettingsPanel';
 import InstallPrompt from './components/InstallPrompt';
-import { DEFAULT_BANI_IDS } from './database/db.client';
+import { DEFAULT_BANI_IDS, getBaniSlug, getBaniFromSlug } from './database/db.client';
 
 const DEFAULT_SETTINGS = {
   theme: 'dark',
@@ -79,11 +79,41 @@ export default function App() {
     };
   }, []);
 
-  // Handle history popstate events for hardware/browser back button support
+  // Handle history popstate events and initial deep link routing
   useEffect(() => {
-    // Initialize the root state so back button knows where home is
-    if (!window.history.state) {
-      window.history.replaceState({ view: 'home' }, '');
+    // Check if there is a deep link pathname on initial load
+    const path = window.location.pathname.replace(/^\/|\/$/g, '');
+    if (path && path !== 'index.html') {
+      getBaniFromSlug(path).then((matchedBani) => {
+        if (matchedBani) {
+          setSelectedBani({ 
+            id: matchedBani.id, 
+            gurmukhi: matchedBani.gurmukhi, 
+            translit: matchedBani.translit 
+          });
+          setCurrentView('reader');
+          // Save the hash before we change the URL to '/'
+          const currentHash = window.location.hash;
+          // First set the home state at the root of our history stack
+          window.history.replaceState({ view: 'home' }, '', '/');
+          // Then push the reader state on top of it so the back button takes the user home
+          window.history.pushState({ 
+            view: 'reader', 
+            id: matchedBani.id, 
+            gurmukhi: matchedBani.gurmukhi, 
+            translit: matchedBani.translit 
+          }, '', `/${path}${currentHash}`);
+        } else {
+          window.history.replaceState({ view: 'home' }, '', '/');
+        }
+      }).catch((err) => {
+        console.error("Error loading deep link:", err);
+        window.history.replaceState({ view: 'home' }, '', '/');
+      });
+    } else {
+      if (!window.history.state) {
+        window.history.replaceState({ view: 'home' }, '', '/');
+      }
     }
 
     const handlePopState = (event) => {
@@ -133,10 +163,12 @@ export default function App() {
     setSelectedBani({ id, gurmukhi, translit });
     setCurrentView('reader');
 
+    const slug = getBaniSlug(id, translit);
+
     // Push new state to history if we're not already in reader for this shabad
     const currentState = window.history.state;
     if (!currentState || currentState.view !== 'reader' || currentState.id !== id) {
-      window.history.pushState({ view: 'reader', id, gurmukhi, translit }, '');
+      window.history.pushState({ view: 'reader', id, gurmukhi, translit }, '', `/${slug}`);
     }
   };
 
@@ -147,6 +179,7 @@ export default function App() {
     } else {
       setCurrentView('home');
       setSelectedBani({ id: null, gurmukhi: '', translit: '' });
+      window.history.pushState({ view: 'home' }, '', '/');
     }
   };
 

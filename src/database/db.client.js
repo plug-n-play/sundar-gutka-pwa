@@ -225,37 +225,38 @@ export function getBaniIndex(baniId, lines) {
   if (baniId === 90) {
     // Asa Di Vaar
     const anchors = [
-      { label: "1 - ਹਰਿ ਅੰਮ੍ਰਿਤ ਭਿੰਨੇ ਲੋਇਣਾ", match: "hir AMimRq iBMny" },
-      { label: "2 - ਹਰਿ ਪ੍ਰੇਮ ਬਾਣੀ ਮਨੁ ਮਾਰਿਆ", match: "hir pRym bwxI mnu mwirAw" },
-      { label: "3 - ਹਮ ਮੂਰਖ ਮੁਗਧ ਸਰਣਾਗਤੀ", match: "hm mUrK mugD" },
-      { label: "4 - ਦੀਨ ਦਇਆਲ ਸੁਣਿ ਬੇਨਤੀ", match: "dIn dieAwl suix bynqI" },
-      { label: "5 - ਗੁਰਮੁਖਿ ਢੂੰਢਿ ਢੂਢੇਦਿਆ", match: "gurmuiK FUMiF FUFyidAw" },
-      { label: "6 - ਪੰਥੁ ਦਸਾਵਾ ਨਿਤ ਖੜੀ", match: "pMQu dswvw inq KVI" },
-      { label: "7 - ਗੁਰਮੁਖਿ ਪਿਆਰੇ ਆਇ ਮਿਲੁ", match: "gurmuiK ipAwry Awie imlu" },
-      { label: "8 - ਗੁਰ ਅੰਮ੍ਰਿਤ ਭਿੰਨੀ ਦੇਹੁਰੀ", match: "gur AMimRq iBMnI dyhurI" },
-      { label: "9 - ਹਰਿ ਅੰਮ੍ਰਿਤ ਭਗਤਿ ਭੰਡਾਰ ਹੈ", match: "hir AMimRq Bgiq BMfwr" },
-      { label: "10 - ਸਚੁ ਸਾਹੁ ਹਮਾਰਾ ਤੂੰ ਧਣੀ", match: "scu swhu hmwrw qUM DxI" },
-      { label: "11 - ਹਮ ਕਿਆ ਗੁਣ ਤੇਰੇ ਵਿਥਰਹ", match: "hm ikAw gux qyry" },
-      { label: "12 - ਜਿਉ ਭਾਵੈ ਤਿਉ ਰਾਖਿ ਲੈ", match: "ijau BwvY iqau" },
-      { label: "13 - ਜਿਨ ਮਸਤਕਿ ਧੁਰਿ ਹਰਿ ਲਿਖਿਆ", match: "ijn msqik Duir" },
-      { label: "14 - ਜਿਨੀ ਐਸਾ ਹਰਿ ਨਾਮੁ ਨ ਚੇਤਿਓ", match: "ijnI AYsw hir nwmu n cyiqE" },
-      { label: "15 - ਤੂੰ ਹਰਿ ਤੇਰਾ ਸਭੁ ਕੋ", match: "qUM hir qyrw sBu" },
-      { label: "16 - ਕੋਈ ਗਾਵੈ ਰਾਗੀ ਨਾਦੀ ਬੇਦੀ ਬਹੁ ਭਾਤਿ ਕਰਿ", match: "koeI gwvY rwgI nwdI" },
-      { label: "17 - ਜਿਨ ਅੰਤਰਿ ਹਰਿ ਹਰਿ ਪ੍ਰੀਤਿ ਹੈ", match: "ijn AMqir hir hir" },
-      { label: "18 - ਜਿਥੈ ਜਾਇ ਬਹੈ ਮੇਰਾ ਸਤਿਗੁਰੂ", match: "ijQY jwie bhY myrw siqgurU" },
-      { label: "19 - ਗੁਰਸਿਖਾ ਮਨਿ ਹਰਿ ਪ੍ਰੀਤਿ ਹੈ", match: "gurisKw min hir pRIiq" },
-      { label: "20 - ਗੁਰਸਿਖਾ ਮਨਿ ਵਾਧਾਈਆ", match: "gurisKw min vwDweIAw" },
-      { label: "21 - ਜਿਨਾ ਭੇਟਿਆ ਮੇਰਾ ਪੂਰਾ ਸਤਿਗੁਰੂ", match: "ByitAw myrw pUrw siqgurU" },
-      { label: "22 - ਜਿਨੀ ਗੁਰਮੁਖਿ ਨਾਮੁ ਧਿਆਇਆ", match: "ijnI gurmuiK nwmu" },
-      { label: "23 - ਜਿਨਾ ਅੰਤਰਿ ਗੁਰਮੁਖਿ ਪ੍ਰੀਤਿ ਹੈ", match: "AMqir gurmuiK pRIiq" },
-      { label: "24 - ਹਰਿ ਜੁਗੁ ਜੁਗੁ ਭਗਤ ਉਪਾਇਆ", match: "hir jugu jugu Bgq" }
+      { label: "1 - ਹਰਿ ਅੰਮ੍ਰਿਤ ਭਿੰਨੇ ਲੋਇਣਾ", match: "hir AMimRq iBMny", hash: "har-amrit-bhinne-loina" },
+      { label: "2 - ਹਰਿ ਪ੍ਰੇਮ ਬਾਣੀ ਮਨੁ ਮਾਰਿਆ", match: "hir pRym bwxI mnu mwirAw", hash: "har-prem-bani-man-maria" },
+      { label: "3 - ਹਮ ਮੂਰਖ ਮੁਗਧ ਸਰਣਾਗਤੀ", match: "hm mUrK mugD", hash: "ham-murakh-mugadh-saranagati" },
+      { label: "4 - ਦੀਨ ਦਇਆਲ ਸੁਣਿ ਬੇਨਤੀ", match: "dIn dieAwl suix bynqI", hash: "deen-dayal-sun-benti" },
+      { label: "5 - ਗੁਰਮੁਖਿ ਢੂੰਢਿ ਢੂਢੇਦਿਆ", match: "gurmuiK FUMiF FUFyidAw", hash: "gurmukh-dhoondh-dhoondhedia" },
+      { label: "6 - ਪੰਥੁ ਦਸਾਵਾ ਨਿਤ ਖੜੀ", match: "pMQu dswvw inq KVI", hash: "panth-dasava-nit-khari" },
+      { label: "7 - ਗੁਰਮੁਖਿ ਪਿਆਰੇ ਆਇ ਮਿਲੁ", match: "gurmuiK ipAwry Awie imlu", hash: "gurmukh-piare-ai-mil" },
+      { label: "8 - ਗੁਰ ਅੰਮ੍ਰਿਤ ਭਿੰਨੀ ਦੇਹੁਰੀ", match: "gur AMimRq iBMnI dyhurI", hash: "gur-amrit-bhinni-dehri" },
+      { label: "9 - ਹਰਿ ਅੰਮ੍ਰਿਤ ਭਗਤਿ ਭੰਡਾਰ ਹੈ", match: "hir AMimRq Bgiq BMfwr", hash: "har-amrit-bhagat-bhandar-hai" },
+      { label: "10 - ਸਚੁ ਸਾਹੁ ਹਮਾਰਾ ਤੂੰ ਧਣੀ", match: "scu swhu hmwrw qUM DxI", hash: "sach-sah-hamara-toon-dhani" },
+      { label: "11 - ਹਮ ਕਿਆ ਗੁਣ ਤੇਰੇ ਵਿਥਰਹ", match: "hm ikAw gux qyry", hash: "ham-kia-gun-tere-vithrah" },
+      { label: "12 - ਜਿਉ ਭਾਵੈ ਤਿਉ ਰਾਖਿ ਲੈ", match: "ijau BwvY iqau", hash: "jio-bhavai-tio-rakh-lai" },
+      { label: "13 - ਜਿਨ ਮਸਤਕਿ ਧੁਰਿ ਹਰਿ ਲਿਖਿਆ", match: "ijn msqik Duir", hash: "jin-masatak-dhur-har-likhia" },
+      { label: "14 - ਜਿਨੀ ਐਸਾ ਹਰਿ ਨਾਮੁ ਨ ਚੇਤਿਓ", match: "ijnI AYsw hir nwmu n cyiqE", hash: "jini-aisa-har-nam-na-chetio" },
+      { label: "15 - ਤੂੰ ਹਰਿ ਤੇਰਾ ਸਭੁ ਕੋ", match: "qUM hir qyrw sBu", hash: "toon-har-tera-sabh-ko" },
+      { label: "16 - ਕੋਈ ਗਾਵੈ ਰਾਗੀ ਨਾਦੀ ਬੇਦੀ ਬਹੁ ਭਾਤਿ ਕਰਿ", match: "koeI gwvY rwgI nwdI", hash: "koi-gavai-ragi-nadi-bedi-bahu-bhat-kar" },
+      { label: "17 - ਜਿਨ ਅੰਤਰਿ ਹਰਿ ਹਰਿ ਪ੍ਰੀਤਿ ਹੈ", match: "ijn AMqir hir hir", hash: "jin-antar-har-har-preet-hai" },
+      { label: "18 - ਜਿਥੈ ਜਾਇ ਬਹੈ ਮੇਰਾ ਸਤਿਗੁਰੂ", match: "ijQY jwie bhY myrw siqgurU", hash: "jithai-jai-bahai-mera-satiguru" },
+      { label: "19 - ਗੁਰਸਿਖਾ ਮਨਿ ਹਰਿ ਪ੍ਰੀਤਿ ਹੈ", match: "gurisKw min hir pRIiq", hash: "gursikha-man-har-preet-hai" },
+      { label: "20 - ਗੁਰਸਿਖਾ ਮਨਿ ਵਾਧਾਈਆ", match: "gurisKw min vwDweIAw", hash: "gursikha-man-vadhaiia" },
+      { label: "21 - ਜਿਨਾ ਭੇਟਿਆ ਮੇਰਾ ਪੂਰਾ ਸਤਿਗੁਰੂ", match: "ByitAw myrw pUrw siqgurU", hash: "jina-bhetia-mera-poora-satiguru" },
+      { label: "22 - ਜਿਨੀ ਗੁਰਮੁਖਿ ਨਾਮੁ ਧਿਆਇਆ", match: "ijnI gurmuiK nwmu", hash: "jini-gurmukh-nam-dhiaia" },
+      { label: "23 - ਜਿਨਾ ਅੰਤਰਿ ਗੁਰਮੁਖਿ ਪ੍ਰੀਤਿ ਹੈ", match: "AMqir gurmuiK pRIiq", hash: "jina-antar-gurmukh-preet-hai" },
+      { label: "24 - ਹਰਿ ਜੁਗੁ ਜੁਗੁ ਭਗਤ ਉਪਾਇਆ", match: "hir jugu jugu Bgq", hash: "har-jug-jug-bhagat-upaia" }
     ];
 
     return anchors.map(anchor => {
       const found = lines.find(l => l.Gurmukhi && l.Gurmukhi.includes(anchor.match));
       return {
         label: anchor.label,
-        lineId: found ? found.ID : null
+        lineId: found ? found.ID : null,
+        hash: anchor.hash
       };
     }).filter(item => item.lineId !== null);
   }
@@ -268,7 +269,8 @@ export function getBaniIndex(baniId, lines) {
       if (line.header > 0 && line.Gurmukhi.includes("slok")) {
         indexItems.push({
           label: `Ashtpadi ${ashtpadiCount} - Slok`,
-          lineId: line.ID
+          lineId: line.ID,
+          hash: `ashtpadi-${ashtpadiCount}-slok`
         });
         ashtpadiCount++;
       }
@@ -291,7 +293,8 @@ export function getBaniIndex(baniId, lines) {
         }
         indexItems.push({
           label: label,
-          lineId: line.ID
+          lineId: line.ID,
+          hash: label.toLowerCase().replace(/\s+/g, '-')
         });
       }
     });
@@ -314,7 +317,8 @@ export function getBaniIndex(baniId, lines) {
 
         indexItems.push({
           label: label,
-          lineId: line.ID
+          lineId: line.ID,
+          hash: label.toLowerCase().replace(/\s+/g, '-').replace(/[()]/g, '')
         });
       }
     });
@@ -322,4 +326,63 @@ export function getBaniIndex(baniId, lines) {
   }
 
   return [];
+}
+
+// Helper to generate a URL-friendly slug from English name
+export function slugify(text) {
+  if (!text) return "";
+  return text
+    .toString()
+    .toLowerCase()
+    .trim()
+    .replace(/\s+/g, '-')           // Replace spaces with -
+    .replace(/[^\w-]+/g, '')        // Remove all non-word chars (except -)
+    .replace(/--+/g, '-')           // Replace multiple - with single -
+    .replace(/^-+/, '')             // Trim - from start
+    .replace(/-+$/, '');            // Trim - from end
+}
+
+// Predefined URL aliases for common prayers (exactly one clean alias per core prayer)
+export const COMMON_ALIASES = {
+  'asa-ki-vaar': 90,
+  'japji-sahib': 2,
+  'jaap-sahib': 4,
+  'tav-prasad-savaiye': 6,
+  'chaupai-sahib': 9,
+  'anand-sahib': 10,
+  'rehras-sahib': 21,
+  'aaratee': 22,
+  'sohila-sahib': 23,
+  'shabad-hazare': 3,
+  'salok-mahala-9': 30,
+  'sukhmani-sahib': 31,
+  'dukh-bhanjani-sahib': 36
+};
+
+// Returns a URL slug for a given Bani ID/title
+export function getBaniSlug(id, translit) {
+  for (const [alias, aliasId] of Object.entries(COMMON_ALIASES)) {
+    if (aliasId === id) {
+      return alias;
+    }
+  }
+  return slugify(translit);
+}
+
+// Resolves a slug back to a Bani item from the loaded list
+export function getBaniFromSlug(slug) {
+  const cleanSlug = slug.toLowerCase().trim();
+  
+  // 1. Check direct aliases first
+  if (COMMON_ALIASES[cleanSlug]) {
+    const matchedId = COMMON_ALIASES[cleanSlug];
+    return getBaniList().then((list) => {
+      return list.find(b => b.id === matchedId) || null;
+    });
+  }
+  
+  // 2. Otherwise fall back to slugified transliteration match
+  return getBaniList().then((list) => {
+    return list.find(b => slugify(b.translit) === cleanSlug) || null;
+  });
 }

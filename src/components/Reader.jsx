@@ -30,11 +30,33 @@ export default function Reader({ baniId, settings, isIndexOpen, onCloseIndex }) 
     return getBaniIndex(baniId, lines);
   }, [baniId, lines]);
 
-  const handleScrollToLine = (lineId) => {
+  // Scroll to matched hash on initial load
+  useEffect(() => {
+    if (!loading && lines.length > 0 && window.location.hash) {
+      const hash = window.location.hash.replace('#', '');
+      const matched = indexItems.find(item => item.hash === hash);
+      if (matched && matched.lineId) {
+        setTimeout(() => {
+          const element = document.getElementById(`line-${matched.lineId}`);
+          if (element) {
+            element.scrollIntoView({ block: 'start' });
+          }
+        }, 100);
+      }
+    }
+  }, [loading, lines, indexItems]);
+
+  const handleScrollToLine = (lineId, hash) => {
     const element = document.getElementById(`line-${lineId}`);
     if (element) {
       element.scrollIntoView({ block: 'start' });
     }
+
+    if (hash) {
+      const currentState = window.history.state;
+      window.history.pushState(currentState, '', `${window.location.pathname}#${hash}`);
+    }
+
     if (onCloseIndex) {
       onCloseIndex();
     }
@@ -145,7 +167,7 @@ export default function Reader({ baniId, settings, isIndexOpen, onCloseIndex }) 
                 <button
                   key={idx}
                   className="reader-sidebar-item"
-                  onClick={() => handleScrollToLine(item.lineId)}
+                  onClick={() => handleScrollToLine(item.lineId, item.hash)}
                 >
                   <span className="reader-sidebar-item-label">{item.label}</span>
                 </button>
