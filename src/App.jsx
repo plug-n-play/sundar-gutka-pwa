@@ -4,14 +4,15 @@ import BaniList from './components/BaniList';
 import Reader from './components/Reader';
 import SettingsPanel from './components/SettingsPanel';
 import InstallPrompt from './components/InstallPrompt';
+import { DEFAULT_BANI_IDS } from './database/db.client';
 
 const DEFAULT_SETTINGS = {
   theme: 'dark',
   fontFace: 'GurbaniAkharTrue',
   fontSize: 32,
   baniLength: 'MEDIUM',
-  translation: 'ENGLISH',
-  transliteration: 'ENGLISH',
+  translation: 'none',
+  transliteration: 'none',
   larivaar: false,
   larivaarAssist: false,
   vishraam: true,
@@ -38,6 +39,23 @@ export default function App() {
   const [isInstalled, setIsInstalled] = useState(() => {
     return window.matchMedia('(display-mode: standalone)').matches || window.navigator.standalone;
   });
+
+  const [enabledBaniIds, setEnabledBaniIds] = useState(() => {
+    const saved = localStorage.getItem('sundar_gutka_enabled_banis');
+    if (saved) {
+      try {
+        return JSON.parse(saved);
+      } catch {
+        return DEFAULT_BANI_IDS;
+      }
+    }
+    return DEFAULT_BANI_IDS;
+  });
+
+  const updateEnabledBanis = (newIds) => {
+    setEnabledBaniIds(newIds);
+    localStorage.setItem('sundar_gutka_enabled_banis', JSON.stringify(newIds));
+  };
 
   // Handle PWA installation state
   useEffect(() => {
@@ -187,6 +205,7 @@ export default function App() {
         <BaniList 
           onSelectBani={handleSelectBani} 
           languageSetting={settings.transliteration} 
+          enabledBaniIds={enabledBaniIds}
         />
       ) : (
         <Reader 
@@ -212,6 +231,8 @@ export default function App() {
         updateSetting={updateSetting}
         deferredPrompt={deferredPrompt}
         isInstalled={isInstalled}
+        enabledBaniIds={enabledBaniIds}
+        updateEnabledBanis={updateEnabledBanis}
       />
     </>
   );
