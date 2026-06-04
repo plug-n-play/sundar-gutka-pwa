@@ -218,3 +218,108 @@ export function getShabad(shabadID, lengthSetting = 'MEDIUM') {
         });
     });
 }
+
+export function getBaniIndex(baniId, lines) {
+  if (!lines || lines.length === 0) return [];
+
+  if (baniId === 90) {
+    // Asa Di Vaar
+    const anchors = [
+      { label: "1 - ਹਰਿ ਅੰਮ੍ਰਿਤ ਭਿੰਨੇ ਲੋਇਣਾ", match: "hir AMimRq iBMny" },
+      { label: "2 - ਹਰਿ ਪ੍ਰੇਮ ਬਾਣੀ ਮਨੁ ਮਾਰਿਆ", match: "hir pRym bwxI mnu mwirAw" },
+      { label: "3 - ਹਮ ਮੂਰਖ ਮੁਗਧ ਸਰਣਾਗਤੀ", match: "hm mUrK mugD" },
+      { label: "4 - ਦੀਨ ਦਇਆਲ ਸੁਣਿ ਬੇਨਤੀ", match: "dIn dieAwl suix bynqI" },
+      { label: "5 - ਗੁਰਮੁਖਿ ਢੂੰਢਿ ਢੂਢੇਦਿਆ", match: "gurmuiK FUMiF FUFyidAw" },
+      { label: "6 - ਪੰਥੁ ਦਸਾਵਾ ਨਿਤ ਖੜੀ", match: "pMQu dswvw inq KVI" },
+      { label: "7 - ਗੁਰਮੁਖਿ ਪਿਆਰੇ ਆਇ ਮਿਲੁ", match: "gurmuiK ipAwry Awie imlu" },
+      { label: "8 - ਗੁਰ ਅੰਮ੍ਰਿਤ ਭਿੰਨੀ ਦੇਹੁਰੀ", match: "gur AMimRq iBMnI dyhurI" },
+      { label: "9 - ਹਰਿ ਅੰਮ੍ਰਿਤ ਭਗਤਿ ਭੰਡਾਰ ਹੈ", match: "hir AMimRq Bgiq BMfwr" },
+      { label: "10 - ਸਚੁ ਸਾਹੁ ਹਮਾਰਾ ਤੂੰ ਧਣੀ", match: "scu swhu hmwrw qUM DxI" },
+      { label: "11 - ਹਮ ਕਿਆ ਗੁਣ ਤੇਰੇ ਵਿਥਰਹ", match: "hm ikAw gux qyry" },
+      { label: "12 - ਜਿਉ ਭਾਵੈ ਤਿਉ ਰਾਖਿ ਲੈ", match: "ijau BwvY iqau" },
+      { label: "13 - ਜਿਨ ਮਸਤਕਿ ਧੁਰਿ ਹਰਿ ਲਿਖਿਆ", match: "ijn msqik Duir" },
+      { label: "14 - ਜਿਨੀ ਐਸਾ ਹਰਿ ਨਾਮੁ ਨ ਚੇਤਿਓ", match: "ijnI AYsw hir nwmu n cyiqE" },
+      { label: "15 - ਤੂੰ ਹਰਿ ਤੇਰਾ ਸਭੁ ਕੋ", match: "qUM hir qyrw sBu" },
+      { label: "16 - ਕੋਈ ਗਾਵੈ ਰਾਗੀ ਨਾਦੀ ਬੇਦੀ ਬਹੁ ਭਾਤਿ ਕਰਿ", match: "koeI gwvY rwgI nwdI" },
+      { label: "17 - ਜਿਨ ਅੰਤਰਿ ਹਰਿ ਹਰਿ ਪ੍ਰੀਤਿ ਹੈ", match: "ijn AMqir hir hir" },
+      { label: "18 - ਜਿਥੈ ਜਾਇ ਬਹੈ ਮੇਰਾ ਸਤਿਗੁਰੂ", match: "ijQY jwie bhY myrw siqgurU" },
+      { label: "19 - ਗੁਰਸਿਖਾ ਮਨਿ ਹਰਿ ਪ੍ਰੀਤਿ ਹੈ", match: "gurisKw min hir pRIiq" },
+      { label: "20 - ਗੁਰਸਿਖਾ ਮਨਿ ਵਾਧਾਈਆ", match: "gurisKw min vwDweIAw" },
+      { label: "21 - ਜਿਨਾ ਭੇਟਿਆ ਮੇਰਾ ਪੂਰਾ ਸਤਿਗੁਰੂ", match: "ByitAw myrw pUrw siqgurU" },
+      { label: "22 - ਜਿਨੀ ਗੁਰਮੁਖਿ ਨਾਮੁ ਧਿਆਇਆ", match: "ijnI gurmuiK nwmu" },
+      { label: "23 - ਜਿਨਾ ਅੰਤਰਿ ਗੁਰਮੁਖਿ ਪ੍ਰੀਤਿ ਹੈ", match: "AMqir gurmuiK pRIiq" },
+      { label: "24 - ਹਰਿ ਜੁਗੁ ਜੁਗੁ ਭਗਤ ਉਪਾਇਆ", match: "hir jugu jugu Bgq" }
+    ];
+
+    return anchors.map(anchor => {
+      const found = lines.find(l => l.Gurmukhi && l.Gurmukhi.includes(anchor.match));
+      return {
+        label: anchor.label,
+        lineId: found ? found.ID : null
+      };
+    }).filter(item => item.lineId !== null);
+  }
+
+  if (baniId === 31) {
+    // Sukhmani Sahib
+    const indexItems = [];
+    let ashtpadiCount = 1;
+    lines.forEach((line) => {
+      if (line.header > 0 && line.Gurmukhi.includes("slok")) {
+        indexItems.push({
+          label: `Ashtpadi ${ashtpadiCount} - Slok`,
+          lineId: line.ID
+        });
+        ashtpadiCount++;
+      }
+    });
+    return indexItems;
+  }
+
+  if (baniId === 10) {
+    // Anand Sahib
+    const uniqueParagraphs = [];
+    const indexItems = [];
+    lines.forEach((line) => {
+      if (line.Paragraph && !uniqueParagraphs.includes(line.Paragraph)) {
+        uniqueParagraphs.push(line.Paragraph);
+        const pauriNum = uniqueParagraphs.length;
+        const isShort = lines.length < 100;
+        let label = `Pauri ${pauriNum}`;
+        if (isShort && pauriNum === 6) {
+          label = `Pauri 40`;
+        }
+        indexItems.push({
+          label: label,
+          lineId: line.ID
+        });
+      }
+    });
+    return indexItems;
+  }
+
+  if (baniId === 2) {
+    // Japji Sahib
+    const uniqueParagraphs = [];
+    const indexItems = [];
+    lines.forEach((line) => {
+      if (line.Paragraph && !uniqueParagraphs.includes(line.Paragraph)) {
+        uniqueParagraphs.push(line.Paragraph);
+        const seq = uniqueParagraphs.length;
+        let label;
+        if (seq === 1) label = "Mul Mantar";
+        else if (seq === 2) label = "Salok (Start)";
+        else if (seq === 41) label = "Salok (End)";
+        else label = `Pauri ${seq - 2}`;
+
+        indexItems.push({
+          label: label,
+          lineId: line.ID
+        });
+      }
+    });
+    return indexItems;
+  }
+
+  return [];
+}
