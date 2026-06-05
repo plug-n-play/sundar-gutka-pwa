@@ -54,7 +54,7 @@ export default function Reader({ baniId, settings, isIndexOpen, onCloseIndex }) 
 
     if (hash) {
       const currentState = window.history.state;
-      window.history.pushState(currentState, '', `${window.location.pathname}#${hash}`);
+      window.history.replaceState(currentState, '', `${window.location.pathname}#${hash}`);
     }
 
     if (onCloseIndex) {
