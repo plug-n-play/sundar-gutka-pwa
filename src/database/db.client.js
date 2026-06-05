@@ -225,36 +225,37 @@ export function getBaniIndex(baniId, lines) {
   if (baniId === 90) {
     // Asa Di Vaar
     const anchors = [
-      { label: "1 - ਹਰਿ ਅੰਮ੍ਰਿਤ ਭਿੰਨੇ ਲੋਇਣਾ", match: "hir AMimRq iBMny", hash: "har-amrit-bhinne-loina" },
-      { label: "2 - ਹਰਿ ਪ੍ਰੇਮ ਬਾਣੀ ਮਨੁ ਮਾਰਿਆ", match: "hir pRym bwxI mnu mwirAw", hash: "har-prem-bani-man-maria" },
-      { label: "3 - ਹਮ ਮੂਰਖ ਮੁਗਧ ਸਰਣਾਗਤੀ", match: "hm mUrK mugD", hash: "ham-murakh-mugadh-saranagati" },
-      { label: "4 - ਦੀਨ ਦਇਆਲ ਸੁਣਿ ਬੇਨਤੀ", match: "dIn dieAwl suix bynqI", hash: "deen-dayal-sun-benti" },
-      { label: "5 - ਗੁਰਮੁਖਿ ਢੂੰਢਿ ਢੂਢੇਦਿਆ", match: "gurmuiK FUMiF FUFyidAw", hash: "gurmukh-dhoondh-dhoondhedia" },
-      { label: "6 - ਪੰਥੁ ਦਸਾਵਾ ਨਿਤ ਖੜੀ", match: "pMQu dswvw inq KVI", hash: "panth-dasava-nit-khari" },
-      { label: "7 - ਗੁਰਮੁਖਿ ਪਿਆਰੇ ਆਇ ਮਿਲੁ", match: "gurmuiK ipAwry Awie imlu", hash: "gurmukh-piare-ai-mil" },
-      { label: "8 - ਗੁਰ ਅੰਮ੍ਰਿਤ ਭਿੰਨੀ ਦੇਹੁਰੀ", match: "gur AMimRq iBMnI dyhurI", hash: "gur-amrit-bhinni-dehri" },
-      { label: "9 - ਹਰਿ ਅੰਮ੍ਰਿਤ ਭਗਤਿ ਭੰਡਾਰ ਹੈ", match: "hir AMimRq Bgiq BMfwr", hash: "har-amrit-bhagat-bhandar-hai" },
-      { label: "10 - ਸਚੁ ਸਾਹੁ ਹਮਾਰਾ ਤੂੰ ਧਣੀ", match: "scu swhu hmwrw qUM DxI", hash: "sach-sah-hamara-toon-dhani" },
-      { label: "11 - ਹਮ ਕਿਆ ਗੁਣ ਤੇਰੇ ਵਿਥਰਹ", match: "hm ikAw gux qyry", hash: "ham-kia-gun-tere-vithrah" },
-      { label: "12 - ਜਿਉ ਭਾਵੈ ਤਿਉ ਰਾਖਿ ਲੈ", match: "ijau BwvY iqau", hash: "jio-bhavai-tio-rakh-lai" },
-      { label: "13 - ਜਿਨ ਮਸਤਕਿ ਧੁਰਿ ਹਰਿ ਲਿਖਿਆ", match: "ijn msqik Duir", hash: "jin-masatak-dhur-har-likhia" },
-      { label: "14 - ਜਿਨੀ ਐਸਾ ਹਰਿ ਨਾਮੁ ਨ ਚੇਤਿਓ", match: "ijnI AYsw hir nwmu n cyiqE", hash: "jini-aisa-har-nam-na-chetio" },
-      { label: "15 - ਤੂੰ ਹਰਿ ਤੇਰਾ ਸਭੁ ਕੋ", match: "qUM hir qyrw sBu", hash: "toon-har-tera-sabh-ko" },
-      { label: "16 - ਕੋਈ ਗਾਵੈ ਰਾਗੀ ਨਾਦੀ ਬੇਦੀ ਬਹੁ ਭਾਤਿ ਕਰਿ", match: "koeI gwvY rwgI nwdI", hash: "koi-gavai-ragi-nadi-bedi-bahu-bhat-kar" },
-      { label: "17 - ਜਿਨ ਅੰਤਰਿ ਹਰਿ ਹਰਿ ਪ੍ਰੀਤਿ ਹੈ", match: "ijn AMqir hir hir", hash: "jin-antar-har-har-preet-hai" },
-      { label: "18 - ਜਿਥੈ ਜਾਇ ਬਹੈ ਮੇਰਾ ਸਤਿਗੁਰੂ", match: "ijQY jwie bhY myrw siqgurU", hash: "jithai-jai-bahai-mera-satiguru" },
-      { label: "19 - ਗੁਰਸਿਖਾ ਮਨਿ ਹਰਿ ਪ੍ਰੀਤਿ ਹੈ", match: "gurisKw min hir pRIiq", hash: "gursikha-man-har-preet-hai" },
-      { label: "20 - ਗੁਰਸਿਖਾ ਮਨਿ ਵਾਧਾਈਆ", match: "gurisKw min vwDweIAw", hash: "gursikha-man-vadhaiia" },
-      { label: "21 - ਜਿਨਾ ਭੇਟਿਆ ਮੇਰਾ ਪੂਰਾ ਸਤਿਗੁਰੂ", match: "ByitAw myrw pUrw siqgurU", hash: "jina-bhetia-mera-poora-satiguru" },
-      { label: "22 - ਜਿਨੀ ਗੁਰਮੁਖਿ ਨਾਮੁ ਧਿਆਇਆ", match: "ijnI gurmuiK nwmu", hash: "jini-gurmukh-nam-dhiaia" },
-      { label: "23 - ਜਿਨਾ ਅੰਤਰਿ ਗੁਰਮੁਖਿ ਪ੍ਰੀਤਿ ਹੈ", match: "AMqir gurmuiK pRIiq", hash: "jina-antar-gurmukh-preet-hai" },
-      { label: "24 - ਹਰਿ ਜੁਗੁ ਜੁਗੁ ਭਗਤ ਉਪਾਇਆ", match: "hir jugu jugu Bgq", hash: "har-jug-jug-bhagat-upaia" }
+      { num: 1, match: "hir AMimRq iBMny", hash: "har-amrit-bhinne-loina" },
+      { num: 2, match: "hir pRym bwxI mnu mwirAw", hash: "har-prem-bani-man-maria" },
+      { num: 3, match: "hm mUrK mugD", hash: "ham-murakh-mugadh-saranagati" },
+      { num: 4, match: "dIn dieAwl suix bynqI", hash: "deen-dayal-sun-benti" },
+      { num: 5, match: "gurmuiK FUMiF FUFyidAw", hash: "gurmukh-dhoondh-dhoondhedia" },
+      { num: 6, match: "pMQu dswvw inq KVI", hash: "panth-dasava-nit-khari" },
+      { num: 7, match: "gurmuiK ipAwry Awie imlu", hash: "gurmukh-piare-ai-mil" },
+      { num: 8, match: "gur AMimRq iBMnI dyhurI", hash: "gur-amrit-bhinni-dehri" },
+      { num: 9, match: "hir AMimRq Bgiq BMfwr", hash: "har-amrit-bhagat-bhandar-hai" },
+      { num: 10, match: "scu swhu hmwrw qUM DxI", hash: "sach-sah-hamara-toon-dhani" },
+      { num: 11, match: "hm ikAw gux qyry", hash: "ham-kia-gun-tere-vithrah" },
+      { num: 12, match: "ijau BwvY iqau", hash: "jio-bhavai-tio-rakh-lai" },
+      { num: 13, match: "ijn msqik Duir", hash: "jin-masatak-dhur-har-likhia" },
+      { num: 14, match: "ijnI AYsw hir nwmu n cyiqE", hash: "jini-aisa-har-nam-na-chetio" },
+      { num: 15, match: "qUM hir qyrw sBu ko", hash: "toon-har-tera-sabh-ko" },
+      { num: 16, match: "koeI gwvY rwgI nwdI", hash: "koi-gavai-ragi-nadi-bedi-bahu-bhat-kar" },
+      { num: 17, match: "ijn AMqir hir hir", hash: "jin-antar-har-har-preet-hai" },
+      { num: 18, match: "ijQY jwie bhY myrw siqgurU", hash: "jithai-jai-bahai-mera-satiguru" },
+      { num: 19, match: "gurisKw min hir pRIiq", hash: "gursikha-man-har-preet-hai" },
+      { num: 20, match: "gurisKw min vwDweIAw", hash: "gursikha-man-vadhaiia" },
+      { num: 21, match: "ByitAw myrw pUrw siqgurU", hash: "jina-bhetia-mera-poora-satiguru" },
+      { num: 22, match: "ijnI gurmuiK nwmu", hash: "jini-gurmukh-nam-dhiaia" },
+      { num: 23, match: "AMqir gurmuiK pRIiq", hash: "jina-antar-gurmukh-preet-hai" },
+      { num: 24, match: "hir jugu jugu Bgq", hash: "har-jug-jug-bhagat-upaia" }
     ];
 
     return anchors.map(anchor => {
       const found = lines.find(l => l.Gurmukhi && l.Gurmukhi.includes(anchor.match));
       return {
-        label: anchor.label,
+        label: `${anchor.num} - `,
+        gurmukhi: found ? found.Gurmukhi : '',
         lineId: found ? found.ID : null,
         hash: anchor.hash
       };
@@ -293,20 +294,23 @@ export function getBaniIndex(baniId, lines) {
     // Anand Sahib
     const uniqueParagraphs = [];
     const indexItems = [];
+    let pauriCount = 1;
     lines.forEach((line) => {
-      if (line.Paragraph && !uniqueParagraphs.includes(line.Paragraph)) {
+      if (line.Paragraph && (!line.header || line.header === 0) && !uniqueParagraphs.includes(line.Paragraph)) {
         uniqueParagraphs.push(line.Paragraph);
-        const pauriNum = uniqueParagraphs.length;
         const isShort = lines.length < 100;
-        let label = `Pauri ${pauriNum}`;
-        if (isShort && pauriNum === 6) {
-          label = `Pauri 40`;
+        let pauriNum = pauriCount;
+        if (isShort && pauriCount === 6) {
+          pauriNum = 40;
         }
+        
         indexItems.push({
-          label: label,
+          label: `${pauriNum} - `,
+          gurmukhi: line.Gurmukhi,
           lineId: line.ID,
-          hash: label.toLowerCase().replace(/\s+/g, '-')
+          hash: `pauri-${pauriNum}`
         });
+        pauriCount++;
       }
     });
     return indexItems;
@@ -320,16 +324,33 @@ export function getBaniIndex(baniId, lines) {
       if (line.Paragraph && !uniqueParagraphs.includes(line.Paragraph)) {
         uniqueParagraphs.push(line.Paragraph);
         const seq = uniqueParagraphs.length;
+        
+        // Skip seq 2 ("] jpu ]") and seq 42 ("sloku ]")
+        if (seq === 2 || seq === 42) return;
+
         let label;
-        if (seq === 1) label = "Mul Mantar";
-        else if (seq === 2) label = "Salok (Start)";
-        else if (seq === 41) label = "Salok (End)";
-        else label = `Pauri ${seq - 2}`;
+        let hash;
+
+        if (seq === 1) {
+          label = "Mantar - ";
+          hash = "mul-mantar";
+        } else if (seq === 3) {
+          label = "Salok - ";
+          hash = "salok-start";
+        } else if (seq === 43) {
+          label = "Salok - ";
+          hash = "salok-end";
+        } else {
+          const pauriNum = seq - 3;
+          label = `${pauriNum} - `;
+          hash = `pauri-${pauriNum}`;
+        }
 
         indexItems.push({
           label: label,
+          gurmukhi: line.Gurmukhi,
           lineId: line.ID,
-          hash: label.toLowerCase().replace(/\s+/g, '-').replace(/[()]/g, '')
+          hash: hash
         });
       }
     });
