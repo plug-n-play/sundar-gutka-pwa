@@ -1479,3 +1479,28 @@ input:checked+.slider:before {
 .reader-sidebar-item:active {
   background-color: rgba(30, 27, 75, 0.12);
 }
+
+.reader-sidebar-item-flex {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  width: 100%;
+}
+
+.reader-sidebar-item-num {
+  font-family: 'Outfit', sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+  color: #6366f1; /* premium indigo color */
+  flex-shrink: 0;
+  opacity: 0.8;
+}
+
+.reader-sidebar-item-gurbani {
+  font-size: 26px;
+  font-weight: 500;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  flex: 1;
+}

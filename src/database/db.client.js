@@ -265,16 +265,27 @@ export function getBaniIndex(baniId, lines) {
     // Sukhmani Sahib
     const indexItems = [];
     let ashtpadiCount = 1;
-    lines.forEach((line) => {
+    for (let i = 0; i < lines.length; i++) {
+      const line = lines[i];
       if (line.header > 0 && line.Gurmukhi.includes("slok")) {
+        // Find the first line after this one that is not a header (i.e. header === 0 or undefined)
+        let firstPankti = "";
+        for (let j = i + 1; j < lines.length; j++) {
+          const nextLine = lines[j];
+          if (!nextLine.header || nextLine.header === 0) {
+            firstPankti = nextLine.Gurmukhi;
+            break;
+          }
+        }
         indexItems.push({
-          label: `Ashtpadi ${ashtpadiCount} - Slok`,
+          label: `${ashtpadiCount} - `,
+          gurmukhi: firstPankti,
           lineId: line.ID,
           hash: `ashtpadi-${ashtpadiCount}-slok`
         });
         ashtpadiCount++;
       }
-    });
+    }
     return indexItems;
   }
 

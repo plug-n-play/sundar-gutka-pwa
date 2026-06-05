@@ -169,7 +169,21 @@ export default function Reader({ baniId, settings, isIndexOpen, onCloseIndex }) 
                   className="reader-sidebar-item"
                   onClick={() => handleScrollToLine(item.lineId, item.hash)}
                 >
-                  <span className="reader-sidebar-item-label">{item.label}</span>
+                  {item.gurmukhi ? (
+                    <div className="reader-sidebar-item-flex">
+                      <span className="reader-sidebar-item-num">{item.label}</span>
+                      <span 
+                        className="reader-sidebar-item-gurbani"
+                        style={{ 
+                          fontFamily: settings.fontFace === 'AnmolLipiSG' ? 'AnmolLipiSG' : (settings.fontFace === 'Arial' ? 'Arial' : 'GurbaniAkharTrue'),
+                        }}
+                      >
+                        {item.gurmukhi}
+                      </span>
+                    </div>
+                  ) : (
+                    <span className="reader-sidebar-item-label">{item.label}</span>
+                  )}
                 </button>
               ))}
             </div>
