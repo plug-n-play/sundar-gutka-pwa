@@ -254,7 +254,7 @@ export function getBaniIndex(baniId, lines) {
     return anchors.map(anchor => {
       const found = lines.find(l => l.Gurmukhi && l.Gurmukhi.includes(anchor.match));
       return {
-        label: `${anchor.num} - `,
+        label: `Pauri ${anchor.num}`,
         gurmukhi: found ? found.Gurmukhi : '',
         lineId: found ? found.ID : null,
         hash: anchor.hash
@@ -279,7 +279,7 @@ export function getBaniIndex(baniId, lines) {
           }
         }
         indexItems.push({
-          label: `${ashtpadiCount} - `,
+          label: `Ashtpadi ${ashtpadiCount}`,
           gurmukhi: firstPankti,
           lineId: line.ID,
           hash: `ashtpadi-${ashtpadiCount}-slok`
@@ -305,7 +305,7 @@ export function getBaniIndex(baniId, lines) {
         }
         
         indexItems.push({
-          label: `${pauriNum} - `,
+          label: `Pauri ${pauriNum}`,
           gurmukhi: line.Gurmukhi,
           lineId: line.ID,
           hash: `pauri-${pauriNum}`
@@ -332,17 +332,17 @@ export function getBaniIndex(baniId, lines) {
         let hash;
 
         if (seq === 1) {
-          label = "Mantar - ";
+          label = "Mul Mantar";
           hash = "mul-mantar";
         } else if (seq === 3) {
-          label = "Salok - ";
+          label = "Salok";
           hash = "salok-start";
         } else if (seq === 43) {
-          label = "Salok - ";
+          label = "Salok";
           hash = "salok-end";
         } else {
           const pauriNum = seq - 3;
-          label = `${pauriNum} - `;
+          label = `Pauri ${pauriNum}`;
           hash = `pauri-${pauriNum}`;
         }
 
@@ -352,6 +352,24 @@ export function getBaniIndex(baniId, lines) {
           lineId: line.ID,
           hash: hash
         });
+      }
+    });
+    return indexItems;
+  }
+
+  if (baniId === 4) {
+    // Jaap Sahib
+    const indexItems = [];
+    let chhandCount = 1;
+    lines.forEach((line) => {
+      if (line.header > 0 && (line.Gurmukhi.includes("CMd") || line.Gurmukhi.includes("Cµd"))) {
+        indexItems.push({
+          label: `Chhand ${chhandCount}`,
+          gurmukhi: line.Gurmukhi,
+          lineId: line.ID,
+          hash: `chhand-${chhandCount}`
+        });
+        chhandCount++;
       }
     });
     return indexItems;

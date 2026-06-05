@@ -222,7 +222,7 @@ export default function App() {
               <button className="icon-btn" onClick={handleGoHome} aria-label="Go Home">
                 <ChevronLeft size={24} />
               </button>
-              {[2, 10, 31, 90].includes(selectedBani.id) && (
+              {[2, 4, 10, 31, 90].includes(selectedBani.id) && (
                 <button 
                   className="icon-btn reader-menu-btn" 
                   onClick={() => setIsReaderIndexOpen(!isReaderIndexOpen)} 
