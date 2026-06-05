@@ -1,8 +1,8 @@
-import { useState, useEffect, useMemo } from 'react';
+import { useState, useEffect, useMemo, useRef } from 'react';
 import { getShabad, getBaniIndex } from '../database/db.client';
 import { Loader2, X } from 'lucide-react';
 
-export default function Reader({ baniId, settings, isIndexOpen, onCloseIndex }) {
+export default function Reader({ baniId, settings, isIndexOpen, onCloseIndex, onHeaderVisibilityChange }) {
   const [lines, setLines] = useState([]);
   const [loading, setLoading] = useState(true);
   const [prevBaniId, setPrevBaniId] = useState(null);
@@ -13,6 +13,43 @@ export default function Reader({ baniId, settings, isIndexOpen, onCloseIndex }) 
     setPrevBaniLength(settings.baniLength);
     setLoading(true);
   }
+
+  const lastScrollTopRef = useRef(0);
+
+  // Handle header auto-hide/show based on window scroll direction
+  useEffect(() => {
+    const handleScroll = () => {
+      const scrollTop = window.scrollY || document.documentElement.scrollTop;
+      
+      // Ignore elastic bounce-back scrolling on iOS
+      if (scrollTop < 0) return;
+      
+      const lastScrollTop = lastScrollTopRef.current;
+      const threshold = 15; // Threshold in pixels before toggling
+      
+      if (Math.abs(scrollTop - lastScrollTop) > threshold) {
+        if (scrollTop > lastScrollTop && scrollTop > 80) {
+          // Scrolling down past header -> hide header
+          onHeaderVisibilityChange(false);
+        } else if (scrollTop < lastScrollTop) {
+          // Scrolling up -> show header
+          onHeaderVisibilityChange(true);
+        }
+        lastScrollTopRef.current = scrollTop;
+      }
+    };
+
+    window.addEventListener('scroll', handleScroll, { passive: true });
+    
+    // Reset state on load
+    onHeaderVisibilityChange(true);
+    lastScrollTopRef.current = window.scrollY || document.documentElement.scrollTop;
+
+    return () => {
+      window.removeEventListener('scroll', handleScroll);
+      onHeaderVisibilityChange(true);
+    };
+  }, [baniId, onHeaderVisibilityChange]);
 
   useEffect(() => {
     getShabad(baniId, settings.baniLength)

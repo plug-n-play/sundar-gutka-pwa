@@ -36,6 +36,7 @@ export default function App() {
     return DEFAULT_SETTINGS;
   });
   const [isSettingsOpen, setIsSettingsOpen] = useState(false);
+  const [showHeader, setShowHeader] = useState(true);
   const [deferredPrompt, setDeferredPrompt] = useState(null);
   const [isInstalled, setIsInstalled] = useState(() => {
     return window.matchMedia('(display-mode: standalone)').matches || window.navigator.standalone;
@@ -118,6 +119,7 @@ export default function App() {
 
     const handlePopState = (event) => {
       setIsReaderIndexOpen(false);
+      setShowHeader(true);
       const state = event.state;
       if (state && state.view === 'reader') {
         setSelectedBani({ id: state.id, gurmukhi: state.gurmukhi, translit: state.translit });
@@ -160,6 +162,7 @@ export default function App() {
 
   const handleSelectBani = (id, gurmukhi, translit) => {
     setIsReaderIndexOpen(false);
+    setShowHeader(true);
     setSelectedBani({ id, gurmukhi, translit });
     setCurrentView('reader');
 
@@ -174,6 +177,7 @@ export default function App() {
 
   const handleGoHome = () => {
     setIsReaderIndexOpen(false);
+    setShowHeader(true);
     if (window.history.state && window.history.state.view === 'reader') {
       window.history.back();
     } else {
@@ -190,7 +194,7 @@ export default function App() {
   return (
     <>
       {/* Header */}
-      <header className={`app-header ${currentView === 'home' ? 'home-header' : ''}`}>
+      <header className={`app-header ${currentView === 'home' ? 'home-header' : 'reader-header'} ${!showHeader && currentView === 'reader' ? 'header-hidden' : ''}`}>
         {currentView === 'home' ? (
           <>
             {/* Absolute positioned header actions */}
@@ -260,6 +264,7 @@ export default function App() {
           settings={settings} 
           isIndexOpen={isReaderIndexOpen}
           onCloseIndex={() => setIsReaderIndexOpen(false)}
+          onHeaderVisibilityChange={setShowHeader}
         />
       )}
 
