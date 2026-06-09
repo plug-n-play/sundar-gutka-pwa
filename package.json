@@ -7,6 +7,7 @@
     "dev": "vite",
     "prebuild": "python3 scripts/generate_json.py",
     "build": "vite build",
+    "postbuild": "node scripts/inject_assets_sw.js",
     "lint": "eslint .",
     "preview": "vite preview"
   },
