@@ -2,7 +2,7 @@ import { useState, useEffect, useMemo, useRef } from 'react';
 import { getShabad, getBaniIndex, getPreloadedShabad } from '../database/db.client';
 import { Loader2, X } from 'lucide-react';
 
-export default function Reader({ baniId, settings, isIndexOpen, onCloseIndex, onHeaderVisibilityChange }) {
+export default function Reader({ baniId, settings, isIndexOpen, onCloseIndex, onHeaderVisibilityChange, activeLineId, setActiveLineId }) {
   const [isFullyLoaded, setIsFullyLoaded] = useState(false);
   const [lines, setLines] = useState(() => {
     if (settings.baniLength === 'MEDIUM') {
@@ -20,6 +20,115 @@ export default function Reader({ baniId, settings, isIndexOpen, onCloseIndex, on
   });
   const [prevBaniId, setPrevBaniId] = useState(baniId);
   const [prevBaniLength, setPrevBaniLength] = useState(settings.baniLength);
+  const [exclusiveLine, setExclusiveLine] = useState(null);
+  const lastTapRef = useRef(0);
+  const lastExclusiveLineIdRef = useRef(null);
+
+  const handleLineClick = (e, line) => {
+    const now = Date.now();
+    const DOUBLE_PRESS_DELAY = 300;
+    if (now - lastTapRef.current < DOUBLE_PRESS_DELAY) {
+      setExclusiveLine(line);
+      setActiveLineId(null);
+    } else {
+      setActiveLineId((prev) => (prev === line.ID ? null : line.ID));
+    }
+    lastTapRef.current = now;
+  };
+
+  const closeExclusive = () => {
+    if (window.history.state && window.history.state.exclusive) {
+      window.history.back();
+    } else {
+      setExclusiveLine(null);
+    }
+  };
+
+  // Prevent background scrolling when exclusive view is open
+  useEffect(() => {
+    if (exclusiveLine) {
+      document.body.style.overflow = 'hidden';
+    } else {
+      document.body.style.overflow = '';
+    }
+    return () => {
+      document.body.style.overflow = '';
+    };
+  }, [exclusiveLine]);
+
+  // Track last seen exclusive line to highlight it on exit
+  useEffect(() => {
+    if (exclusiveLine) {
+      lastExclusiveLineIdRef.current = exclusiveLine.ID;
+    } else if (lastExclusiveLineIdRef.current) {
+      const exitLineId = lastExclusiveLineIdRef.current;
+      setActiveLineId(exitLineId);
+      lastExclusiveLineIdRef.current = null;
+      
+      // Delay slightly to ensure standard view has fully updated
+      setTimeout(() => {
+        const element = document.getElementById(`line-${exitLineId}`);
+        if (element) {
+          element.scrollIntoView({ block: 'center' });
+        }
+      }, 50);
+    }
+  }, [exclusiveLine, setActiveLineId]);
+
+  // Handle popstate history integration for exclusive view
+  useEffect(() => {
+    if (!exclusiveLine) return;
+
+    const currentState = window.history.state || {};
+    if (!currentState.exclusive) {
+      window.history.pushState({ ...currentState, exclusive: true, exclusiveLineId: exclusiveLine.ID }, '');
+    } else {
+      window.history.replaceState({ ...currentState, exclusiveLineId: exclusiveLine.ID }, '');
+    }
+
+    const handlePopState = (e) => {
+      const state = e.state || {};
+      if (!state.exclusive) {
+        setExclusiveLine(null);
+      } else if (state.exclusiveLineId && state.exclusiveLineId !== exclusiveLine.ID) {
+        const matched = lines.find(l => l.ID === state.exclusiveLineId);
+        if (matched) {
+          setExclusiveLine(matched);
+        }
+      }
+    };
+
+    window.addEventListener('popstate', handlePopState);
+    return () => {
+      window.removeEventListener('popstate', handlePopState);
+    };
+  }, [exclusiveLine, lines]);
+
+  // Handle keyboard keys (Escape, ArrowLeft, ArrowRight) in exclusive view
+  useEffect(() => {
+    if (!exclusiveLine) return;
+
+    const handleKeyDown = (e) => {
+      if (e.key === 'Escape') {
+        closeExclusive();
+      } else if (e.key === 'ArrowRight') {
+        const currentIndex = lines.findIndex(l => l.ID === exclusiveLine.ID);
+        if (currentIndex < lines.length - 1) {
+          setExclusiveLine(lines[currentIndex + 1]);
+        }
+      } else if (e.key === 'ArrowLeft') {
+        const currentIndex = lines.findIndex(l => l.ID === exclusiveLine.ID);
+        if (currentIndex > 0) {
+          setExclusiveLine(lines[currentIndex - 1]);
+        }
+      }
+    };
+
+    window.addEventListener('keydown', handleKeyDown);
+    return () => {
+      window.removeEventListener('keydown', handleKeyDown);
+    };
+  }, [exclusiveLine, lines]);
 
   const [fontsLoaded, setFontsLoaded] = useState(() => {
     if (typeof document === 'undefined' || !document.fonts) return true;
@@ -46,7 +155,9 @@ export default function Reader({ baniId, settings, isIndexOpen, onCloseIndex, on
   if (baniId !== prevBaniId || settings.baniLength !== prevBaniLength) {
     setPrevBaniId(baniId);
     setPrevBaniLength(settings.baniLength);
-    
+    lastExclusiveLineIdRef.current = null;
+    if (exclusiveLine) setExclusiveLine(null);
+
     if (settings.baniLength === 'MEDIUM') {
       const preloaded = getPreloadedShabad(baniId);
       if (preloaded) {
@@ -71,13 +182,13 @@ export default function Reader({ baniId, settings, isIndexOpen, onCloseIndex, on
   useEffect(() => {
     const handleScroll = () => {
       const scrollTop = window.scrollY || document.documentElement.scrollTop;
-      
+
       // Ignore elastic bounce-back scrolling on iOS
       if (scrollTop < 0) return;
-      
+
       const lastScrollTop = lastScrollTopRef.current;
       const threshold = 15; // Threshold in pixels before toggling
-      
+
       if (Math.abs(scrollTop - lastScrollTop) > threshold) {
         if (scrollTop > lastScrollTop && scrollTop > 80) {
           // Scrolling down past header -> hide header
@@ -91,7 +202,7 @@ export default function Reader({ baniId, settings, isIndexOpen, onCloseIndex, on
     };
 
     window.addEventListener('scroll', handleScroll, { passive: true });
-    
+
     // Reset state on load
     onHeaderVisibilityChange(true);
     lastScrollTopRef.current = window.scrollY || document.documentElement.scrollTop;
@@ -144,6 +255,16 @@ export default function Reader({ baniId, settings, isIndexOpen, onCloseIndex, on
     }
   }, [isFullyLoaded, lines, indexItems]);
 
+  // Scroll standard view to keep in sync with exclusive line
+  useEffect(() => {
+    if (exclusiveLine) {
+      const element = document.getElementById(`line-${exclusiveLine.ID}`);
+      if (element) {
+        element.scrollIntoView({ block: 'center' });
+      }
+    }
+  }, [exclusiveLine]);
+
   const handleScrollToLine = (lineId, hash) => {
     const element = document.getElementById(`line-${lineId}`);
     if (element) {
@@ -163,7 +284,7 @@ export default function Reader({ baniId, settings, isIndexOpen, onCloseIndex, on
   // Format Gurbani lines with Larivaar and Vishraam styling
   const formatGurmukhi = (text, vishraamVal) => {
     if (!text) return "";
-    
+
     let words = text.split(" ");
     let vishraamPositions = {};
 
@@ -249,7 +370,7 @@ export default function Reader({ baniId, settings, isIndexOpen, onCloseIndex, on
     <div className="reader-container">
       {indexItems.length > 0 && (
         <>
-          <div 
+          <div
             className={`reader-sidebar-backdrop ${isIndexOpen ? 'open' : ''}`}
             onClick={onCloseIndex}
           />
@@ -270,9 +391,9 @@ export default function Reader({ baniId, settings, isIndexOpen, onCloseIndex, on
                   {item.gurmukhi ? (
                     <div className="reader-sidebar-item-flex">
                       <span className="reader-sidebar-item-num">{item.label}</span>
-                      <span 
+                      <span
                         className="reader-sidebar-item-gurbani"
-                        style={{ 
+                        style={{
                           fontFamily: settings.fontFace === 'AnmolLipiSG' ? 'AnmolLipiSG' : (settings.fontFace === 'Arial' ? 'Arial' : 'GurbaniAkharTrue'),
                         }}
                       >
@@ -298,51 +419,126 @@ export default function Reader({ baniId, settings, isIndexOpen, onCloseIndex, on
           <span>Loading prayers...</span>
         </div>
       ) : (
-        <div 
-          className="reader-scroll-content"
-          style={{ '--gurbani-size': `${settings.fontSize}px` }}
-        >
-          {lines.map((line) => {
-            const translit = getTransliterationText(line.Transliterations);
-            const translation = getTranslationText(line.Translations);
-            const gText = (useUnicode && line.GurmukhiUni) ? line.GurmukhiUni : line.Gurmukhi;
-            const formattedGurmukhi = formatGurmukhi(gText, line.Visraam);
-            const isHeader = line.header === 1;
-
-            return (
-              <div 
-                key={line.ID} 
-                id={`line-${line.ID}`}
-                className={`shabad-line ${isHeader ? 'header-section' : ''}`}
+        <>
+          {exclusiveLine && (
+            <div className="exclusive-view-overlay">
+              {/* Close button */}
+              <button
+                className="exclusive-view-close-btn"
+                onClick={(e) => {
+                  e.stopPropagation();
+                  closeExclusive();
+                }}
+                aria-label="Close exclusive view"
               >
-                <div 
-                  className="shabad-text-gurbani"
-                  style={{ fontFamily: settings.fontFace === 'AnmolLipiSG' ? 'AnmolLipiSG' : (settings.fontFace === 'Arial' ? 'Arial' : 'GurbaniAkharTrue') }}
-                  dangerouslySetInnerHTML={{ __html: formattedGurmukhi }}
-                />
-                
-                {translit && (
-                  <div className="shabad-text-translit">
-                    {translit}
-                  </div>
-                )}
-                
-                {translation && (
-                  <div className="shabad-text-translation">
-                    {translation}
-                  </div>
-                )}
+                <X size={20} />
+              </button>
+
+              {/* Left Hit Zone (Previous Line) */}
+              <div
+                className="exclusive-nav-zone left-zone"
+                onClick={(e) => {
+                  e.stopPropagation();
+                  const currentIndex = lines.findIndex(l => l.ID === exclusiveLine.ID);
+                  if (currentIndex > 0) {
+                    setExclusiveLine(lines[currentIndex - 1]);
+                  }
+                }}
+                title="Previous line"
+              />
+
+              {/* Right Hit Zone (Next Line) */}
+              <div
+                className="exclusive-nav-zone right-zone"
+                onClick={(e) => {
+                  e.stopPropagation();
+                  const currentIndex = lines.findIndex(l => l.ID === exclusiveLine.ID);
+                  if (currentIndex < lines.length - 1) {
+                    setExclusiveLine(lines[currentIndex + 1]);
+                  }
+                }}
+                title="Next line"
+              />
+
+              <div className="exclusive-view-content" style={{ '--gurbani-size': `${settings.fontSize}px` }}>
+                {(() => {
+                  const translit = getTransliterationText(exclusiveLine.Transliterations);
+                  const translation = getTranslationText(exclusiveLine.Translations);
+                  const gText = (useUnicode && exclusiveLine.GurmukhiUni) ? exclusiveLine.GurmukhiUni : exclusiveLine.Gurmukhi;
+                  const formattedGurmukhi = formatGurmukhi(gText, exclusiveLine.Visraam);
+                  const isHeader = exclusiveLine.header === 1;
+
+                  return (
+                    <div className={`shabad-line active-highlight ${isHeader ? 'header-section' : ''}`} style={{ cursor: 'default' }}>
+                      <div
+                        className="shabad-text-gurbani exclusive-large"
+                        style={{ fontFamily: settings.fontFace === 'AnmolLipiSG' ? 'AnmolLipiSG' : (settings.fontFace === 'Arial' ? 'Arial' : 'GurbaniAkharTrue') }}
+                        dangerouslySetInnerHTML={{ __html: formattedGurmukhi }}
+                      />
+                      {translit && (
+                        <div className="shabad-text-translit exclusive-large">
+                          {translit}
+                        </div>
+                      )}
+                      {translation && (
+                        <div className="shabad-text-translation exclusive-large">
+                          {translation}
+                        </div>
+                      )}
+                    </div>
+                  );
+                })()}
               </div>
-            );
-          })}
-          
-          {!isFullyLoaded && (
-            <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', padding: '32px 16px 48px 16px', color: 'var(--accent-gold)', gap: '10px', fontSize: '15px', fontWeight: '500' }}>
-              <Loader2 className="loading-spinner" size={20} />
-              <span>Loading remaining lines...</span>
             </div>
           )}
-        </div>
+
+          <div
+            className="reader-scroll-content"
+            style={{ '--gurbani-size': `${settings.fontSize}px` }}
+          >
+            {lines.map((line) => {
+              const translit = getTransliterationText(line.Transliterations);
+              const translation = getTranslationText(line.Translations);
+              const gText = (useUnicode && line.GurmukhiUni) ? line.GurmukhiUni : line.Gurmukhi;
+              const formattedGurmukhi = formatGurmukhi(gText, line.Visraam);
+              const isHeader = line.header === 1;
+
+              return (
+                <div
+                  key={line.ID}
+                  id={`line-${line.ID}`}
+                  className={`shabad-line ${isHeader ? 'header-section' : ''} ${activeLineId === line.ID ? 'active-highlight' : ''}`}
+                  onClick={(e) => handleLineClick(e, line)}
+                >
+                  <div
+                    className="shabad-text-gurbani"
+                    style={{ fontFamily: settings.fontFace === 'AnmolLipiSG' ? 'AnmolLipiSG' : (settings.fontFace === 'Arial' ? 'Arial' : 'GurbaniAkharTrue') }}
+                    dangerouslySetInnerHTML={{ __html: formattedGurmukhi }}
+                  />
+
+                  {translit && (
+                    <div className="shabad-text-translit">
+                      {translit}
+                    </div>
+                  )}
+
+                  {translation && (
+                    <div className="shabad-text-translation">
+                      {translation}
+                    </div>
+                  )}
+                </div>
+              );
+            })}
+
+            {!isFullyLoaded && (
+              <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', padding: '32px 16px 48px 16px', color: 'var(--accent-gold)', gap: '10px', fontSize: '15px', fontWeight: '500' }}>
+                <Loader2 className="loading-spinner" size={20} />
+                <span>Loading remaining lines...</span>
+              </div>
+            )}
+          </div>
+        </>
       )}
     </div>
   );

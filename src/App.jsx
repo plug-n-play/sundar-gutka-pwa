@@ -37,6 +37,7 @@ export default function App() {
   });
   const [isSettingsOpen, setIsSettingsOpen] = useState(false);
   const [showHeader, setShowHeader] = useState(true);
+  const [activeLineId, setActiveLineId] = useState(null);
   const [deferredPrompt, setDeferredPrompt] = useState(null);
   const [isInstalled, setIsInstalled] = useState(() => {
     return window.matchMedia('(display-mode: standalone)').matches || window.navigator.standalone;
@@ -120,6 +121,7 @@ export default function App() {
     const handlePopState = (event) => {
       setIsReaderIndexOpen(false);
       setShowHeader(true);
+      setActiveLineId(null);
       const state = event.state;
       if (state && state.view === 'reader') {
         setSelectedBani({ id: state.id, gurmukhi: state.gurmukhi, translit: state.translit });
@@ -163,6 +165,7 @@ export default function App() {
   const handleSelectBani = (id, gurmukhi, translit) => {
     setIsReaderIndexOpen(false);
     setShowHeader(true);
+    setActiveLineId(null);
     setSelectedBani({ id, gurmukhi, translit });
     setCurrentView('reader');
 
@@ -178,6 +181,7 @@ export default function App() {
   const handleGoHome = () => {
     setIsReaderIndexOpen(false);
     setShowHeader(true);
+    setActiveLineId(null);
     if (window.history.state && window.history.state.view === 'reader') {
       window.history.back();
     } else {
@@ -194,7 +198,10 @@ export default function App() {
   return (
     <>
       {/* Header */}
-      <header className={`app-header ${currentView === 'home' ? 'home-header' : 'reader-header'} ${!showHeader && currentView === 'reader' ? 'header-hidden' : ''}`}>
+      <header 
+        className={`app-header ${currentView === 'home' ? 'home-header' : 'reader-header'} ${!showHeader && currentView === 'reader' ? 'header-hidden' : ''}`}
+        onClick={() => currentView === 'reader' && setActiveLineId(null)}
+      >
         {currentView === 'home' ? (
           <>
             {/* Absolute positioned header actions */}
@@ -222,14 +229,14 @@ export default function App() {
           </>
         ) : (
           <>
-            <div className="logo-container">
+            <div className="logo-container" onClick={(e) => e.stopPropagation()}>
               <button className="icon-btn" onClick={handleGoHome} aria-label="Go Home">
                 <ChevronLeft size={24} />
               </button>
               {[2, 4, 10, 31, 90].includes(selectedBani.id) && (
                 <button 
                   className="icon-btn reader-menu-btn" 
-                  onClick={() => setIsReaderIndexOpen(!isReaderIndexOpen)} 
+                  onClick={(e) => { e.stopPropagation(); setIsReaderIndexOpen(!isReaderIndexOpen); }} 
                   aria-label="Toggle Table of Contents"
                 >
                   <Menu size={22} />
@@ -238,7 +245,7 @@ export default function App() {
               <span className="logo-text">{selectedBani.translit}</span>
             </div>
 
-            <div className="header-actions">
+            <div className="header-actions" onClick={(e) => e.stopPropagation()}>
               <button className="icon-btn" onClick={toggleTheme} aria-label="Toggle Theme">
                 {settings.theme === 'dark' ? <Sun size={20} /> : <Moon size={20} />}
               </button>
@@ -265,6 +272,8 @@ export default function App() {
           isIndexOpen={isReaderIndexOpen}
           onCloseIndex={() => setIsReaderIndexOpen(false)}
           onHeaderVisibilityChange={setShowHeader}
+          activeLineId={activeLineId}
+          setActiveLineId={setActiveLineId}
         />
       )}
 
