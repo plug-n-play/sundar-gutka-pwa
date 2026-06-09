@@ -1,29 +1,37 @@
 import { useState, useEffect } from 'react';
-import { getBaniList, DEFAULT_BANI_IDS } from '../database/db.client';
+import { getBaniListSync, DEFAULT_BANI_IDS } from '../database/db.client';
 import { Search, Loader2 } from 'lucide-react';
 
 export default function BaniList({ onSelectBani, languageSetting, enabledBaniIds }) {
-  const [banis, setBanis] = useState([]);
-  const [loading, setLoading] = useState(true);
+  const [banis, setBanis] = useState(() => getBaniListSync(languageSetting));
+  const [loading, setLoading] = useState(false);
   const [searchQuery, setSearchQuery] = useState('');
-  const [prevLanguageSetting, setPrevLanguageSetting] = useState(null);
+  const [prevLanguageSetting, setPrevLanguageSetting] = useState(languageSetting);
+
+  const [fontsLoaded, setFontsLoaded] = useState(() => {
+    if (typeof document === 'undefined' || !document.fonts) return true;
+    return document.fonts.check('12px GurbaniAkharTrue');
+  });
+
+  useEffect(() => {
+    if (typeof document === 'undefined' || !document.fonts) return;
+
+    const handleFontsLoaded = () => {
+      setFontsLoaded(document.fonts.check('12px GurbaniAkharTrue'));
+    };
+
+    handleFontsLoaded();
+
+    document.fonts.addEventListener('loadingdone', handleFontsLoaded);
+    return () => {
+      document.fonts.removeEventListener('loadingdone', handleFontsLoaded);
+    };
+  }, []);
 
   if (languageSetting !== prevLanguageSetting) {
     setPrevLanguageSetting(languageSetting);
-    setLoading(true);
+    setBanis(getBaniListSync(languageSetting));
   }
-
-  useEffect(() => {
-    getBaniList(languageSetting)
-      .then((list) => {
-        setBanis(list);
-        setLoading(false);
-      })
-      .catch((err) => {
-        console.error("Error loading Bani list:", err);
-        setLoading(false);
-      });
-  }, [languageSetting]);
 
   const filteredBanis = banis
     .filter((bani) => {
@@ -82,7 +90,9 @@ export default function BaniList({ onSelectBani, languageSetting, enabledBaniIds
               className="bani-card"
               onClick={() => onSelectBani(bani.id, bani.gurmukhi, bani.translit)}
             >
-              <div className="bani-title-gurbani">{bani.gurmukhi}</div>
+              <div className="bani-title-gurbani">
+                {fontsLoaded ? bani.gurmukhi : (bani.gurmukhiUni || bani.gurmukhi)}
+              </div>
               <div className="bani-title-translit">{bani.translit}</div>
             </div>
           ))}
