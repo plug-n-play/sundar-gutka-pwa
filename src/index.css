@@ -528,51 +528,6 @@ body {
   right: 0;
 }
 
-/* Desktop hover feedback indicators */
-@media (hover: hover) {
-  .left-zone:hover {
-    background: linear-gradient(to right, rgba(var(--accent-gold-rgb), 0.03) 0%, rgba(var(--accent-gold-rgb), 0) 100%);
-  }
-
-  .left-zone::after {
-    content: '←';
-    font-size: 28px;
-    font-weight: 300;
-    color: var(--accent-gold);
-    opacity: 0;
-    transition: transform 0.2s ease, opacity 0.2s ease;
-    transform: translateX(10px);
-    position: absolute;
-    left: 32px;
-  }
-
-  .left-zone:hover::after {
-    opacity: 0.6;
-    transform: translateX(0);
-  }
-
-  .right-zone:hover {
-    background: linear-gradient(to left, rgba(var(--accent-gold-rgb), 0.03) 0%, rgba(var(--accent-gold-rgb), 0) 100%);
-  }
-
-  .right-zone::after {
-    content: '→';
-    font-size: 28px;
-    font-weight: 300;
-    color: var(--accent-gold);
-    opacity: 0;
-    transition: transform 0.2s ease, opacity 0.2s ease;
-    transform: translateX(-10px);
-    position: absolute;
-    right: 32px;
-  }
-
-  .right-zone:hover::after {
-    opacity: 0.6;
-    transform: translateX(0);
-  }
-}
-
 .exclusive-view-content {
   width: 100%;
   display: flex;
