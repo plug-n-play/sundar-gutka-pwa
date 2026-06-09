@@ -2,6 +2,7 @@
   {
     "ID": 1,
     "Gurmukhi": "gur mMqR",
+    "GurmukhiUni": "ਗੁਰ ਮੰਤ੍ਰ",
     "Transliterations": {
       "en": "gur ma(n)tr",
       "hi": "गुर मंत्र",
@@ -12,6 +13,7 @@
   {
     "ID": 2,
     "Gurmukhi": "jpujI swihb",
+    "GurmukhiUni": "ਜਪੁਜੀ ਸਾਹਿਬ",
     "Transliterations": {
       "en": "japujee saahib",
       "hi": "जपुजी साहिब",
@@ -22,6 +24,7 @@
   {
     "ID": 3,
     "Gurmukhi": "Sbd hzwry",
+    "GurmukhiUni": "ਸ਼ਬਦ ਹਜ਼ਾਰੇ",
     "Transliterations": {
       "en": "shabadh hazaare",
       "hi": "शबद हज़ारे",
@@ -32,6 +35,7 @@
   {
     "ID": 4,
     "Gurmukhi": "jwpu swihb",
+    "GurmukhiUni": "ਜਾਪੁ ਸਾਹਿਬ",
     "Transliterations": {
       "en": "jaap saahib",
       "hi": "जापु साहिब",
@@ -42,6 +46,7 @@
   {
     "ID": 5,
     "Gurmukhi": "Sbd hzwry pwiqSwhI 10",
+    "GurmukhiUni": "ਸ਼ਬਦ ਹਜ਼ਾਰੇ ਪਾਤਿਸ਼ਾਹੀ ੧੦",
     "Transliterations": {
       "en": "shabadh hazaare paatishaahee 10",
       "hi": "शबद हज़ारे पातिशाही १०",
@@ -52,6 +57,7 @@
   {
     "ID": 6,
     "Gurmukhi": "qÍ pRswid sv`Xy (sRwvg su`D)",
+    "GurmukhiUni": "ਤ੍ਵ ਪ੍ਰਸਾਦਿ ਸਵੱਯੇ (ਸ੍ਰਾਵਗ ਸੁੱਧ)",
     "Transliterations": {
       "en": "tavai prasaadh sava'ye (sraavag su'dh)",
       "hi": "त्व प्रसादि सवय्ये (स्रावग सुद्ध)",
@@ -62,6 +68,7 @@
   {
     "ID": 7,
     "Gurmukhi": "qÍ pRswid sv`Xy (dInn kI)",
+    "GurmukhiUni": "ਤ੍ਵ ਪ੍ਰਸਾਦਿ ਸਵੱਯੇ (ਦੀਨਨ ਕੀ)",
     "Transliterations": {
       "en": "tavai prasaadh sava'ye (dheenan kee)",
       "hi": "त्व प्रसादि सवय्ये (दीनन की)",
@@ -72,6 +79,7 @@
   {
     "ID": 8,
     "Gurmukhi": "Akwl ausqq cOpeI",
+    "GurmukhiUni": "ਅਕਾਲ ਉਸਤਤ ਚੌਪਈ",
     "Transliterations": {
       "en": "akaal usatat chauapiee",
       "hi": "अकाल उसतत चौपई",
@@ -82,6 +90,7 @@
   {
     "ID": 9,
     "Gurmukhi": "bynqI cOpeI swihb",
+    "GurmukhiUni": "ਬੇਨਤੀ ਚੌਪਈ ਸਾਹਿਬ",
     "Transliterations": {
       "en": "benatee chauapiee saahib",
       "hi": "बेनती चौपई साहिब",
@@ -92,6 +101,7 @@
   {
     "ID": 10,
     "Gurmukhi": "Anµdu swihb",
+    "GurmukhiUni": "ਅਨੰਦੁ ਸਾਹਿਬ",
     "Transliterations": {
       "en": "ana(n)dh saahib",
       "hi": "अनंदु साहिब",
@@ -102,6 +112,7 @@
   {
     "ID": 11,
     "Gurmukhi": "lwvW",
+    "GurmukhiUni": "ਲਾਵਾਂ",
     "Transliterations": {
       "en": "laavaa(n)",
       "hi": "लावाँ",
@@ -112,6 +123,7 @@
   {
     "ID": 12,
     "Gurmukhi": "AQ cMfIcirqR",
+    "GurmukhiUni": "ਅਥ ਚੰਡੀਚਰਿਤ੍ਰ",
     "Transliterations": {
       "en": "ath cha(n)ddeecharitr",
       "hi": "अथ चंडीचरित्र",
@@ -122,6 +134,7 @@
   {
     "ID": 13,
     "Gurmukhi": "cMfI dI vwr",
+    "GurmukhiUni": "ਚੰਡੀ ਦੀ ਵਾਰ",
     "Transliterations": {
       "en": "cha(n)ddee dhee vaar",
       "hi": "चंडी दी वार",
@@ -132,6 +145,7 @@
   {
     "ID": 14,
     "Gurmukhi": "kucjI",
+    "GurmukhiUni": "ਕੁਚਜੀ",
     "Transliterations": {
       "en": "kuchajee",
       "hi": "कुचजी",
@@ -142,6 +156,7 @@
   {
     "ID": 15,
     "Gurmukhi": "sucjI",
+    "GurmukhiUni": "ਸੁਚਜੀ",
     "Transliterations": {
       "en": "suchajee",
       "hi": "सुचजी",
@@ -152,6 +167,7 @@
   {
     "ID": 16,
     "Gurmukhi": "guxvMqI",
+    "GurmukhiUni": "ਗੁਣਵੰਤੀ",
     "Transliterations": {
       "en": "gunava(n)tee",
       "hi": "गुणवंती",
@@ -162,6 +178,7 @@
   {
     "ID": 17,
     "Gurmukhi": "Punhy mhlw 5",
+    "GurmukhiUni": "ਫੁਨਹੇ ਮਹਲਾ ੫",
     "Transliterations": {
       "en": "funahe mahalaa panjavaa",
       "hi": "फुनहे महला ५",
@@ -172,6 +189,7 @@
   {
     "ID": 18,
     "Gurmukhi": "cauboly",
+    "GurmukhiUni": "ਚਉਬੋਲੇ",
     "Transliterations": {
       "en": "chaubole",
       "hi": "चउबोले",
@@ -182,6 +200,7 @@
   {
     "ID": 19,
     "Gurmukhi": "SsqR nwm mwlw",
+    "GurmukhiUni": "ਸ਼ਸਤ੍ਰ ਨਾਮ ਮਾਲਾ",
     "Transliterations": {
       "en": "shasatr naam maalaa",
       "hi": "शसत्र नाम माला",
@@ -192,6 +211,7 @@
   {
     "ID": 21,
     "Gurmukhi": "rhrwis swihb",
+    "GurmukhiUni": "ਰਹਰਾਸਿ ਸਾਹਿਬ",
     "Transliterations": {
       "en": "raharaas saahib",
       "hi": "रहरासि साहिब",
@@ -202,6 +222,7 @@
   {
     "ID": 22,
     "Gurmukhi": "AwrqI",
+    "GurmukhiUni": "ਆਰਤੀ",
     "Transliterations": {
       "en": "aaratee",
       "hi": "आरती",
@@ -212,6 +233,7 @@
   {
     "ID": 23,
     "Gurmukhi": "soihlw swihb",
+    "GurmukhiUni": "ਸੋਹਿਲਾ ਸਾਹਿਬ",
     "Transliterations": {
       "en": "sohilaa saahib",
       "hi": "सोहिला साहिब",
@@ -222,6 +244,7 @@
   {
     "ID": 24,
     "Gurmukhi": "Ardws",
+    "GurmukhiUni": "ਅਰਦਾਸ",
     "Transliterations": {
       "en": "aradhaas",
       "hi": "अरदास",
@@ -232,6 +255,7 @@
   {
     "ID": 25,
     "Gurmukhi": "sRI BgauqI AsqoqR (pMQ pRkwS)",
+    "GurmukhiUni": "ਸ੍ਰੀ ਭਗਉਤੀ ਅਸਤੋਤ੍ਰ (ਪੰਥ ਪ੍ਰਕਾਸ਼)",
     "Transliterations": {
       "en": "sree bhagautee asatotr (pa(n)th prakaash)",
       "hi": "स्री भगउती असतोत्र (पंथ प्रकाश)",
@@ -242,6 +266,7 @@
   {
     "ID": 26,
     "Gurmukhi": "sRI BgauqI AsqoqR (sRI hzUr swihb)",
+    "GurmukhiUni": "ਸ੍ਰੀ ਭਗਉਤੀ ਅਸਤੋਤ੍ਰ (ਸ੍ਰੀ ਹਜ਼ੂਰ ਸਾਹਿਬ)",
     "Transliterations": {
       "en": "sree bhagautee asatotr (sree hazoor saahib)",
       "hi": "स्री भगउती असतोत्र (स्री हज़ूर साहिब)",
@@ -252,6 +277,7 @@
   {
     "ID": 27,
     "Gurmukhi": "bwrh mwhw mWJ",
+    "GurmukhiUni": "ਬਾਰਹ ਮਾਹਾ ਮਾਂਝ",
     "Transliterations": {
       "en": "baareh maahaa maa(n)jh",
       "hi": "बारह माहा माँझ",
@@ -262,6 +288,7 @@
   {
     "ID": 28,
     "Gurmukhi": "bwrh mwhw svYXw",
+    "GurmukhiUni": "ਬਾਰਹ ਮਾਹਾ ਸਵੈਯਾ",
     "Transliterations": {
       "en": "baareh maahaa savaiyaa",
       "hi": "बारह माहा सवैया",
@@ -272,6 +299,7 @@
   {
     "ID": 29,
     "Gurmukhi": "Akwl ausqq",
+    "GurmukhiUni": "ਅਕਾਲ ਉਸਤਤ",
     "Transliterations": {
       "en": "akaal usatat",
       "hi": "अकाल उसतत",
@@ -282,6 +310,7 @@
   {
     "ID": 30,
     "Gurmukhi": "slok mhlw 9",
+    "GurmukhiUni": "ਸਲੋਕ ਮਹਲਾ ੯",
     "Transliterations": {
       "en": "salok mahalaa nauvaa",
       "hi": "सलोक महला ९",
@@ -292,6 +321,7 @@
   {
     "ID": 31,
     "Gurmukhi": "suKmnI swihb",
+    "GurmukhiUni": "ਸੁਖਮਨੀ ਸਾਹਿਬ",
     "Transliterations": {
       "en": "sukhamanee saahib",
       "hi": "सुखमनी साहिब",
@@ -302,6 +332,7 @@
   {
     "ID": 32,
     "Gurmukhi": "suKmnw swihb",
+    "GurmukhiUni": "ਸੁਖਮਨਾ ਸਾਹਿਬ",
     "Transliterations": {
       "en": "sukhamanaa saahib",
       "hi": "सुखमना साहिब",
@@ -312,6 +343,7 @@
   {
     "ID": 33,
     "Gurmukhi": "bwvn AKrI",
+    "GurmukhiUni": "ਬਾਵਨ ਅਖਰੀ",
     "Transliterations": {
       "en": "baavan akharee",
       "hi": "बावन अखरी",
@@ -322,6 +354,7 @@
   {
     "ID": 34,
     "Gurmukhi": "isD gosit",
+    "GurmukhiUni": "ਸਿਧ ਗੋਸਟਿ",
     "Transliterations": {
       "en": "sidh gosaT",
       "hi": "सिध गोसटि",
@@ -332,6 +365,7 @@
   {
     "ID": 35,
     "Gurmukhi": "dKxI EAMkwru",
+    "GurmukhiUni": "ਦਖਣੀ ਓਅੰਕਾਰੁ",
     "Transliterations": {
       "en": "dhakhanee oa(n)kaaru",
       "hi": "दखणी ओअंकारु",
@@ -342,6 +376,7 @@
   {
     "ID": 36,
     "Gurmukhi": "duK BMjnI swihb",
+    "GurmukhiUni": "ਦੁਖ ਭੰਜਨੀ ਸਾਹਿਬ",
     "Transliterations": {
       "en": "dhukh bha(n)janee saahib",
       "hi": "दुख भंजनी साहिब",
@@ -352,6 +387,7 @@
   {
     "ID": 38,
     "Gurmukhi": "rwg mwlw",
+    "GurmukhiUni": "ਰਾਗ ਮਾਲਾ",
     "Transliterations": {
       "en": "raag maalaa",
       "hi": "राग माला",
@@ -362,6 +398,7 @@
   {
     "ID": 39,
     "Gurmukhi": "bwvn AKrI kbIr jIau kI",
+    "GurmukhiUni": "ਬਾਵਨ ਅਖਰੀ ਕਬੀਰ ਜੀਉ ਕੀ",
     "Transliterations": {
       "en": "baavan akharee kabeer jeeau kee",
       "hi": "बावन अखरी कबीर जीउ की",
@@ -372,6 +409,7 @@
   {
     "ID": 40,
     "Gurmukhi": "GoVIAw",
+    "GurmukhiUni": "ਘੋੜੀਆ",
     "Transliterations": {
       "en": "ghoReeaa",
       "hi": "घोड़ीआ",
@@ -382,6 +420,7 @@
   {
     "ID": 41,
     "Gurmukhi": "krhly",
+    "GurmukhiUni": "ਕਰਹਲੇ",
     "Transliterations": {
       "en": "karahale",
       "hi": "करहले",
@@ -392,6 +431,7 @@
   {
     "ID": 42,
     "Gurmukhi": "ibrhVy",
+    "GurmukhiUni": "ਬਿਰਹੜੇ",
     "Transliterations": {
       "en": "birahaRe",
       "hi": "बिरहड़े",
@@ -402,6 +442,7 @@
   {
     "ID": 43,
     "Gurmukhi": "ptI ilKI",
+    "GurmukhiUni": "ਪਟੀ ਲਿਖੀ",
     "Transliterations": {
       "en": "paTee likhee",
       "hi": "पटी लिखी",
@@ -412,6 +453,7 @@
   {
     "ID": 44,
     "Gurmukhi": "ptI mhlw 3",
+    "GurmukhiUni": "ਪਟੀ ਮਹਲਾ ੩",
     "Transliterations": {
       "en": "paTee mahalaa teejaa",
       "hi": "पटी महला ३",
@@ -422,6 +464,7 @@
   {
     "ID": 45,
     "Gurmukhi": "mhlw 5 ruqI",
+    "GurmukhiUni": "ਮਹਲਾ ੫ ਰੁਤੀ",
     "Transliterations": {
       "en": "mahalaa panjavaa rutee",
       "hi": "महला ५ रुती",
@@ -432,6 +475,7 @@
   {
     "ID": 46,
     "Gurmukhi": "rwmklI sdu",
+    "GurmukhiUni": "ਰਾਮਕਲੀ ਸਦੁ",
     "Transliterations": {
       "en": "raamakalee sadhu",
       "hi": "रामकली सदु",
@@ -442,6 +486,7 @@
   {
     "ID": 47,
     "Gurmukhi": "iQqMØI kbIr jI kMØI",
+    "GurmukhiUni": "ਥਿਤੰੀ ਕਬੀਰ ਜੀ ਕੰੀ",
     "Transliterations": {
       "en": "thita(n)ee kabeer jee ka(n)ee",
       "hi": "थितीं कबीर जी कीं",
@@ -452,6 +497,7 @@
   {
     "ID": 48,
     "Gurmukhi": "iQqI mhlw 1",
+    "GurmukhiUni": "ਥਿਤੀ ਮਹਲਾ ੧",
     "Transliterations": {
       "en": "thitee mahalaa pehilaa",
       "hi": "थिती महला १",
@@ -462,6 +508,7 @@
   {
     "ID": 49,
     "Gurmukhi": "iQqI mhlw 5",
+    "GurmukhiUni": "ਥਿਤੀ ਮਹਲਾ ੫",
     "Transliterations": {
       "en": "thitee mahalaa panjavaa",
       "hi": "थिती महला ५",
@@ -472,6 +519,7 @@
   {
     "ID": 50,
     "Gurmukhi": "gauVI vwr kbIr jIau ky",
+    "GurmukhiUni": "ਗਉੜੀ ਵਾਰ ਕਬੀਰ ਜੀਉ ਕੇ",
     "Transliterations": {
       "en": "gauRee vaar kabeer jeeau ke",
       "hi": "गउड़ी वार कबीर जीउ के",
@@ -482,6 +530,7 @@
   {
     "ID": 51,
     "Gurmukhi": "iblwvlu mhlw 3 vwr sq",
+    "GurmukhiUni": "ਬਿਲਾਵਲੁ ਮਹਲਾ ੩ ਵਾਰ ਸਤ",
     "Transliterations": {
       "en": "bilaaval mahalaa teejaa vaar sat",
       "hi": "बिलावलु महला ३ वार सत",
@@ -492,6 +541,7 @@
   {
     "ID": 52,
     "Gurmukhi": "vxjwrw",
+    "GurmukhiUni": "ਵਣਜਾਰਾ",
     "Transliterations": {
       "en": "vanajaaraa",
       "hi": "वणजारा",
@@ -502,6 +552,7 @@
   {
     "ID": 53,
     "Gurmukhi": "augRdMqI",
+    "GurmukhiUni": "ਉਗ੍ਰਦੰਤੀ",
     "Transliterations": {
       "en": "augradha(n)tee",
       "hi": "उग्रदंती",
@@ -512,6 +563,7 @@
   {
     "ID": 55,
     "Gurmukhi": "rwgu isrIrwgu (kbIr jIau kw)",
+    "GurmukhiUni": "ਰਾਗੁ ਸਿਰੀਰਾਗੁ (ਕਬੀਰ ਜੀਉ ਕਾ)",
     "Transliterations": {
       "en": "raag sireeraag (kabeer jeeau kaa)",
       "hi": "रागु सिरीरागु (कबीर जीउ का)",
@@ -522,6 +574,7 @@
   {
     "ID": 56,
     "Gurmukhi": "rwgu gauVI",
+    "GurmukhiUni": "ਰਾਗੁ ਗਉੜੀ",
     "Transliterations": {
       "en": "raag gauRee",
       "hi": "रागु गउड़ी",
@@ -532,6 +585,7 @@
   {
     "ID": 57,
     "Gurmukhi": "rwgu Awsw",
+    "GurmukhiUni": "ਰਾਗੁ ਆਸਾ",
     "Transliterations": {
       "en": "raag aasaa",
       "hi": "रागु आसा",
@@ -542,6 +596,7 @@
   {
     "ID": 58,
     "Gurmukhi": "rwgu gUjrI",
+    "GurmukhiUni": "ਰਾਗੁ ਗੂਜਰੀ",
     "Transliterations": {
       "en": "raag goojaree",
       "hi": "रागु गूजरी",
@@ -552,6 +607,7 @@
   {
     "ID": 59,
     "Gurmukhi": "rwgu soriT",
+    "GurmukhiUni": "ਰਾਗੁ ਸੋਰਠਿ",
     "Transliterations": {
       "en": "raag soraTh",
       "hi": "रागु सोरठि",
@@ -562,6 +618,7 @@
   {
     "ID": 60,
     "Gurmukhi": "rwgu DnwsrI",
+    "GurmukhiUni": "ਰਾਗੁ ਧਨਾਸਰੀ",
     "Transliterations": {
       "en": "raag dhanaasaree",
       "hi": "रागु धनासरी",
@@ -572,6 +629,7 @@
   {
     "ID": 61,
     "Gurmukhi": "rwgu jYqsrI",
+    "GurmukhiUni": "ਰਾਗੁ ਜੈਤਸਰੀ",
     "Transliterations": {
       "en": "raag jaitasaree",
       "hi": "रागु जैतसरी",
@@ -582,6 +640,7 @@
   {
     "ID": 62,
     "Gurmukhi": "rwgu tofI (bwxI BgqW kI)",
+    "GurmukhiUni": "ਰਾਗੁ ਟੋਡੀ (ਬਾਣੀ ਭਗਤਾਂ ਕੀ)",
     "Transliterations": {
       "en": "raag Toddee (baanee bhagataa(n) kee)",
       "hi": "रागु टोडी (बाणी भगताँ की)",
@@ -592,6 +651,7 @@
   {
     "ID": 63,
     "Gurmukhi": "rwgu iqlMg (bwxI Bgqw kI kbIr jI)",
+    "GurmukhiUni": "ਰਾਗੁ ਤਿਲੰਗ (ਬਾਣੀ ਭਗਤਾ ਕੀ ਕਬੀਰ ਜੀ)",
     "Transliterations": {
       "en": "raag tila(n)g (baanee bhagataa kee kabeer jee)",
       "hi": "रागु तिलंग (बाणी भगता की कबीर जी)",
@@ -602,6 +662,7 @@
   {
     "ID": 64,
     "Gurmukhi": "rwgu sUhI",
+    "GurmukhiUni": "ਰਾਗੁ ਸੂਹੀ",
     "Transliterations": {
       "en": "raag soohee",
       "hi": "रागु सूही",
@@ -612,6 +673,7 @@
   {
     "ID": 65,
     "Gurmukhi": "rwgu iblwvlu",
+    "GurmukhiUni": "ਰਾਗੁ ਬਿਲਾਵਲੁ",
     "Transliterations": {
       "en": "raag bilaavalu",
       "hi": "रागु बिलावलु",
@@ -622,6 +684,7 @@
   {
     "ID": 66,
     "Gurmukhi": "rwgu goNf",
+    "GurmukhiUni": "ਰਾਗੁ ਗੋਂਡ",
     "Transliterations": {
       "en": "raag go(n)dd",
       "hi": "रागु गोंड",
@@ -632,6 +695,7 @@
   {
     "ID": 67,
     "Gurmukhi": "rwgu rwmklI (sdu)",
+    "GurmukhiUni": "ਰਾਗੁ ਰਾਮਕਲੀ (ਸਦੁ)",
     "Transliterations": {
       "en": "raag raamakalee (sadhu)",
       "hi": "रागु रामकली (सदु)",
@@ -642,6 +706,7 @@
   {
     "ID": 68,
     "Gurmukhi": "rwgu mwlI gauVw",
+    "GurmukhiUni": "ਰਾਗੁ ਮਾਲੀ ਗਉੜਾ",
     "Transliterations": {
       "en": "raag maalee gauRaa",
       "hi": "रागु माली गउड़ा",
@@ -652,6 +717,7 @@
   {
     "ID": 69,
     "Gurmukhi": "rwgu mwrU",
+    "GurmukhiUni": "ਰਾਗੁ ਮਾਰੂ",
     "Transliterations": {
       "en": "raag maaroo",
       "hi": "रागु मारू",
@@ -662,6 +728,7 @@
   {
     "ID": 70,
     "Gurmukhi": "rwgu kydwrw",
+    "GurmukhiUni": "ਰਾਗੁ ਕੇਦਾਰਾ",
     "Transliterations": {
       "en": "raag kedhaaraa",
       "hi": "रागु केदारा",
@@ -672,6 +739,7 @@
   {
     "ID": 71,
     "Gurmukhi": "rwgu BYrau",
+    "GurmukhiUni": "ਰਾਗੁ ਭੈਰਉ",
     "Transliterations": {
       "en": "raag bhairau",
       "hi": "रागु भैरउ",
@@ -682,6 +750,7 @@
   {
     "ID": 72,
     "Gurmukhi": "rwgu bsMqu",
+    "GurmukhiUni": "ਰਾਗੁ ਬਸੰਤੁ",
     "Transliterations": {
       "en": "raag basa(n)tu",
       "hi": "रागु बसंतु",
@@ -692,6 +761,7 @@
   {
     "ID": 73,
     "Gurmukhi": "rwgu swrMg",
+    "GurmukhiUni": "ਰਾਗੁ ਸਾਰੰਗ",
     "Transliterations": {
       "en": "raag saara(n)g",
       "hi": "रागु सारंग",
@@ -702,6 +772,7 @@
   {
     "ID": 74,
     "Gurmukhi": "rwgu mlwr",
+    "GurmukhiUni": "ਰਾਗੁ ਮਲਾਰ",
     "Transliterations": {
       "en": "raag malaar",
       "hi": "रागु मलार",
@@ -712,6 +783,7 @@
   {
     "ID": 75,
     "Gurmukhi": "rwgu kwnVw",
+    "GurmukhiUni": "ਰਾਗੁ ਕਾਨੜਾ",
     "Transliterations": {
       "en": "raag kaanaRaa",
       "hi": "रागु कानड़ा",
@@ -722,6 +794,7 @@
   {
     "ID": 76,
     "Gurmukhi": "rwgu pRBwqI",
+    "GurmukhiUni": "ਰਾਗੁ ਪ੍ਰਭਾਤੀ",
     "Transliterations": {
       "en": "raag prabhaatee",
       "hi": "रागु प्रभाती",
@@ -732,6 +805,7 @@
   {
     "ID": 77,
     "Gurmukhi": "slok Bgq kbIr jIau ky",
+    "GurmukhiUni": "ਸਲੋਕ ਭਗਤ ਕਬੀਰ ਜੀਉ ਕੇ",
     "Transliterations": {
       "en": "salok bhagat kabeer jeeau ke",
       "hi": "सलोक भगत कबीर जीउ के",
@@ -742,6 +816,7 @@
   {
     "ID": 78,
     "Gurmukhi": "slok syK PrId ky",
+    "GurmukhiUni": "ਸਲੋਕ ਸੇਖ ਫਰੀਦ ਕੇ",
     "Transliterations": {
       "en": "salok sekh fareedh ke",
       "hi": "सलोक सेख फरीद के",
@@ -752,6 +827,7 @@
   {
     "ID": 79,
     "Gurmukhi": "svXy sRI muKbwk´ mhlw 5 - 1",
+    "GurmukhiUni": "ਸਵਯੇ ਸ੍ਰੀ ਮੁਖਬਾਕੵ ਮਹਲਾ ੫ - ੧",
     "Transliterations": {
       "en": "savaye sree mukhabaakaye mahalaa panjavaa - 1",
       "hi": "सवये स्री मुखबाक्य महला ५ - १",
@@ -762,6 +838,7 @@
   {
     "ID": 80,
     "Gurmukhi": "svXy sRI muKbwk´ mhlw 5 - 2",
+    "GurmukhiUni": "ਸਵਯੇ ਸ੍ਰੀ ਮੁਖਬਾਕੵ ਮਹਲਾ ੫ - ੨",
     "Transliterations": {
       "en": "savaye sree mukhabaakaye mahalaa panjavaa - 2",
       "hi": "सवये स्री मुखबाक्य महला ५ - २",
@@ -772,6 +849,7 @@
   {
     "ID": 81,
     "Gurmukhi": "sveIey mhly pihly ky",
+    "GurmukhiUni": "ਸਵਈਏ ਮਹਲੇ ਪਹਿਲੇ ਕੇ",
     "Transliterations": {
       "en": "savie'ee mahale pahile ke",
       "hi": "सवईए महले पहिले के",
@@ -782,6 +860,7 @@
   {
     "ID": 82,
     "Gurmukhi": "sveIey mhly dUjy ky",
+    "GurmukhiUni": "ਸਵਈਏ ਮਹਲੇ ਦੂਜੇ ਕੇ",
     "Transliterations": {
       "en": "savie'ee mahale dhooje ke",
       "hi": "सवईए महले दूजे के",
@@ -792,6 +871,7 @@
   {
     "ID": 83,
     "Gurmukhi": "sveIey mhly qIjy ky",
+    "GurmukhiUni": "ਸਵਈਏ ਮਹਲੇ ਤੀਜੇ ਕੇ",
     "Transliterations": {
       "en": "savie'ee mahale teeje ke",
       "hi": "सवईए महले तीजे के",
@@ -802,6 +882,7 @@
   {
     "ID": 84,
     "Gurmukhi": "sveIey mhly cauQy ky",
+    "GurmukhiUni": "ਸਵਈਏ ਮਹਲੇ ਚਉਥੇ ਕੇ",
     "Transliterations": {
       "en": "savie'ee mahale chauthe ke",
       "hi": "सवईए महले चउथे के",
@@ -812,6 +893,7 @@
   {
     "ID": 85,
     "Gurmukhi": "sveIey mhly pMjvy ky",
+    "GurmukhiUni": "ਸਵਈਏ ਮਹਲੇ ਪੰਜਵੇ ਕੇ",
     "Transliterations": {
       "en": "savie'ee mahale pa(n)jave ke",
       "hi": "सवईए महले पंजवे के",
@@ -822,6 +904,7 @@
   {
     "ID": 86,
     "Gurmukhi": "isrIrwg kI vwr mhlw 4",
+    "GurmukhiUni": "ਸਿਰੀਰਾਗ ਕੀ ਵਾਰ ਮਹਲਾ ੪",
     "Transliterations": {
       "en": "sireeraag kee vaar mahalaa chauthhaa",
       "hi": "सिरीराग की वार महला ४",
@@ -832,6 +915,7 @@
   {
     "ID": 87,
     "Gurmukhi": "vwr mwJ kI",
+    "GurmukhiUni": "ਵਾਰ ਮਾਝ ਕੀ",
     "Transliterations": {
       "en": "vaar maajh kee",
       "hi": "वार माझ की",
@@ -842,6 +926,7 @@
   {
     "ID": 88,
     "Gurmukhi": "gauVI kI vwr mhlw 4",
+    "GurmukhiUni": "ਗਉੜੀ ਕੀ ਵਾਰ ਮਹਲਾ ੪",
     "Transliterations": {
       "en": "gauRee kee vaar mahalaa chauthhaa",
       "hi": "गउड़ी की वार महला ४",
@@ -852,6 +937,7 @@
   {
     "ID": 89,
     "Gurmukhi": "gauVI kI vwr mhlw 5",
+    "GurmukhiUni": "ਗਉੜੀ ਕੀ ਵਾਰ ਮਹਲਾ ੫",
     "Transliterations": {
       "en": "gauRee kee vaar mahalaa panjavaa",
       "hi": "गउड़ी की वार महला ५",
@@ -862,6 +948,7 @@
   {
     "ID": 90,
     "Gurmukhi": "Awsw dI vwr",
+    "GurmukhiUni": "ਆਸਾ ਦੀ ਵਾਰ",
     "Transliterations": {
       "en": "aasaa dhee vaar",
       "hi": "आसा दी वार",
@@ -872,6 +959,7 @@
   {
     "ID": 91,
     "Gurmukhi": "gUjrI kI vwr mhlw 3",
+    "GurmukhiUni": "ਗੂਜਰੀ ਕੀ ਵਾਰ ਮਹਲਾ ੩",
     "Transliterations": {
       "en": "goojaree kee vaar mahalaa teejaa",
       "hi": "गूजरी की वार महला ३",
@@ -882,6 +970,7 @@
   {
     "ID": 92,
     "Gurmukhi": "rwgu gUjrI vwr mhlw 5",
+    "GurmukhiUni": "ਰਾਗੁ ਗੂਜਰੀ ਵਾਰ ਮਹਲਾ ੫",
     "Transliterations": {
       "en": "raag goojaree vaar mahalaa panjavaa",
       "hi": "रागु गूजरी वार महला ५",
@@ -892,6 +981,7 @@
   {
     "ID": 93,
     "Gurmukhi": "ibhwgVy kI vwr mhlw 4",
+    "GurmukhiUni": "ਬਿਹਾਗੜੇ ਕੀ ਵਾਰ ਮਹਲਾ ੪",
     "Transliterations": {
       "en": "bihaagaRe kee vaar mahalaa chauthhaa",
       "hi": "बिहागड़े की वार महला ४",
@@ -902,6 +992,7 @@
   {
     "ID": 94,
     "Gurmukhi": "vfhMs kI vwr mhlw 4",
+    "GurmukhiUni": "ਵਡਹੰਸ ਕੀ ਵਾਰ ਮਹਲਾ ੪",
     "Transliterations": {
       "en": "vaddaha(n)s kee vaar mahalaa chauthhaa",
       "hi": "वडहंस की वार महला ४",
@@ -912,6 +1003,7 @@
   {
     "ID": 95,
     "Gurmukhi": "rwgu soriT vwr mhly 4 kI",
+    "GurmukhiUni": "ਰਾਗੁ ਸੋਰਠਿ ਵਾਰ ਮਹਲੇ ੪ ਕੀ",
     "Transliterations": {
       "en": "raag soraTh vaar mahale 4 kee",
       "hi": "रागु सोरठि वार महले ४ की",
@@ -922,6 +1014,7 @@
   {
     "ID": 96,
     "Gurmukhi": "jYqsrI kI vwr",
+    "GurmukhiUni": "ਜੈਤਸਰੀ ਕੀ ਵਾਰ",
     "Transliterations": {
       "en": "jaitasaree kee vaar",
       "hi": "जैतसरी की वार",
@@ -932,6 +1025,7 @@
   {
     "ID": 97,
     "Gurmukhi": "vwr sUhI kI",
+    "GurmukhiUni": "ਵਾਰ ਸੂਹੀ ਕੀ",
     "Transliterations": {
       "en": "vaar soohee kee",
       "hi": "वार सूही की",
@@ -942,6 +1036,7 @@
   {
     "ID": 98,
     "Gurmukhi": "iblwvlu kI vwr mhlw 4",
+    "GurmukhiUni": "ਬਿਲਾਵਲੁ ਕੀ ਵਾਰ ਮਹਲਾ ੪",
     "Transliterations": {
       "en": "bilaaval kee vaar mahalaa chauthhaa",
       "hi": "बिलावलु की वार महला ४",
@@ -952,6 +1047,7 @@
   {
     "ID": 99,
     "Gurmukhi": "rwmklI kI vwr mhlw 3",
+    "GurmukhiUni": "ਰਾਮਕਲੀ ਕੀ ਵਾਰ ਮਹਲਾ ੩",
     "Transliterations": {
       "en": "raamakalee kee vaar mahalaa teejaa",
       "hi": "रामकली की वार महला ३",
@@ -962,6 +1058,7 @@
   {
     "ID": 100,
     "Gurmukhi": "rwmklI kI vwr mhlw 5",
+    "GurmukhiUni": "ਰਾਮਕਲੀ ਕੀ ਵਾਰ ਮਹਲਾ ੫",
     "Transliterations": {
       "en": "raamakalee kee vaar mahalaa panjavaa",
       "hi": "रामकली की वार महला ५",
@@ -972,6 +1069,7 @@
   {
     "ID": 101,
     "Gurmukhi": "rwmklI kI vwr (rwie blvMif qQw sqY)",
+    "GurmukhiUni": "ਰਾਮਕਲੀ ਕੀ ਵਾਰ (ਰਾਇ ਬਲਵੰਡਿ ਤਥਾ ਸਤੈ)",
     "Transliterations": {
       "en": "raamakalee kee vaar (rai balava(n)dd tathaa satai)",
       "hi": "रामकली की वार (राइ बलवंडि तथा सतै)",
@@ -982,6 +1080,7 @@
   {
     "ID": 102,
     "Gurmukhi": "mwrU vwr mhlw 3",
+    "GurmukhiUni": "ਮਾਰੂ ਵਾਰ ਮਹਲਾ ੩",
     "Transliterations": {
       "en": "maaroo vaar mahalaa teejaa",
       "hi": "मारू वार महला ३",
@@ -992,6 +1091,7 @@
   {
     "ID": 103,
     "Gurmukhi": "mwrU vwr mhlw 5 fKxy",
+    "GurmukhiUni": "ਮਾਰੂ ਵਾਰ ਮਹਲਾ ੫ ਡਖਣੇ",
     "Transliterations": {
       "en": "maaroo vaar mahalaa panjavaa ddakhane",
       "hi": "मारू वार महला ५ डखणे",
@@ -1002,6 +1102,7 @@
   {
     "ID": 104,
     "Gurmukhi": "bsMq kI vwr",
+    "GurmukhiUni": "ਬਸੰਤ ਕੀ ਵਾਰ",
     "Transliterations": {
       "en": "basa(n)t kee vaar",
       "hi": "बसंत की वार",
@@ -1012,6 +1113,7 @@
   {
     "ID": 105,
     "Gurmukhi": "swrMg kI vwr mhlw 4",
+    "GurmukhiUni": "ਸਾਰੰਗ ਕੀ ਵਾਰ ਮਹਲਾ ੪",
     "Transliterations": {
       "en": "saara(n)g kee vaar mahalaa chauthhaa",
       "hi": "सारंग की वार महला ४",
@@ -1022,6 +1124,7 @@
   {
     "ID": 106,
     "Gurmukhi": "vwr mlwr kI mhlw 1",
+    "GurmukhiUni": "ਵਾਰ ਮਲਾਰ ਕੀ ਮਹਲਾ ੧",
     "Transliterations": {
       "en": "vaar malaar kee mahalaa pehilaa",
       "hi": "वार मलार की महला १",
@@ -1032,6 +1135,7 @@
   {
     "ID": 107,
     "Gurmukhi": "kwnVy kI vwr mhlw 4",
+    "GurmukhiUni": "ਕਾਨੜੇ ਕੀ ਵਾਰ ਮਹਲਾ ੪",
     "Transliterations": {
       "en": "kaanaRe kee vaar mahalaa chauthhaa",
       "hi": "कानड़े की वार महला ४",
@@ -1042,6 +1146,7 @@
   {
     "ID": 1000,
     "Gurmukhi": "Anµdu swihb (6 pauVI)",
+    "GurmukhiUni": "ਅਨੰਦੁ ਸਾਹਿਬ (੬ ਪਉੜੀ)",
     "Transliterations": {
       "en": "ana(n)dh saahib (6 pauRee)",
       "hi": "अनंदु साहिब (६ पउड़ी)",

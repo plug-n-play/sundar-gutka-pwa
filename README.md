@@ -1,4 +1,4 @@
-# Sundar Gutka PWA
+# Sundar Gutka
 
 This repository is the Progressive Web App (PWA) version of [sundar-gutka-react](https://github.com/KhalisFoundation/sundar-gutka-react). It is designed to be fully installable, offline-first, and run with a local SQLite database using WebAssembly (`sql.js`).
 

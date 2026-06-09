@@ -5,6 +5,7 @@
     "header": 1,
     "Paragraph": 1,
     "Gurmukhi": "<> siqgur pRswid ]",
+    "GurmukhiUni": "ੴ ਸਤਿਗੁਰ ਪ੍ਰਸਾਦਿ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [
@@ -51,6 +52,7 @@
     "header": 1,
     "Paragraph": 2,
     "Gurmukhi": "sRI vwihgurU jI kI Pqh ]",
+    "GurmukhiUni": "ਸ੍ਰੀ ਵਾਹਿਗੁਰੂ ਜੀ ਕੀ ਫਤਹ ॥",
     "Visraam": {},
     "Transliterations": {
       "en": "sree vaahiguroo jee kee fateh ||",
@@ -84,6 +86,7 @@
     "header": 2,
     "Paragraph": 3,
     "Gurmukhi": "jwpu ]",
+    "GurmukhiUni": "ਜਾਪੁ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -125,6 +128,7 @@
     "header": 1,
     "Paragraph": 4,
     "Gurmukhi": "sRI muKvwk pwiqswhI 10 ]",
+    "GurmukhiUni": "ਸ੍ਰੀ ਮੁਖਵਾਕ ਪਾਤਿਸਾਹੀ ੧੦ ॥",
     "Visraam": {
       "sttm": [
         {
@@ -171,6 +175,7 @@
     "header": 2,
     "Paragraph": 5,
     "Gurmukhi": "CpY CMd ] qÍ pRswid ]",
+    "GurmukhiUni": "ਛਪੈ ਛੰਦ ॥ ਤ੍ਵ ਪ੍ਰਸਾਦਿ ॥",
     "Visraam": {
       "sttm": [],
       "igurbani": [],
@@ -212,6 +217,7 @@
     "header": 0,
     "Paragraph": 6,
     "Gurmukhi": "c`kR ichn Aru brn jwiq Aru pwiq nihn ijh ]",
+    "GurmukhiUni": "ਚੱਕ੍ਰ ਚਿਹਨ ਅਰੁ ਬਰਨ ਜਾਤਿ ਅਰੁ ਪਾਤਿ ਨਹਿਨ ਜਿਹ ॥",
     "Visraam": {
       "sttm": [
         {
@@ -258,6 +264,7 @@
     "header": 0,
     "Paragraph": 6,
     "Gurmukhi": "rUp rMg Aru ryK ByK koaU kih n skiq ikh ]",
+    "GurmukhiUni": "ਰੂਪ ਰੰਗ ਅਰੁ ਰੇਖ ਭੇਖ ਕੋਊ ਕਹਿ ਨ ਸਕਤਿ ਕਿਹ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [
@@ -304,6 +311,7 @@
     "header": 0,
     "Paragraph": 6,
     "Gurmukhi": "Acl mUriq AnBau pRkws Aimqoij kih`jY ]",
+    "GurmukhiUni": "ਅਚਲ ਮੂਰਤਿ ਅਨਭਉ ਪ੍ਰਕਾਸ ਅਮਿਤੋਜਿ ਕਹਿੱਜੈ ॥",
     "Visraam": {
       "sttm": [
         {
@@ -354,6 +362,7 @@
     "header": 0,
     "Paragraph": 6,
     "Gurmukhi": "koit ieMdR ieMdRwx swhu swhwix gixjY ]",
+    "GurmukhiUni": "ਕੋਟਿ ਇੰਦ੍ਰ ਇੰਦ੍ਰਾਣ ਸਾਹੁ ਸਾਹਾਣਿ ਗਣਿਜੈ ॥",
     "Visraam": {
       "sttm": [
         {
@@ -400,6 +409,7 @@
     "header": 0,
     "Paragraph": 6,
     "Gurmukhi": "iqRBvx mhIp sur nr Asur nyq nyq bn iqRx khq ]",
+    "GurmukhiUni": "ਤ੍ਰਿਭਵਣ ਮਹੀਪ ਸੁਰ ਨਰ ਅਸੁਰ ਨੇਤ ਨੇਤ ਬਨ ਤ੍ਰਿਣ ਕਹਤ ॥",
     "Visraam": {
       "sttm": [
         {
@@ -458,6 +468,7 @@
     "header": 0,
     "Paragraph": 6,
     "Gurmukhi": "qv srb nwm kQY kvn krm nwm brnq sumiq ]1]",
+    "GurmukhiUni": "ਤਵ ਸਰਬ ਨਾਮ ਕਥੈ ਕਵਨ ਕਰਮ ਨਾਮ ਬਰਨਤ ਸੁਮਤਿ ॥੧॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [
@@ -504,6 +515,7 @@
     "header": 2,
     "Paragraph": 7,
     "Gurmukhi": "BujMg pRXwq CMd ]",
+    "GurmukhiUni": "ਭੁਜੰਗ ਪ੍ਰਯਾਤ ਛੰਦ ॥",
     "Visraam": {
       "sttm": [],
       "igurbani": [],
@@ -545,6 +557,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqÍM Akwly ]",
+    "GurmukhiUni": "ਨਮਸਤ੍ਵੰ ਅਕਾਲੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -586,6 +599,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqÍM ikRpwly ]",
+    "GurmukhiUni": "ਨਮਸਤ੍ਵੰ ਕ੍ਰਿਪਾਲੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -627,6 +641,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM ArUpy ]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਅਰੂਪੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -668,6 +683,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM AnUpy ]2]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਅਨੂਪੇ ॥੨॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -709,6 +725,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM AByKy ]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਅਭੇਖੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -750,6 +767,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM AlyKy ]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਅਲੇਖੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -791,6 +809,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM Akwey ]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਅਕਾਏ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -832,6 +851,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM Ajwey ]3]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਅਜਾਏ ॥੩॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -873,6 +893,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM AgMjy ]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਅਗੰਜੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -914,6 +935,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM ABMjy ]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਅਭੰਜੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -955,6 +977,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM Anwmy ]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਅਨਾਮੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -996,6 +1019,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM ATwmy ]4]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਅਠਾਮੇ ॥੪॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -1037,6 +1061,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM AkrmM ]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਅਕਰਮੰ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -1078,6 +1103,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM ADrmM ]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਅਧਰਮੰ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -1119,6 +1145,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM AnwmM ]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਅਨਾਮੰ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -1160,6 +1187,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM ADwmM ]5]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਅਧਾਮੰ ॥੫॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -1201,6 +1229,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM AjIqy ]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਅਜੀਤੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -1242,6 +1271,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM ABIqy ]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਅਭੀਤੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -1283,6 +1313,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM Abwhy ]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਅਬਾਹੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -1324,6 +1355,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM AFwhy ]6]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਅਢਾਹੇ ॥੬॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -1365,6 +1397,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM AnIly ]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਅਨੀਲੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -1406,6 +1439,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM Anwdy ]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਅਨਾਦੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -1447,6 +1481,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM ACydy ]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਅਛੇਦੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -1488,6 +1523,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM AgwDy ]7]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਅਗਾਧੇ ॥੭॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -1529,6 +1565,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM AgMjy ]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਅਗੰਜੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -1570,6 +1607,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM ABMjy ]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਅਭੰਜੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -1611,6 +1649,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM audwry ]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਉਦਾਰੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -1652,6 +1691,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM Apwry ]8]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਅਪਾਰੇ ॥੮॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -1693,6 +1733,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM su eykY ]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਸੁ ਏਕੈ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -1734,6 +1775,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM AnykY ]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਅਨੇਕੈ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -1775,6 +1817,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM ABUqy ]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਅਭੂਤੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -1816,6 +1859,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM AjUpy ]9]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਅਜੂਪੇ ॥੯॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -1857,6 +1901,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM inRkrmy ]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਨ੍ਰਿਕਰਮੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -1898,6 +1943,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM inRBrmy ]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਨ੍ਰਿਭਰਮੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -1939,6 +1985,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM inRdysy ]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਨ੍ਰਿਦੇਸੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -1980,6 +2027,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM inRBysy ]10]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਨ੍ਰਿਭੇਸੇ ॥੧੦॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -2021,6 +2069,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM inRnwmy ]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਨ੍ਰਿਨਾਮੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -2062,6 +2111,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM inRkwmy ]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਨ੍ਰਿਕਾਮੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -2103,6 +2153,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM inRDwqy ]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਨ੍ਰਿਧਾਤੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -2144,6 +2195,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM inRGwqy ]11]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਨ੍ਰਿਘਾਤੇ ॥੧੧॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -2185,6 +2237,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM inRDUqy ]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਨ੍ਰਿਧੂਤੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -2226,6 +2279,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM ABUqy ]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਅਭੂਤੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -2267,6 +2321,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM Aloky ]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਅਲੋਕੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -2308,6 +2363,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM Asoky ]12]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਅਸੋਕੇ ॥੧੨॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -2349,6 +2405,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM inRqwpy ]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਨ੍ਰਿਤਾਪੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -2390,6 +2447,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM AQwpy ]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਅਥਾਪੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -2431,6 +2489,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM iqRmwny ]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਤ੍ਰਿਮਾਨੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -2472,6 +2531,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM inDwny ]13]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਨਿਧਾਨੇ ॥੧੩॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -2513,6 +2573,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM Agwhy ]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਅਗਾਹੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -2554,6 +2615,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM Abwhy ]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਅਬਾਹੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -2595,6 +2657,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM iqRbrgy ]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਤ੍ਰਿਬਰਗੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -2636,6 +2699,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM Asrgy ]14]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਅਸਰਗੇ ॥੧੪॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -2677,6 +2741,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM pRBogy ]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਪ੍ਰਭੋਗੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -2718,6 +2783,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM sujogy ]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਸੁਜੋਗੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -2759,6 +2825,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM ArMgy ]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਅਰੰਗੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -2800,6 +2867,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM ABMgy ]15]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਅਭੰਗੇ ॥੧੫॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -2841,6 +2909,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM AgMmy ]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਅਗੰਮੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -2882,6 +2951,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqsqu rMmy ]",
+    "GurmukhiUni": "ਨਮਸਤਸਤੁ ਰੰਮੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -2923,6 +2993,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM jlwsry ]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਜਲਾਸਰੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -2964,6 +3035,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM inrwsry ]16]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਨਿਰਾਸਰੇ ॥੧੬॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -3005,6 +3077,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM Ajwqy ]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਅਜਾਤੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -3046,6 +3119,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM Apwqy ]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਅਪਾਤੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -3087,6 +3161,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM Amjby ]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਅਮਜਬੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -3128,6 +3203,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqsqu Ajby ]17]",
+    "GurmukhiUni": "ਨਮਸਤਸਤੁ ਅਜਬੇ ॥੧੭॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -3169,6 +3245,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "AdysM Adysy ]",
+    "GurmukhiUni": "ਅਦੇਸੰ ਅਦੇਸੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -3210,6 +3287,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM ABysy ]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਅਭੇਸੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -3251,6 +3329,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM inRDwmy ]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਨ੍ਰਿਧਾਮੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -3292,6 +3371,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM inRbwmy ]18]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਨ੍ਰਿਬਾਮੇ ॥੧੮॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -3333,6 +3413,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmo srb kwly ]",
+    "GurmukhiUni": "ਨਮੋ ਸਰਬ ਕਾਲੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -3374,6 +3455,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmo srb idAwly ]",
+    "GurmukhiUni": "ਨਮੋ ਸਰਬ ਦਿਆਲੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -3415,6 +3497,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmo srb rUpy ]",
+    "GurmukhiUni": "ਨਮੋ ਸਰਬ ਰੂਪੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -3456,6 +3539,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmo srb BUpy ]19]",
+    "GurmukhiUni": "ਨਮੋ ਸਰਬ ਭੂਪੇ ॥੧੯॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -3497,6 +3581,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmo srb Kwpy ]",
+    "GurmukhiUni": "ਨਮੋ ਸਰਬ ਖਾਪੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -3538,6 +3623,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmo srb Qwpy ]",
+    "GurmukhiUni": "ਨਮੋ ਸਰਬ ਥਾਪੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -3579,6 +3665,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmo srb kwly ]",
+    "GurmukhiUni": "ਨਮੋ ਸਰਬ ਕਾਲੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -3620,6 +3707,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmo srb pwly ]20]",
+    "GurmukhiUni": "ਨਮੋ ਸਰਬ ਪਾਲੇ ॥੨੦॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -3661,6 +3749,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqsqu dyvY ]",
+    "GurmukhiUni": "ਨਮਸਤਸਤੁ ਦੇਵੈ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -3702,6 +3791,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM AByvY ]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਅਭੇਵੈ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -3743,6 +3833,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM Ajnmy ]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਅਜਨਮੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -3784,6 +3875,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM subnmy ]21]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਸੁਬਨਮੇ ॥੨੧॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -3825,6 +3917,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmo srb gauny ]",
+    "GurmukhiUni": "ਨਮੋ ਸਰਬ ਗਉਨੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -3866,6 +3959,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmo srb Bauny ]",
+    "GurmukhiUni": "ਨਮੋ ਸਰਬ ਭਉਨੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -3907,6 +4001,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmo srb rMgy ]",
+    "GurmukhiUni": "ਨਮੋ ਸਰਬ ਰੰਗੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -3948,6 +4043,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmo srb BMgy ]22]",
+    "GurmukhiUni": "ਨਮੋ ਸਰਬ ਭੰਗੇ ॥੨੨॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -3989,6 +4085,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmo kwl kwly ]",
+    "GurmukhiUni": "ਨਮੋ ਕਾਲ ਕਾਲੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -4030,6 +4127,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqsqu idAwly ]",
+    "GurmukhiUni": "ਨਮਸਤਸਤੁ ਦਿਆਲੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -4071,6 +4169,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM Abrny ]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਅਬਰਨੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -4112,6 +4211,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM Amrny ]23]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਅਮਰਨੇ ॥੨੩॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -4153,6 +4253,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM jrwrM ]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਜਰਾਰੰ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -4194,6 +4295,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM ikRqwrM ]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਕ੍ਰਿਤਾਰੰ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -4235,6 +4337,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmo srb DMDy ]",
+    "GurmukhiUni": "ਨਮੋ ਸਰਬ ਧੰਧੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -4276,6 +4379,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmosq AbMDy ]24]",
+    "GurmukhiUni": "ਨਮੋਸਤ ਅਬੰਧੇ ॥੨੪॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -4317,6 +4421,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM inRswky ]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਨ੍ਰਿਸਾਕੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -4358,6 +4463,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM inRbwky ]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਨ੍ਰਿਬਾਕੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -4399,6 +4505,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM rhImy ]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਰਹੀਮੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -4440,6 +4547,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM krImy ]25]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਕਰੀਮੇ ॥੨੫॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -4481,6 +4589,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM AnMqy ]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਅਨੰਤੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -4522,6 +4631,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM mhMqy ]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਮਹੰਤੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -4563,6 +4673,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqsqu rwgy ]",
+    "GurmukhiUni": "ਨਮਸਤਸਤੁ ਰਾਗੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -4604,6 +4715,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmsqM suhwgy ]26]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਸੁਹਾਗੇ ॥੨੬॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -4645,6 +4757,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmo srb soKM ]",
+    "GurmukhiUni": "ਨਮੋ ਸਰਬ ਸੋਖੰ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -4686,6 +4799,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmo srb poKM ]",
+    "GurmukhiUni": "ਨਮੋ ਸਰਬ ਪੋਖੰ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -4727,6 +4841,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmo srb krqw ]",
+    "GurmukhiUni": "ਨਮੋ ਸਰਬ ਕਰਤਾ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -4768,6 +4883,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmo srb hrqw ]27]",
+    "GurmukhiUni": "ਨਮੋ ਸਰਬ ਹਰਤਾ ॥੨੭॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -4809,6 +4925,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmo jog jogy ]",
+    "GurmukhiUni": "ਨਮੋ ਜੋਗ ਜੋਗੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -4850,6 +4967,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmo Bog Bogy ]",
+    "GurmukhiUni": "ਨਮੋ ਭੋਗ ਭੋਗੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -4891,6 +5009,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmo srb idAwly ]",
+    "GurmukhiUni": "ਨਮੋ ਸਰਬ ਦਿਆਲੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -4932,6 +5051,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "nmo srb pwly ]28]",
+    "GurmukhiUni": "ਨਮੋ ਸਰਬ ਪਾਲੇ ॥੨੮॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -4973,6 +5093,7 @@
     "header": 2,
     "Paragraph": 9,
     "Gurmukhi": "cwcrI CMd ] qÍ pRswid ]",
+    "GurmukhiUni": "ਚਾਚਰੀ ਛੰਦ ॥ ਤ੍ਵ ਪ੍ਰਸਾਦਿ ॥",
     "Visraam": {
       "sttm": [],
       "igurbani": [],
@@ -5014,6 +5135,7 @@
     "header": 0,
     "Paragraph": 10,
     "Gurmukhi": "ArUp hYN ]",
+    "GurmukhiUni": "ਅਰੂਪ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -5055,6 +5177,7 @@
     "header": 0,
     "Paragraph": 10,
     "Gurmukhi": "AnUp hYN ]",
+    "GurmukhiUni": "ਅਨੂਪ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -5096,6 +5219,7 @@
     "header": 0,
     "Paragraph": 10,
     "Gurmukhi": "AjU hYN ]",
+    "GurmukhiUni": "ਅਜੂ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -5137,6 +5261,7 @@
     "header": 0,
     "Paragraph": 10,
     "Gurmukhi": "ABU hYN ]29]",
+    "GurmukhiUni": "ਅਭੂ ਹੈਂ ॥੨੯॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -5178,6 +5303,7 @@
     "header": 0,
     "Paragraph": 10,
     "Gurmukhi": "AlyK hYN ]",
+    "GurmukhiUni": "ਅਲੇਖ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -5219,6 +5345,7 @@
     "header": 0,
     "Paragraph": 10,
     "Gurmukhi": "AByK hYN ]",
+    "GurmukhiUni": "ਅਭੇਖ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -5260,6 +5387,7 @@
     "header": 0,
     "Paragraph": 10,
     "Gurmukhi": "Anwm hYN ]",
+    "GurmukhiUni": "ਅਨਾਮ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -5301,6 +5429,7 @@
     "header": 0,
     "Paragraph": 10,
     "Gurmukhi": "Akwm hYN ]30]",
+    "GurmukhiUni": "ਅਕਾਮ ਹੈਂ ॥੩੦॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -5342,6 +5471,7 @@
     "header": 0,
     "Paragraph": 10,
     "Gurmukhi": "ADy hYN ]",
+    "GurmukhiUni": "ਅਧੇ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -5383,6 +5513,7 @@
     "header": 0,
     "Paragraph": 10,
     "Gurmukhi": "ABy hYN ]",
+    "GurmukhiUni": "ਅਭੇ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -5424,6 +5555,7 @@
     "header": 0,
     "Paragraph": 10,
     "Gurmukhi": "AjIq hYN ]",
+    "GurmukhiUni": "ਅਜੀਤ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -5465,6 +5597,7 @@
     "header": 0,
     "Paragraph": 10,
     "Gurmukhi": "ABIq hYN ]31]",
+    "GurmukhiUni": "ਅਭੀਤ ਹੈਂ ॥੩੧॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -5506,6 +5639,7 @@
     "header": 0,
     "Paragraph": 10,
     "Gurmukhi": "iqRmwn hYN ]",
+    "GurmukhiUni": "ਤ੍ਰਿਮਾਨ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -5547,6 +5681,7 @@
     "header": 0,
     "Paragraph": 10,
     "Gurmukhi": "inDwn hYN ]",
+    "GurmukhiUni": "ਨਿਧਾਨ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -5588,6 +5723,7 @@
     "header": 0,
     "Paragraph": 10,
     "Gurmukhi": "iqRbrg hYN ]",
+    "GurmukhiUni": "ਤ੍ਰਿਬਰਗ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -5629,6 +5765,7 @@
     "header": 0,
     "Paragraph": 10,
     "Gurmukhi": "Asrg hYN ]32]",
+    "GurmukhiUni": "ਅਸਰਗ ਹੈਂ ॥੩੨॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -5670,6 +5807,7 @@
     "header": 0,
     "Paragraph": 10,
     "Gurmukhi": "AnIl hYN ]",
+    "GurmukhiUni": "ਅਨੀਲ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -5711,6 +5849,7 @@
     "header": 0,
     "Paragraph": 10,
     "Gurmukhi": "Anwid hYN ]",
+    "GurmukhiUni": "ਅਨਾਦਿ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -5752,6 +5891,7 @@
     "header": 0,
     "Paragraph": 10,
     "Gurmukhi": "Ajy hYN ]",
+    "GurmukhiUni": "ਅਜੇ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -5793,6 +5933,7 @@
     "header": 0,
     "Paragraph": 10,
     "Gurmukhi": "Ajwid hYN ]33]",
+    "GurmukhiUni": "ਅਜਾਦਿ ਹੈਂ ॥੩੩॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -5834,6 +5975,7 @@
     "header": 0,
     "Paragraph": 10,
     "Gurmukhi": "Ajnm hYN ]",
+    "GurmukhiUni": "ਅਜਨਮ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -5875,6 +6017,7 @@
     "header": 0,
     "Paragraph": 10,
     "Gurmukhi": "Abrn hYN ]",
+    "GurmukhiUni": "ਅਬਰਨ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -5916,6 +6059,7 @@
     "header": 0,
     "Paragraph": 10,
     "Gurmukhi": "ABUq hYN ]",
+    "GurmukhiUni": "ਅਭੂਤ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -5957,6 +6101,7 @@
     "header": 0,
     "Paragraph": 10,
     "Gurmukhi": "ABrn hYN ]34]",
+    "GurmukhiUni": "ਅਭਰਨ ਹੈਂ ॥੩੪॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -5998,6 +6143,7 @@
     "header": 0,
     "Paragraph": 10,
     "Gurmukhi": "AgMj hYN ]",
+    "GurmukhiUni": "ਅਗੰਜ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -6039,6 +6185,7 @@
     "header": 0,
     "Paragraph": 10,
     "Gurmukhi": "ABMj hYN ]",
+    "GurmukhiUni": "ਅਭੰਜ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -6080,6 +6227,7 @@
     "header": 0,
     "Paragraph": 10,
     "Gurmukhi": "AJUJ hYN ]",
+    "GurmukhiUni": "ਅਝੂਝ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -6121,6 +6269,7 @@
     "header": 0,
     "Paragraph": 10,
     "Gurmukhi": "AJMJ hYN ]35]",
+    "GurmukhiUni": "ਅਝੰਝ ਹੈਂ ॥੩੫॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -6162,6 +6311,7 @@
     "header": 0,
     "Paragraph": 10,
     "Gurmukhi": "AmIk hYN ]",
+    "GurmukhiUni": "ਅਮੀਕ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -6203,6 +6353,7 @@
     "header": 0,
     "Paragraph": 10,
     "Gurmukhi": "r&Ik hYN ]",
+    "GurmukhiUni": "ਰਫ਼ੀਕ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -6244,6 +6395,7 @@
     "header": 0,
     "Paragraph": 10,
     "Gurmukhi": "ADMD hYN ]",
+    "GurmukhiUni": "ਅਧੰਧ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -6285,6 +6437,7 @@
     "header": 0,
     "Paragraph": 10,
     "Gurmukhi": "AbMD hYN ]36]",
+    "GurmukhiUni": "ਅਬੰਧ ਹੈਂ ॥੩੬॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -6326,6 +6479,7 @@
     "header": 0,
     "Paragraph": 10,
     "Gurmukhi": "inRbUJ hYN ]",
+    "GurmukhiUni": "ਨ੍ਰਿਬੂਝ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -6367,6 +6521,7 @@
     "header": 0,
     "Paragraph": 10,
     "Gurmukhi": "AsUJ hYN ]",
+    "GurmukhiUni": "ਅਸੂਝ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -6408,6 +6563,7 @@
     "header": 0,
     "Paragraph": 10,
     "Gurmukhi": "Akwl hYN ]",
+    "GurmukhiUni": "ਅਕਾਲ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -6449,6 +6605,7 @@
     "header": 0,
     "Paragraph": 10,
     "Gurmukhi": "Ajwl hYN ]37]",
+    "GurmukhiUni": "ਅਜਾਲ ਹੈਂ ॥੩੭॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -6490,6 +6647,7 @@
     "header": 0,
     "Paragraph": 10,
     "Gurmukhi": "Alwh hYN ]",
+    "GurmukhiUni": "ਅਲਾਹ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -6531,6 +6689,7 @@
     "header": 0,
     "Paragraph": 10,
     "Gurmukhi": "Ajwh hYN ]",
+    "GurmukhiUni": "ਅਜਾਹ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -6572,6 +6731,7 @@
     "header": 0,
     "Paragraph": 10,
     "Gurmukhi": "AnMq hYN ]",
+    "GurmukhiUni": "ਅਨੰਤ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -6613,6 +6773,7 @@
     "header": 0,
     "Paragraph": 10,
     "Gurmukhi": "mhMq hYN ]38]",
+    "GurmukhiUni": "ਮਹੰਤ ਹੈਂ ॥੩੮॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -6654,6 +6815,7 @@
     "header": 0,
     "Paragraph": 10,
     "Gurmukhi": "AlIk hYN ]",
+    "GurmukhiUni": "ਅਲੀਕ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -6695,6 +6857,7 @@
     "header": 0,
     "Paragraph": 10,
     "Gurmukhi": "inRsRIk hYN ]",
+    "GurmukhiUni": "ਨ੍ਰਿਸ੍ਰੀਕ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -6736,6 +6899,7 @@
     "header": 0,
     "Paragraph": 10,
     "Gurmukhi": "inRlMB hYN ]",
+    "GurmukhiUni": "ਨ੍ਰਿਲੰਭ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -6777,6 +6941,7 @@
     "header": 0,
     "Paragraph": 10,
     "Gurmukhi": "AsMB hYN ]39]",
+    "GurmukhiUni": "ਅਸੰਭ ਹੈਂ ॥੩੯॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -6818,6 +6983,7 @@
     "header": 0,
     "Paragraph": 10,
     "Gurmukhi": "AgMm hYN ]",
+    "GurmukhiUni": "ਅਗੰਮ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -6859,6 +7025,7 @@
     "header": 0,
     "Paragraph": 10,
     "Gurmukhi": "AjMm hYN ]",
+    "GurmukhiUni": "ਅਜੰਮ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -6900,6 +7067,7 @@
     "header": 0,
     "Paragraph": 10,
     "Gurmukhi": "ABUq hYN ]",
+    "GurmukhiUni": "ਅਭੂਤ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -6941,6 +7109,7 @@
     "header": 0,
     "Paragraph": 10,
     "Gurmukhi": "ACUq hYN ]40]",
+    "GurmukhiUni": "ਅਛੂਤ ਹੈਂ ॥੪੦॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -6982,6 +7151,7 @@
     "header": 0,
     "Paragraph": 10,
     "Gurmukhi": "Alok hYN ]",
+    "GurmukhiUni": "ਅਲੋਕ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -7023,6 +7193,7 @@
     "header": 0,
     "Paragraph": 10,
     "Gurmukhi": "Asok hYN ]",
+    "GurmukhiUni": "ਅਸੋਕ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -7064,6 +7235,7 @@
     "header": 0,
     "Paragraph": 10,
     "Gurmukhi": "Akrm hYN ]",
+    "GurmukhiUni": "ਅਕਰਮ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -7105,6 +7277,7 @@
     "header": 0,
     "Paragraph": 10,
     "Gurmukhi": "ABrm hYN ]41]",
+    "GurmukhiUni": "ਅਭਰਮ ਹੈਂ ॥੪੧॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -7146,6 +7319,7 @@
     "header": 0,
     "Paragraph": 10,
     "Gurmukhi": "AjIq hYN ]",
+    "GurmukhiUni": "ਅਜੀਤ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -7187,6 +7361,7 @@
     "header": 0,
     "Paragraph": 10,
     "Gurmukhi": "ABIq hYN ]",
+    "GurmukhiUni": "ਅਭੀਤ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -7228,6 +7403,7 @@
     "header": 0,
     "Paragraph": 10,
     "Gurmukhi": "Abwh hYN ]",
+    "GurmukhiUni": "ਅਬਾਹ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -7269,6 +7445,7 @@
     "header": 0,
     "Paragraph": 10,
     "Gurmukhi": "Agwh hYN ]42]",
+    "GurmukhiUni": "ਅਗਾਹ ਹੈਂ ॥੪੨॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -7310,6 +7487,7 @@
     "header": 0,
     "Paragraph": 10,
     "Gurmukhi": "Amwn hYN ]",
+    "GurmukhiUni": "ਅਮਾਨ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -7351,6 +7529,7 @@
     "header": 0,
     "Paragraph": 10,
     "Gurmukhi": "inDwn hYN ]",
+    "GurmukhiUni": "ਨਿਧਾਨ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -7392,6 +7571,7 @@
     "header": 0,
     "Paragraph": 10,
     "Gurmukhi": "Anyk hYN ]",
+    "GurmukhiUni": "ਅਨੇਕ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -7433,6 +7613,7 @@
     "header": 0,
     "Paragraph": 10,
     "Gurmukhi": "iPir eyk hYN ]43]",
+    "GurmukhiUni": "ਫਿਰਿ ਏਕ ਹੈਂ ॥੪੩॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -7474,6 +7655,7 @@
     "header": 2,
     "Paragraph": 11,
     "Gurmukhi": "BujMg pRXwq CMd ]",
+    "GurmukhiUni": "ਭੁਜੰਗ ਪ੍ਰਯਾਤ ਛੰਦ ॥",
     "Visraam": {
       "sttm": [],
       "igurbani": [],
@@ -7515,6 +7697,7 @@
     "header": 0,
     "Paragraph": 12,
     "Gurmukhi": "nmo srb mwny ]",
+    "GurmukhiUni": "ਨਮੋ ਸਰਬ ਮਾਨੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -7556,6 +7739,7 @@
     "header": 0,
     "Paragraph": 12,
     "Gurmukhi": "smsqI inDwny ]",
+    "GurmukhiUni": "ਸਮਸਤੀ ਨਿਧਾਨੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -7597,6 +7781,7 @@
     "header": 0,
     "Paragraph": 12,
     "Gurmukhi": "nmo dyv dyvy ]",
+    "GurmukhiUni": "ਨਮੋ ਦੇਵ ਦੇਵੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -7638,6 +7823,7 @@
     "header": 0,
     "Paragraph": 12,
     "Gurmukhi": "AByKI AByvy ]44]",
+    "GurmukhiUni": "ਅਭੇਖੀ ਅਭੇਵੇ ॥੪੪॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -7679,6 +7865,7 @@
     "header": 0,
     "Paragraph": 12,
     "Gurmukhi": "nmo kwl kwly ]",
+    "GurmukhiUni": "ਨਮੋ ਕਾਲ ਕਾਲੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -7720,6 +7907,7 @@
     "header": 0,
     "Paragraph": 12,
     "Gurmukhi": "nmo srb pwly ]",
+    "GurmukhiUni": "ਨਮੋ ਸਰਬ ਪਾਲੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -7761,6 +7949,7 @@
     "header": 0,
     "Paragraph": 12,
     "Gurmukhi": "nmo srb gauxy ]",
+    "GurmukhiUni": "ਨਮੋ ਸਰਬ ਗਉਣੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -7802,6 +7991,7 @@
     "header": 0,
     "Paragraph": 12,
     "Gurmukhi": "nmo srb Bauxy ]45]",
+    "GurmukhiUni": "ਨਮੋ ਸਰਬ ਭਉਣੇ ॥੪੫॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -7843,6 +8033,7 @@
     "header": 0,
     "Paragraph": 12,
     "Gurmukhi": "AnMgI AnwQy ]",
+    "GurmukhiUni": "ਅਨੰਗੀ ਅਨਾਥੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -7884,6 +8075,7 @@
     "header": 0,
     "Paragraph": 12,
     "Gurmukhi": "inRsMgI pRmwQy ]",
+    "GurmukhiUni": "ਨ੍ਰਿਸੰਗੀ ਪ੍ਰਮਾਥੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -7925,6 +8117,7 @@
     "header": 0,
     "Paragraph": 12,
     "Gurmukhi": "nmo Bwn Bwny ]",
+    "GurmukhiUni": "ਨਮੋ ਭਾਨ ਭਾਨੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -7966,6 +8159,7 @@
     "header": 0,
     "Paragraph": 12,
     "Gurmukhi": "nmo mwn mwny ]46]",
+    "GurmukhiUni": "ਨਮੋ ਮਾਨ ਮਾਨੇ ॥੪੬॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -8007,6 +8201,7 @@
     "header": 0,
     "Paragraph": 12,
     "Gurmukhi": "nmo cMdR cMdRy ]",
+    "GurmukhiUni": "ਨਮੋ ਚੰਦ੍ਰ ਚੰਦ੍ਰੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -8048,6 +8243,7 @@
     "header": 0,
     "Paragraph": 12,
     "Gurmukhi": "nmo Bwn Bwny ]",
+    "GurmukhiUni": "ਨਮੋ ਭਾਨ ਭਾਨੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -8089,6 +8285,7 @@
     "header": 0,
     "Paragraph": 12,
     "Gurmukhi": "nmo gIq gIqy ]",
+    "GurmukhiUni": "ਨਮੋ ਗੀਤ ਗੀਤੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -8130,6 +8327,7 @@
     "header": 0,
     "Paragraph": 12,
     "Gurmukhi": "nmo qwn qwny ]47]",
+    "GurmukhiUni": "ਨਮੋ ਤਾਨ ਤਾਨੇ ॥੪੭॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -8171,6 +8369,7 @@
     "header": 0,
     "Paragraph": 12,
     "Gurmukhi": "nmo inR`q inR`qy ॥",
+    "GurmukhiUni": "ਨਮੋ ਨ੍ਰਿੱਤ ਨ੍ਰਿੱਤੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -8212,6 +8411,7 @@
     "header": 0,
     "Paragraph": 12,
     "Gurmukhi": "nmo nwd nwdy ]",
+    "GurmukhiUni": "ਨਮੋ ਨਾਦ ਨਾਦੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -8253,6 +8453,7 @@
     "header": 0,
     "Paragraph": 12,
     "Gurmukhi": "nmo pwn pwny ]",
+    "GurmukhiUni": "ਨਮੋ ਪਾਨ ਪਾਨੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -8294,6 +8495,7 @@
     "header": 0,
     "Paragraph": 12,
     "Gurmukhi": "nmo bwd bwdy ]48]",
+    "GurmukhiUni": "ਨਮੋ ਬਾਦ ਬਾਦੇ ॥੪੮॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -8335,6 +8537,7 @@
     "header": 0,
     "Paragraph": 12,
     "Gurmukhi": "AnMgI Anwmy ]",
+    "GurmukhiUni": "ਅਨੰਗੀ ਅਨਾਮੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -8376,6 +8579,7 @@
     "header": 0,
     "Paragraph": 12,
     "Gurmukhi": "smsqI srUpy ]",
+    "GurmukhiUni": "ਸਮਸਤੀ ਸਰੂਪੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -8417,6 +8621,7 @@
     "header": 0,
     "Paragraph": 12,
     "Gurmukhi": "pRBMgI pRmwQy ]",
+    "GurmukhiUni": "ਪ੍ਰਭੰਗੀ ਪ੍ਰਮਾਥੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -8458,6 +8663,7 @@
     "header": 0,
     "Paragraph": 12,
     "Gurmukhi": "smsqI ibBUqy ]49]",
+    "GurmukhiUni": "ਸਮਸਤੀ ਬਿਭੂਤੇ ॥੪੯॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -8499,6 +8705,7 @@
     "header": 0,
     "Paragraph": 12,
     "Gurmukhi": "klMkM ibnw nyklMkI srUpy ]",
+    "GurmukhiUni": "ਕਲੰਕੰ ਬਿਨਾ ਨੇਕਲੰਕੀ ਸਰੂਪੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -8540,6 +8747,7 @@
     "header": 0,
     "Paragraph": 12,
     "Gurmukhi": "nmo rwj rwjysÍrM prm rUpy ]50]",
+    "GurmukhiUni": "ਨਮੋ ਰਾਜ ਰਾਜੇਸ੍ਵਰੰ ਪਰਮ ਰੂਪੇ ॥੫੦॥",
     "Visraam": {
       "sttm": [],
       "igurbani": [],
@@ -8581,6 +8789,7 @@
     "header": 0,
     "Paragraph": 12,
     "Gurmukhi": "nmo jog jogysÍrM prm is`Dy ]",
+    "GurmukhiUni": "ਨਮੋ ਜੋਗ ਜੋਗੇਸ੍ਵਰੰ ਪਰਮ ਸਿੱਧੇ ॥",
     "Visraam": {
       "sttm": [],
       "igurbani": [],
@@ -8622,6 +8831,7 @@
     "header": 0,
     "Paragraph": 12,
     "Gurmukhi": "nmo rwj rwjysÍrM prm ibRDy ]51]",
+    "GurmukhiUni": "ਨਮੋ ਰਾਜ ਰਾਜੇਸ੍ਵਰੰ ਪਰਮ ਬ੍ਰਿਧੇ ॥੫੧॥",
     "Visraam": {
       "sttm": [],
       "igurbani": [],
@@ -8663,6 +8873,7 @@
     "header": 0,
     "Paragraph": 12,
     "Gurmukhi": "nmo ssqR pwxy ]",
+    "GurmukhiUni": "ਨਮੋ ਸਸਤ੍ਰ ਪਾਣੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -8704,6 +8915,7 @@
     "header": 0,
     "Paragraph": 12,
     "Gurmukhi": "nmo AsqR mwxy ]",
+    "GurmukhiUni": "ਨਮੋ ਅਸਤ੍ਰ ਮਾਣੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -8745,6 +8957,7 @@
     "header": 0,
     "Paragraph": 12,
     "Gurmukhi": "nmo prm igAwqw ]",
+    "GurmukhiUni": "ਨਮੋ ਪਰਮ ਗਿਆਤਾ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -8786,6 +8999,7 @@
     "header": 0,
     "Paragraph": 12,
     "Gurmukhi": "nmo lok mwqw ]52]",
+    "GurmukhiUni": "ਨਮੋ ਲੋਕ ਮਾਤਾ ॥੫੨॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -8827,6 +9041,7 @@
     "header": 0,
     "Paragraph": 12,
     "Gurmukhi": "AByKI ABrmI ABogI ABugqy ]",
+    "GurmukhiUni": "ਅਭੇਖੀ ਅਭਰਮੀ ਅਭੋਗੀ ਅਭੁਗਤੇ ॥",
     "Visraam": {
       "sttm": [
         {
@@ -8881,6 +9096,7 @@
     "header": 0,
     "Paragraph": 12,
     "Gurmukhi": "nmo jog jogysÍrM prm jugqy ]53]",
+    "GurmukhiUni": "ਨਮੋ ਜੋਗ ਜੋਗੇਸ੍ਵਰੰ ਪਰਮ ਜੁਗਤੇ ॥੫੩॥",
     "Visraam": {
       "sttm": [],
       "igurbani": [],
@@ -8922,6 +9138,7 @@
     "header": 0,
     "Paragraph": 12,
     "Gurmukhi": "nmo in`q nwrwiexy kR¨r krmy ]",
+    "GurmukhiUni": "ਨਮੋ ਨਿੱਤ ਨਾਰਾਇਣੇ ਕ੍ਰੂਰ ਕਰਮੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -8963,6 +9180,7 @@
     "header": 0,
     "Paragraph": 12,
     "Gurmukhi": "nmo pRyq ApRyq dyvy suDrmy ]54]",
+    "GurmukhiUni": "ਨਮੋ ਪ੍ਰੇਤ ਅਪ੍ਰੇਤ ਦੇਵੇ ਸੁਧਰਮੇ ॥੫੪॥",
     "Visraam": {
       "sttm": [],
       "igurbani": [],
@@ -9004,6 +9222,7 @@
     "header": 0,
     "Paragraph": 12,
     "Gurmukhi": "nmo rog hrqw ]",
+    "GurmukhiUni": "ਨਮੋ ਰੋਗ ਹਰਤਾ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -9045,6 +9264,7 @@
     "header": 0,
     "Paragraph": 12,
     "Gurmukhi": "nmo rwg rUpy ]",
+    "GurmukhiUni": "ਨਮੋ ਰਾਗ ਰੂਪੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -9086,6 +9306,7 @@
     "header": 0,
     "Paragraph": 12,
     "Gurmukhi": "nmo swh swhM ]",
+    "GurmukhiUni": "ਨਮੋ ਸਾਹ ਸਾਹੰ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -9127,6 +9348,7 @@
     "header": 0,
     "Paragraph": 12,
     "Gurmukhi": "nmo BUp BUpy ]55]",
+    "GurmukhiUni": "ਨਮੋ ਭੂਪ ਭੂਪੇ ॥੫੫॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -9168,6 +9390,7 @@
     "header": 0,
     "Paragraph": 12,
     "Gurmukhi": "nmo dwn dwny ]",
+    "GurmukhiUni": "ਨਮੋ ਦਾਨ ਦਾਨੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -9209,6 +9432,7 @@
     "header": 0,
     "Paragraph": 12,
     "Gurmukhi": "nmo mwn mwny ]",
+    "GurmukhiUni": "ਨਮੋ ਮਾਨ ਮਾਨੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -9250,6 +9474,7 @@
     "header": 0,
     "Paragraph": 12,
     "Gurmukhi": "nmo rog rogy ]",
+    "GurmukhiUni": "ਨਮੋ ਰੋਗ ਰੋਗੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -9291,6 +9516,7 @@
     "header": 0,
     "Paragraph": 12,
     "Gurmukhi": "nmsqM snwny ]56]",
+    "GurmukhiUni": "ਨਮਸਤੰ ਸਨਾਨੇ ॥੫੬॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -9332,6 +9558,7 @@
     "header": 0,
     "Paragraph": 12,
     "Gurmukhi": "nmo mMqR mMqRM ]",
+    "GurmukhiUni": "ਨਮੋ ਮੰਤ੍ਰ ਮੰਤ੍ਰੰ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -9373,6 +9600,7 @@
     "header": 0,
     "Paragraph": 12,
     "Gurmukhi": "nmo jMqR jMqRM ]",
+    "GurmukhiUni": "ਨਮੋ ਜੰਤ੍ਰ ਜੰਤ੍ਰੰ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -9414,6 +9642,7 @@
     "header": 0,
     "Paragraph": 12,
     "Gurmukhi": "nmo iest iesty ]",
+    "GurmukhiUni": "ਨਮੋ ਇਸਟ ਇਸਟੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -9455,6 +9684,7 @@
     "header": 0,
     "Paragraph": 12,
     "Gurmukhi": "nmo qMqR qMqRM ]57]",
+    "GurmukhiUni": "ਨਮੋ ਤੰਤ੍ਰ ਤੰਤ੍ਰੰ ॥੫੭॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -9496,6 +9726,7 @@
     "header": 0,
     "Paragraph": 12,
     "Gurmukhi": "sdw s`cdwnMd srbM pRxwsI ]",
+    "GurmukhiUni": "ਸਦਾ ਸੱਚਦਾਨੰਦ ਸਰਬੰ ਪ੍ਰਣਾਸੀ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -9537,6 +9768,7 @@
     "header": 0,
     "Paragraph": 12,
     "Gurmukhi": "AnUpy ArUpy smsqul invwsI ]58]",
+    "GurmukhiUni": "ਅਨੂਪੇ ਅਰੂਪੇ ਸਮਸਤੁਲ ਨਿਵਾਸੀ ॥੫੮॥",
     "Visraam": {
       "sttm": [],
       "igurbani": [],
@@ -9578,6 +9810,7 @@
     "header": 0,
     "Paragraph": 12,
     "Gurmukhi": "sdw isDdw buDdw ibRD krqw ]",
+    "GurmukhiUni": "ਸਦਾ ਸਿਧਦਾ ਬੁਧਦਾ ਬ੍ਰਿਧ ਕਰਤਾ ॥",
     "Visraam": {
       "sttm": [],
       "igurbani": [],
@@ -9619,6 +9852,7 @@
     "header": 0,
     "Paragraph": 12,
     "Gurmukhi": "ADo aurD ArDM AGM EG hrqw ]59]",
+    "GurmukhiUni": "ਅਧੋ ਉਰਧ ਅਰਧੰ ਅਘੰ ਓਘ ਹਰਤਾ ॥੫੯॥",
     "Visraam": {
       "sttm": [
         {
@@ -9665,6 +9899,7 @@
     "header": 0,
     "Paragraph": 12,
     "Gurmukhi": "prM prm prmysÍrM pRoC pwlM ]",
+    "GurmukhiUni": "ਪਰੰ ਪਰਮ ਪਰਮੇਸ੍ਵਰੰ ਪ੍ਰੋਛ ਪਾਲੰ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -9706,6 +9941,7 @@
     "header": 0,
     "Paragraph": 12,
     "Gurmukhi": "sdw srbdw is`D dwqw idAwlM ]60]",
+    "GurmukhiUni": "ਸਦਾ ਸਰਬਦਾ ਸਿੱਧ ਦਾਤਾ ਦਿਆਲੰ ॥੬੦॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -9747,6 +9983,7 @@
     "header": 0,
     "Paragraph": 12,
     "Gurmukhi": "ACydI ABydI AnwmM AkwmM ]",
+    "GurmukhiUni": "ਅਛੇਦੀ ਅਭੇਦੀ ਅਨਾਮੰ ਅਕਾਮੰ ॥",
     "Visraam": {
       "sttm": [],
       "igurbani": [],
@@ -9788,6 +10025,7 @@
     "header": 0,
     "Paragraph": 12,
     "Gurmukhi": "smsqo prwjI smsqsqu DwmM ]61]",
+    "GurmukhiUni": "ਸਮਸਤੋ ਪਰਾਜੀ ਸਮਸਤਸਤੁ ਧਾਮੰ ॥੬੧॥",
     "Visraam": {
       "sttm": [],
       "igurbani": [],
@@ -9829,6 +10067,7 @@
     "header": 2,
     "Paragraph": 13,
     "Gurmukhi": "qyrw joru ]",
+    "GurmukhiUni": "ਤੇਰਾ ਜੋਰੁ ॥",
     "Visraam": {
       "sttm": [],
       "igurbani": [],
@@ -9870,6 +10109,7 @@
     "header": 2,
     "Paragraph": 13,
     "Gurmukhi": "cwcrI CMd ]",
+    "GurmukhiUni": "ਚਾਚਰੀ ਛੰਦ ॥",
     "Visraam": {
       "sttm": [],
       "igurbani": [],
@@ -9911,6 +10151,7 @@
     "header": 0,
     "Paragraph": 14,
     "Gurmukhi": "jly hYN ]",
+    "GurmukhiUni": "ਜਲੇ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -9952,6 +10193,7 @@
     "header": 0,
     "Paragraph": 14,
     "Gurmukhi": "Qly hYN ]",
+    "GurmukhiUni": "ਥਲੇ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -9993,6 +10235,7 @@
     "header": 0,
     "Paragraph": 14,
     "Gurmukhi": "ABIq hYN ]",
+    "GurmukhiUni": "ਅਭੀਤ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -10034,6 +10277,7 @@
     "header": 0,
     "Paragraph": 14,
     "Gurmukhi": "ABy hYN ]62]",
+    "GurmukhiUni": "ਅਭੇ ਹੈਂ ॥੬੨॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -10075,6 +10319,7 @@
     "header": 0,
     "Paragraph": 14,
     "Gurmukhi": "pRBU hYN ]",
+    "GurmukhiUni": "ਪ੍ਰਭੂ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -10116,6 +10361,7 @@
     "header": 0,
     "Paragraph": 14,
     "Gurmukhi": "AjU hYN ]",
+    "GurmukhiUni": "ਅਜੂ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -10157,6 +10403,7 @@
     "header": 0,
     "Paragraph": 14,
     "Gurmukhi": "Adys hYN ]",
+    "GurmukhiUni": "ਅਦੇਸ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -10198,6 +10445,7 @@
     "header": 0,
     "Paragraph": 14,
     "Gurmukhi": "ABys hYN ]63]",
+    "GurmukhiUni": "ਅਭੇਸ ਹੈਂ ॥੬੩॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -10239,6 +10487,7 @@
     "header": 2,
     "Paragraph": 15,
     "Gurmukhi": "BujMg pRXwq CMd ]",
+    "GurmukhiUni": "ਭੁਜੰਗ ਪ੍ਰਯਾਤ ਛੰਦ ॥",
     "Visraam": {
       "sttm": [],
       "igurbani": [],
@@ -10280,6 +10529,7 @@
     "header": 0,
     "Paragraph": 16,
     "Gurmukhi": "AgwDy AbwDy ]",
+    "GurmukhiUni": "ਅਗਾਧੇ ਅਬਾਧੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -10321,6 +10571,7 @@
     "header": 0,
     "Paragraph": 16,
     "Gurmukhi": "AnMdI srUpy ]",
+    "GurmukhiUni": "ਅਨੰਦੀ ਸਰੂਪੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -10362,6 +10613,7 @@
     "header": 0,
     "Paragraph": 16,
     "Gurmukhi": "nmo srb mwny ]",
+    "GurmukhiUni": "ਨਮੋ ਸਰਬ ਮਾਨੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -10403,6 +10655,7 @@
     "header": 0,
     "Paragraph": 16,
     "Gurmukhi": "smsqI inDwny ]64]",
+    "GurmukhiUni": "ਸਮਸਤੀ ਨਿਧਾਨੇ ॥੬੪॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -10444,6 +10697,7 @@
     "header": 0,
     "Paragraph": 16,
     "Gurmukhi": "nmsqÍM inRnwQy ]",
+    "GurmukhiUni": "ਨਮਸਤ੍ਵੰ ਨ੍ਰਿਨਾਥੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -10485,6 +10739,7 @@
     "header": 0,
     "Paragraph": 16,
     "Gurmukhi": "nmsqÍM pRmwQy ]",
+    "GurmukhiUni": "ਨਮਸਤ੍ਵੰ ਪ੍ਰਮਾਥੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -10526,6 +10781,7 @@
     "header": 0,
     "Paragraph": 16,
     "Gurmukhi": "nmsqÍM AgMjy ]",
+    "GurmukhiUni": "ਨਮਸਤ੍ਵੰ ਅਗੰਜੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -10567,6 +10823,7 @@
     "header": 0,
     "Paragraph": 16,
     "Gurmukhi": "nmsqÍM ABMjy ]65]",
+    "GurmukhiUni": "ਨਮਸਤ੍ਵੰ ਅਭੰਜੇ ॥੬੫॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -10608,6 +10865,7 @@
     "header": 0,
     "Paragraph": 16,
     "Gurmukhi": "nmsqÍM Akwly ]",
+    "GurmukhiUni": "ਨਮਸਤ੍ਵੰ ਅਕਾਲੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -10649,6 +10907,7 @@
     "header": 0,
     "Paragraph": 16,
     "Gurmukhi": "nmsqÍM Apwly ]",
+    "GurmukhiUni": "ਨਮਸਤ੍ਵੰ ਅਪਾਲੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -10690,6 +10949,7 @@
     "header": 0,
     "Paragraph": 16,
     "Gurmukhi": "nmo srb dysy ]",
+    "GurmukhiUni": "ਨਮੋ ਸਰਬ ਦੇਸੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -10731,6 +10991,7 @@
     "header": 0,
     "Paragraph": 16,
     "Gurmukhi": "nmo srb Bysy ]66]",
+    "GurmukhiUni": "ਨਮੋ ਸਰਬ ਭੇਸੇ ॥੬੬॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -10772,6 +11033,7 @@
     "header": 0,
     "Paragraph": 16,
     "Gurmukhi": "nmo rwj rwjy ]",
+    "GurmukhiUni": "ਨਮੋ ਰਾਜ ਰਾਜੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -10813,6 +11075,7 @@
     "header": 0,
     "Paragraph": 16,
     "Gurmukhi": "nmo swj swjy ]",
+    "GurmukhiUni": "ਨਮੋ ਸਾਜ ਸਾਜੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -10854,6 +11117,7 @@
     "header": 0,
     "Paragraph": 16,
     "Gurmukhi": "nmo Swh Swhy ]",
+    "GurmukhiUni": "ਨਮੋ ਸ਼ਾਹ ਸ਼ਾਹੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -10895,6 +11159,7 @@
     "header": 0,
     "Paragraph": 16,
     "Gurmukhi": "nmo mwh mwhy ]67]",
+    "GurmukhiUni": "ਨਮੋ ਮਾਹ ਮਾਹੇ ॥੬੭॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -10936,6 +11201,7 @@
     "header": 0,
     "Paragraph": 16,
     "Gurmukhi": "nmo gIq gIqy ]",
+    "GurmukhiUni": "ਨਮੋ ਗੀਤ ਗੀਤੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -10977,6 +11243,7 @@
     "header": 0,
     "Paragraph": 16,
     "Gurmukhi": "nmo pRIq pRIqy ]",
+    "GurmukhiUni": "ਨਮੋ ਪ੍ਰੀਤ ਪ੍ਰੀਤੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -11018,6 +11285,7 @@
     "header": 0,
     "Paragraph": 16,
     "Gurmukhi": "nmo roK roKy ]",
+    "GurmukhiUni": "ਨਮੋ ਰੋਖ ਰੋਖੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -11059,6 +11327,7 @@
     "header": 0,
     "Paragraph": 16,
     "Gurmukhi": "nmo soK soKy ]68]",
+    "GurmukhiUni": "ਨਮੋ ਸੋਖ ਸੋਖੇ ॥੬੮॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -11100,6 +11369,7 @@
     "header": 0,
     "Paragraph": 16,
     "Gurmukhi": "nmo srb rogy ]",
+    "GurmukhiUni": "ਨਮੋ ਸਰਬ ਰੋਗੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -11141,6 +11411,7 @@
     "header": 0,
     "Paragraph": 16,
     "Gurmukhi": "nmo srb Bogy ]",
+    "GurmukhiUni": "ਨਮੋ ਸਰਬ ਭੋਗੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -11182,6 +11453,7 @@
     "header": 0,
     "Paragraph": 16,
     "Gurmukhi": "nmo srb jIqM ]",
+    "GurmukhiUni": "ਨਮੋ ਸਰਬ ਜੀਤੰ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -11223,6 +11495,7 @@
     "header": 0,
     "Paragraph": 16,
     "Gurmukhi": "nmo srb BIqM ]69]",
+    "GurmukhiUni": "ਨਮੋ ਸਰਬ ਭੀਤੰ ॥੬੯॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -11264,6 +11537,7 @@
     "header": 0,
     "Paragraph": 16,
     "Gurmukhi": "nmo srb igAwnM ]",
+    "GurmukhiUni": "ਨਮੋ ਸਰਬ ਗਿਆਨੰ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -11305,6 +11579,7 @@
     "header": 0,
     "Paragraph": 16,
     "Gurmukhi": "nmo prm qwnM ]",
+    "GurmukhiUni": "ਨਮੋ ਪਰਮ ਤਾਨੰ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -11346,6 +11621,7 @@
     "header": 0,
     "Paragraph": 16,
     "Gurmukhi": "nmo srb mMqRM ]",
+    "GurmukhiUni": "ਨਮੋ ਸਰਬ ਮੰਤ੍ਰੰ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -11387,6 +11663,7 @@
     "header": 0,
     "Paragraph": 16,
     "Gurmukhi": "nmo srb jMqRM ]70]",
+    "GurmukhiUni": "ਨਮੋ ਸਰਬ ਜੰਤ੍ਰੰ ॥੭੦॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -11428,6 +11705,7 @@
     "header": 0,
     "Paragraph": 16,
     "Gurmukhi": "nmo srb idR`sM ]",
+    "GurmukhiUni": "ਨਮੋ ਸਰਬ ਦ੍ਰਿੱਸੰ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -11469,6 +11747,7 @@
     "header": 0,
     "Paragraph": 16,
     "Gurmukhi": "nmo srb ikR`sM ]",
+    "GurmukhiUni": "ਨਮੋ ਸਰਬ ਕ੍ਰਿੱਸੰ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -11510,6 +11789,7 @@
     "header": 0,
     "Paragraph": 16,
     "Gurmukhi": "nmo srb rMgy ]",
+    "GurmukhiUni": "ਨਮੋ ਸਰਬ ਰੰਗੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -11551,6 +11831,7 @@
     "header": 0,
     "Paragraph": 16,
     "Gurmukhi": "iqRBMgI AnMgy ]71]",
+    "GurmukhiUni": "ਤ੍ਰਿਭੰਗੀ ਅਨੰਗੇ ॥੭੧॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -11592,6 +11873,7 @@
     "header": 0,
     "Paragraph": 16,
     "Gurmukhi": "nmo jIv jIvM ]",
+    "GurmukhiUni": "ਨਮੋ ਜੀਵ ਜੀਵੰ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -11633,6 +11915,7 @@
     "header": 0,
     "Paragraph": 16,
     "Gurmukhi": "nmo bIj bIjy ]",
+    "GurmukhiUni": "ਨਮੋ ਬੀਜ ਬੀਜੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -11674,6 +11957,7 @@
     "header": 0,
     "Paragraph": 16,
     "Gurmukhi": "AiK`jy AiB`jy ]",
+    "GurmukhiUni": "ਅਖਿੱਜੇ ਅਭਿੱਜੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -11715,6 +11999,7 @@
     "header": 0,
     "Paragraph": 16,
     "Gurmukhi": "smsqM pRis`jy ]72]",
+    "GurmukhiUni": "ਸਮਸਤੰ ਪ੍ਰਸਿੱਜੇ ॥੭੨॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -11756,6 +12041,7 @@
     "header": 0,
     "Paragraph": 16,
     "Gurmukhi": "ikRpwlM srUpy ]",
+    "GurmukhiUni": "ਕ੍ਰਿਪਾਲੰ ਸਰੂਪੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -11797,6 +12083,7 @@
     "header": 0,
     "Paragraph": 16,
     "Gurmukhi": "kukrmM pRxwsI ]",
+    "GurmukhiUni": "ਕੁਕਰਮੰ ਪ੍ਰਣਾਸੀ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -11838,6 +12125,7 @@
     "header": 0,
     "Paragraph": 16,
     "Gurmukhi": "sdw srbdw iriD isDM invwsI ]73]",
+    "GurmukhiUni": "ਸਦਾ ਸਰਬਦਾ ਰਿਧਿ ਸਿਧੰ ਨਿਵਾਸੀ ॥੭੩॥",
     "Visraam": {
       "sttm": [],
       "igurbani": [],
@@ -11879,6 +12167,7 @@
     "header": 2,
     "Paragraph": 17,
     "Gurmukhi": "crpt CMd ] qÍ pRswid ]",
+    "GurmukhiUni": "ਚਰਪਟ ਛੰਦ ॥ ਤ੍ਵ ਪ੍ਰਸਾਦਿ ॥",
     "Visraam": {
       "sttm": [],
       "igurbani": [],
@@ -11920,6 +12209,7 @@
     "header": 0,
     "Paragraph": 18,
     "Gurmukhi": "AMimR`q krmy ]",
+    "GurmukhiUni": "ਅੰਮ੍ਰਿੱਤ ਕਰਮੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -11961,6 +12251,7 @@
     "header": 0,
     "Paragraph": 18,
     "Gurmukhi": "AMibRq Drmy ]",
+    "GurmukhiUni": "ਅੰਬ੍ਰਿਤ ਧਰਮੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -12002,6 +12293,7 @@
     "header": 0,
     "Paragraph": 18,
     "Gurmukhi": "AK`l jogy ]",
+    "GurmukhiUni": "ਅਖੱਲ ਜੋਗੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -12043,6 +12335,7 @@
     "header": 0,
     "Paragraph": 18,
     "Gurmukhi": "Ac`l Bogy ]74]",
+    "GurmukhiUni": "ਅਚੱਲ ਭੋਗੇ ॥੭੪॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -12084,6 +12377,7 @@
     "header": 0,
     "Paragraph": 18,
     "Gurmukhi": "Ac`l rwjy ]",
+    "GurmukhiUni": "ਅਚੱਲ ਰਾਜੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -12125,6 +12419,7 @@
     "header": 0,
     "Paragraph": 18,
     "Gurmukhi": "At`l swjy ]",
+    "GurmukhiUni": "ਅਟੱਲ ਸਾਜੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -12166,6 +12461,7 @@
     "header": 0,
     "Paragraph": 18,
     "Gurmukhi": "AK`l DrmM ]",
+    "GurmukhiUni": "ਅਖੱਲ ਧਰਮੰ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -12207,6 +12503,7 @@
     "header": 0,
     "Paragraph": 18,
     "Gurmukhi": "Al`K krmM ]75]",
+    "GurmukhiUni": "ਅਲੱਖ ਕਰਮੰ ॥੭੫॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -12248,6 +12545,7 @@
     "header": 0,
     "Paragraph": 18,
     "Gurmukhi": "srbM dwqw ]",
+    "GurmukhiUni": "ਸਰਬੰ ਦਾਤਾ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -12289,6 +12587,7 @@
     "header": 0,
     "Paragraph": 18,
     "Gurmukhi": "srbM igAwqw ]",
+    "GurmukhiUni": "ਸਰਬੰ ਗਿਆਤਾ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -12330,6 +12629,7 @@
     "header": 0,
     "Paragraph": 18,
     "Gurmukhi": "srbM Bwny ]",
+    "GurmukhiUni": "ਸਰਬੰ ਭਾਨੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -12371,6 +12671,7 @@
     "header": 0,
     "Paragraph": 18,
     "Gurmukhi": "srbM mwny ]76]",
+    "GurmukhiUni": "ਸਰਬੰ ਮਾਨੇ ॥੭੬॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -12412,6 +12713,7 @@
     "header": 0,
     "Paragraph": 18,
     "Gurmukhi": "srbM pRwxM ]",
+    "GurmukhiUni": "ਸਰਬੰ ਪ੍ਰਾਣੰ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -12453,6 +12755,7 @@
     "header": 0,
     "Paragraph": 18,
     "Gurmukhi": "srbM qRwxM ]",
+    "GurmukhiUni": "ਸਰਬੰ ਤ੍ਰਾਣੰ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -12494,6 +12797,7 @@
     "header": 0,
     "Paragraph": 18,
     "Gurmukhi": "srbM Bugqw ]",
+    "GurmukhiUni": "ਸਰਬੰ ਭੁਗਤਾ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -12535,6 +12839,7 @@
     "header": 0,
     "Paragraph": 18,
     "Gurmukhi": "srbM jugqw ]77]",
+    "GurmukhiUni": "ਸਰਬੰ ਜੁਗਤਾ ॥੭੭॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -12576,6 +12881,7 @@
     "header": 0,
     "Paragraph": 18,
     "Gurmukhi": "srbM dyvM ]",
+    "GurmukhiUni": "ਸਰਬੰ ਦੇਵੰ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -12617,6 +12923,7 @@
     "header": 0,
     "Paragraph": 18,
     "Gurmukhi": "srbM ByvM ]",
+    "GurmukhiUni": "ਸਰਬੰ ਭੇਵੰ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -12658,6 +12965,7 @@
     "header": 0,
     "Paragraph": 18,
     "Gurmukhi": "srbM kwly ]",
+    "GurmukhiUni": "ਸਰਬੰ ਕਾਲੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -12699,6 +13007,7 @@
     "header": 0,
     "Paragraph": 18,
     "Gurmukhi": "srbM pwly ]78]",
+    "GurmukhiUni": "ਸਰਬੰ ਪਾਲੇ ॥੭੮॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -12740,6 +13049,7 @@
     "header": 2,
     "Paragraph": 19,
     "Gurmukhi": "rUAwl CMd ] qÍ pRswid ]",
+    "GurmukhiUni": "ਰੂਆਲ ਛੰਦ ॥ ਤ੍ਵ ਪ੍ਰਸਾਦਿ ॥",
     "Visraam": {
       "sttm": [],
       "igurbani": [],
@@ -12781,6 +13091,7 @@
     "header": 0,
     "Paragraph": 20,
     "Gurmukhi": "Awid rUp Anwid mUriq Ajoin purK Apwr ]",
+    "GurmukhiUni": "ਆਦਿ ਰੂਪ ਅਨਾਦਿ ਮੂਰਤਿ ਅਜੋਨਿ ਪੁਰਖ ਅਪਾਰ ॥",
     "Visraam": {
       "sttm": [
         {
@@ -12831,6 +13142,7 @@
     "header": 0,
     "Paragraph": 20,
     "Gurmukhi": "srb mwn iqRmwn dyv AByv Awid audwr ]",
+    "GurmukhiUni": "ਸਰਬ ਮਾਨ ਤ੍ਰਿਮਾਨ ਦੇਵ ਅਭੇਵ ਆਦਿ ਉਦਾਰ ॥",
     "Visraam": {
       "sttm": [
         {
@@ -12881,6 +13193,7 @@
     "header": 0,
     "Paragraph": 20,
     "Gurmukhi": "srb pwlk srb Gwlk srb ko puin kwl ]",
+    "GurmukhiUni": "ਸਰਬ ਪਾਲਕ ਸਰਬ ਘਾਲਕ ਸਰਬ ਕੋ ਪੁਨਿ ਕਾਲ ॥",
     "Visraam": {
       "sttm": [
         {
@@ -12931,6 +13244,7 @@
     "header": 0,
     "Paragraph": 20,
     "Gurmukhi": "j`qR q`qR ibrwjhI AvDUq rUp irswl ]79]",
+    "GurmukhiUni": "ਜੱਤ੍ਰ ਤੱਤ੍ਰ ਬਿਰਾਜਹੀ ਅਵਧੂਤ ਰੂਪ ਰਿਸਾਲ ॥੭੯॥",
     "Visraam": {
       "sttm": [
         {
@@ -12977,6 +13291,7 @@
     "header": 0,
     "Paragraph": 20,
     "Gurmukhi": "nwm Twm n jwiq jwkr rUp rMg n ryK ]",
+    "GurmukhiUni": "ਨਾਮ ਠਾਮ ਨ ਜਾਤਿ ਜਾਕਰ ਰੂਪ ਰੰਗ ਨ ਰੇਖ ॥",
     "Visraam": {
       "sttm": [
         {
@@ -13023,6 +13338,7 @@
     "header": 0,
     "Paragraph": 20,
     "Gurmukhi": "Awid purK audwr mUriq Ajoin Awid AsyK ]",
+    "GurmukhiUni": "ਆਦਿ ਪੁਰਖ ਉਦਾਰ ਮੂਰਤਿ ਅਜੋਨਿ ਆਦਿ ਅਸੇਖ ॥",
     "Visraam": {
       "sttm": [
         {
@@ -13073,6 +13389,7 @@
     "header": 0,
     "Paragraph": 20,
     "Gurmukhi": "dys AOr n Bys jwkr rUp ryK n rwg ]",
+    "GurmukhiUni": "ਦੇਸ ਔਰ ਨ ਭੇਸ ਜਾਕਰ ਰੂਪ ਰੇਖ ਨ ਰਾਗ ॥",
     "Visraam": {
       "sttm": [
         {
@@ -13119,6 +13436,7 @@
     "header": 0,
     "Paragraph": 20,
     "Gurmukhi": "j`qR q`qR idsw ivsw huie PYilE Anurwg ]80]",
+    "GurmukhiUni": "ਜੱਤ੍ਰ ਤੱਤ੍ਰ ਦਿਸਾ ਵਿਸਾ ਹੁਇ ਫੈਲਿਓ ਅਨੁਰਾਗ ॥੮੦॥",
     "Visraam": {
       "sttm": [
         {
@@ -13165,6 +13483,7 @@
     "header": 0,
     "Paragraph": 20,
     "Gurmukhi": "nwm kwm ibhIn pyKq Dwm hUM nih jwih ]",
+    "GurmukhiUni": "ਨਾਮ ਕਾਮ ਬਿਹੀਨ ਪੇਖਤ ਧਾਮ ਹੂੰ ਨਹਿ ਜਾਹਿ ॥",
     "Visraam": {
       "sttm": [
         {
@@ -13211,6 +13530,7 @@
     "header": 0,
     "Paragraph": 20,
     "Gurmukhi": "srb mwn srb`qR mwn sdYv mwnq qwih ]",
+    "GurmukhiUni": "ਸਰਬ ਮਾਨ ਸਰਬੱਤ੍ਰ ਮਾਨ ਸਦੈਵ ਮਾਨਤ ਤਾਹਿ ॥",
     "Visraam": {
       "sttm": [
         {
@@ -13257,6 +13577,7 @@
     "header": 0,
     "Paragraph": 20,
     "Gurmukhi": "eyk mUriq Anyk drsn kIn rUp Anyk ]",
+    "GurmukhiUni": "ਏਕ ਮੂਰਤਿ ਅਨੇਕ ਦਰਸਨ ਕੀਨ ਰੂਪ ਅਨੇਕ ॥",
     "Visraam": {
       "sttm": [
         {
@@ -13307,6 +13628,7 @@
     "header": 0,
     "Paragraph": 20,
     "Gurmukhi": "Kyl Kyil AKyl Kyln AMq ko iPir eyk ]81]",
+    "GurmukhiUni": "ਖੇਲ ਖੇਲਿ ਅਖੇਲ ਖੇਲਨ ਅੰਤ ਕੋ ਫਿਰਿ ਏਕ ॥੮੧॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [
@@ -13353,6 +13675,7 @@
     "header": 0,
     "Paragraph": 20,
     "Gurmukhi": "dyv Byv n jwnhI ijh byd Aaur kqyb ]",
+    "GurmukhiUni": "ਦੇਵ ਭੇਵ ਨ ਜਾਨਹੀ ਜਿਹ ਬੇਦ ਅਉਰ ਕਤੇਬ ॥",
     "Visraam": {
       "sttm": [
         {
@@ -13399,6 +13722,7 @@
     "header": 0,
     "Paragraph": 20,
     "Gurmukhi": "rUp rMg n jwiq pwiq su jwneI ikˆh jyb ]",
+    "GurmukhiUni": "ਰੂਪ ਰੰਗ ਨ ਜਾਤਿ ਪਾਤਿ ਸੁ ਜਾਨਈ ਕਿਂਹ ਜੇਬ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [
@@ -13445,6 +13769,7 @@
     "header": 0,
     "Paragraph": 20,
     "Gurmukhi": "qwq mwq n jwq jwkr jnm mrn ibhIn ]",
+    "GurmukhiUni": "ਤਾਤ ਮਾਤ ਨ ਜਾਤ ਜਾਕਰ ਜਨਮ ਮਰਨ ਬਿਹੀਨ ॥",
     "Visraam": {
       "sttm": [
         {
@@ -13491,6 +13816,7 @@
     "header": 0,
     "Paragraph": 20,
     "Gurmukhi": "c`kR b`kR iPrY cqur c`k mwnhI pur qIn ]82]",
+    "GurmukhiUni": "ਚੱਕ੍ਰ ਬੱਕ੍ਰ ਫਿਰੈ ਚਤੁਰ ਚੱਕ ਮਾਨਹੀ ਪੁਰ ਤੀਨ ॥੮੨॥",
     "Visraam": {
       "sttm": [
         {
@@ -13537,6 +13863,7 @@
     "header": 0,
     "Paragraph": 20,
     "Gurmukhi": "lok caudh ky ibKY jg jwphI ijˆh jwp ]",
+    "GurmukhiUni": "ਲੋਕ ਚਉਦਹ ਕੇ ਬਿਖੈ ਜਗ ਜਾਪਹੀ ਜਿਂਹ ਜਾਪ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [
@@ -13583,6 +13910,7 @@
     "header": 0,
     "Paragraph": 20,
     "Gurmukhi": "Awid dyv Anwid mUriq QwipE sbY ijˆh Qwip ]",
+    "GurmukhiUni": "ਆਦਿ ਦੇਵ ਅਨਾਦਿ ਮੂਰਤਿ ਥਾਪਿਓ ਸਬੈ ਜਿਂਹ ਥਾਪਿ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [
@@ -13633,6 +13961,7 @@
     "header": 0,
     "Paragraph": 20,
     "Gurmukhi": "prm rUp punIq mUriq pUrn purK Apwr ]",
+    "GurmukhiUni": "ਪਰਮ ਰੂਪ ਪੁਨੀਤ ਮੂਰਤਿ ਪੂਰਨ ਪੁਰਖ ਅਪਾਰ ॥",
     "Visraam": {
       "sttm": [
         {
@@ -13683,6 +14012,7 @@
     "header": 0,
     "Paragraph": 20,
     "Gurmukhi": "srb ibsÍ ricE suXMBv gVn BMjnhwr ]83]",
+    "GurmukhiUni": "ਸਰਬ ਬਿਸ੍ਵ ਰਚਿਓ ਸੁਯੰਭਵ ਗੜਨ ਭੰਜਨਹਾਰ ॥੮੩॥",
     "Visraam": {
       "sttm": [
         {
@@ -13733,6 +14063,7 @@
     "header": 0,
     "Paragraph": 20,
     "Gurmukhi": "kwl hIn klw sMjugiq Akwl purK Adys ]",
+    "GurmukhiUni": "ਕਾਲ ਹੀਨ ਕਲਾ ਸੰਜੁਗਤਿ ਅਕਾਲ ਪੁਰਖ ਅਦੇਸ ॥",
     "Visraam": {
       "sttm": [
         {
@@ -13783,6 +14114,7 @@
     "header": 0,
     "Paragraph": 20,
     "Gurmukhi": "Drm Dwm su Brm rihq ABUq AlK ABys ]",
+    "GurmukhiUni": "ਧਰਮ ਧਾਮ ਸੁ ਭਰਮ ਰਹਿਤ ਅਭੂਤ ਅਲਖ ਅਭੇਸ ॥",
     "Visraam": {
       "sttm": [
         {
@@ -13841,6 +14173,7 @@
     "header": 0,
     "Paragraph": 20,
     "Gurmukhi": "AMg rwg n rMg jwkih jwiq pwiq n nwm ]",
+    "GurmukhiUni": "ਅੰਗ ਰਾਗ ਨ ਰੰਗ ਜਾਕਹਿ ਜਾਤਿ ਪਾਤਿ ਨ ਨਾਮ ॥",
     "Visraam": {
       "sttm": [
         {
@@ -13887,6 +14220,7 @@
     "header": 0,
     "Paragraph": 20,
     "Gurmukhi": "grb gMjn dust BMjn mukiq dwiek kwm ]84]",
+    "GurmukhiUni": "ਗਰਬ ਗੰਜਨ ਦੁਸਟ ਭੰਜਨ ਮੁਕਤਿ ਦਾਇਕ ਕਾਮ ॥੮੪॥",
     "Visraam": {
       "sttm": [
         {
@@ -13937,6 +14271,7 @@
     "header": 0,
     "Paragraph": 20,
     "Gurmukhi": "Awp rUp AmIk Anausqiq eyk purK AvDUq ]",
+    "GurmukhiUni": "ਆਪ ਰੂਪ ਅਮੀਕ ਅਨਉਸਤਤਿ ਏਕ ਪੁਰਖ ਅਵਧੂਤ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [
@@ -13991,6 +14326,7 @@
     "header": 0,
     "Paragraph": 20,
     "Gurmukhi": "grb gMjn srb BMjn Awid rUp AsUq ]",
+    "GurmukhiUni": "ਗਰਬ ਗੰਜਨ ਸਰਬ ਭੰਜਨ ਆਦਿ ਰੂਪ ਅਸੂਤ ॥",
     "Visraam": {
       "sttm": [
         {
@@ -14041,6 +14377,7 @@
     "header": 0,
     "Paragraph": 20,
     "Gurmukhi": "AMg hIn ABMg Anwqm eyk purK Apwr ]",
+    "GurmukhiUni": "ਅੰਗ ਹੀਨ ਅਭੰਗ ਅਨਾਤਮ ਏਕ ਪੁਰਖ ਅਪਾਰ ॥",
     "Visraam": {
       "sttm": [
         {
@@ -14095,6 +14432,7 @@
     "header": 0,
     "Paragraph": 20,
     "Gurmukhi": "srb lwiek srb Gwiek srb ko pRiqpwr ]85]",
+    "GurmukhiUni": "ਸਰਬ ਲਾਇਕ ਸਰਬ ਘਾਇਕ ਸਰਬ ਕੋ ਪ੍ਰਤਿਪਾਰ ॥੮੫॥",
     "Visraam": {
       "sttm": [
         {
@@ -14145,6 +14483,7 @@
     "header": 0,
     "Paragraph": 20,
     "Gurmukhi": "srb gMqw srb hMqw srb qy AnByK ]",
+    "GurmukhiUni": "ਸਰਬ ਗੰਤਾ ਸਰਬ ਹੰਤਾ ਸਰਬ ਤੇ ਅਨਭੇਖ ॥",
     "Visraam": {
       "sttm": [
         {
@@ -14195,6 +14534,7 @@
     "header": 0,
     "Paragraph": 20,
     "Gurmukhi": "srb swsqR n jwnhI ijˆh rUp rMgu Aru ryK ]",
+    "GurmukhiUni": "ਸਰਬ ਸਾਸਤ੍ਰ ਨ ਜਾਨਹੀ ਜਿਂਹ ਰੂਪ ਰੰਗੁ ਅਰੁ ਰੇਖ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [
@@ -14241,6 +14581,7 @@
     "header": 0,
     "Paragraph": 20,
     "Gurmukhi": "prm byd purwx jwkih nyiq BwKq in`q ]",
+    "GurmukhiUni": "ਪਰਮ ਬੇਦ ਪੁਰਾਣ ਜਾਕਹਿ ਨੇਤਿ ਭਾਖਤ ਨਿੱਤ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [
@@ -14291,6 +14632,7 @@
     "header": 0,
     "Paragraph": 20,
     "Gurmukhi": "koit isMimRq purwn swsqR n AwveI vhu ic`q ]86]",
+    "GurmukhiUni": "ਕੋਟਿ ਸਿੰਮ੍ਰਿਤ ਪੁਰਾਨ ਸਾਸਤ੍ਰ ਨ ਆਵਈ ਵਹੁ ਚਿੱਤ ॥੮੬॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [
@@ -14345,6 +14687,7 @@
     "header": 2,
     "Paragraph": 21,
     "Gurmukhi": "mDuBwr CMd ] qÍ pRswid ]",
+    "GurmukhiUni": "ਮਧੁਭਾਰ ਛੰਦ ॥ ਤ੍ਵ ਪ੍ਰਸਾਦਿ ॥",
     "Visraam": {
       "sttm": [],
       "igurbani": [],
@@ -14386,6 +14729,7 @@
     "header": 0,
     "Paragraph": 22,
     "Gurmukhi": "gun gn audwr ]",
+    "GurmukhiUni": "ਗੁਨ ਗਨ ਉਦਾਰ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -14427,6 +14771,7 @@
     "header": 0,
     "Paragraph": 22,
     "Gurmukhi": "mihmw Apwr ]",
+    "GurmukhiUni": "ਮਹਿਮਾ ਅਪਾਰ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -14468,6 +14813,7 @@
     "header": 0,
     "Paragraph": 22,
     "Gurmukhi": "Awsn ABMg ]",
+    "GurmukhiUni": "ਆਸਨ ਅਭੰਗ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -14509,6 +14855,7 @@
     "header": 0,
     "Paragraph": 22,
     "Gurmukhi": "aupmw AnMg ]87]",
+    "GurmukhiUni": "ਉਪਮਾ ਅਨੰਗ ॥੮੭॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -14550,6 +14897,7 @@
     "header": 0,
     "Paragraph": 22,
     "Gurmukhi": "AnBau pRkws ]",
+    "GurmukhiUni": "ਅਨਭਉ ਪ੍ਰਕਾਸ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -14591,6 +14939,7 @@
     "header": 0,
     "Paragraph": 22,
     "Gurmukhi": "ins idn Anws ]",
+    "GurmukhiUni": "ਨਿਸ ਦਿਨ ਅਨਾਸ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -14632,6 +14981,7 @@
     "header": 0,
     "Paragraph": 22,
     "Gurmukhi": "Awjwn bwhu ]",
+    "GurmukhiUni": "ਆਜਾਨ ਬਾਹੁ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -14673,6 +15023,7 @@
     "header": 0,
     "Paragraph": 22,
     "Gurmukhi": "swhwn swhu ]88]",
+    "GurmukhiUni": "ਸਾਹਾਨ ਸਾਹੁ ॥੮੮॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -14714,6 +15065,7 @@
     "header": 0,
     "Paragraph": 22,
     "Gurmukhi": "rwjwn rwj ]",
+    "GurmukhiUni": "ਰਾਜਾਨ ਰਾਜ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -14755,6 +15107,7 @@
     "header": 0,
     "Paragraph": 22,
     "Gurmukhi": "Bwnwn Bwn ]",
+    "GurmukhiUni": "ਭਾਨਾਨ ਭਾਨ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -14796,6 +15149,7 @@
     "header": 0,
     "Paragraph": 22,
     "Gurmukhi": "dyvwn dyv ]",
+    "GurmukhiUni": "ਦੇਵਾਨ ਦੇਵ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -14837,6 +15191,7 @@
     "header": 0,
     "Paragraph": 22,
     "Gurmukhi": "aupmw mhwn ]89]",
+    "GurmukhiUni": "ਉਪਮਾ ਮਹਾਨ ॥੮੯॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -14878,6 +15233,7 @@
     "header": 0,
     "Paragraph": 22,
     "Gurmukhi": "ieMdRwn ieMdR ]",
+    "GurmukhiUni": "ਇੰਦ੍ਰਾਨ ਇੰਦ੍ਰ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -14919,6 +15275,7 @@
     "header": 0,
     "Paragraph": 22,
     "Gurmukhi": "bwlwn bwl ]",
+    "GurmukhiUni": "ਬਾਲਾਨ ਬਾਲ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -14960,6 +15317,7 @@
     "header": 0,
     "Paragraph": 22,
     "Gurmukhi": "rMkwn rMk ]",
+    "GurmukhiUni": "ਰੰਕਾਨ ਰੰਕ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -15001,6 +15359,7 @@
     "header": 0,
     "Paragraph": 22,
     "Gurmukhi": "kwlwn kwl ]90]",
+    "GurmukhiUni": "ਕਾਲਾਨ ਕਾਲ ॥੯੦॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -15042,6 +15401,7 @@
     "header": 0,
     "Paragraph": 22,
     "Gurmukhi": "AnBUq AMg ]",
+    "GurmukhiUni": "ਅਨਭੂਤ ਅੰਗ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -15083,6 +15443,7 @@
     "header": 0,
     "Paragraph": 22,
     "Gurmukhi": "AwBw ABMg ]",
+    "GurmukhiUni": "ਆਭਾ ਅਭੰਗ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -15124,6 +15485,7 @@
     "header": 0,
     "Paragraph": 22,
     "Gurmukhi": "giq imiq Apwr ]",
+    "GurmukhiUni": "ਗਤਿ ਮਿਤਿ ਅਪਾਰ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -15165,6 +15527,7 @@
     "header": 0,
     "Paragraph": 22,
     "Gurmukhi": "gun gn audwr ]91]",
+    "GurmukhiUni": "ਗੁਨ ਗਨ ਉਦਾਰ ॥੯੧॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -15206,6 +15569,7 @@
     "header": 0,
     "Paragraph": 22,
     "Gurmukhi": "muin gn pRnwm ]",
+    "GurmukhiUni": "ਮੁਨਿ ਗਨ ਪ੍ਰਨਾਮ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -15247,6 +15611,7 @@
     "header": 0,
     "Paragraph": 22,
     "Gurmukhi": "inrBY inRkwm ]",
+    "GurmukhiUni": "ਨਿਰਭੈ ਨ੍ਰਿਕਾਮ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -15288,6 +15653,7 @@
     "header": 0,
     "Paragraph": 22,
     "Gurmukhi": "Aiq duiq pRcMf ]",
+    "GurmukhiUni": "ਅਤਿ ਦੁਤਿ ਪ੍ਰਚੰਡ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -15329,6 +15695,7 @@
     "header": 0,
     "Paragraph": 22,
     "Gurmukhi": "imiq giq AKMf ]92]",
+    "GurmukhiUni": "ਮਿਤਿ ਗਤਿ ਅਖੰਡ ॥੯੨॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -15370,6 +15737,7 @@
     "header": 0,
     "Paragraph": 22,
     "Gurmukhi": "AwilsÎ krm ]",
+    "GurmukhiUni": "ਆਲਿਸ੍ਯ ਕਰਮ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -15411,6 +15779,7 @@
     "header": 0,
     "Paragraph": 22,
     "Gurmukhi": "AwidRsÎ Drm ]",
+    "GurmukhiUni": "ਆਦ੍ਰਿਸ੍ਯ ਧਰਮ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -15452,6 +15821,7 @@
     "header": 0,
     "Paragraph": 22,
     "Gurmukhi": "srbw BrxwFÎ ]",
+    "GurmukhiUni": "ਸਰਬਾ ਭਰਣਾਢ੍ਯ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -15493,6 +15863,7 @@
     "header": 0,
     "Paragraph": 22,
     "Gurmukhi": "AnfMf bwFÎ ]93]",
+    "GurmukhiUni": "ਅਨਡੰਡ ਬਾਢ੍ਯ ॥੯੩॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -15534,6 +15905,7 @@
     "header": 2,
     "Paragraph": 23,
     "Gurmukhi": "cwcrI CMd ] qÍ pRswid ]",
+    "GurmukhiUni": "ਚਾਚਰੀ ਛੰਦ ॥ ਤ੍ਵ ਪ੍ਰਸਾਦਿ ॥",
     "Visraam": {
       "sttm": [],
       "igurbani": [],
@@ -15575,6 +15947,7 @@
     "header": 0,
     "Paragraph": 24,
     "Gurmukhi": "guibMdy ]",
+    "GurmukhiUni": "ਗੁਬਿੰਦੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -15616,6 +15989,7 @@
     "header": 0,
     "Paragraph": 24,
     "Gurmukhi": "mukMdy ]",
+    "GurmukhiUni": "ਮੁਕੰਦੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -15657,6 +16031,7 @@
     "header": 0,
     "Paragraph": 24,
     "Gurmukhi": "audwry ]",
+    "GurmukhiUni": "ਉਦਾਰੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -15698,6 +16073,7 @@
     "header": 0,
     "Paragraph": 24,
     "Gurmukhi": "Apwry ]94]",
+    "GurmukhiUni": "ਅਪਾਰੇ ॥੯੪॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -15739,6 +16115,7 @@
     "header": 0,
     "Paragraph": 24,
     "Gurmukhi": "hrIAM ]",
+    "GurmukhiUni": "ਹਰੀਅੰ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -15780,6 +16157,7 @@
     "header": 0,
     "Paragraph": 24,
     "Gurmukhi": "krIAM ]",
+    "GurmukhiUni": "ਕਰੀਅੰ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -15821,6 +16199,7 @@
     "header": 0,
     "Paragraph": 24,
     "Gurmukhi": "inRnwmy ]",
+    "GurmukhiUni": "ਨ੍ਰਿਨਾਮੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -15862,6 +16241,7 @@
     "header": 0,
     "Paragraph": 24,
     "Gurmukhi": "Akwmy ]95]",
+    "GurmukhiUni": "ਅਕਾਮੇ ॥੯੫॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -15903,6 +16283,7 @@
     "header": 2,
     "Paragraph": 25,
     "Gurmukhi": "BujMg pRXwq CMd ]",
+    "GurmukhiUni": "ਭੁਜੰਗ ਪ੍ਰਯਾਤ ਛੰਦ ॥",
     "Visraam": {
       "sttm": [],
       "igurbani": [],
@@ -15944,6 +16325,7 @@
     "header": 0,
     "Paragraph": 26,
     "Gurmukhi": "c`qRü c`kR krqw ]",
+    "GurmukhiUni": "ਚੱਤ੍ਰੁ ਚੱਕ੍ਰ ਕਰਤਾ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -15985,6 +16367,7 @@
     "header": 0,
     "Paragraph": 26,
     "Gurmukhi": "c`qRü c`kR hrqw ]",
+    "GurmukhiUni": "ਚੱਤ੍ਰੁ ਚੱਕ੍ਰ ਹਰਤਾ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -16026,6 +16409,7 @@
     "header": 0,
     "Paragraph": 26,
     "Gurmukhi": "c`qRü c`kR dwny ]",
+    "GurmukhiUni": "ਚੱਤ੍ਰੁ ਚੱਕ੍ਰ ਦਾਨੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -16067,6 +16451,7 @@
     "header": 0,
     "Paragraph": 26,
     "Gurmukhi": "c`qRü c`kR jwny ]96]",
+    "GurmukhiUni": "ਚੱਤ੍ਰੁ ਚੱਕ੍ਰ ਜਾਨੇ ॥੯੬॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -16108,6 +16493,7 @@
     "header": 0,
     "Paragraph": 26,
     "Gurmukhi": "c`qüR c`kR vrqI ]",
+    "GurmukhiUni": "ਚੱਤੁ੍ਰ ਚੱਕ੍ਰ ਵਰਤੀ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -16149,6 +16535,7 @@
     "header": 0,
     "Paragraph": 26,
     "Gurmukhi": "c`qüR c`kR BrqI ]",
+    "GurmukhiUni": "ਚੱਤੁ੍ਰ ਚੱਕ੍ਰ ਭਰਤੀ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -16190,6 +16577,7 @@
     "header": 0,
     "Paragraph": 26,
     "Gurmukhi": "c`qüR c`kR pwly ]",
+    "GurmukhiUni": "ਚੱਤੁ੍ਰ ਚੱਕ੍ਰ ਪਾਲੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -16231,6 +16619,7 @@
     "header": 0,
     "Paragraph": 26,
     "Gurmukhi": "c`qüR c`kR kwly ]97]",
+    "GurmukhiUni": "ਚੱਤੁ੍ਰ ਚੱਕ੍ਰ ਕਾਲੇ ॥੯੭॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -16272,6 +16661,7 @@
     "header": 0,
     "Paragraph": 26,
     "Gurmukhi": "c`qüR c`kR pwsy ]",
+    "GurmukhiUni": "ਚੱਤੁ੍ਰ ਚੱਕ੍ਰ ਪਾਸੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -16313,6 +16703,7 @@
     "header": 0,
     "Paragraph": 26,
     "Gurmukhi": "c`qüR c`kR vwsy ]",
+    "GurmukhiUni": "ਚੱਤੁ੍ਰ ਚੱਕ੍ਰ ਵਾਸੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -16354,6 +16745,7 @@
     "header": 0,
     "Paragraph": 26,
     "Gurmukhi": "c`qüR c`kR mwnÎY ]",
+    "GurmukhiUni": "ਚੱਤੁ੍ਰ ਚੱਕ੍ਰ ਮਾਨ੍ਯੈ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -16395,6 +16787,7 @@
     "header": 0,
     "Paragraph": 26,
     "Gurmukhi": "c`qRü c`kR dwnÎY ]98]",
+    "GurmukhiUni": "ਚੱਤ੍ਰੁ ਚੱਕ੍ਰ ਦਾਨ੍ਯੈ ॥੯੮॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -16436,6 +16829,7 @@
     "header": 2,
     "Paragraph": 27,
     "Gurmukhi": "cwcrI CMd ]",
+    "GurmukhiUni": "ਚਾਚਰੀ ਛੰਦ ॥",
     "Visraam": {
       "sttm": [],
       "igurbani": [],
@@ -16477,6 +16871,7 @@
     "header": 0,
     "Paragraph": 28,
     "Gurmukhi": "n s`qRY ]",
+    "GurmukhiUni": "ਨ ਸੱਤ੍ਰੈ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -16518,6 +16913,7 @@
     "header": 0,
     "Paragraph": 28,
     "Gurmukhi": "n im`qRY ]",
+    "GurmukhiUni": "ਨ ਮਿੱਤ੍ਰੈ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -16559,6 +16955,7 @@
     "header": 0,
     "Paragraph": 28,
     "Gurmukhi": "n BrmM ]",
+    "GurmukhiUni": "ਨ ਭਰਮੰ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -16600,6 +16997,7 @@
     "header": 0,
     "Paragraph": 28,
     "Gurmukhi": "n iB`qRY ]99]",
+    "GurmukhiUni": "ਨ ਭਿੱਤ੍ਰੈ ॥੯੯॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -16641,6 +17039,7 @@
     "header": 0,
     "Paragraph": 28,
     "Gurmukhi": "n krmM ]",
+    "GurmukhiUni": "ਨ ਕਰਮੰ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -16682,6 +17081,7 @@
     "header": 0,
     "Paragraph": 28,
     "Gurmukhi": "n kwey ]",
+    "GurmukhiUni": "ਨ ਕਾਏ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -16723,6 +17123,7 @@
     "header": 0,
     "Paragraph": 28,
     "Gurmukhi": "AjnmM ]",
+    "GurmukhiUni": "ਅਜਨਮੰ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -16764,6 +17165,7 @@
     "header": 0,
     "Paragraph": 28,
     "Gurmukhi": "Ajwey ]100]",
+    "GurmukhiUni": "ਅਜਾਏ ॥੧੦੦॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -16805,6 +17207,7 @@
     "header": 0,
     "Paragraph": 28,
     "Gurmukhi": "n ic`qRY ]",
+    "GurmukhiUni": "ਨ ਚਿੱਤ੍ਰੈ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -16846,6 +17249,7 @@
     "header": 0,
     "Paragraph": 28,
     "Gurmukhi": "n im`qRY ]",
+    "GurmukhiUni": "ਨ ਮਿੱਤ੍ਰੈ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -16887,6 +17291,7 @@
     "header": 0,
     "Paragraph": 28,
     "Gurmukhi": "pry hYN ]",
+    "GurmukhiUni": "ਪਰੇ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -16928,6 +17333,7 @@
     "header": 0,
     "Paragraph": 28,
     "Gurmukhi": "piv`qRY ]101]",
+    "GurmukhiUni": "ਪਵਿੱਤ੍ਰੈ ॥੧੦੧॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -16969,6 +17375,7 @@
     "header": 0,
     "Paragraph": 28,
     "Gurmukhi": "ipRQIsY ]",
+    "GurmukhiUni": "ਪ੍ਰਿਥੀਸੈ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -17010,6 +17417,7 @@
     "header": 0,
     "Paragraph": 28,
     "Gurmukhi": "AdIsY ]",
+    "GurmukhiUni": "ਅਦੀਸੈ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -17051,6 +17459,7 @@
     "header": 0,
     "Paragraph": 28,
     "Gurmukhi": "AidRsY ]",
+    "GurmukhiUni": "ਅਦ੍ਰਿਸੈ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -17092,6 +17501,7 @@
     "header": 0,
     "Paragraph": 28,
     "Gurmukhi": "AikRsY ]102]",
+    "GurmukhiUni": "ਅਕ੍ਰਿਸੈ ॥੧੦੨॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -17133,6 +17543,7 @@
     "header": 2,
     "Paragraph": 29,
     "Gurmukhi": "BgvqI CMd ] qÍ pRswid kQqy ]",
+    "GurmukhiUni": "ਭਗਵਤੀ ਛੰਦ ॥ ਤ੍ਵ ਪ੍ਰਸਾਦਿ ਕਥਤੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -17174,6 +17585,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik AwiC`j dysY ]",
+    "GurmukhiUni": "ਕਿ ਆਛਿੱਜ ਦੇਸੈ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -17215,6 +17627,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik AwiB`j BysY ]",
+    "GurmukhiUni": "ਕਿ ਆਭਿੱਜ ਭੇਸੈ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -17256,6 +17669,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik AwgMj krmY ]",
+    "GurmukhiUni": "ਕਿ ਆਗੰਜ ਕਰਮੈ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -17297,6 +17711,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik AwBMj BrmY ]103]",
+    "GurmukhiUni": "ਕਿ ਆਭੰਜ ਭਰਮੈ ॥੧੦੩॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -17338,6 +17753,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik AwiBj lokY ]",
+    "GurmukhiUni": "ਕਿ ਆਭਿਜ ਲੋਕੈ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -17379,6 +17795,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik Awidq sokY ]",
+    "GurmukhiUni": "ਕਿ ਆਦਿਤ ਸੋਕੈ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -17420,6 +17837,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik AvDUq brnY ]",
+    "GurmukhiUni": "ਕਿ ਅਵਧੂਤ ਬਰਨੈ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -17461,6 +17879,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik ibBUq krnY ]104]",
+    "GurmukhiUni": "ਕਿ ਬਿਭੂਤ ਕਰਨੈ ॥੧੦੪॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -17502,6 +17921,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik rwjM pRBw hYN ]",
+    "GurmukhiUni": "ਕਿ ਰਾਜੰ ਪ੍ਰਭਾ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -17543,6 +17963,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik DrmM Dujw hYN ]",
+    "GurmukhiUni": "ਕਿ ਧਰਮੰ ਧੁਜਾ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -17584,6 +18005,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik Awsok brnY ]",
+    "GurmukhiUni": "ਕਿ ਆਸੋਕ ਬਰਨੈ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -17625,6 +18047,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik srbw ABrnY ]105]",
+    "GurmukhiUni": "ਕਿ ਸਰਬਾ ਅਭਰਨੈ ॥੧੦੫॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -17666,6 +18089,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik jgqM ikRqI hYN ]",
+    "GurmukhiUni": "ਕਿ ਜਗਤੰ ਕ੍ਰਿਤੀ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -17707,6 +18131,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik CqRM CqRI hYN ]",
+    "GurmukhiUni": "ਕਿ ਛਤ੍ਰੰ ਛਤ੍ਰੀ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -17748,6 +18173,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik bRhmM srUpY ]",
+    "GurmukhiUni": "ਕਿ ਬ੍ਰਹਮੰ ਸਰੂਪੈ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -17789,6 +18215,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik AnBau AnUpY ]106]",
+    "GurmukhiUni": "ਕਿ ਅਨਭਉ ਅਨੂਪੈ ॥੧੦੬॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -17830,6 +18257,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik Awid Adyv hYN ]",
+    "GurmukhiUni": "ਕਿ ਆਦਿ ਅਦੇਵ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -17871,6 +18299,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik Awip AByv hYN ]",
+    "GurmukhiUni": "ਕਿ ਆਪਿ ਅਭੇਵ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -17912,6 +18341,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik ic`qRM ibhInY ]",
+    "GurmukhiUni": "ਕਿ ਚਿੱਤ੍ਰੰ ਬਿਹੀਨੈ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -17953,6 +18383,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik eykY ADInY ]107]",
+    "GurmukhiUni": "ਕਿ ਏਕੈ ਅਧੀਨੈ ॥੧੦੭॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -17994,6 +18425,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik rozI rzwkY ]",
+    "GurmukhiUni": "ਕਿ ਰੋਜ਼ੀ ਰਜ਼ਾਕੈ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -18035,6 +18467,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "rhImY irhwkY ]",
+    "GurmukhiUni": "ਰਹੀਮੈ ਰਿਹਾਕੈ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -18076,6 +18509,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik pwk ibAYb hYN ]",
+    "GurmukhiUni": "ਕਿ ਪਾਕ ਬਿਐਬ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -18117,6 +18551,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik gYbul ZYb hYN ]108]",
+    "GurmukhiUni": "ਕਿ ਗੈਬੁਲ ਗ਼ੈਬ ਹੈਂ ॥੧੦੮॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -18158,6 +18593,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik APvul gunwh hYN ]",
+    "GurmukhiUni": "ਕਿ ਅਫਵੁਲ ਗੁਨਾਹ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -18199,6 +18635,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik Swhwn Swh hYN ]",
+    "GurmukhiUni": "ਕਿ ਸ਼ਾਹਾਨ ਸ਼ਾਹ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -18240,6 +18677,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik kwrn kuinMd hYN ]",
+    "GurmukhiUni": "ਕਿ ਕਾਰਨ ਕੁਨਿੰਦ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -18281,6 +18719,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik rozI idhMd hYN ]109]",
+    "GurmukhiUni": "ਕਿ ਰੋਜ਼ੀ ਦਿਹੰਦ ਹੈਂ ॥੧੦੯॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -18322,6 +18761,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik rwzk rhIm hYN ]",
+    "GurmukhiUni": "ਕਿ ਰਾਜ਼ਕ ਰਹੀਮ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -18363,6 +18803,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik krmM krIm hYN ]",
+    "GurmukhiUni": "ਕਿ ਕਰਮੰ ਕਰੀਮ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -18404,6 +18845,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik srbM klI hYN ]",
+    "GurmukhiUni": "ਕਿ ਸਰਬੰ ਕਲੀ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -18445,6 +18887,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik srbM dlI hYN ]110]",
+    "GurmukhiUni": "ਕਿ ਸਰਬੰ ਦਲੀ ਹੈਂ ॥੧੧੦॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -18486,6 +18929,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik srb`qR mwinXY ]",
+    "GurmukhiUni": "ਕਿ ਸਰਬੱਤ੍ਰ ਮਾਨਿਯੈ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -18527,6 +18971,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik srb`qR dwinXY ]",
+    "GurmukhiUni": "ਕਿ ਸਰਬੱਤ੍ਰ ਦਾਨਿਯੈ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -18568,6 +19013,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik srb`qR gaunY ]",
+    "GurmukhiUni": "ਕਿ ਸਰਬੱਤ੍ਰ ਗਉਨੈ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -18609,6 +19055,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik srb`qR BaunY ]111]",
+    "GurmukhiUni": "ਕਿ ਸਰਬੱਤ੍ਰ ਭਉਨੈ ॥੧੧੧॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -18650,6 +19097,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik srb`qR dysY ]",
+    "GurmukhiUni": "ਕਿ ਸਰਬੱਤ੍ਰ ਦੇਸੈ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -18691,6 +19139,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik srb`qR BysY ]",
+    "GurmukhiUni": "ਕਿ ਸਰਬੱਤ੍ਰ ਭੇਸੈ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -18732,6 +19181,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik srb`qR rwjY ]",
+    "GurmukhiUni": "ਕਿ ਸਰਬੱਤ੍ਰ ਰਾਜੈ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -18773,6 +19223,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik srb`qR swjY ]112]",
+    "GurmukhiUni": "ਕਿ ਸਰਬੱਤ੍ਰ ਸਾਜੈ ॥੧੧੨॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -18814,6 +19265,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik srb`qR dInY ]",
+    "GurmukhiUni": "ਕਿ ਸਰਬੱਤ੍ਰ ਦੀਨੈ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -18855,6 +19307,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik srb`qR lInY ]",
+    "GurmukhiUni": "ਕਿ ਸਰਬੱਤ੍ਰ ਲੀਨੈ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -18896,6 +19349,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik srb`qR jwho ]",
+    "GurmukhiUni": "ਕਿ ਸਰਬੱਤ੍ਰ ਜਾਹੋ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -18937,6 +19391,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik srb`qR Bwho ]113]",
+    "GurmukhiUni": "ਕਿ ਸਰਬੱਤ੍ਰ ਭਾਹੋ ॥੧੧੩॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -18978,6 +19433,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik srb`qR dysY ]",
+    "GurmukhiUni": "ਕਿ ਸਰਬੱਤ੍ਰ ਦੇਸੈ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -19019,6 +19475,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik srb`qR BysY ]",
+    "GurmukhiUni": "ਕਿ ਸਰਬੱਤ੍ਰ ਭੇਸੈ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -19060,6 +19517,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik srb`qR kwlY ]",
+    "GurmukhiUni": "ਕਿ ਸਰਬੱਤ੍ਰ ਕਾਲੈ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -19101,6 +19559,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik srb`qR pwlY ]114]",
+    "GurmukhiUni": "ਕਿ ਸਰਬੱਤ੍ਰ ਪਾਲੈ ॥੧੧੪॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -19142,6 +19601,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik srb`qR hMqw ]",
+    "GurmukhiUni": "ਕਿ ਸਰਬੱਤ੍ਰ ਹੰਤਾ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -19183,6 +19643,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik srb`qR gMqw ]",
+    "GurmukhiUni": "ਕਿ ਸਰਬੱਤ੍ਰ ਗੰਤਾ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -19224,6 +19685,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik srb`qR ByKI ]",
+    "GurmukhiUni": "ਕਿ ਸਰਬੱਤ੍ਰ ਭੇਖੀ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -19265,6 +19727,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik srb`qR pyKI ]115]",
+    "GurmukhiUni": "ਕਿ ਸਰਬੱਤ੍ਰ ਪੇਖੀ ॥੧੧੫॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -19306,6 +19769,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik srb`qR kwjY ]",
+    "GurmukhiUni": "ਕਿ ਸਰਬੱਤ੍ਰ ਕਾਜੈ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -19347,6 +19811,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik srb`qR rwjY ]",
+    "GurmukhiUni": "ਕਿ ਸਰਬੱਤ੍ਰ ਰਾਜੈ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -19388,6 +19853,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik srb`qR soKY ]",
+    "GurmukhiUni": "ਕਿ ਸਰਬੱਤ੍ਰ ਸੋਖੈ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -19429,6 +19895,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik srb`qR poKY ]116]",
+    "GurmukhiUni": "ਕਿ ਸਰਬੱਤ੍ਰ ਪੋਖੈ ॥੧੧੬॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -19470,6 +19937,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik srb`qR qRwxY ]",
+    "GurmukhiUni": "ਕਿ ਸਰਬੱਤ੍ਰ ਤ੍ਰਾਣੈ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -19511,6 +19979,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik srb`qR pRwxY ]",
+    "GurmukhiUni": "ਕਿ ਸਰਬੱਤ੍ਰ ਪ੍ਰਾਣੈ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -19552,6 +20021,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik srb`qR dysY ]",
+    "GurmukhiUni": "ਕਿ ਸਰਬੱਤ੍ਰ ਦੇਸੈ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -19593,6 +20063,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik srb`qR BysY ]117]",
+    "GurmukhiUni": "ਕਿ ਸਰਬੱਤ੍ਰ ਭੇਸੈ ॥੧੧੭॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -19634,6 +20105,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik srb`qR mwinXYN ]",
+    "GurmukhiUni": "ਕਿ ਸਰਬੱਤ੍ਰ ਮਾਨਿਯੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -19675,6 +20147,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "sdYvM pRDwinXYN ]",
+    "GurmukhiUni": "ਸਦੈਵੰ ਪ੍ਰਧਾਨਿਯੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -19716,6 +20189,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik srb`qR jwipXY ]",
+    "GurmukhiUni": "ਕਿ ਸਰਬੱਤ੍ਰ ਜਾਪਿਯੈ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -19757,6 +20231,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik srb`qR QwipXY ]118]",
+    "GurmukhiUni": "ਕਿ ਸਰਬੱਤ੍ਰ ਥਾਪਿਯੈ ॥੧੧੮॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -19798,6 +20273,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik srb`qR BwnY ]",
+    "GurmukhiUni": "ਕਿ ਸਰਬੱਤ੍ਰ ਭਾਨੈ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -19839,6 +20315,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik srb`qR mwnY ]",
+    "GurmukhiUni": "ਕਿ ਸਰਬੱਤ੍ਰ ਮਾਨੈ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -19880,6 +20357,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik srb`qR ieMdRY ]",
+    "GurmukhiUni": "ਕਿ ਸਰਬੱਤ੍ਰ ਇੰਦ੍ਰੈ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -19921,6 +20399,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik srb`qR cMdRY ]119]",
+    "GurmukhiUni": "ਕਿ ਸਰਬੱਤ੍ਰ ਚੰਦ੍ਰੈ ॥੧੧੯॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -19962,6 +20441,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik srbM klImY ]",
+    "GurmukhiUni": "ਕਿ ਸਰਬੰ ਕਲੀਮੈ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -20003,6 +20483,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik prmM &hImY ]",
+    "GurmukhiUni": "ਕਿ ਪਰਮੰ ਫ਼ਹੀਮੈ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -20044,6 +20525,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik Awkl AlwmY ]",
+    "GurmukhiUni": "ਕਿ ਆਕਲ ਅਲਾਮੈ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -20085,6 +20567,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik swihb klwmY ]120]",
+    "GurmukhiUni": "ਕਿ ਸਾਹਿਬ ਕਲਾਮੈ ॥੧੨੦॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -20126,6 +20609,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik husnl vjU hYN ]",
+    "GurmukhiUni": "ਕਿ ਹੁਸਨਲ ਵਜੂ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -20167,6 +20651,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "qmwmul rujU hYN ]",
+    "GurmukhiUni": "ਤਮਾਮੁਲ ਰੁਜੂ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -20208,6 +20693,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "hmysul slwmYN ]",
+    "GurmukhiUni": "ਹਮੇਸੁਲ ਸਲਾਮੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -20249,6 +20735,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "slIKq mudwmYN ]121]",
+    "GurmukhiUni": "ਸਲੀਖਤ ਮੁਦਾਮੈਂ ॥੧੨੧॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -20290,6 +20777,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ZnImul iSksqY ]",
+    "GurmukhiUni": "ਗ਼ਨੀਮੁਲ ਸ਼ਿਕਸਤੈ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -20331,6 +20819,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ZrIbul prsqY ]",
+    "GurmukhiUni": "ਗ਼ਰੀਬੁਲ ਪਰਸਤੈ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -20372,6 +20861,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "iblMdul mkwnYN ]",
+    "GurmukhiUni": "ਬਿਲੰਦੁਲ ਮਕਾਨੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -20413,6 +20903,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "zmInl zmwnYN ]122]",
+    "GurmukhiUni": "ਜ਼ਮੀਨਲ ਜ਼ਮਾਨੈਂ ॥੧੨੨॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -20454,6 +20945,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "qmIzul qmwmYN ]",
+    "GurmukhiUni": "ਤਮੀਜ਼ੁਲ ਤਮਾਮੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -20495,6 +20987,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "rujUAl inDwnYN ]",
+    "GurmukhiUni": "ਰੁਜੂਅਲ ਨਿਧਾਨੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -20536,6 +21029,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "hrIPul AjImYN ]",
+    "GurmukhiUni": "ਹਰੀਫੁਲ ਅਜੀਮੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -20577,6 +21071,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "rzwiek XkInYN ]123]",
+    "GurmukhiUni": "ਰਜ਼ਾਇਕ ਯਕੀਨੈਂ ॥੧੨੩॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -20618,6 +21113,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "Anykul qrMg hYN ]",
+    "GurmukhiUni": "ਅਨੇਕੁਲ ਤਰੰਗ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -20659,6 +21155,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "AByd hYN ABMg hYN ]",
+    "GurmukhiUni": "ਅਭੇਦ ਹੈਂ ਅਭੰਗ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -20700,6 +21197,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "AzIzul invwz hYN ]",
+    "GurmukhiUni": "ਅਜ਼ੀਜ਼ੁਲ ਨਿਵਾਜ਼ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -20741,6 +21239,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ZnImul i^rwj hYN ]124]",
+    "GurmukhiUni": "ਗ਼ਨੀਮੁਲ ਖ਼ਿਰਾਜ ਹੈਂ ॥੧੨੪॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -20782,6 +21281,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "inrukq srUp hYN ]",
+    "GurmukhiUni": "ਨਿਰੁਕਤ ਸਰੂਪ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -20823,6 +21323,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "iqRmukiq ibBUiq hYN ]",
+    "GurmukhiUni": "ਤ੍ਰਿਮੁਕਤਿ ਬਿਭੂਤਿ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -20864,6 +21365,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "pRBugiq pRBw hYN ]",
+    "GurmukhiUni": "ਪ੍ਰਭੁਗਤਿ ਪ੍ਰਭਾ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -20905,6 +21407,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "su jugiq suDw hYN ]125]",
+    "GurmukhiUni": "ਸੁ ਜੁਗਤਿ ਸੁਧਾ ਹੈਂ ॥੧੨੫॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -20946,6 +21449,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "sdYvM srUp hYN ]",
+    "GurmukhiUni": "ਸਦੈਵੰ ਸਰੂਪ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -20987,6 +21491,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ABydI AnUp hYN ]",
+    "GurmukhiUni": "ਅਭੇਦੀ ਅਨੂਪ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -21028,6 +21533,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "smsqoprwj hYN ]",
+    "GurmukhiUni": "ਸਮਸਤੋਪਰਾਜ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -21069,6 +21575,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "sdw srb swj hYN ]126]",
+    "GurmukhiUni": "ਸਦਾ ਸਰਬ ਸਾਜ ਹੈਂ ॥੧੨੬॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -21110,6 +21617,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "smsqul slwm hYN ]",
+    "GurmukhiUni": "ਸਮਸਤੁਲ ਸਲਾਮ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -21151,6 +21659,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "sdYvl Akwm hYN ]",
+    "GurmukhiUni": "ਸਦੈਵਲ ਅਕਾਮ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -21192,6 +21701,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "inRbwD srUp hYN ]",
+    "GurmukhiUni": "ਨ੍ਰਿਬਾਧ ਸਰੂਪ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -21233,6 +21743,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "AgwD hYN AnUp hYN ]127]",
+    "GurmukhiUni": "ਅਗਾਧ ਹੈਂ ਅਨੂਪ ਹੈਂ ॥੧੨੭॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -21274,6 +21785,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "EAM Awid rUpy ]",
+    "GurmukhiUni": "ਓਅੰ ਆਦਿ ਰੂਪੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -21315,6 +21827,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "Anwid srUpy ]",
+    "GurmukhiUni": "ਅਨਾਦਿ ਸਰੂਪੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -21356,6 +21869,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "AnMgI Anwmy ]",
+    "GurmukhiUni": "ਅਨੰਗੀ ਅਨਾਮੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -21397,6 +21911,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "iqRBMgI iqRkwmy ]128]",
+    "GurmukhiUni": "ਤ੍ਰਿਭੰਗੀ ਤ੍ਰਿਕਾਮੇ ॥੧੨੮॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -21438,6 +21953,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "iqRbrgM iqRbwDy ]",
+    "GurmukhiUni": "ਤ੍ਰਿਬਰਗੰ ਤ੍ਰਿਬਾਧੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -21479,6 +21995,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "AgMjy AgwDy ]",
+    "GurmukhiUni": "ਅਗੰਜੇ ਅਗਾਧੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -21520,6 +22037,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "suBM srb Bwgy ]",
+    "GurmukhiUni": "ਸੁਭੰ ਸਰਬ ਭਾਗੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -21561,6 +22079,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "su srbw Anurwgy ]129]",
+    "GurmukhiUni": "ਸੁ ਸਰਬਾ ਅਨੁਰਾਗੇ ॥੧੨੯॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -21602,6 +22121,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "iqRBugq srUp hYN ]",
+    "GurmukhiUni": "ਤ੍ਰਿਭੁਗਤ ਸਰੂਪ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -21643,6 +22163,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "AiC`j hYN ACUq hYN ]",
+    "GurmukhiUni": "ਅਛਿੱਜ ਹੈਂ ਅਛੂਤ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -21684,6 +22205,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ik nrkM pRxws hYN ]",
+    "GurmukhiUni": "ਕਿ ਨਰਕੰ ਪ੍ਰਣਾਸ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -21725,6 +22247,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ipRQIaul pRvws hYN ]130]",
+    "GurmukhiUni": "ਪ੍ਰਿਥੀਉਲ ਪ੍ਰਵਾਸ ਹੈਂ ॥੧੩੦॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -21766,6 +22289,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "inrukiq pRBw hYN ]",
+    "GurmukhiUni": "ਨਿਰੁਕਤਿ ਪ੍ਰਭਾ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -21807,6 +22331,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "sdYvM sdw hYN ]",
+    "GurmukhiUni": "ਸਦੈਵੰ ਸਦਾ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -21848,6 +22373,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ibBugiq srUp hYN ]",
+    "GurmukhiUni": "ਬਿਭੁਗਤਿ ਸਰੂਪ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -21889,6 +22415,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "pRjugiq AnUp hYN ]131]",
+    "GurmukhiUni": "ਪ੍ਰਜੁਗਤਿ ਅਨੂਪ ਹੈਂ ॥੧੩੧॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -21930,6 +22457,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "inrukiq sdw hYN ]",
+    "GurmukhiUni": "ਨਿਰੁਕਤਿ ਸਦਾ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -21971,6 +22499,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "ibBugiq pRBw hYN ]",
+    "GurmukhiUni": "ਬਿਭੁਗਤਿ ਪ੍ਰਭਾ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -22012,6 +22541,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "Anaukiq srUp hYN ]",
+    "GurmukhiUni": "ਅਨਉਕਤਿ ਸਰੂਪ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -22053,6 +22583,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "pRjugiq AnUp hYN ]132]",
+    "GurmukhiUni": "ਪ੍ਰਜੁਗਤਿ ਅਨੂਪ ਹੈਂ ॥੧੩੨॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -22094,6 +22625,7 @@
     "header": 2,
     "Paragraph": 31,
     "Gurmukhi": "cwcrI CMd ]",
+    "GurmukhiUni": "ਚਾਚਰੀ ਛੰਦ ॥",
     "Visraam": {
       "sttm": [],
       "igurbani": [],
@@ -22135,6 +22667,7 @@
     "header": 0,
     "Paragraph": 32,
     "Gurmukhi": "ABMg hYN ]",
+    "GurmukhiUni": "ਅਭੰਗ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -22176,6 +22709,7 @@
     "header": 0,
     "Paragraph": 32,
     "Gurmukhi": "AnMg hYN ]",
+    "GurmukhiUni": "ਅਨੰਗ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -22217,6 +22751,7 @@
     "header": 0,
     "Paragraph": 32,
     "Gurmukhi": "AByK hYN ]",
+    "GurmukhiUni": "ਅਭੇਖ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -22258,6 +22793,7 @@
     "header": 0,
     "Paragraph": 32,
     "Gurmukhi": "AlyK hYN ]133]",
+    "GurmukhiUni": "ਅਲੇਖ ਹੈਂ ॥੧੩੩॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -22299,6 +22835,7 @@
     "header": 0,
     "Paragraph": 32,
     "Gurmukhi": "ABrm hYN ]",
+    "GurmukhiUni": "ਅਭਰਮ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -22340,6 +22877,7 @@
     "header": 0,
     "Paragraph": 32,
     "Gurmukhi": "Akrm hYN ]",
+    "GurmukhiUni": "ਅਕਰਮ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -22381,6 +22919,7 @@
     "header": 0,
     "Paragraph": 32,
     "Gurmukhi": "Anwid hYN ]",
+    "GurmukhiUni": "ਅਨਾਦਿ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -22422,6 +22961,7 @@
     "header": 0,
     "Paragraph": 32,
     "Gurmukhi": "jugwid hYN ]134]",
+    "GurmukhiUni": "ਜੁਗਾਦਿ ਹੈਂ ॥੧੩੪॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -22463,6 +23003,7 @@
     "header": 0,
     "Paragraph": 32,
     "Gurmukhi": "AjY hYN ]",
+    "GurmukhiUni": "ਅਜੈ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -22504,6 +23045,7 @@
     "header": 0,
     "Paragraph": 32,
     "Gurmukhi": "AbY hYN ]",
+    "GurmukhiUni": "ਅਬੈ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -22545,6 +23087,7 @@
     "header": 0,
     "Paragraph": 32,
     "Gurmukhi": "ABUq hYN ]",
+    "GurmukhiUni": "ਅਭੂਤ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -22586,6 +23129,7 @@
     "header": 0,
     "Paragraph": 32,
     "Gurmukhi": "ADUq hYN ]135]",
+    "GurmukhiUni": "ਅਧੂਤ ਹੈਂ ॥੧੩੫॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -22627,6 +23171,7 @@
     "header": 0,
     "Paragraph": 32,
     "Gurmukhi": "Anws hYN ]",
+    "GurmukhiUni": "ਅਨਾਸ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -22668,6 +23213,7 @@
     "header": 0,
     "Paragraph": 32,
     "Gurmukhi": "audws hYN ]",
+    "GurmukhiUni": "ਉਦਾਸ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -22709,6 +23255,7 @@
     "header": 0,
     "Paragraph": 32,
     "Gurmukhi": "ADMD hYN ]",
+    "GurmukhiUni": "ਅਧੰਧ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -22750,6 +23297,7 @@
     "header": 0,
     "Paragraph": 32,
     "Gurmukhi": "AbMD hYN ]136]",
+    "GurmukhiUni": "ਅਬੰਧ ਹੈਂ ॥੧੩੬॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -22791,6 +23339,7 @@
     "header": 0,
     "Paragraph": 32,
     "Gurmukhi": "ABgq hYN ]",
+    "GurmukhiUni": "ਅਭਗਤ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -22832,6 +23381,7 @@
     "header": 0,
     "Paragraph": 32,
     "Gurmukhi": "ibrkq hYN ]",
+    "GurmukhiUni": "ਬਿਰਕਤ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -22873,6 +23423,7 @@
     "header": 0,
     "Paragraph": 32,
     "Gurmukhi": "Anws hYN ]",
+    "GurmukhiUni": "ਅਨਾਸ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -22914,6 +23465,7 @@
     "header": 0,
     "Paragraph": 32,
     "Gurmukhi": "pRkws hYN ]137]",
+    "GurmukhiUni": "ਪ੍ਰਕਾਸ ਹੈਂ ॥੧੩੭॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -22955,6 +23507,7 @@
     "header": 0,
     "Paragraph": 32,
     "Gurmukhi": "inicMq hYN ]",
+    "GurmukhiUni": "ਨਿਚਿੰਤ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -22996,6 +23549,7 @@
     "header": 0,
     "Paragraph": 32,
     "Gurmukhi": "suinMq hYN ]",
+    "GurmukhiUni": "ਸੁਨਿੰਤ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -23037,6 +23591,7 @@
     "header": 0,
     "Paragraph": 32,
     "Gurmukhi": "Ail`K hYN ]",
+    "GurmukhiUni": "ਅਲਿੱਖ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -23078,6 +23633,7 @@
     "header": 0,
     "Paragraph": 32,
     "Gurmukhi": "Aid`K hYN ]138]",
+    "GurmukhiUni": "ਅਦਿੱਖ ਹੈਂ ॥੧੩੮॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -23119,6 +23675,7 @@
     "header": 0,
     "Paragraph": 32,
     "Gurmukhi": "AlyK hYN ]",
+    "GurmukhiUni": "ਅਲੇਖ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -23160,6 +23717,7 @@
     "header": 0,
     "Paragraph": 32,
     "Gurmukhi": "AByK hYN ]",
+    "GurmukhiUni": "ਅਭੇਖ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -23201,6 +23759,7 @@
     "header": 0,
     "Paragraph": 32,
     "Gurmukhi": "AFwh hYN ]",
+    "GurmukhiUni": "ਅਢਾਹ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -23242,6 +23801,7 @@
     "header": 0,
     "Paragraph": 32,
     "Gurmukhi": "Agwh hYN ]139]",
+    "GurmukhiUni": "ਅਗਾਹ ਹੈਂ ॥੧੩੯॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -23283,6 +23843,7 @@
     "header": 0,
     "Paragraph": 32,
     "Gurmukhi": "AsMB hYN ]",
+    "GurmukhiUni": "ਅਸੰਭ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -23324,6 +23885,7 @@
     "header": 0,
     "Paragraph": 32,
     "Gurmukhi": "AgMB hYN ]",
+    "GurmukhiUni": "ਅਗੰਭ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -23365,6 +23927,7 @@
     "header": 0,
     "Paragraph": 32,
     "Gurmukhi": "AnIl hYN ]",
+    "GurmukhiUni": "ਅਨੀਲ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -23406,6 +23969,7 @@
     "header": 0,
     "Paragraph": 32,
     "Gurmukhi": "Anwid hYN ]140]",
+    "GurmukhiUni": "ਅਨਾਦਿ ਹੈਂ ॥੧੪੦॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -23447,6 +24011,7 @@
     "header": 0,
     "Paragraph": 32,
     "Gurmukhi": "Ain`q hYN ]",
+    "GurmukhiUni": "ਅਨਿੱਤ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -23488,6 +24053,7 @@
     "header": 0,
     "Paragraph": 32,
     "Gurmukhi": "su in`q hYN ]",
+    "GurmukhiUni": "ਸੁ ਨਿੱਤ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -23529,6 +24095,7 @@
     "header": 0,
     "Paragraph": 32,
     "Gurmukhi": "Ajwq hYN ]",
+    "GurmukhiUni": "ਅਜਾਤ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -23570,6 +24137,7 @@
     "header": 0,
     "Paragraph": 32,
     "Gurmukhi": "Ajwid hYN ]141]",
+    "GurmukhiUni": "ਅਜਾਦਿ ਹੈਂ ॥੧੪੧॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -23611,6 +24179,7 @@
     "header": 2,
     "Paragraph": 33,
     "Gurmukhi": "crpt CMd ] qÍ pRswid ]",
+    "GurmukhiUni": "ਚਰਪਟ ਛੰਦ ॥ ਤ੍ਵ ਪ੍ਰਸਾਦਿ ॥",
     "Visraam": {
       "sttm": [],
       "igurbani": [],
@@ -23652,6 +24221,7 @@
     "header": 0,
     "Paragraph": 34,
     "Gurmukhi": "srbM hMqw ]",
+    "GurmukhiUni": "ਸਰਬੰ ਹੰਤਾ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -23693,6 +24263,7 @@
     "header": 0,
     "Paragraph": 34,
     "Gurmukhi": "srbM gMqw ]",
+    "GurmukhiUni": "ਸਰਬੰ ਗੰਤਾ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -23734,6 +24305,7 @@
     "header": 0,
     "Paragraph": 34,
     "Gurmukhi": "srbM iKAwqw ]",
+    "GurmukhiUni": "ਸਰਬੰ ਖਿਆਤਾ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -23775,6 +24347,7 @@
     "header": 0,
     "Paragraph": 34,
     "Gurmukhi": "srbM igAwqw ]142]",
+    "GurmukhiUni": "ਸਰਬੰ ਗਿਆਤਾ ॥੧੪੨॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -23816,6 +24389,7 @@
     "header": 0,
     "Paragraph": 34,
     "Gurmukhi": "srbM hrqw ]",
+    "GurmukhiUni": "ਸਰਬੰ ਹਰਤਾ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -23857,6 +24431,7 @@
     "header": 0,
     "Paragraph": 34,
     "Gurmukhi": "srbM krqw ]",
+    "GurmukhiUni": "ਸਰਬੰ ਕਰਤਾ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -23898,6 +24473,7 @@
     "header": 0,
     "Paragraph": 34,
     "Gurmukhi": "srbM pRwxM ]",
+    "GurmukhiUni": "ਸਰਬੰ ਪ੍ਰਾਣੰ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -23939,6 +24515,7 @@
     "header": 0,
     "Paragraph": 34,
     "Gurmukhi": "srbM qRwxM ]143]",
+    "GurmukhiUni": "ਸਰਬੰ ਤ੍ਰਾਣੰ ॥੧੪੩॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -23980,6 +24557,7 @@
     "header": 0,
     "Paragraph": 34,
     "Gurmukhi": "srbM krmM ]",
+    "GurmukhiUni": "ਸਰਬੰ ਕਰਮੰ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -24021,6 +24599,7 @@
     "header": 0,
     "Paragraph": 34,
     "Gurmukhi": "srbM DrmM ]",
+    "GurmukhiUni": "ਸਰਬੰ ਧਰਮੰ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -24062,6 +24641,7 @@
     "header": 0,
     "Paragraph": 34,
     "Gurmukhi": "srbM jugqw ]",
+    "GurmukhiUni": "ਸਰਬੰ ਜੁਗਤਾ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -24103,6 +24683,7 @@
     "header": 0,
     "Paragraph": 34,
     "Gurmukhi": "srbM mukqw ]144]",
+    "GurmukhiUni": "ਸਰਬੰ ਮੁਕਤਾ ॥੧੪੪॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -24144,6 +24725,7 @@
     "header": 2,
     "Paragraph": 35,
     "Gurmukhi": "rswvl CMd ] qÍ pRswid ]",
+    "GurmukhiUni": "ਰਸਾਵਲ ਛੰਦ ॥ ਤ੍ਵ ਪ੍ਰਸਾਦਿ ॥",
     "Visraam": {
       "sttm": [],
       "igurbani": [],
@@ -24185,6 +24767,7 @@
     "header": 0,
     "Paragraph": 36,
     "Gurmukhi": "nmo nrk nwsy ]",
+    "GurmukhiUni": "ਨਮੋ ਨਰਕ ਨਾਸੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -24226,6 +24809,7 @@
     "header": 0,
     "Paragraph": 36,
     "Gurmukhi": "sdYvM pRkwsy ]",
+    "GurmukhiUni": "ਸਦੈਵੰ ਪ੍ਰਕਾਸੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -24267,6 +24851,7 @@
     "header": 0,
     "Paragraph": 36,
     "Gurmukhi": "AnMgM srUpy ]",
+    "GurmukhiUni": "ਅਨੰਗੰ ਸਰੂਪੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -24308,6 +24893,7 @@
     "header": 0,
     "Paragraph": 36,
     "Gurmukhi": "ABMgM ibBUqy ]145]",
+    "GurmukhiUni": "ਅਭੰਗੰ ਬਿਭੂਤੇ ॥੧੪੫॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -24349,6 +24935,7 @@
     "header": 0,
     "Paragraph": 36,
     "Gurmukhi": "pRmwQM pRmwQy ]",
+    "GurmukhiUni": "ਪ੍ਰਮਾਥੰ ਪ੍ਰਮਾਥੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -24390,6 +24977,7 @@
     "header": 0,
     "Paragraph": 36,
     "Gurmukhi": "sdw srb swQy ]",
+    "GurmukhiUni": "ਸਦਾ ਸਰਬ ਸਾਥੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -24431,6 +25019,7 @@
     "header": 0,
     "Paragraph": 36,
     "Gurmukhi": "AgwD srUpy ]",
+    "GurmukhiUni": "ਅਗਾਧ ਸਰੂਪੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -24472,6 +25061,7 @@
     "header": 0,
     "Paragraph": 36,
     "Gurmukhi": "inRbwD ibBUqy ]146]",
+    "GurmukhiUni": "ਨ੍ਰਿਬਾਧ ਬਿਭੂਤੇ ॥੧੪੬॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -24513,6 +25103,7 @@
     "header": 0,
     "Paragraph": 36,
     "Gurmukhi": "AnMgI Anwmy ]",
+    "GurmukhiUni": "ਅਨੰਗੀ ਅਨਾਮੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -24554,6 +25145,7 @@
     "header": 0,
     "Paragraph": 36,
     "Gurmukhi": "iqRBMgI iqRkwmy ]",
+    "GurmukhiUni": "ਤ੍ਰਿਭੰਗੀ ਤ੍ਰਿਕਾਮੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -24595,6 +25187,7 @@
     "header": 0,
     "Paragraph": 36,
     "Gurmukhi": "inRBMgI srUpy ]",
+    "GurmukhiUni": "ਨ੍ਰਿਭੰਗੀ ਸਰੂਪੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -24636,6 +25229,7 @@
     "header": 0,
     "Paragraph": 36,
     "Gurmukhi": "srbMgI AnUpy ]147]",
+    "GurmukhiUni": "ਸਰਬੰਗੀ ਅਨੂਪੇ ॥੧੪੭॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -24677,6 +25271,7 @@
     "header": 0,
     "Paragraph": 36,
     "Gurmukhi": "n poqRY n puqRY ]",
+    "GurmukhiUni": "ਨ ਪੋਤ੍ਰੈ ਨ ਪੁਤ੍ਰੈ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -24718,6 +25313,7 @@
     "header": 0,
     "Paragraph": 36,
     "Gurmukhi": "n s`qRY n imqRY ]",
+    "GurmukhiUni": "ਨ ਸੱਤ੍ਰੈ ਨ ਮਿਤ੍ਰੈ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -24759,6 +25355,7 @@
     "header": 0,
     "Paragraph": 36,
     "Gurmukhi": "n qwqY n mwqY ]",
+    "GurmukhiUni": "ਨ ਤਾਤੈ ਨ ਮਾਤੈ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -24800,6 +25397,7 @@
     "header": 0,
     "Paragraph": 36,
     "Gurmukhi": "n jwqY n pwqY ]148]",
+    "GurmukhiUni": "ਨ ਜਾਤੈ ਨ ਪਾਤੈ ॥੧੪੮॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -24841,6 +25439,7 @@
     "header": 0,
     "Paragraph": 36,
     "Gurmukhi": "inRswkM srIk hYN ]",
+    "GurmukhiUni": "ਨ੍ਰਿਸਾਕੰ ਸਰੀਕ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -24882,6 +25481,7 @@
     "header": 0,
     "Paragraph": 36,
     "Gurmukhi": "Aimqo AmIk hYN ]",
+    "GurmukhiUni": "ਅਮਿਤੋ ਅਮੀਕ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -24923,6 +25523,7 @@
     "header": 0,
     "Paragraph": 36,
     "Gurmukhi": "sdYvM pRBw hYN ]",
+    "GurmukhiUni": "ਸਦੈਵੰ ਪ੍ਰਭਾ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -24964,6 +25565,7 @@
     "header": 0,
     "Paragraph": 36,
     "Gurmukhi": "AjY hYN Ajw hYN ]149]",
+    "GurmukhiUni": "ਅਜੈ ਹੈਂ ਅਜਾ ਹੈਂ ॥੧੪੯॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -25005,6 +25607,7 @@
     "header": 2,
     "Paragraph": 37,
     "Gurmukhi": "BgvqI CMd ] qÍ pRswid ]",
+    "GurmukhiUni": "ਭਗਵਤੀ ਛੰਦ ॥ ਤ੍ਵ ਪ੍ਰਸਾਦਿ ॥",
     "Visraam": {
       "sttm": [],
       "igurbani": [],
@@ -25046,6 +25649,7 @@
     "header": 0,
     "Paragraph": 38,
     "Gurmukhi": "ik zwhr zhUr hYN ]",
+    "GurmukhiUni": "ਕਿ ਜ਼ਾਹਰ ਜ਼ਹੂਰ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -25087,6 +25691,7 @@
     "header": 0,
     "Paragraph": 38,
     "Gurmukhi": "ik hwzr hzUr hYN ]",
+    "GurmukhiUni": "ਕਿ ਹਾਜ਼ਰ ਹਜ਼ੂਰ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -25128,6 +25733,7 @@
     "header": 0,
     "Paragraph": 38,
     "Gurmukhi": "hmysul slwm hYN ]",
+    "GurmukhiUni": "ਹਮੇਸੁਲ ਸਲਾਮ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -25169,6 +25775,7 @@
     "header": 0,
     "Paragraph": 38,
     "Gurmukhi": "smsqul klwm hYN ]150]",
+    "GurmukhiUni": "ਸਮਸਤੁਲ ਕਲਾਮ ਹੈਂ ॥੧੫੦॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -25210,6 +25817,7 @@
     "header": 0,
     "Paragraph": 38,
     "Gurmukhi": "ik swihb idmwZ hYN ]",
+    "GurmukhiUni": "ਕਿ ਸਾਹਿਬ ਦਿਮਾਗ਼ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -25251,6 +25859,7 @@
     "header": 0,
     "Paragraph": 38,
     "Gurmukhi": "ik husnl crwZ hYN ]",
+    "GurmukhiUni": "ਕਿ ਹੁਸਨਲ ਚਰਾਗ਼ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -25292,6 +25901,7 @@
     "header": 0,
     "Paragraph": 38,
     "Gurmukhi": "ik kwml krIm hYN ]",
+    "GurmukhiUni": "ਕਿ ਕਾਮਲ ਕਰੀਮ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -25333,6 +25943,7 @@
     "header": 0,
     "Paragraph": 38,
     "Gurmukhi": "ik rwzk rhIm hYN ]151]",
+    "GurmukhiUni": "ਕਿ ਰਾਜ਼ਕ ਰਹੀਮ ਹੈਂ ॥੧੫੧॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -25374,6 +25985,7 @@
     "header": 0,
     "Paragraph": 38,
     "Gurmukhi": "ik rozI idihMd hYN ]",
+    "GurmukhiUni": "ਕਿ ਰੋਜ਼ੀ ਦਿਹਿੰਦ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -25415,6 +26027,7 @@
     "header": 0,
     "Paragraph": 38,
     "Gurmukhi": "ik rwzk rihMd hYN ]",
+    "GurmukhiUni": "ਕਿ ਰਾਜ਼ਕ ਰਹਿੰਦ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -25456,6 +26069,7 @@
     "header": 0,
     "Paragraph": 38,
     "Gurmukhi": "krImul kmwl hYN ]",
+    "GurmukhiUni": "ਕਰੀਮੁਲ ਕਮਾਲ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -25497,6 +26111,7 @@
     "header": 0,
     "Paragraph": 38,
     "Gurmukhi": "ik husnl jmwl hYN ]152]",
+    "GurmukhiUni": "ਕਿ ਹੁਸਨਲ ਜਮਾਲ ਹੈਂ ॥੧੫੨॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -25538,6 +26153,7 @@
     "header": 0,
     "Paragraph": 38,
     "Gurmukhi": "ZnImul i^rwj hYN ]",
+    "GurmukhiUni": "ਗ਼ਨੀਮੁਲ ਖ਼ਿਰਾਜ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -25579,6 +26195,7 @@
     "header": 0,
     "Paragraph": 38,
     "Gurmukhi": "ZrIbul invwz hYN ]",
+    "GurmukhiUni": "ਗ਼ਰੀਬੁਲ ਨਿਵਾਜ਼ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -25620,6 +26237,7 @@
     "header": 0,
     "Paragraph": 38,
     "Gurmukhi": "hrI&ul iSkMn hYN ]",
+    "GurmukhiUni": "ਹਰੀਫ਼ੁਲ ਸ਼ਿਕੰਨ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -25661,6 +26279,7 @@
     "header": 0,
     "Paragraph": 38,
     "Gurmukhi": "ihrwsul iPkMn hYN ]153]",
+    "GurmukhiUni": "ਹਿਰਾਸੁਲ ਫਿਕੰਨ ਹੈਂ ॥੧੫੩॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -25702,6 +26321,7 @@
     "header": 0,
     "Paragraph": 38,
     "Gurmukhi": "klMkM pRxws hYN ]",
+    "GurmukhiUni": "ਕਲੰਕੰ ਪ੍ਰਣਾਸ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -25743,6 +26363,7 @@
     "header": 0,
     "Paragraph": 38,
     "Gurmukhi": "smsqul invws hYN ]",
+    "GurmukhiUni": "ਸਮਸਤੁਲ ਨਿਵਾਸ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -25784,6 +26405,7 @@
     "header": 0,
     "Paragraph": 38,
     "Gurmukhi": "AgMjul gnIm hYN ]",
+    "GurmukhiUni": "ਅਗੰਜੁਲ ਗਨੀਮ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -25825,6 +26447,7 @@
     "header": 0,
     "Paragraph": 38,
     "Gurmukhi": "rjwiek rhIm hYN ]154]",
+    "GurmukhiUni": "ਰਜਾਇਕ ਰਹੀਮ ਹੈਂ ॥੧੫੪॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -25866,6 +26489,7 @@
     "header": 0,
     "Paragraph": 38,
     "Gurmukhi": "smsqul jubW hYN ]",
+    "GurmukhiUni": "ਸਮਸਤੁਲ ਜੁਬਾਂ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -25907,6 +26531,7 @@
     "header": 0,
     "Paragraph": 38,
     "Gurmukhi": "ik swihb ikrW hYN ]",
+    "GurmukhiUni": "ਕਿ ਸਾਹਿਬ ਕਿਰਾਂ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -25948,6 +26573,7 @@
     "header": 0,
     "Paragraph": 38,
     "Gurmukhi": "ik nrkM pRxws hYN ]",
+    "GurmukhiUni": "ਕਿ ਨਰਕੰ ਪ੍ਰਣਾਸ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -25989,6 +26615,7 @@
     "header": 0,
     "Paragraph": 38,
     "Gurmukhi": "bihsqul invws hYN ]155]",
+    "GurmukhiUni": "ਬਹਿਸਤੁਲ ਨਿਵਾਸ ਹੈਂ ॥੧੫੫॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -26030,6 +26657,7 @@
     "header": 0,
     "Paragraph": 38,
     "Gurmukhi": "ik srbul gvMn hYN ]",
+    "GurmukhiUni": "ਕਿ ਸਰਬੁਲ ਗਵੰਨ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -26071,6 +26699,7 @@
     "header": 0,
     "Paragraph": 38,
     "Gurmukhi": "hmysul rvMn hYN ]",
+    "GurmukhiUni": "ਹਮੇਸੁਲ ਰਵੰਨ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -26112,6 +26741,7 @@
     "header": 0,
     "Paragraph": 38,
     "Gurmukhi": "qmwmul qmIj hYN ]",
+    "GurmukhiUni": "ਤਮਾਮੁਲ ਤਮੀਜ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -26153,6 +26783,7 @@
     "header": 0,
     "Paragraph": 38,
     "Gurmukhi": "smsqul AjIj hYN ]156]",
+    "GurmukhiUni": "ਸਮਸਤੁਲ ਅਜੀਜ ਹੈਂ ॥੧੫੬॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -26194,6 +26825,7 @@
     "header": 0,
     "Paragraph": 38,
     "Gurmukhi": "prM prm eIs hYN ]",
+    "GurmukhiUni": "ਪਰੰ ਪਰਮ ਈਸ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -26235,6 +26867,7 @@
     "header": 0,
     "Paragraph": 38,
     "Gurmukhi": "smsqul AdIs hYN ]",
+    "GurmukhiUni": "ਸਮਸਤੁਲ ਅਦੀਸ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -26276,6 +26909,7 @@
     "header": 0,
     "Paragraph": 38,
     "Gurmukhi": "Adysul AlyK hYN ]",
+    "GurmukhiUni": "ਅਦੇਸੁਲ ਅਲੇਖ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -26317,6 +26951,7 @@
     "header": 0,
     "Paragraph": 38,
     "Gurmukhi": "hmysul AByK hYN ]157]",
+    "GurmukhiUni": "ਹਮੇਸੁਲ ਅਭੇਖ ਹੈਂ ॥੧੫੭॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -26358,6 +26993,7 @@
     "header": 0,
     "Paragraph": 38,
     "Gurmukhi": "zmInul zmw hYN ]",
+    "GurmukhiUni": "ਜ਼ਮੀਨੁਲ ਜ਼ਮਾ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -26399,6 +27035,7 @@
     "header": 0,
     "Paragraph": 38,
     "Gurmukhi": "AmIkul iemw hYN ]",
+    "GurmukhiUni": "ਅਮੀਕੁਲ ਇਮਾ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -26440,6 +27077,7 @@
     "header": 0,
     "Paragraph": 38,
     "Gurmukhi": "krImul kmwl hYN ]",
+    "GurmukhiUni": "ਕਰੀਮੁਲ ਕਮਾਲ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -26481,6 +27119,7 @@
     "header": 0,
     "Paragraph": 38,
     "Gurmukhi": "ik jurAiq jmwl hYN ]158]",
+    "GurmukhiUni": "ਕਿ ਜੁਰਅਤਿ ਜਮਾਲ ਹੈਂ ॥੧੫੮॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -26522,6 +27161,7 @@
     "header": 0,
     "Paragraph": 38,
     "Gurmukhi": "ik AclM pRkws hYN ]",
+    "GurmukhiUni": "ਕਿ ਅਚਲੰ ਪ੍ਰਕਾਸ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -26563,6 +27203,7 @@
     "header": 0,
     "Paragraph": 38,
     "Gurmukhi": "ik Aimqo subws hYN ]",
+    "GurmukhiUni": "ਕਿ ਅਮਿਤੋ ਸੁਬਾਸ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -26604,6 +27245,7 @@
     "header": 0,
     "Paragraph": 38,
     "Gurmukhi": "ik Ajb srUp hYN ]",
+    "GurmukhiUni": "ਕਿ ਅਜਬ ਸਰੂਪ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -26645,6 +27287,7 @@
     "header": 0,
     "Paragraph": 38,
     "Gurmukhi": "ik Aimqo ibBUq hYN ]159]",
+    "GurmukhiUni": "ਕਿ ਅਮਿਤੋ ਬਿਭੂਤ ਹੈਂ ॥੧੫੯॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -26686,6 +27329,7 @@
     "header": 0,
     "Paragraph": 38,
     "Gurmukhi": "ik Aimqo psw hYN ]",
+    "GurmukhiUni": "ਕਿ ਅਮਿਤੋ ਪਸਾ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -26727,6 +27371,7 @@
     "header": 0,
     "Paragraph": 38,
     "Gurmukhi": "ik Awqm pRBw hYN ]",
+    "GurmukhiUni": "ਕਿ ਆਤਮ ਪ੍ਰਭਾ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -26768,6 +27413,7 @@
     "header": 0,
     "Paragraph": 38,
     "Gurmukhi": "ik AclM AnMg hYN ]",
+    "GurmukhiUni": "ਕਿ ਅਚਲੰ ਅਨੰਗ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -26809,6 +27455,7 @@
     "header": 0,
     "Paragraph": 38,
     "Gurmukhi": "ik Aimqo ABMg hYN ]160]",
+    "GurmukhiUni": "ਕਿ ਅਮਿਤੋ ਅਭੰਗ ਹੈਂ ॥੧੬੦॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -26850,6 +27497,7 @@
     "header": 2,
     "Paragraph": 39,
     "Gurmukhi": "mDuBwr CMd ] qÍ pRswid ]",
+    "GurmukhiUni": "ਮਧੁਭਾਰ ਛੰਦ ॥ ਤ੍ਵ ਪ੍ਰਸਾਦਿ ॥",
     "Visraam": {
       "sttm": [],
       "igurbani": [],
@@ -26891,6 +27539,7 @@
     "header": 0,
     "Paragraph": 40,
     "Gurmukhi": "muin min pRnwm ]",
+    "GurmukhiUni": "ਮੁਨਿ ਮਨਿ ਪ੍ਰਨਾਮ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -26932,6 +27581,7 @@
     "header": 0,
     "Paragraph": 40,
     "Gurmukhi": "guin gn mudwm ]",
+    "GurmukhiUni": "ਗੁਨਿ ਗਨ ਮੁਦਾਮ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -26973,6 +27623,7 @@
     "header": 0,
     "Paragraph": 40,
     "Gurmukhi": "Air br AgMj ]",
+    "GurmukhiUni": "ਅਰਿ ਬਰ ਅਗੰਜ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -27014,6 +27665,7 @@
     "header": 0,
     "Paragraph": 40,
     "Gurmukhi": "hir nr pRBMj ]161]",
+    "GurmukhiUni": "ਹਰਿ ਨਰ ਪ੍ਰਭੰਜ ॥੧੬੧॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -27055,6 +27707,7 @@
     "header": 0,
     "Paragraph": 40,
     "Gurmukhi": "Angn pRnwm ]",
+    "GurmukhiUni": "ਅਨਗਨ ਪ੍ਰਨਾਮ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -27096,6 +27749,7 @@
     "header": 0,
     "Paragraph": 40,
     "Gurmukhi": "muin min slwm ]",
+    "GurmukhiUni": "ਮੁਨਿ ਮਨਿ ਸਲਾਮ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -27137,6 +27791,7 @@
     "header": 0,
     "Paragraph": 40,
     "Gurmukhi": "hir nr AKMf ]",
+    "GurmukhiUni": "ਹਰਿ ਨਰ ਅਖੰਡ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -27178,6 +27833,7 @@
     "header": 0,
     "Paragraph": 40,
     "Gurmukhi": "br nr AmMf ]162]",
+    "GurmukhiUni": "ਬਰ ਨਰ ਅਮੰਡ ॥੧੬੨॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -27219,6 +27875,7 @@
     "header": 0,
     "Paragraph": 40,
     "Gurmukhi": "AnBv Anws ]",
+    "GurmukhiUni": "ਅਨਭਵ ਅਨਾਸ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -27260,6 +27917,7 @@
     "header": 0,
     "Paragraph": 40,
     "Gurmukhi": "muin min pRkws ]",
+    "GurmukhiUni": "ਮੁਨਿ ਮਨਿ ਪ੍ਰਕਾਸ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -27301,6 +27959,7 @@
     "header": 0,
     "Paragraph": 40,
     "Gurmukhi": "guin gn pRnwm ]",
+    "GurmukhiUni": "ਗੁਨਿ ਗਨ ਪ੍ਰਨਾਮ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -27342,6 +28001,7 @@
     "header": 0,
     "Paragraph": 40,
     "Gurmukhi": "jl Ql mudwm ]163]",
+    "GurmukhiUni": "ਜਲ ਥਲ ਮੁਦਾਮ ॥੧੬੩॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -27383,6 +28043,7 @@
     "header": 0,
     "Paragraph": 40,
     "Gurmukhi": "AniC`j AMg ]",
+    "GurmukhiUni": "ਅਨਛਿੱਜ ਅੰਗ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -27424,6 +28085,7 @@
     "header": 0,
     "Paragraph": 40,
     "Gurmukhi": "Awsn ABMg ]",
+    "GurmukhiUni": "ਆਸਨ ਅਭੰਗ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -27465,6 +28127,7 @@
     "header": 0,
     "Paragraph": 40,
     "Gurmukhi": "aupmw Apwr ]",
+    "GurmukhiUni": "ਉਪਮਾ ਅਪਾਰ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -27506,6 +28169,7 @@
     "header": 0,
     "Paragraph": 40,
     "Gurmukhi": "giq imiq audwr ]164]",
+    "GurmukhiUni": "ਗਤਿ ਮਿਤਿ ਉਦਾਰ ॥੧੬੪॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -27547,6 +28211,7 @@
     "header": 0,
     "Paragraph": 40,
     "Gurmukhi": "jl Ql AmMf ]",
+    "GurmukhiUni": "ਜਲ ਥਲ ਅਮੰਡ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -27588,6 +28253,7 @@
     "header": 0,
     "Paragraph": 40,
     "Gurmukhi": "ids ivs ABMf ]",
+    "GurmukhiUni": "ਦਿਸ ਵਿਸ ਅਭੰਡ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -27629,6 +28295,7 @@
     "header": 0,
     "Paragraph": 40,
     "Gurmukhi": "jl Ql mhMq ]",
+    "GurmukhiUni": "ਜਲ ਥਲ ਮਹੰਤ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -27670,6 +28337,7 @@
     "header": 0,
     "Paragraph": 40,
     "Gurmukhi": "ids ivs ibAMq ]165]",
+    "GurmukhiUni": "ਦਿਸ ਵਿਸ ਬਿਅੰਤ ॥੧੬੫॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -27711,6 +28379,7 @@
     "header": 0,
     "Paragraph": 40,
     "Gurmukhi": "AnBv Anws ]",
+    "GurmukhiUni": "ਅਨਭਵ ਅਨਾਸ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -27752,6 +28421,7 @@
     "header": 0,
     "Paragraph": 40,
     "Gurmukhi": "iDRq Dr Durws ]",
+    "GurmukhiUni": "ਧ੍ਰਿਤ ਧਰ ਧੁਰਾਸ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -27793,6 +28463,7 @@
     "header": 0,
     "Paragraph": 40,
     "Gurmukhi": "Awjwn bwhu ]",
+    "GurmukhiUni": "ਆਜਾਨ ਬਾਹੁ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -27834,6 +28505,7 @@
     "header": 0,
     "Paragraph": 40,
     "Gurmukhi": "eykY sdwhu ]166]",
+    "GurmukhiUni": "ਏਕੈ ਸਦਾਹੁ ॥੧੬੬॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -27875,6 +28547,7 @@
     "header": 0,
     "Paragraph": 40,
     "Gurmukhi": "EAMkwr Awid ]",
+    "GurmukhiUni": "ਓਅੰਕਾਰ ਆਦਿ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -27916,6 +28589,7 @@
     "header": 0,
     "Paragraph": 40,
     "Gurmukhi": "kQnI Anwid ]",
+    "GurmukhiUni": "ਕਥਨੀ ਅਨਾਦਿ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -27957,6 +28631,7 @@
     "header": 0,
     "Paragraph": 40,
     "Gurmukhi": "Kl KMf iKAwl ]",
+    "GurmukhiUni": "ਖਲ ਖੰਡ ਖਿਆਲ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -27998,6 +28673,7 @@
     "header": 0,
     "Paragraph": 40,
     "Gurmukhi": "gur br Akwl ]167]",
+    "GurmukhiUni": "ਗੁਰ ਬਰ ਅਕਾਲ ॥੧੬੭॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -28039,6 +28715,7 @@
     "header": 0,
     "Paragraph": 40,
     "Gurmukhi": "Gr Gir pRnwm ]",
+    "GurmukhiUni": "ਘਰ ਘਰਿ ਪ੍ਰਨਾਮ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -28080,6 +28757,7 @@
     "header": 0,
     "Paragraph": 40,
     "Gurmukhi": "icq crn nwm ]",
+    "GurmukhiUni": "ਚਿਤ ਚਰਨ ਨਾਮ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -28121,6 +28799,7 @@
     "header": 0,
     "Paragraph": 40,
     "Gurmukhi": "AniC~j gwq ]",
+    "GurmukhiUni": "ਅਨਛਿੱਜ ਗਾਤ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -28162,6 +28841,7 @@
     "header": 0,
     "Paragraph": 40,
     "Gurmukhi": "Awijj n bwq ]168]",
+    "GurmukhiUni": "ਆਜਿਜ ਨ ਬਾਤ ॥੧੬੮॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -28203,6 +28883,7 @@
     "header": 0,
     "Paragraph": 40,
     "Gurmukhi": "AnJMJ gwq ]",
+    "GurmukhiUni": "ਅਨਝੰਝ ਗਾਤ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -28244,6 +28925,7 @@
     "header": 0,
     "Paragraph": 40,
     "Gurmukhi": "AnrMj bwq ]",
+    "GurmukhiUni": "ਅਨਰੰਜ ਬਾਤ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -28285,6 +28967,7 @@
     "header": 0,
     "Paragraph": 40,
     "Gurmukhi": "Antut BMfwr ]",
+    "GurmukhiUni": "ਅਨਟੁਟ ਭੰਡਾਰ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -28326,6 +29009,7 @@
     "header": 0,
     "Paragraph": 40,
     "Gurmukhi": "AnTt Apwr ]169]",
+    "GurmukhiUni": "ਅਨਠਟ ਅਪਾਰ ॥੧੬੯॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -28367,6 +29051,7 @@
     "header": 0,
     "Paragraph": 40,
     "Gurmukhi": "AwfIT Drm ]",
+    "GurmukhiUni": "ਆਡੀਠ ਧਰਮ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -28408,6 +29093,7 @@
     "header": 0,
     "Paragraph": 40,
     "Gurmukhi": "Aiq FIT krm ]",
+    "GurmukhiUni": "ਅਤਿ ਢੀਠ ਕਰਮ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -28449,6 +29135,7 @@
     "header": 0,
     "Paragraph": 40,
     "Gurmukhi": "AxbRx AnMq ]",
+    "GurmukhiUni": "ਅਣਬ੍ਰਣ ਅਨੰਤ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -28490,6 +29177,7 @@
     "header": 0,
     "Paragraph": 40,
     "Gurmukhi": "dwqw mhMq ]170]",
+    "GurmukhiUni": "ਦਾਤਾ ਮਹੰਤ ॥੧੭੦॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -28531,6 +29219,7 @@
     "header": 2,
     "Paragraph": 41,
     "Gurmukhi": "hirbolmnw CMd ] qÍ pRswid ]",
+    "GurmukhiUni": "ਹਰਿਬੋਲਮਨਾ ਛੰਦ ॥ ਤ੍ਵ ਪ੍ਰਸਾਦਿ ॥",
     "Visraam": {
       "sttm": [],
       "igurbani": [],
@@ -28572,6 +29261,7 @@
     "header": 0,
     "Paragraph": 42,
     "Gurmukhi": "kruxwlX hYN ]",
+    "GurmukhiUni": "ਕਰੁਣਾਲਯ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -28613,6 +29303,7 @@
     "header": 0,
     "Paragraph": 42,
     "Gurmukhi": "Air GwlX hYN ]",
+    "GurmukhiUni": "ਅਰਿ ਘਾਲਯ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -28654,6 +29345,7 @@
     "header": 0,
     "Paragraph": 42,
     "Gurmukhi": "Kl KMfn hYN ]",
+    "GurmukhiUni": "ਖਲ ਖੰਡਨ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -28695,6 +29387,7 @@
     "header": 0,
     "Paragraph": 42,
     "Gurmukhi": "mih mMfn hYN ]171]",
+    "GurmukhiUni": "ਮਹਿ ਮੰਡਨ ਹੈਂ ॥੧੭੧॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -28736,6 +29429,7 @@
     "header": 0,
     "Paragraph": 42,
     "Gurmukhi": "jgqysÍr hYN ]",
+    "GurmukhiUni": "ਜਗਤੇਸ੍ਵਰ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -28777,6 +29471,7 @@
     "header": 0,
     "Paragraph": 42,
     "Gurmukhi": "prmysÍr hYN ]",
+    "GurmukhiUni": "ਪਰਮੇਸ੍ਵਰ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -28818,6 +29513,7 @@
     "header": 0,
     "Paragraph": 42,
     "Gurmukhi": "kil kwrx hYN ]",
+    "GurmukhiUni": "ਕਲਿ ਕਾਰਣ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -28859,6 +29555,7 @@
     "header": 0,
     "Paragraph": 42,
     "Gurmukhi": "srb aubwrx hYN ]172]",
+    "GurmukhiUni": "ਸਰਬ ਉਬਾਰਣ ਹੈਂ ॥੧੭੨॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -28900,6 +29597,7 @@
     "header": 0,
     "Paragraph": 42,
     "Gurmukhi": "iDRq ky DRx hYN ]",
+    "GurmukhiUni": "ਧ੍ਰਿਤ ਕੇ ਧ੍ਰਣ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -28941,6 +29639,7 @@
     "header": 0,
     "Paragraph": 42,
     "Gurmukhi": "jg ky kRx hYN ]",
+    "GurmukhiUni": "ਜਗ ਕੇ ਕ੍ਰਣ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -28982,6 +29681,7 @@
     "header": 0,
     "Paragraph": 42,
     "Gurmukhi": "mn mwinX hYN ]",
+    "GurmukhiUni": "ਮਨ ਮਾਨਿਯ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -29023,6 +29723,7 @@
     "header": 0,
     "Paragraph": 42,
     "Gurmukhi": "jg jwinX hYN ]173]",
+    "GurmukhiUni": "ਜਗ ਜਾਨਿਯ ਹੈਂ ॥੧੭੩॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -29064,6 +29765,7 @@
     "header": 0,
     "Paragraph": 42,
     "Gurmukhi": "srbM Br hYN ]",
+    "GurmukhiUni": "ਸਰਬੰ ਭਰ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -29105,6 +29807,7 @@
     "header": 0,
     "Paragraph": 42,
     "Gurmukhi": "srbM kr hYN ]",
+    "GurmukhiUni": "ਸਰਬੰ ਕਰ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -29146,6 +29849,7 @@
     "header": 0,
     "Paragraph": 42,
     "Gurmukhi": "srb pwisX hYN ]",
+    "GurmukhiUni": "ਸਰਬ ਪਾਸਿਯ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -29187,6 +29891,7 @@
     "header": 0,
     "Paragraph": 42,
     "Gurmukhi": "srb nwisX hYN ]174]",
+    "GurmukhiUni": "ਸਰਬ ਨਾਸਿਯ ਹੈਂ ॥੧੭੪॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -29228,6 +29933,7 @@
     "header": 0,
     "Paragraph": 42,
     "Gurmukhi": "kruxwkr hYN ]",
+    "GurmukhiUni": "ਕਰੁਣਾਕਰ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -29269,6 +29975,7 @@
     "header": 0,
     "Paragraph": 42,
     "Gurmukhi": "ibsÍMBr hYN ]",
+    "GurmukhiUni": "ਬਿਸ੍ਵੰਭਰ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -29310,6 +30017,7 @@
     "header": 0,
     "Paragraph": 42,
     "Gurmukhi": "srbysÍr hYN ]",
+    "GurmukhiUni": "ਸਰਬੇਸ੍ਵਰ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -29351,6 +30059,7 @@
     "header": 0,
     "Paragraph": 42,
     "Gurmukhi": "jgqysÍr hYN ]175]",
+    "GurmukhiUni": "ਜਗਤੇਸ੍ਵਰ ਹੈਂ ॥੧੭੫॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -29392,6 +30101,7 @@
     "header": 0,
     "Paragraph": 42,
     "Gurmukhi": "bRhmMfs hYN ]",
+    "GurmukhiUni": "ਬ੍ਰਹਮੰਡਸ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -29433,6 +30143,7 @@
     "header": 0,
     "Paragraph": 42,
     "Gurmukhi": "Kl KMfs hYN ]",
+    "GurmukhiUni": "ਖਲ ਖੰਡਸ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -29474,6 +30185,7 @@
     "header": 0,
     "Paragraph": 42,
     "Gurmukhi": "pr qy pr hYN ]",
+    "GurmukhiUni": "ਪਰ ਤੇ ਪਰ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -29515,6 +30227,7 @@
     "header": 0,
     "Paragraph": 42,
     "Gurmukhi": "kruxwkr hYN ]176]",
+    "GurmukhiUni": "ਕਰੁਣਾਕਰ ਹੈਂ ॥੧੭੬॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -29556,6 +30269,7 @@
     "header": 0,
     "Paragraph": 42,
     "Gurmukhi": "Ajpw jp hYN ]",
+    "GurmukhiUni": "ਅਜਪਾ ਜਪ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -29597,6 +30311,7 @@
     "header": 0,
     "Paragraph": 42,
     "Gurmukhi": "AQpw Qp hYN ]",
+    "GurmukhiUni": "ਅਥਪਾ ਥਪ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -29638,6 +30353,7 @@
     "header": 0,
     "Paragraph": 42,
     "Gurmukhi": "AikRqw ikRq hYN ]",
+    "GurmukhiUni": "ਅਕ੍ਰਿਤਾ ਕ੍ਰਿਤ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -29679,6 +30395,7 @@
     "header": 0,
     "Paragraph": 42,
     "Gurmukhi": "AMimRqw imRq hYN ]177]",
+    "GurmukhiUni": "ਅੰਮ੍ਰਿਤਾ ਮ੍ਰਿਤ ਹੈਂ ॥੧੭੭॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -29720,6 +30437,7 @@
     "header": 0,
     "Paragraph": 42,
     "Gurmukhi": "AimRqw imRq hYN ]",
+    "GurmukhiUni": "ਅਮ੍ਰਿਤਾ ਮ੍ਰਿਤ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -29761,6 +30479,7 @@
     "header": 0,
     "Paragraph": 42,
     "Gurmukhi": "krxw ikRq hYN ]",
+    "GurmukhiUni": "ਕਰਣਾ ਕ੍ਰਿਤ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -29802,6 +30521,7 @@
     "header": 0,
     "Paragraph": 42,
     "Gurmukhi": "AikRqw ikRq hYN ]",
+    "GurmukhiUni": "ਅਕ੍ਰਿਤਾ ਕ੍ਰਿਤ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -29843,6 +30563,7 @@
     "header": 0,
     "Paragraph": 42,
     "Gurmukhi": "DrxI iDRq hYN ]178]",
+    "GurmukhiUni": "ਧਰਣੀ ਧ੍ਰਿਤ ਹੈਂ ॥੧੭੮॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -29884,6 +30605,7 @@
     "header": 0,
     "Paragraph": 42,
     "Gurmukhi": "AimqysÍr hYN ]",
+    "GurmukhiUni": "ਅਮਿਤੇਸ੍ਵਰ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -29925,6 +30647,7 @@
     "header": 0,
     "Paragraph": 42,
     "Gurmukhi": "prmysÍr hYN ]",
+    "GurmukhiUni": "ਪਰਮੇਸ੍ਵਰ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -29966,6 +30689,7 @@
     "header": 0,
     "Paragraph": 42,
     "Gurmukhi": "AikRqw ikRq hYN ]",
+    "GurmukhiUni": "ਅਕ੍ਰਿਤਾ ਕ੍ਰਿਤ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -30007,6 +30731,7 @@
     "header": 0,
     "Paragraph": 42,
     "Gurmukhi": "AimRqw imRq hYN]179]",
+    "GurmukhiUni": "ਅਮ੍ਰਿਤਾ ਮ੍ਰਿਤ ਹੈਂ॥੧੭੯॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -30048,6 +30773,7 @@
     "header": 0,
     "Paragraph": 42,
     "Gurmukhi": "Ajbw ikRq hYN ]",
+    "GurmukhiUni": "ਅਜਬਾ ਕ੍ਰਿਤ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -30089,6 +30815,7 @@
     "header": 0,
     "Paragraph": 42,
     "Gurmukhi": "AimRqw AimRq hYN ]",
+    "GurmukhiUni": "ਅਮ੍ਰਿਤਾ ਅਮ੍ਰਿਤ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -30130,6 +30857,7 @@
     "header": 0,
     "Paragraph": 42,
     "Gurmukhi": "nr nwiek hYN ]",
+    "GurmukhiUni": "ਨਰ ਨਾਇਕ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -30171,6 +30899,7 @@
     "header": 0,
     "Paragraph": 42,
     "Gurmukhi": "Kl Gwiek hYN ]180]",
+    "GurmukhiUni": "ਖਲ ਘਾਇਕ ਹੈਂ ॥੧੮੦॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -30212,6 +30941,7 @@
     "header": 0,
     "Paragraph": 42,
     "Gurmukhi": "ibsÍMBr hYN ]",
+    "GurmukhiUni": "ਬਿਸ੍ਵੰਭਰ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -30253,6 +30983,7 @@
     "header": 0,
     "Paragraph": 42,
     "Gurmukhi": "kruxwlX hYN ]",
+    "GurmukhiUni": "ਕਰੁਣਾਲਯ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -30294,6 +31025,7 @@
     "header": 0,
     "Paragraph": 42,
     "Gurmukhi": "inRp nwiek hYN ]",
+    "GurmukhiUni": "ਨ੍ਰਿਪ ਨਾਇਕ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -30335,6 +31067,7 @@
     "header": 0,
     "Paragraph": 42,
     "Gurmukhi": "srb pwiek hYN ]181]",
+    "GurmukhiUni": "ਸਰਬ ਪਾਇਕ ਹੈਂ ॥੧੮੧॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -30376,6 +31109,7 @@
     "header": 0,
     "Paragraph": 42,
     "Gurmukhi": "Bv BMjn hYN ]",
+    "GurmukhiUni": "ਭਵ ਭੰਜਨ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -30417,6 +31151,7 @@
     "header": 0,
     "Paragraph": 42,
     "Gurmukhi": "Air gMjn hYN ]",
+    "GurmukhiUni": "ਅਰਿ ਗੰਜਨ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -30458,6 +31193,7 @@
     "header": 0,
     "Paragraph": 42,
     "Gurmukhi": "irpu qwpn hYN ]",
+    "GurmukhiUni": "ਰਿਪੁ ਤਾਪਨ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -30499,6 +31235,7 @@
     "header": 0,
     "Paragraph": 42,
     "Gurmukhi": "jpu jwpn hYN ]182]",
+    "GurmukhiUni": "ਜਪੁ ਜਾਪਨ ਹੈਂ ॥੧੮੨॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -30540,6 +31277,7 @@
     "header": 0,
     "Paragraph": 42,
     "Gurmukhi": "AklM ikRq hYN ]",
+    "GurmukhiUni": "ਅਕਲੰ ਕ੍ਰਿਤ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -30581,6 +31319,7 @@
     "header": 0,
     "Paragraph": 42,
     "Gurmukhi": "srbw ikRq hYN ]",
+    "GurmukhiUni": "ਸਰਬਾ ਕ੍ਰਿਤ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -30622,6 +31361,7 @@
     "header": 0,
     "Paragraph": 42,
     "Gurmukhi": "krqw kr hYN ]",
+    "GurmukhiUni": "ਕਰਤਾ ਕਰ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -30663,6 +31403,7 @@
     "header": 0,
     "Paragraph": 42,
     "Gurmukhi": "hrqw hir hYN ]183]",
+    "GurmukhiUni": "ਹਰਤਾ ਹਰਿ ਹੈਂ ॥੧੮੩॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -30704,6 +31445,7 @@
     "header": 0,
     "Paragraph": 42,
     "Gurmukhi": "prmwqm hYN ]",
+    "GurmukhiUni": "ਪਰਮਾਤਮ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -30745,6 +31487,7 @@
     "header": 0,
     "Paragraph": 42,
     "Gurmukhi": "srbwqm hYN ]",
+    "GurmukhiUni": "ਸਰਬਾਤਮ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -30786,6 +31529,7 @@
     "header": 0,
     "Paragraph": 42,
     "Gurmukhi": "Awqm bs hYN ]",
+    "GurmukhiUni": "ਆਤਮ ਬਸ ਹੈਂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -30827,6 +31571,7 @@
     "header": 0,
     "Paragraph": 42,
     "Gurmukhi": "js ky js hYN ]184]",
+    "GurmukhiUni": "ਜਸ ਕੇ ਜਸ ਹੈਂ ॥੧੮੪॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -30868,6 +31613,7 @@
     "header": 2,
     "Paragraph": 43,
     "Gurmukhi": "BujMg pRXwq CMd ]",
+    "GurmukhiUni": "ਭੁਜੰਗ ਪ੍ਰਯਾਤ ਛੰਦ ॥",
     "Visraam": {
       "sttm": [
         {
@@ -30914,6 +31660,7 @@
     "header": 0,
     "Paragraph": 44,
     "Gurmukhi": "nmo sUrj sUrjy nmo cMdR cMdRy ]",
+    "GurmukhiUni": "ਨਮੋ ਸੂਰਜ ਸੂਰਜੇ ਨਮੋ ਚੰਦ੍ਰ ਚੰਦ੍ਰੇ ॥",
     "Visraam": {
       "sttm": [
         {
@@ -30968,6 +31715,7 @@
     "header": 0,
     "Paragraph": 44,
     "Gurmukhi": "nmo rwj rwjy nmo ieMdR ieMdRy ]",
+    "GurmukhiUni": "ਨਮੋ ਰਾਜ ਰਾਜੇ ਨਮੋ ਇੰਦ੍ਰ ਇੰਦ੍ਰੇ ॥",
     "Visraam": {
       "sttm": [
         {
@@ -31022,6 +31770,7 @@
     "header": 0,
     "Paragraph": 44,
     "Gurmukhi": "nmo AMDkwry nmo qyj qyjy ]",
+    "GurmukhiUni": "ਨਮੋ ਅੰਧਕਾਰੇ ਨਮੋ ਤੇਜ ਤੇਜੇ ॥",
     "Visraam": {
       "sttm": [
         {
@@ -31076,6 +31825,7 @@
     "header": 0,
     "Paragraph": 44,
     "Gurmukhi": "nmo ibRMd ibRMdy nmo bIj bIjy ]185]",
+    "GurmukhiUni": "ਨਮੋ ਬ੍ਰਿੰਦ ਬ੍ਰਿੰਦੇ ਨਮੋ ਬੀਜ ਬੀਜੇ ॥੧੮੫॥",
     "Visraam": {
       "sttm": [
         {
@@ -31130,6 +31880,7 @@
     "header": 0,
     "Paragraph": 44,
     "Gurmukhi": "nmo rwjsM qwmsM sWq rUpy ]",
+    "GurmukhiUni": "ਨਮੋ ਰਾਜਸੰ ਤਾਮਸੰ ਸਾਂਤ ਰੂਪੇ ॥",
     "Visraam": {
       "sttm": [
         {
@@ -31180,6 +31931,7 @@
     "header": 0,
     "Paragraph": 44,
     "Gurmukhi": "nmo prm q`qM Aq`qM srUpy ]",
+    "GurmukhiUni": "ਨਮੋ ਪਰਮ ਤੱਤੰ ਅਤੱਤੰ ਸਰੂਪੇ ॥",
     "Visraam": {
       "sttm": [
         {
@@ -31230,6 +31982,7 @@
     "header": 0,
     "Paragraph": 44,
     "Gurmukhi": "nmo jog jogy nmo igAwn igAwny ]",
+    "GurmukhiUni": "ਨਮੋ ਜੋਗ ਜੋਗੇ ਨਮੋ ਗਿਆਨ ਗਿਆਨੇ ॥",
     "Visraam": {
       "sttm": [
         {
@@ -31284,6 +32037,7 @@
     "header": 0,
     "Paragraph": 44,
     "Gurmukhi": "nmo mMqR mMqRy nmo iDAwn iDAwny ]186]",
+    "GurmukhiUni": "ਨਮੋ ਮੰਤ੍ਰ ਮੰਤ੍ਰੇ ਨਮੋ ਧਿਆਨ ਧਿਆਨੇ ॥੧੮੬॥",
     "Visraam": {
       "sttm": [
         {
@@ -31338,6 +32092,7 @@
     "header": 0,
     "Paragraph": 44,
     "Gurmukhi": "nmo juD juDy nmo igAwn igAwny ]",
+    "GurmukhiUni": "ਨਮੋ ਜੁਧ ਜੁਧੇ ਨਮੋ ਗਿਆਨ ਗਿਆਨੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [
@@ -31392,6 +32147,7 @@
     "header": 0,
     "Paragraph": 44,
     "Gurmukhi": "nmo Boj Bojy nmo pwn pwny ]",
+    "GurmukhiUni": "ਨਮੋ ਭੋਜ ਭੋਜੇ ਨਮੋ ਪਾਨ ਪਾਨੇ ॥",
     "Visraam": {
       "sttm": [
         {
@@ -31446,6 +32202,7 @@
     "header": 0,
     "Paragraph": 44,
     "Gurmukhi": "nmo klh krqw nmo sWq rUpy ]",
+    "GurmukhiUni": "ਨਮੋ ਕਲਹ ਕਰਤਾ ਨਮੋ ਸਾਂਤ ਰੂਪੇ ॥",
     "Visraam": {
       "sttm": [
         {
@@ -31500,6 +32257,7 @@
     "header": 0,
     "Paragraph": 44,
     "Gurmukhi": "nmo ieMdR ieMdRy AnwdM ibBUqy ]187]",
+    "GurmukhiUni": "ਨਮੋ ਇੰਦ੍ਰ ਇੰਦ੍ਰੇ ਅਨਾਦੰ ਬਿਭੂਤੇ ॥੧੮੭॥",
     "Visraam": {
       "sttm": [
         {
@@ -31550,6 +32308,7 @@
     "header": 0,
     "Paragraph": 44,
     "Gurmukhi": "klMkwr rUpy AlMkwr AlMky ]",
+    "GurmukhiUni": "ਕਲੰਕਾਰ ਰੂਪੇ ਅਲੰਕਾਰ ਅਲੰਕੇ ॥",
     "Visraam": {
       "sttm": [
         {
@@ -31596,6 +32355,7 @@
     "header": 0,
     "Paragraph": 44,
     "Gurmukhi": "nmo Aws Awsy nmo bWk bMky ]",
+    "GurmukhiUni": "ਨਮੋ ਆਸ ਆਸੇ ਨਮੋ ਬਾਂਕ ਬੰਕੇ ॥",
     "Visraam": {
       "sttm": [
         {
@@ -31650,6 +32410,7 @@
     "header": 0,
     "Paragraph": 44,
     "Gurmukhi": "ABMgI srUpy AnMgI Anwmy ]",
+    "GurmukhiUni": "ਅਭੰਗੀ ਸਰੂਪੇ ਅਨੰਗੀ ਅਨਾਮੇ ॥",
     "Visraam": {
       "sttm": [
         {
@@ -31696,6 +32457,7 @@
     "header": 0,
     "Paragraph": 44,
     "Gurmukhi": "iqRBMgI iqRkwly AnMgI Akwmy ]188]",
+    "GurmukhiUni": "ਤ੍ਰਿਭੰਗੀ ਤ੍ਰਿਕਾਲੇ ਅਨੰਗੀ ਅਕਾਮੇ ॥੧੮੮॥",
     "Visraam": {
       "sttm": [
         {
@@ -31742,6 +32504,7 @@
     "header": 2,
     "Paragraph": 45,
     "Gurmukhi": "eyk ACrI CMd ]",
+    "GurmukhiUni": "ਏਕ ਅਛਰੀ ਛੰਦ ॥",
     "Visraam": {
       "sttm": [],
       "igurbani": [],
@@ -31783,6 +32546,7 @@
     "header": 0,
     "Paragraph": 46,
     "Gurmukhi": "AjY ]",
+    "GurmukhiUni": "ਅਜੈ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -31824,6 +32588,7 @@
     "header": 0,
     "Paragraph": 46,
     "Gurmukhi": "AlY ]",
+    "GurmukhiUni": "ਅਲੈ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -31865,6 +32630,7 @@
     "header": 0,
     "Paragraph": 46,
     "Gurmukhi": "ABY ]",
+    "GurmukhiUni": "ਅਭੈ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -31906,6 +32672,7 @@
     "header": 0,
     "Paragraph": 46,
     "Gurmukhi": "AbY ]189]",
+    "GurmukhiUni": "ਅਬੈ ॥੧੮੯॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -31947,6 +32714,7 @@
     "header": 0,
     "Paragraph": 46,
     "Gurmukhi": "ABU ]",
+    "GurmukhiUni": "ਅਭੂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -31988,6 +32756,7 @@
     "header": 0,
     "Paragraph": 46,
     "Gurmukhi": "AjU ]",
+    "GurmukhiUni": "ਅਜੂ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -32029,6 +32798,7 @@
     "header": 0,
     "Paragraph": 46,
     "Gurmukhi": "Anws ]",
+    "GurmukhiUni": "ਅਨਾਸ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -32070,6 +32840,7 @@
     "header": 0,
     "Paragraph": 46,
     "Gurmukhi": "Akws ]190]",
+    "GurmukhiUni": "ਅਕਾਸ ॥੧੯੦॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -32111,6 +32882,7 @@
     "header": 0,
     "Paragraph": 46,
     "Gurmukhi": "AgMj ]",
+    "GurmukhiUni": "ਅਗੰਜ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -32152,6 +32924,7 @@
     "header": 0,
     "Paragraph": 46,
     "Gurmukhi": "ABMj ]",
+    "GurmukhiUni": "ਅਭੰਜ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -32193,6 +32966,7 @@
     "header": 0,
     "Paragraph": 46,
     "Gurmukhi": "Al`K ]",
+    "GurmukhiUni": "ਅਲੱਖ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -32234,6 +33008,7 @@
     "header": 0,
     "Paragraph": 46,
     "Gurmukhi": "AB`K ]191]",
+    "GurmukhiUni": "ਅਭੱਖ ॥੧੯੧॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -32275,6 +33050,7 @@
     "header": 0,
     "Paragraph": 46,
     "Gurmukhi": "Akwl ]",
+    "GurmukhiUni": "ਅਕਾਲ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -32316,6 +33092,7 @@
     "header": 0,
     "Paragraph": 46,
     "Gurmukhi": "idAwl ]",
+    "GurmukhiUni": "ਦਿਆਲ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -32357,6 +33134,7 @@
     "header": 0,
     "Paragraph": 46,
     "Gurmukhi": "AlyK ]",
+    "GurmukhiUni": "ਅਲੇਖ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -32398,6 +33176,7 @@
     "header": 0,
     "Paragraph": 46,
     "Gurmukhi": "AByK ]192]",
+    "GurmukhiUni": "ਅਭੇਖ ॥੧੯੨॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -32439,6 +33218,7 @@
     "header": 0,
     "Paragraph": 46,
     "Gurmukhi": "Anwm ]",
+    "GurmukhiUni": "ਅਨਾਮ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -32480,6 +33260,7 @@
     "header": 0,
     "Paragraph": 46,
     "Gurmukhi": "Akwm ]",
+    "GurmukhiUni": "ਅਕਾਮ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -32521,6 +33302,7 @@
     "header": 0,
     "Paragraph": 46,
     "Gurmukhi": "Agwh ]",
+    "GurmukhiUni": "ਅਗਾਹ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -32562,6 +33344,7 @@
     "header": 0,
     "Paragraph": 46,
     "Gurmukhi": "AFwh ]193]",
+    "GurmukhiUni": "ਅਢਾਹ ॥੧੯੩॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -32603,6 +33386,7 @@
     "header": 0,
     "Paragraph": 46,
     "Gurmukhi": "AnwQy ]",
+    "GurmukhiUni": "ਅਨਾਥੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -32644,6 +33428,7 @@
     "header": 0,
     "Paragraph": 46,
     "Gurmukhi": "pRmwQy ]",
+    "GurmukhiUni": "ਪ੍ਰਮਾਥੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -32685,6 +33470,7 @@
     "header": 0,
     "Paragraph": 46,
     "Gurmukhi": "AjonI ]",
+    "GurmukhiUni": "ਅਜੋਨੀ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -32726,6 +33512,7 @@
     "header": 0,
     "Paragraph": 46,
     "Gurmukhi": "AmonI ]194]",
+    "GurmukhiUni": "ਅਮੋਨੀ ॥੧੯੪॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -32767,6 +33554,7 @@
     "header": 0,
     "Paragraph": 46,
     "Gurmukhi": "n rwgy ]",
+    "GurmukhiUni": "ਨ ਰਾਗੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -32808,6 +33596,7 @@
     "header": 0,
     "Paragraph": 46,
     "Gurmukhi": "n rMgy ]",
+    "GurmukhiUni": "ਨ ਰੰਗੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -32849,6 +33638,7 @@
     "header": 0,
     "Paragraph": 46,
     "Gurmukhi": "n rUpy ]",
+    "GurmukhiUni": "ਨ ਰੂਪੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -32890,6 +33680,7 @@
     "header": 0,
     "Paragraph": 46,
     "Gurmukhi": "n ryKy ]195]",
+    "GurmukhiUni": "ਨ ਰੇਖੇ ॥੧੯੫॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -32931,6 +33722,7 @@
     "header": 0,
     "Paragraph": 46,
     "Gurmukhi": "AkrmM ]",
+    "GurmukhiUni": "ਅਕਰਮੰ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -32972,6 +33764,7 @@
     "header": 0,
     "Paragraph": 46,
     "Gurmukhi": "ABrmM ]",
+    "GurmukhiUni": "ਅਭਰਮੰ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -33013,6 +33806,7 @@
     "header": 0,
     "Paragraph": 46,
     "Gurmukhi": "AgMjy ]",
+    "GurmukhiUni": "ਅਗੰਜੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -33054,6 +33848,7 @@
     "header": 0,
     "Paragraph": 46,
     "Gurmukhi": "AlyKy ]196]",
+    "GurmukhiUni": "ਅਲੇਖੇ ॥੧੯੬॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [],
@@ -33095,6 +33890,7 @@
     "header": 2,
     "Paragraph": 47,
     "Gurmukhi": "BujMg pRXwq CMd ]",
+    "GurmukhiUni": "ਭੁਜੰਗ ਪ੍ਰਯਾਤ ਛੰਦ ॥",
     "Visraam": {
       "sttm": [],
       "igurbani": [],
@@ -33136,6 +33932,7 @@
     "header": 0,
     "Paragraph": 48,
     "Gurmukhi": "nmsqul pRnwmy smsqul pRxwsy ]",
+    "GurmukhiUni": "ਨਮਸਤੁਲ ਪ੍ਰਨਾਮੇ ਸਮਸਤੁਲ ਪ੍ਰਣਾਸੇ ॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [
@@ -33182,6 +33979,7 @@
     "header": 0,
     "Paragraph": 48,
     "Gurmukhi": "AgMjul Anwmy smsqul invwsy ]",
+    "GurmukhiUni": "ਅਗੰਜੁਲ ਅਨਾਮੇ ਸਮਸਤੁਲ ਨਿਵਾਸੇ ॥",
     "Visraam": {
       "sttm": [
         {
@@ -33228,6 +34026,7 @@
     "header": 0,
     "Paragraph": 48,
     "Gurmukhi": "inRkwmM ibBUqy smsqul srUpy ]",
+    "GurmukhiUni": "ਨ੍ਰਿਕਾਮੰ ਬਿਭੂਤੇ ਸਮਸਤੁਲ ਸਰੂਪੇ ॥",
     "Visraam": {
       "sttm": [
         {
@@ -33274,6 +34073,7 @@
     "header": 0,
     "Paragraph": 48,
     "Gurmukhi": "kukrmM pRxwsI suDrmM ibBUqy ]197]",
+    "GurmukhiUni": "ਕੁਕਰਮੰ ਪ੍ਰਣਾਸੀ ਸੁਧਰਮੰ ਬਿਭੂਤੇ ॥੧੯੭॥",
     "Visraam": {
       "sttm": [
         {
@@ -33320,6 +34120,7 @@
     "header": 0,
     "Paragraph": 48,
     "Gurmukhi": "sdw s`icdwnMd s`qRM pRxwsI ]",
+    "GurmukhiUni": "ਸਦਾ ਸੱਚਿਦਾਨੰਦ ਸੱਤ੍ਰੰ ਪ੍ਰਣਾਸੀ ॥",
     "Visraam": {
       "sttm": [
         {
@@ -33366,6 +34167,7 @@
     "header": 0,
     "Paragraph": 48,
     "Gurmukhi": "krImul kuinMdw smsqul invwsI ]",
+    "GurmukhiUni": "ਕਰੀਮੁਲ ਕੁਨਿੰਦਾ ਸਮਸਤੁਲ ਨਿਵਾਸੀ ॥",
     "Visraam": {
       "sttm": [
         {
@@ -33412,6 +34214,7 @@
     "header": 0,
     "Paragraph": 48,
     "Gurmukhi": "Ajwieb ibBUqy gjwieb gnImy ]",
+    "GurmukhiUni": "ਅਜਾਇਬ ਬਿਭੂਤੇ ਗਜਾਇਬ ਗਨੀਮੇ ॥",
     "Visraam": {
       "sttm": [
         {
@@ -33458,6 +34261,7 @@
     "header": 0,
     "Paragraph": 48,
     "Gurmukhi": "hrIAM krIAM krImlu rhImy ]198]",
+    "GurmukhiUni": "ਹਰੀਅੰ ਕਰੀਅੰ ਕਰੀਮਲੁ ਰਹੀਮੇ ॥੧੯੮॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [
@@ -33504,6 +34308,7 @@
     "header": 0,
     "Paragraph": 48,
     "Gurmukhi": "c`qR c`kR vrqI c`qR c`kR Bugqy ]",
+    "GurmukhiUni": "ਚੱਤ੍ਰ ਚੱਕ੍ਰ ਵਰਤੀ ਚੱਤ੍ਰ ਚੱਕ੍ਰ ਭੁਗਤੇ ॥",
     "Visraam": {
       "sttm": [
         {
@@ -33550,6 +34355,7 @@
     "header": 0,
     "Paragraph": 48,
     "Gurmukhi": "suXMBv suBM srbdw srb jugqy ]",
+    "GurmukhiUni": "ਸੁਯੰਭਵ ਸੁਭੰ ਸਰਬਦਾ ਸਰਬ ਜੁਗਤੇ ॥",
     "Visraam": {
       "sttm": [
         {
@@ -33596,6 +34402,7 @@
     "header": 0,
     "Paragraph": 48,
     "Gurmukhi": "dukwlM pRxwsI idAwlM srUpy ]",
+    "GurmukhiUni": "ਦੁਕਾਲੰ ਪ੍ਰਣਾਸੀ ਦਿਆਲੰ ਸਰੂਪੇ ॥",
     "Visraam": {
       "sttm": [
         {
@@ -33642,6 +34449,7 @@
     "header": 0,
     "Paragraph": 48,
     "Gurmukhi": "sdw AMg sMgy ABMgM ibBUqy ]199]",
+    "GurmukhiUni": "ਸਦਾ ਅੰਗ ਸੰਗੇ ਅਭੰਗੰ ਬਿਭੂਤੇ ॥੧੯੯॥",
     "Visraam": {
       "sttm2": [],
       "sttm": [

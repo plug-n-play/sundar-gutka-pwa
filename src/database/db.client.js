@@ -1,3 +1,5 @@
+import { PRELOADED_BANI_LIST, PRELOADED_SHABAD_LINES } from './preloaded_data';
+
 // Map of Bani IDs to their transliterated names:
 // === DEFAULT CORE PRAYERS ===
 
@@ -124,58 +126,50 @@ export const DEFAULT_BANI_IDS = [
   22 // aaratee
 ];
 
-let banisCache = null;
-let databaseReadyPromise = null;
+let banisCache = PRELOADED_BANI_LIST;
+let databaseReadyPromise = Promise.resolve();
 
 export function initDatabase() {
-  if (databaseReadyPromise) return databaseReadyPromise;
-
-  databaseReadyPromise = fetch('/data/banis.json')
-    .then((res) => {
-      if (!res.ok) {
-        throw new Error(`Failed to load banis index: ${res.statusText}`);
-      }
-      return res.json();
-    })
-    .then((data) => {
-      banisCache = data;
-      console.log("Client: Database index loaded successfully!");
-    })
-    .catch((err) => {
-      console.error("Client: Failed to initialize static JSON database:", err);
-      // Reset so initialization can be retried if needed
-      databaseReadyPromise = null;
-      throw err;
-    });
-
+  // Database index is loaded immediately from preloaded_data.js during build
+  // Trigger background fetch silently so it is cached by the service worker
+  fetch('/data/banis.json').catch(() => {});
   return databaseReadyPromise;
+}
+
+export function getPreloadedShabad(shabadID) {
+  return PRELOADED_SHABAD_LINES[shabadID] || PRELOADED_SHABAD_LINES[String(shabadID)] || null;
+}
+
+export function getBaniListSync(languageSetting = 'ENGLISH') {
+  return banisCache.map((row) => {
+    let translitVal = "";
+    try {
+      const json = typeof row.Transliterations === 'string'
+        ? JSON.parse(row.Transliterations)
+        : row.Transliterations;
+
+      if (json) {
+        if (languageSetting === 'HINDI') translitVal = json.hi;
+        else if (languageSetting === 'SHAHMUKHI') translitVal = json.ur;
+        else if (languageSetting === 'IPA') translitVal = json.ipa;
+        else translitVal = json.en;
+      }
+    } catch {
+      translitVal = row.Transliterations;
+    }
+
+    return {
+      id: row.ID,
+      gurmukhi: row.Gurmukhi,
+      gurmukhiUni: row.GurmukhiUni,
+      translit: translitVal || ""
+    };
+  });
 }
 
 export function getBaniList(languageSetting = 'ENGLISH') {
   return initDatabase().then(() => {
-    return banisCache.map((row) => {
-      let translitVal = "";
-      try {
-        const json = typeof row.Transliterations === 'string'
-          ? JSON.parse(row.Transliterations)
-          : row.Transliterations;
-
-        if (json) {
-          if (languageSetting === 'HINDI') translitVal = json.hi;
-          else if (languageSetting === 'SHAHMUKHI') translitVal = json.ur;
-          else if (languageSetting === 'IPA') translitVal = json.ipa;
-          else translitVal = json.en;
-        }
-      } catch {
-        translitVal = row.Transliterations;
-      }
-
-      return {
-        id: row.ID,
-        gurmukhi: row.Gurmukhi,
-        translit: translitVal || ""
-      };
-    });
+    return getBaniListSync(languageSetting);
   });
 }
 
@@ -211,6 +205,7 @@ export function getShabad(shabadID, lengthSetting = 'MEDIUM') {
             header: line.header,
             Paragraph: line.Paragraph,
             Gurmukhi: line.Gurmukhi,
+            GurmukhiUni: line.GurmukhiUni,
             Visraam: line.Visraam && typeof line.Visraam === 'object' ? JSON.stringify(line.Visraam) : line.Visraam,
             Transliterations: line.Transliterations && typeof line.Transliterations === 'object' ? JSON.stringify(line.Transliterations) : line.Transliterations,
             Translations: line.Translations && typeof line.Translations === 'object' ? JSON.stringify(line.Translations) : line.Translations

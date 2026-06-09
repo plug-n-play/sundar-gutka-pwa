@@ -5,6 +5,7 @@
     "header": 0,
     "Paragraph": 10,
     "Gurmukhi": "AMimRq vyly dw jwp",
+    "GurmukhiUni": "ਅੰਮ੍ਰਿਤ ਵੇਲੇ ਦਾ ਜਾਪ",
     "Visraam": {},
     "Transliterations": {
       "en": "a(n)mirat vele dhaa jaap",
@@ -38,6 +39,7 @@
     "header": 1,
     "Paragraph": 20,
     "Gurmukhi": "‚ gur mMqR ‚",
+    "GurmukhiUni": "❁ ਗੁਰ ਮੰਤ੍ਰ ❁",
     "Visraam": {},
     "Transliterations": {
       "en": " gur ma(n)tr ",
@@ -71,6 +73,7 @@
     "header": 0,
     "Paragraph": 30,
     "Gurmukhi": "vwihgurU gur mMqR hY jip haumY KoeI[",
+    "GurmukhiUni": "ਵਾਹਿਗੁਰੂ ਗੁਰ ਮੰਤ੍ਰ ਹੈ ਜਪਿ ਹਉਮੈ ਖੋਈ।",
     "Visraam": {
       "sttm": [],
       "igurbani": [],
@@ -112,6 +115,7 @@
     "header": 1,
     "Paragraph": 35,
     "Gurmukhi": "vwihgurU",
+    "GurmukhiUni": "ਵਾਹਿਗੁਰੂ",
     "Visraam": {},
     "Transliterations": {
       "en": "vaahiguroo",
@@ -145,6 +149,7 @@
     "header": 2,
     "Paragraph": 40,
     "Gurmukhi": "&urmwn dsmyS jI dw",
+    "GurmukhiUni": "ਫ਼ੁਰਮਾਨ ਦਸਮੇਸ਼ ਜੀ ਦਾ",
     "Visraam": {},
     "Transliterations": {
       "en": "phuramaan dhasamesh jee dhaa",
@@ -178,6 +183,7 @@
     "header": 0,
     "Paragraph": 50,
     "Gurmukhi": "ibsn pd puMinXwkI kinS† KMBwXc",
+    "GurmukhiUni": "ਬਿਸਨ ਪਦ ਪੁੰਨਿਯਾਕੀ ਕਨਿਸ਼੍ਟ ਖੰਭਾਯਚ",
     "Visraam": {},
     "Transliterations": {
       "en": "bisan padh pu(n)niyaakee kanishaT kha(n)bhaayach",
@@ -211,6 +217,7 @@
     "header": 0,
     "Paragraph": 50,
     "Gurmukhi": "klp klp pRiq AKHCr khI ]",
+    "GurmukhiUni": "ਕਲਪ ਕਲਪ ਪ੍ਰਤਿ ਅਖ੍ਹਛਰ ਕਹੀ ॥",
     "Visraam": {},
     "Transliterations": {
       "en": "kalap kalap prat akhhachhar kahee ||",
@@ -244,6 +251,7 @@
     "header": 0,
     "Paragraph": 60,
     "Gurmukhi": "sRI gur nwnk jpXo shI ]3]",
+    "GurmukhiUni": "ਸ੍ਰੀ ਗੁਰ ਨਾਨਕ ਜਪਯੋ ਸਹੀ ॥੩॥",
     "Visraam": {},
     "Transliterations": {
       "en": "sree gur naanak japayo sahee ||3||",
@@ -277,6 +285,7 @@
     "header": 0,
     "Paragraph": 60,
     "Gurmukhi": "sw mMqR pRB Kwlsh dInw ]",
+    "GurmukhiUni": "ਸਾ ਮੰਤ੍ਰ ਪ੍ਰਭ ਖਾਲਸਹ ਦੀਨਾ ॥",
     "Visraam": {},
     "Transliterations": {
       "en": "saa ma(n)tr prabh khaalaseh dheenaa ||",
@@ -310,6 +319,7 @@
     "header": 0,
     "Paragraph": 60,
     "Gurmukhi": "vwihgurU pd pwvn kInw ]4]",
+    "GurmukhiUni": "ਵਾਹਿਗੁਰੂ ਪਦ ਪਾਵਨ ਕੀਨਾ ॥੪॥",
     "Visraam": {},
     "Transliterations": {
       "en": "vaahiguroo padh paavan keenaa ||4||",
@@ -343,6 +353,7 @@
     "header": 6,
     "Paragraph": 100,
     "Gurmukhi": "(sRI srb loh gRMQ pw. 10 pMnw 642)",
+    "GurmukhiUni": "(ਸ੍ਰੀ ਸਰਬ ਲੋਹ ਗ੍ਰੰਥ ਪਾ. ੧੦ ਪੰਨਾ ੬੪੨)",
     "Visraam": {},
     "Transliterations": {
       "en": "(sree sarab loh gra(n)th paa. 10 pa(n)naa 642)",

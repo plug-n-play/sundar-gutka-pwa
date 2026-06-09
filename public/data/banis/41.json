@@ -5,6 +5,7 @@
     "header": 1,
     "Paragraph": 1,
     "Gurmukhi": "<> siqgur pRswid ]",
+    "GurmukhiUni": "ੴ ਸਤਿਗੁਰ ਪ੍ਰਸਾਦਿ ॥",
     "Visraam": {
       "sttm": [
         {
@@ -64,6 +65,7 @@
     "header": 2,
     "Paragraph": 2,
     "Gurmukhi": "rwgu gauVI pUrbI mhlw 4 krhly",
+    "GurmukhiUni": "ਰਾਗੁ ਗਉੜੀ ਪੂਰਬੀ ਮਹਲਾ ੪ ਕਰਹਲੇ",
     "Visraam": {
       "sttm": [
         {
@@ -131,6 +133,7 @@
     "header": 1,
     "Paragraph": 3,
     "Gurmukhi": "<> siqgur pRswid ]",
+    "GurmukhiUni": "ੴ ਸਤਿਗੁਰ ਪ੍ਰਸਾਦਿ ॥",
     "Visraam": {
       "sttm": [
         {
@@ -190,6 +193,7 @@
     "header": 0,
     "Paragraph": 4,
     "Gurmukhi": "krhly mn prdysIAw ikau imlIAY hir mwie ]",
+    "GurmukhiUni": "ਕਰਹਲੇ ਮਨ ਪਰਦੇਸੀਆ ਕਿਉ ਮਿਲੀਐ ਹਰਿ ਮਾਇ ॥",
     "Visraam": {
       "sttm": [
         {
@@ -254,6 +258,7 @@
     "header": 0,
     "Paragraph": 4,
     "Gurmukhi": "guru Bwig pUrY pwieAw gil imilAw ipAwrw Awie ]1]",
+    "GurmukhiUni": "ਗੁਰੁ ਭਾਗਿ ਪੂਰੈ ਪਾਇਆ ਗਲਿ ਮਿਲਿਆ ਪਿਆਰਾ ਆਇ ॥੧॥",
     "Visraam": {
       "sttm": [
         {
@@ -326,6 +331,7 @@
     "header": 0,
     "Paragraph": 5,
     "Gurmukhi": "mn krhlw siqguru purKu iDAwie ]1] rhwau ]",
+    "GurmukhiUni": "ਮਨ ਕਰਹਲਾ ਸਤਿਗੁਰੁ ਪੁਰਖੁ ਧਿਆਇ ॥੧॥ ਰਹਾਉ ॥",
     "Visraam": {
       "sttm": [
         {
@@ -390,6 +396,7 @@
     "header": 0,
     "Paragraph": 6,
     "Gurmukhi": "mn krhlw vIcwrIAw hir rwm nwm iDAwie ]",
+    "GurmukhiUni": "ਮਨ ਕਰਹਲਾ ਵੀਚਾਰੀਆ ਹਰਿ ਰਾਮ ਨਾਮ ਧਿਆਇ ॥",
     "Visraam": {
       "sttm": [
         {
@@ -454,6 +461,7 @@
     "header": 0,
     "Paragraph": 6,
     "Gurmukhi": "ijQY lyKw mMgIAY hir Awpy ley Cfwie ]2]",
+    "GurmukhiUni": "ਜਿਥੈ ਲੇਖਾ ਮੰਗੀਐ ਹਰਿ ਆਪੇ ਲਏ ਛਡਾਇ ॥੨॥",
     "Visraam": {
       "sttm": [
         {
@@ -518,6 +526,7 @@
     "header": 0,
     "Paragraph": 7,
     "Gurmukhi": "mn krhlw Aiq inrmlw mlu lwgI haumY Awie ]",
+    "GurmukhiUni": "ਮਨ ਕਰਹਲਾ ਅਤਿ ਨਿਰਮਲਾ ਮਲੁ ਲਾਗੀ ਹਉਮੈ ਆਇ ॥",
     "Visraam": {
       "sttm": [
         {
@@ -590,6 +599,7 @@
     "header": 0,
     "Paragraph": 7,
     "Gurmukhi": "prqiK ipru Gir nwil ipAwrw ivCuiV cotw Kwie ]3]",
+    "GurmukhiUni": "ਪਰਤਖਿ ਪਿਰੁ ਘਰਿ ਨਾਲਿ ਪਿਆਰਾ ਵਿਛੁੜਿ ਚੋਟਾ ਖਾਇ ॥੩॥",
     "Visraam": {
       "sttm": [
         {
@@ -649,6 +659,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "mn krhlw myry pRIqmw hir irdY Bwil Bwlwie ]",
+    "GurmukhiUni": "ਮਨ ਕਰਹਲਾ ਮੇਰੇ ਪ੍ਰੀਤਮਾ ਹਰਿ ਰਿਦੈ ਭਾਲਿ ਭਾਲਾਇ ॥",
     "Visraam": {
       "sttm": [
         {
@@ -713,6 +724,7 @@
     "header": 0,
     "Paragraph": 8,
     "Gurmukhi": "aupwie ikqY n lBeI guru ihrdY hir dyKwie ]4]",
+    "GurmukhiUni": "ਉਪਾਇ ਕਿਤੈ ਨ ਲਭਈ ਗੁਰੁ ਹਿਰਦੈ ਹਰਿ ਦੇਖਾਇ ॥੪॥",
     "Visraam": {
       "sttm": [
         {
@@ -777,6 +789,7 @@
     "header": 0,
     "Paragraph": 9,
     "Gurmukhi": "mn krhlw myry pRIqmw idnu rYix hir ilv lwie ]",
+    "GurmukhiUni": "ਮਨ ਕਰਹਲਾ ਮੇਰੇ ਪ੍ਰੀਤਮਾ ਦਿਨੁ ਰੈਣਿ ਹਰਿ ਲਿਵ ਲਾਇ ॥",
     "Visraam": {
       "sttm": [
         {
@@ -841,6 +854,7 @@
     "header": 0,
     "Paragraph": 9,
     "Gurmukhi": "Gru jwie pwvih rMg mhlI guru myly hir mylwie ]5]",
+    "GurmukhiUni": "ਘਰੁ ਜਾਇ ਪਾਵਹਿ ਰੰਗ ਮਹਲੀ ਗੁਰੁ ਮੇਲੇ ਹਰਿ ਮੇਲਾਇ ॥੫॥",
     "Visraam": {
       "sttm": [
         {
@@ -905,6 +919,7 @@
     "header": 0,
     "Paragraph": 10,
     "Gurmukhi": "mn krhlw qUM mIqu myrw pwKMfu loBu qjwie ]",
+    "GurmukhiUni": "ਮਨ ਕਰਹਲਾ ਤੂੰ ਮੀਤੁ ਮੇਰਾ ਪਾਖੰਡੁ ਲੋਭੁ ਤਜਾਇ ॥",
     "Visraam": {
       "sttm": [
         {
@@ -977,6 +992,7 @@
     "header": 0,
     "Paragraph": 10,
     "Gurmukhi": "pwKMif loBI mwrIAY jm fMfu dyie sjwie ]6]",
+    "GurmukhiUni": "ਪਾਖੰਡਿ ਲੋਭੀ ਮਾਰੀਐ ਜਮ ਡੰਡੁ ਦੇਇ ਸਜਾਇ ॥੬॥",
     "Visraam": {
       "sttm": [
         {
@@ -1041,6 +1057,7 @@
     "header": 0,
     "Paragraph": 11,
     "Gurmukhi": "mn krhlw myry pRwn qUM mYlu pwKMfu Brmu gvwie ]",
+    "GurmukhiUni": "ਮਨ ਕਰਹਲਾ ਮੇਰੇ ਪ੍ਰਾਨ ਤੂੰ ਮੈਲੁ ਪਾਖੰਡੁ ਭਰਮੁ ਗਵਾਇ ॥",
     "Visraam": {
       "sttm": [
         {
@@ -1113,6 +1130,7 @@
     "header": 0,
     "Paragraph": 11,
     "Gurmukhi": "hir AMimRq sru guir pUirAw imil sMgqI mlu lih jwie ]7]",
+    "GurmukhiUni": "ਹਰਿ ਅੰਮ੍ਰਿਤ ਸਰੁ ਗੁਰਿ ਪੂਰਿਆ ਮਿਲਿ ਸੰਗਤੀ ਮਲੁ ਲਹਿ ਜਾਇ ॥੭॥",
     "Visraam": {
       "sttm": [
         {
@@ -1177,6 +1195,7 @@
     "header": 0,
     "Paragraph": 12,
     "Gurmukhi": "mn krhlw myry ipAwirAw iek gur kI isK suxwie ]",
+    "GurmukhiUni": "ਮਨ ਕਰਹਲਾ ਮੇਰੇ ਪਿਆਰਿਆ ਇਕ ਗੁਰ ਕੀ ਸਿਖ ਸੁਣਾਇ ॥",
     "Visraam": {
       "sttm": [
         {
@@ -1241,6 +1260,7 @@
     "header": 0,
     "Paragraph": 12,
     "Gurmukhi": "iehu mohu mwieAw psirAw AMiq swiQ n koeI jwie ]8]",
+    "GurmukhiUni": "ਇਹੁ ਮੋਹੁ ਮਾਇਆ ਪਸਰਿਆ ਅੰਤਿ ਸਾਥਿ ਨ ਕੋਈ ਜਾਇ ॥੮॥",
     "Visraam": {
       "sttm": [
         {
@@ -1305,6 +1325,7 @@
     "header": 0,
     "Paragraph": 13,
     "Gurmukhi": "mn krhlw myry swjnw hir Krcu lIAw piq pwie ]",
+    "GurmukhiUni": "ਮਨ ਕਰਹਲਾ ਮੇਰੇ ਸਾਜਨਾ ਹਰਿ ਖਰਚੁ ਲੀਆ ਪਤਿ ਪਾਇ ॥",
     "Visraam": {
       "sttm": [
         {
@@ -1369,6 +1390,7 @@
     "header": 0,
     "Paragraph": 13,
     "Gurmukhi": "hir drgh pYnwieAw hir Awip lieAw gil lwie ]9]",
+    "GurmukhiUni": "ਹਰਿ ਦਰਗਹ ਪੈਨਾਇਆ ਹਰਿ ਆਪਿ ਲਇਆ ਗਲਿ ਲਾਇ ॥੯॥",
     "Visraam": {
       "sttm": [
         {
@@ -1433,6 +1455,7 @@
     "header": 0,
     "Paragraph": 14,
     "Gurmukhi": "mn krhlw guir mMinAw gurmuiK kwr kmwie ]",
+    "GurmukhiUni": "ਮਨ ਕਰਹਲਾ ਗੁਰਿ ਮੰਨਿਆ ਗੁਰਮੁਖਿ ਕਾਰ ਕਮਾਇ ॥",
     "Visraam": {
       "sttm": [
         {
@@ -1505,6 +1528,7 @@
     "header": 0,
     "Paragraph": 14,
     "Gurmukhi": "gur AwgY kir jodVI jn nwnk hir mylwie ]10]1]",
+    "GurmukhiUni": "ਗੁਰ ਆਗੈ ਕਰਿ ਜੋਦੜੀ ਜਨ ਨਾਨਕ ਹਰਿ ਮੇਲਾਇ ॥੧੦॥੧॥",
     "Visraam": {
       "sttm": [
         {

@@ -21,7 +21,7 @@ def generate_json_database():
 
     # 1. Generate banis.json
     print("Generating banis.json...")
-    cursor.execute("SELECT ID, Gurmukhi, Transliterations FROM Banis WHERE ID <= 107 OR ID = 1000")
+    cursor.execute("SELECT ID, Gurmukhi, GurmukhiUni, Transliterations FROM Banis WHERE ID <= 107 OR ID = 1000")
     banis = []
     for row in cursor.fetchall():
         translit = None
@@ -35,6 +35,7 @@ def generate_json_database():
         banis.append({
             'ID': row['ID'],
             'Gurmukhi': row['Gurmukhi'],
+            'GurmukhiUni': row['GurmukhiUni'],
             'Transliterations': translit
         })
 
@@ -45,10 +46,13 @@ def generate_json_database():
 
     # 2. Generate banis/{id}.json
     print("Generating individual Bani JSON files...")
+    DEFAULT_BANI_IDS = {2, 4, 6, 9, 10, 21, 23, 3, 30, 31, 36, 90, 22}
+    preloaded_shabad_lines = {}
+
     for index, bani in enumerate(banis):
         bani_id = bani['ID']
         cursor.execute("""
-            SELECT ID, Seq, header, Paragraph, Gurmukhi, Visraam, Transliterations, Translations, 
+            SELECT ID, Seq, header, Paragraph, Gurmukhi, GurmukhiUni, Visraam, Transliterations, Translations, 
                    existsSGPC, existsMedium, existsTaksal, existsBuddhaDal, MangalPosition
             FROM mv_Banis_Shabad
             WHERE Bani = ?
@@ -85,6 +89,7 @@ def generate_json_database():
                 'header': row['header'],
                 'Paragraph': row['Paragraph'],
                 'Gurmukhi': row['Gurmukhi'],
+                'GurmukhiUni': row['GurmukhiUni'],
                 'Visraam': visraam,
                 'Transliterations': translit,
                 'Translations': trans,
@@ -98,8 +103,29 @@ def generate_json_database():
         with open(os.path.join(banis_output_dir, f"{bani_id}.json"), 'w', encoding='utf-8') as f:
             json.dump(lines, f, ensure_ascii=False, indent=2)
         
+        # Capture first 8 lines of default Banis for MEDIUM length
+        if bani_id in DEFAULT_BANI_IDS:
+            medium_lines = [
+                l for l in lines
+                if l['existsMedium'] == 1 and (l['MangalPosition'] is None or l['MangalPosition'] == 'current')
+            ]
+            # Sort by Seq to ensure correct order
+            medium_lines.sort(key=lambda x: x['Seq'])
+            preloaded_shabad_lines[bani_id] = medium_lines[:8]
+
         if (index + 1) % 10 == 0 or (index + 1) == len(banis):
             print(f"Progress: {index + 1}/{len(banis)} Banis processed.")
+
+    # Write preloaded_data.js
+    print("Generating preloaded_data.js...")
+    preloaded_js_path = './src/database/preloaded_data.js'
+    with open(preloaded_js_path, 'w', encoding='utf-8') as f:
+        f.write("// Generated during build process. Do not edit manually.\n")
+        f.write("export const PRELOADED_BANI_LIST = ")
+        json.dump(banis, f, ensure_ascii=False, indent=2)
+        f.write(";\n\nexport const PRELOADED_SHABAD_LINES = ")
+        json.dump(preloaded_shabad_lines, f, ensure_ascii=False, indent=2)
+        f.write(";\n")
 
     conn.close()
     print("Static JSON database generation complete!")
